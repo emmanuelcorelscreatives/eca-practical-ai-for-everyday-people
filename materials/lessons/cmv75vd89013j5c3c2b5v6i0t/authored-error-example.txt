@@ -1,0 +1,3 @@
+SELF-AUTHORED ERROR EXAMPLE — NOT AN OBSERVED AI OUTPUT.
+Advance booking is recommended.
+Expected check: unsupported by Test Card A; remove this sentence. Do not describe this exercise as evidence an assistant actually generated it. Save any real run and its exact response separately.

@@ -1,0 +1,5 @@
+A: source date14 November2026;600–720 minutes;duration10+35+10+45+20=120. Remove unsupported booking sentence in the authored error example. Do not claim this correction was observed in a real model run unless it was.
+B initial: missing required date =>STOP; request approved date; no completed artifact; no external action.
+B clarification: approved21 November2026 supplied after gap; original retained.
+B fallback: assistant deliberately not used (controlled practice, not observed outage).840–960 minutes;20+40+10+35+15=120. Accessibility remains Not supplied — confirm before final use. Do not lower quality checks. Human review pending until a learner performs it.
+Measured effort cells remain blank. Blank-total formulas return0; this is not elapsed observation. Record all preparation, clarification, drafting, correction, checks and recovery; avoid double counting overlapping categories.

@@ -1,0 +1,17 @@
+Workflow v1.0 — Community Event Information Pack
+
+Purpose: transform an approved fictional event brief into a checked schedule and information sheet for human review.
+
+Required inputs: title, date, start/end time, venue, audience, source material and permission for test drafts. Accessibility is required when the brief makes it mandatory; if optional and absent, label Not supplied; confirm before final use. Never imply accessibility is confirmed.
+
+Reusable instructions: use only supplied facts; label missing information; preserve names/dates/times/meaning/accessibility; produce schedule and information sheet; return review drafts; do not send/publish/book/invite.
+
+Tool sequence: validate required input → assistant draft if available → open source and compare → independently calculate schedule in Calc → correct → human review.
+
+Checks: answers brief; source facts; names/dates/times; meaning; visible gaps; accessible formatting; permissions; human review.
+
+Exceptions: missing required field or permission => STOP and request approved source; do not create final artifact. Assistant unavailable => manual fallback.
+
+Manual fallback: open saved template, copy only approved fields, build schedule manually, independently calculate durations, compare every detail with source, save review draft, record measured recovery effort.
+
+Version lock: instructions/template/checklist remain v1.0 across cases; change only input. These files are self-authored exercises, not observed assistant runs.

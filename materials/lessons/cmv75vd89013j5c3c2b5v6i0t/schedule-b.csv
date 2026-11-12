@@ -1,0 +1,8 @@
+Start minute after midnight,Activity,End minute after midnight,Duration minutes
+840,Welcome and introductions,860,20
+860,Skills exchange,900,40
+900,Break,910,10
+910,Paired practice,945,35
+945,Closing and review,960,15
+Total,,,120
+Window check,840,960,120

@@ -1,0 +1,4 @@
+Fictional test reviewer: Academy Exercise Reviewer
+Approved event date: 21 November 2026.
+Supplied after clarification. Original missing-date input is retained unchanged.
+Approval covers test drafts only, not external action.

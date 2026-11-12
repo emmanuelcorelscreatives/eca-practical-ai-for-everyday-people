@@ -1,0 +1,8 @@
+Start minute after midnight,Activity,End minute after midnight,Duration minutes
+600,Welcome,610,10
+610,Shared reading,645,35
+645,Break,655,10
+655,Discussion,700,45
+700,Closing activity,720,20
+Total,,,120
+Window check,600,720,120

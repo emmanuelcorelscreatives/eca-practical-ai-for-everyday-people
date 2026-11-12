@@ -1,0 +1,91 @@
+{
+  "projectId": "cmv75vd89013j5c3c2b5v6i0t",
+  "scriptSha256": "720480a68fa7b7e3f5c614194fe66a5038f158eae829a05c415be05cf6bc87ad",
+  "files": [
+    {
+      "name": "Community_Event_Info_Template_v1.0.odt",
+      "bytes": 1625,
+      "sha256": "73f851f0f99208cefdb51fb0dafd00e7e8cd35ab4cb1cfd3f59aba375034350d"
+    },
+    {
+      "name": "Harbour_manual_review_draft.odt",
+      "bytes": 1625,
+      "sha256": "0b78dc3876b9f070425bb5e3b690c7ab6412bd282e6c12f814e5be151e48805f"
+    },
+    {
+      "name": "LICENSE.txt",
+      "bytes": 231,
+      "sha256": "b477a2024cce30f51a1c60daaf2b06759610ce94c1b5ebe184cc8cb517438c23"
+    },
+    {
+      "name": "Riverside_corrected_review_draft.odt",
+      "bytes": 1591,
+      "sha256": "b76fb77b8c9f53d977a3ca0bfc479b02ad510f3f4a31946bc2efc6ab1ddf49ac"
+    },
+    {
+      "name": "Schedule_Check.ods",
+      "bytes": 8478,
+      "sha256": "f256953a3f067acabe4389f41c77f8db39d2220bdfde4564a029694d804790df"
+    },
+    {
+      "name": "Test_Log.ods",
+      "bytes": 6567,
+      "sha256": "00576e765110d447e81545ee8e4a7ba007d3653f5967202e9781e8cc1ef34df9"
+    },
+    {
+      "name": "Verification_Checklist.ods",
+      "bytes": 4485,
+      "sha256": "66e79bcec4813e7e05e3963abf66d152a74a3882d8cbd4f39791cc6595f23419"
+    },
+    {
+      "name": "Workflow_v1.0.odt",
+      "bytes": 2596,
+      "sha256": "2e14d067f3d44bcce505024d15f058ae2e8ce61650c740d05a32e0731819544c"
+    },
+    {
+      "name": "Workflow_v1.0.txt",
+      "bytes": 1511,
+      "sha256": "ccf8f6ff2ada75d9e0915beb10ace64be2dd876604447701ddd0640e630969c6"
+    },
+    {
+      "name": "authored-error-example.txt",
+      "bytes": 288,
+      "sha256": "9e36084cbefe85560ca922a1d674323cd4db4754a4da2905fdf8aea62af67643"
+    },
+    {
+      "name": "expected-checks.txt",
+      "bytes": 903,
+      "sha256": "a8285403aca54fd8e3691b3e4ca4b1c9ac86e611582136511d5a1c7930e62cd8"
+    },
+    {
+      "name": "schedule-a.csv",
+      "bytes": 237,
+      "sha256": "730ce9a98d7d914aca43bda891e669fa69498eb3eeae30fa72fee5fdd6ac7b1b"
+    },
+    {
+      "name": "schedule-b.csv",
+      "bytes": 263,
+      "sha256": "4ae3eb85bbd3ac3bb75caa9a5204e22272baa753c2c8b810b7957d14898533b9"
+    },
+    {
+      "name": "test-card-a.txt",
+      "bytes": 534,
+      "sha256": "8fb85dfb804ff4089ac308c557cc63324e7df2f104b3fa54f2b9a2d33b8015bb"
+    },
+    {
+      "name": "test-card-b-clarification.txt",
+      "bytes": 226,
+      "sha256": "c60481bebdd4d0901016cee5c0aa9eabecd9106f86a0b56fb5cd28ecdf3121c1"
+    },
+    {
+      "name": "test-card-b-original.txt",
+      "bytes": 575,
+      "sha256": "1fefd6996c8a81f07e846f906caa1b3908c120cbeed5412f218cd14e25c99b97"
+    },
+    {
+      "name": "worksheet.md",
+      "bytes": 3913,
+      "sha256": "8598714e0207f51b446576c26254c4f1f2bd8e8886cbf0907941e62b0740404b"
+    }
+  ]
+}
