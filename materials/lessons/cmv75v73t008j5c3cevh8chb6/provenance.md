@@ -1,0 +1,6 @@
+# Provenance and reuse
+Academy self-authored fictional practice material prepared for Lesson 53, Compare Independent Evidence. The authored scene prompts (rather than the spoken narration alone) supply Riverside Learning Fair, 18 May 2027, Harbor Hall, Town Update, Community News, City Bulletin and Riverside Reporter. This kit supplies fictional issue/check dates, organizer committee identity and venue representative Mara Chen to make the offline exercise inspectable. These additions are practice data, not changes to the authored video or claims about real people.
+
+Each HTML page prominently labels itself fiction. The fictional organizer and venue have different custodians and purposes within the scenario. In reality all kit files have a single teaching author. Do not cite these pages as real-world evidence. No external source, model output or screenshot was used or invented. The optional AI prompts are instructions to try, with no promised or fabricated response. No paid tool is required.
+
+Reuse these Academy-created examples for course practice, retaining the fictional labels. Dates describe only the 2027 edition; a schedule is not proof the event occurred, that admission is free, that access arrangements exist, or that no later update exists. The venue confirms the scheduled date and venue, not independently the history of a move.

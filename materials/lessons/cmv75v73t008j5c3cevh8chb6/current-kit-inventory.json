@@ -1,0 +1,82 @@
+{
+  "version": 1,
+  "projectId": "cmv75v73t008j5c3cevh8chb6",
+  "scriptSha256": "72ea3d9c06100be352c41ad2d0d46da083d26d13a6334ee9b4bb767e62a1ab1e",
+  "files": [
+    {
+      "name": "README.md",
+      "sha256": "f4838592ff50bd6c75dfbccc09a0f7d273669796c6d3f9d48cd7b39adfc0e2f1",
+      "bytes": 754
+    },
+    {
+      "name": "answers.md",
+      "sha256": "55f2859c8159cc753946fe44c24a6f3c01e573752ec74be6d06fbc3c56cd5a6c",
+      "bytes": 2029
+    },
+    {
+      "name": "index.html",
+      "sha256": "e84823f2f58320395fa32c2c1ea00e987350b10b89f63245e0959aee3a8cfea3",
+      "bytes": 1727
+    },
+    {
+      "name": "prompts.md",
+      "sha256": "38e39468beb9b4c13d167a5eefda122013a01408731c8bab2e8f9912c0f587a9",
+      "bytes": 1021
+    },
+    {
+      "name": "provenance.md",
+      "sha256": "b750947cee81abc722c5a4f5b4e0dbc8d9d55b65b2c4fc562b023c20f8c8927b",
+      "bytes": 1356
+    },
+    {
+      "name": "source-checking-blank.csv",
+      "sha256": "1b5993cfde1891c995bb4617b1ac4386cbaf800c3a7fe888076ef8be51610e16",
+      "bytes": 413
+    },
+    {
+      "name": "source-checking-completed.csv",
+      "sha256": "b829e4bfdf46341f11141b950b5eb2afb5e8f7c1615d292b57597c583f2ca243",
+      "bytes": 1403
+    },
+    {
+      "name": "sources/calendar.html",
+      "sha256": "869e016eadf28af47cbbb4af453b0c138cdfb83c029394211b3ef8a6d70635a3",
+      "bytes": 1036
+    },
+    {
+      "name": "sources/city-bulletin.html",
+      "sha256": "56fa3111eea37d9feb145fffd5bb5e6e6d893de8900f0a7bcbafd82b3d082b06",
+      "bytes": 968
+    },
+    {
+      "name": "sources/community-news.html",
+      "sha256": "9d84aab453beec298d493681acbbf06a8c9d1345861cd8c9c94c3a200c56678e",
+      "bytes": 916
+    },
+    {
+      "name": "sources/interview.html",
+      "sha256": "043e385053c1e2bf74dd36a3e671420ba680ca9d10061a8f3e5b81082f0b04c5",
+      "bytes": 1155
+    },
+    {
+      "name": "sources/organizer.html",
+      "sha256": "ccd57c0f56234301134f0d60b3b65e36be4bb372e8abfee3d9d9860aecc8d829",
+      "bytes": 964
+    },
+    {
+      "name": "sources/riverside-reporter.html",
+      "sha256": "0fa618075b16a4d70c7308df4e8520b56d055cfd46a1de1e4b6cac70e64e7bfe",
+      "bytes": 1170
+    },
+    {
+      "name": "sources/town-update.html",
+      "sha256": "8d139d90a8f6c25a3d5d222fd6b952b714c5b6b23eecf3e6b3c62f2958e0d544",
+      "bytes": 868
+    },
+    {
+      "name": "worksheet.md",
+      "sha256": "be2ba13a7caf5dc7962013bd144ac236bc43dfd57e1a5c097f28722dca02b164",
+      "bytes": 2846
+    }
+  ]
+}
