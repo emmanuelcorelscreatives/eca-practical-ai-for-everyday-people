@@ -25,8 +25,7 @@ case 1:body=panel('Task brief',text('Create a notice for the community message b
 case 2:body=panel('Acceptance conditions',table([...facts.map(([a,b])=>[a,b,'Check against opened source','Not checked']),['No invented details','Audience and method not supplied','Label gaps, never guess','Not checked'],['Maximum 90 words','Count actual words','Check after final edit','Not checked']]));break;
 case 3:body=panel('Must-haves',text('Confirmed facts · No invented details · At most 90 words · Visible registration action'))+panel('Preferences',text('Warm tone · Inviting closing — optional'));break;
 case 4:body=panel('Initial prompt',text(initialPrompt));break;
-case 5:body=panel('Prepared fictional weak output',text(versions['first-weak-output.txt']))+panel('Checking notes',text('Missing: Register by 20 October
-Unsupported: Everyone is welcome'));break;
+case 5:body=panel('Prepared fictional weak output',text(versions['first-weak-output.txt']))+panel('Checking notes',text("Missing: Register by 20 October\nUnsupported: Everyone is welcome"));break;
 case 6:body=panel('Purpose',table([['Purpose','Reader cannot see registration deadline','Add supplied deadline','Fail']]));break;
 case 7:body=panel('Registration deadline',table([['Registration deadline','Output value: blank; source: 20 October','Add exact deadline','Fail']]));break;
 case 8:body=panel('No invented details',table([['No invented details','Everyone is welcome; source: Not stated','Remove or label as unknown','Fail']]));break;
@@ -42,19 +41,12 @@ case 17:body=panel('Requirement checks',table([...facts.map(([a,b])=>[a,b,'None'
 case 18:body=panel('Optional third instruction',text('Make only the closing warmer. Preserve every verified fact, structure, and length requirement.'));break;
 case 19:body=panel('Version 3 — optional closing',text(v3));break;
 case 20:body=panel('Version comparison',table([['Version 2','Clearer and shorter','Select for this purpose','Pass'],['Version 3','Warmer but less direct','Not used: little net improvement','Optional']]));break;
-case 21:body=panel('Accepted for the classroom comparison',text('Version 2: Accepted
-Version 3: Not used
-Reason: No worthwhile net improvement'));break;
+case 21:body=panel('Accepted for the classroom comparison',text("Version 2: Accepted\nVersion 3: Not used\nReason: No worthwhile net improvement"));break;
 case 22:body=panel('Stop rule',text('STOP when all must-haves pass, required checks are complete, the destination works, and another revision offers too little value.'));break;
 case 23:body='<div class="grid">'+panel('Opened evidence',text(source))+panel('Prepared fictional draft — checked',text(v2))+'</div>';break;
 case 24:body=panel('Assumptions and missing information',text(limitation));break;
 case 25:body=panel('Plain document editor','<textarea id="editor" aria-label="Notice editor">'+escapeHTML(v2)+'</textarea><p id="editorStatus">Reviewed manually — inspect after every edit.</p><button id="checkEdit">Count current words</button>');break;
-case 26:body=panel('Revision record',text('Accepted version: 2 (classroom comparison)
-Requirements passed: confirmed facts, visible action, no invented details, length
-Checks completed: source comparison and word count
-Known limitation: registration method not supplied
-Reason for stopping: no worthwhile net improvement
-Real publication: held until organizer confirms method'));break;}
+case 26:body=panel('Revision record',text("Accepted version: 2 (classroom comparison)\nRequirements passed: confirmed facts, visible action, no invented details, length\nChecks completed: source comparison and word count\nKnown limitation: registration method not supplied\nReason for stopping: no worthwhile net improvement\nReal publication: held until organizer confirms method"));break;}
 document.getElementById('main').innerHTML=body+`<aside class="note"><strong>Known limitation:</strong> ${escapeHTML(limitation)}</aside>`;const button=document.getElementById('checkEdit');if(button)button.onclick=()=>document.getElementById('editorStatus').textContent='Current word count: '+document.getElementById('editor').value.trim().split(/\s+/).filter(Boolean).length+'; recheck source facts after edits.';}
 const select=document.getElementById('state');states.forEach((s,i)=>{let o=document.createElement('option');o.value=i;o.textContent=(i+1)+'. '+s;select.append(o)});select.onchange=()=>{current=Number(select.value);render()};document.getElementById('prev').onclick=()=>{current=Math.max(0,current-1);render()};document.getElementById('next').onclick=()=>{current=Math.min(states.length-1,current+1);render()};document.getElementById('download').onclick=()=>{const a=document.createElement('a');a.href=URL.createObjectURL(new Blob(['Accepted version: 2 (classroom example)\nKnown limitation: registration method not supplied\nReal publication held until organizer confirms method\nReason: further optional closing adds too little value'],{type:'text/plain'}));a.download='stop-rule-decision.txt';a.click();URL.revokeObjectURL(a.href)};render();
 </script></html>
