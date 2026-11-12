@@ -1,0 +1,118 @@
+[
+  {
+    "case": "NORMAL",
+    "case_id": "EVT-013",
+    "request": "event_information_sheet",
+    "sources": [
+      {
+        "name": "approved event form",
+        "fields": {
+          "event_name": "Garden Skills Exchange",
+          "date": "2027-06-12",
+          "start_time": "10:00",
+          "end_time": "12:00",
+          "venue": "Fictional Riverside Community Room",
+          "audience": "Local adult beginners",
+          "contact": "events@example.invalid",
+          "approved_facts": "Bring a notebook; no booking or payment is performed in this exercise."
+        }
+      }
+    ]
+  },
+  {
+    "case": "MISSING",
+    "case_id": "EVT-014",
+    "request": "event_information_sheet",
+    "sources": [
+      {
+        "name": "missing event brief",
+        "fields": {
+          "event_name": "Garden Skills Exchange",
+          "date": "2027-06-12",
+          "start_time": "",
+          "end_time": "12:00",
+          "venue": "Fictional Riverside Community Room",
+          "audience": "Local adult beginners",
+          "contact": "events@example.invalid",
+          "approved_facts": "Bring a notebook; no booking or payment is performed in this exercise."
+        }
+      }
+    ]
+  },
+  {
+    "case": "CONFLICT",
+    "case_id": "EVT-015",
+    "request": "event_information_sheet",
+    "sources": [
+      {
+        "name": "signed event form",
+        "fields": {
+          "event_name": "Garden Skills Exchange",
+          "date": "2027-06-12",
+          "start_time": "10:00",
+          "end_time": "12:00",
+          "venue": "Fictional Riverside Community Room",
+          "audience": "Local adult beginners",
+          "contact": "events@example.invalid",
+          "approved_facts": "Bring a notebook; no booking or payment is performed in this exercise."
+        }
+      },
+      {
+        "name": "flyer draft",
+        "fields": {
+          "event_name": "Garden Skills Exchange",
+          "date": "2027-06-19",
+          "start_time": "10:00",
+          "end_time": "12:00",
+          "venue": "Fictional Riverside Community Room",
+          "audience": "Local adult beginners",
+          "contact": "events@example.invalid",
+          "approved_facts": "Bring a notebook; no booking or payment is performed in this exercise."
+        }
+      }
+    ]
+  },
+  {
+    "case": "OUTSIDE",
+    "case_id": "EVT-016",
+    "request": "legal_waiver",
+    "sources": [
+      {
+        "name": "original waiver request",
+        "fields": {
+          "event_name": "Garden Skills Exchange",
+          "date": "2027-06-12",
+          "start_time": "10:00",
+          "end_time": "12:00",
+          "venue": "Fictional Riverside Community Room",
+          "audience": "Local adult beginners",
+          "contact": "events@example.invalid",
+          "approved_facts": "Bring a notebook; no booking or payment is performed in this exercise."
+        }
+      }
+    ]
+  },
+  {
+    "case": "UNAVAILABLE",
+    "case_id": "EVT-017",
+    "request": "event_information_sheet",
+    "sources": [
+      {
+        "name": "approved event form",
+        "fields": {
+          "event_name": "Garden Skills Exchange",
+          "date": "2027-06-12",
+          "start_time": "10:00",
+          "end_time": "12:00",
+          "venue": "Fictional Riverside Community Room",
+          "audience": "Local adult beginners",
+          "contact": "events@example.invalid",
+          "approved_facts": "Bring a notebook; no booking or payment is performed in this exercise."
+        }
+      }
+    ],
+    "technical_failure": true,
+    "prior_outcome_checked": true,
+    "later_retries": 1
+  }
+]

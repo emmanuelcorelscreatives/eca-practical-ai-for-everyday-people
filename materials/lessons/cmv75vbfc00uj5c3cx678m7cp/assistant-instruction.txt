@@ -1,0 +1,2 @@
+Turn these notes into a review table. Preserve every date, time, name, source, unknown, and assumption. Do not invent missing information. Use columns: item, value, status, source or note.
+This is a draft for inspection, not approval to publish, book, email, or perform any external action. If required input is missing, stop and request clarification.

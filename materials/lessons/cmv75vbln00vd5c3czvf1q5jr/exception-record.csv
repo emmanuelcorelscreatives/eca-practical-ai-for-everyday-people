@@ -1,0 +1,2 @@
+case_identifier,date_received,workflow_stage,exception_type,affected_field,source,action_taken,owner,status,resolution,recovery_route
+EVT-014,,Input check,Missing input,start_time,missing event brief,Clarification requested,Request owner,Waiting,,Return to complete input check after answer

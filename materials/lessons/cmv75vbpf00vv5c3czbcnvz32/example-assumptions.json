@@ -1,0 +1,12 @@
+{
+  "status": "Fictional assumptions for arithmetic practice; not observations",
+  "period": "one hypothetical month",
+  "runs": 20,
+  "manual_minutes_per_run": 6,
+  "setup_minutes": 30,
+  "testing_minutes": 15,
+  "review_minutes_per_run": 2,
+  "correction_minutes_per_run": 0.5,
+  "monitoring_minutes_per_run": 0.25,
+  "maintenance_minutes_per_period": 10
+}

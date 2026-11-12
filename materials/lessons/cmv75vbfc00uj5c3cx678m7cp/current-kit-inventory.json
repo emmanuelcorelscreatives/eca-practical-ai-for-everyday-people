@@ -1,0 +1,52 @@
+{
+  "version": 1,
+  "projectId": "cmv75vbfc00uj5c3cx678m7cp",
+  "scriptSha256": "2a266383c57ec5a7767f5587dac88c2f0a38fb92b483ec52da5529e5d9506f17",
+  "files": [
+    {
+      "name": "answer-key.md",
+      "sha256": "ed60e9b3cf0574e695b73f8c8bab1eeae7b5ca7d4706f2a18eb71a8ccbabf6bd",
+      "bytes": 2136
+    },
+    {
+      "name": "assistant-instruction.txt",
+      "sha256": "c4497e00518e884bae41d5dac7bea47b1bc432c6e3262b02aa50cdbb021fbe40",
+      "bytes": 353
+    },
+    {
+      "name": "draft-information-card.txt",
+      "sha256": "1792deacc54d345b81b33e22c6d190b203ad82b717ab342426d17db5a995c96a",
+      "bytes": 379
+    },
+    {
+      "name": "expected-review-table.tsv",
+      "sha256": "fc16bcc37eebbe89560b7b5114f87a9ac5a80fe37e33ce0d38e49e9632be4a14",
+      "bytes": 701
+    },
+    {
+      "name": "handoff-log-template.tsv",
+      "sha256": "79d32b41a94ee0693b3d4e36b752f9ae727342a7dd0ea48ef132051fdeb3383d",
+      "bytes": 161
+    },
+    {
+      "name": "missing-date-input.txt",
+      "sha256": "8c636097e2a9889b3ab2c15f218e8655775f67a0cd49f2048c2c7539ef10eba3",
+      "bytes": 224
+    },
+    {
+      "name": "provenance.md",
+      "sha256": "16930903b52514e390ab381e8eeefb642d683324c9f0de85d02ab48be6ccf100",
+      "bytes": 594
+    },
+    {
+      "name": "source-notes.txt",
+      "sha256": "8de6470d8cfdf4103dfe62a3eb238193eda7f71dd1f0ee7a75f955429b36f2ff",
+      "bytes": 242
+    },
+    {
+      "name": "worksheet.md",
+      "sha256": "dd6cd752c0f84913b323232e696397384c50f37cd440d634cc9e1ae9061c571f",
+      "bytes": 4042
+    }
+  ]
+}

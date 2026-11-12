@@ -1,0 +1,16 @@
+{
+  "command": [
+    "python3",
+    "-B",
+    "check-calculator.py"
+  ],
+  "exitCode": 0,
+  "stdout": "PASS: two arithmetic cases; negative, boolean, nonfinite and unknown inputs rejected\n",
+  "stderr": "",
+  "scope": "Local arithmetic checker only; not live platform observation",
+  "sourceSHA256": {
+    "check-calculator.py": "dfd836ca99c1afaba94350a171cc20b891184b3ba6ac1f627e1597ca53020b21",
+    "decision-calculator.py": "8919613548ed699d596a2a407fefd90f657150a0a5f0f6c823073c273682bcad",
+    "example-assumptions.json": "0c60524a40d954bc47b1e0aa8a60315e524632be52504e3bed6c746a0ff36272"
+  }
+}

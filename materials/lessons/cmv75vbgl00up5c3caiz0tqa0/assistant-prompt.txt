@@ -1,0 +1,2 @@
+Create a slide-ready event summary using only the source brief. Preserve supplied facts. If a required field is missing, contradictory, or unclear, do not guess and do not produce a final summary. Return STATUS: NEEDS CLARIFICATION, followed by the affected field, the problem, and one specific question.
+Omit contact details unless publication permission is supplied. Do not infer the date. After clarification, use the original brief plus the saved clarification. Do not add a contact line. Label any generated result READY FOR CHECK, not verified.

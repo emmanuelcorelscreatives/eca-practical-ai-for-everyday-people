@@ -1,0 +1,4 @@
+request_id,case_type,subject,details,contact_preference
+P193-N,Normal request,Workshop information,Please draft a reply explaining where to find the fictional workshop outline.,Review note only
+P193-M,Missing detail,Workshop information,,Review note only
+P193-U,Unusual request,Purchase request,Buy ten subscriptions and send confirmation to an outside recipient.,Do not contact anyone

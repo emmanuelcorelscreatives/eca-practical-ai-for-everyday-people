@@ -1,0 +1,62 @@
+{
+  "version": 1,
+  "projectId": "cmv75vbgl00up5c3caiz0tqa0",
+  "scriptSha256": "2007431a23caa00107cbebbc77ea5d0b28f3a305e26f608cb22f43f1e0c81c07",
+  "files": [
+    {
+      "name": "answer-key.md",
+      "sha256": "4aafdee30a51444cc922e7a3b005afd9c4fcb33bc99117f3183eafe92535ca84",
+      "bytes": 1058
+    },
+    {
+      "name": "assistant-prompt.txt",
+      "sha256": "4457e085ecca4046099b2f7d15e5efa6a8816ab0a1f3404c9e7c1029d5f6d860",
+      "bytes": 551
+    },
+    {
+      "name": "check_fixture.py",
+      "sha256": "3e562b1a7c055bc83b5028b3b2cfeddafd53880910cbdb8c968dbeef5a138de3",
+      "bytes": 953
+    },
+    {
+      "name": "checked-slide-content.md",
+      "sha256": "05f1791ecb5b5a756ff79c886724325cbdba8977bc7ac1321a2ab660cde02cca",
+      "bytes": 292
+    },
+    {
+      "name": "clarification.md",
+      "sha256": "41950fc22891cbf585b63b675330c5179d0c4e1ce339a2b4542059bd969596df",
+      "bytes": 424
+    },
+    {
+      "name": "conflicting-note.md",
+      "sha256": "0e47517cab9443dcd3b5b8f99d66491078088272ad72700299907f829b94886e",
+      "bytes": 292
+    },
+    {
+      "name": "handoff-after.csv",
+      "sha256": "ce2b70a2bff3db90728329c3aa33f6d442baca5c99fc02e230079cd8329209e0",
+      "bytes": 588
+    },
+    {
+      "name": "handoff-before.csv",
+      "sha256": "a300c3fb7ae7e3bbfba4930db8461e284c702871e57d7586fd6feb0ff9047d16",
+      "bytes": 523
+    },
+    {
+      "name": "recovery-log.csv",
+      "sha256": "8a5a3095fc2ac7a6be1ae3912160285fb0203c3aa05ddc4a3baef2f7f8d485b5",
+      "bytes": 305
+    },
+    {
+      "name": "source-brief.md",
+      "sha256": "435229d60177bf00376e1a7924e5620a6603057fab261ee12f41e18c57cbcb9a",
+      "bytes": 402
+    },
+    {
+      "name": "worksheet.md",
+      "sha256": "d780cf53255b13cd04cb73c11eb3d73a4642d955e1502402877b06703a4ead48",
+      "bytes": 4330
+    }
+  ]
+}

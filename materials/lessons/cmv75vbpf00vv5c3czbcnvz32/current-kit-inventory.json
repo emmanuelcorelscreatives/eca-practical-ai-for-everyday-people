@@ -1,0 +1,67 @@
+{
+  "version": 1,
+  "projectId": "cmv75vbpf00vv5c3czbcnvz32",
+  "scriptSha256": "3d18e646db258c94d06d20a870bec278dc449c7afbb91448b58ab20c01241cff",
+  "files": [
+    {
+      "name": "check-calculator.py",
+      "sha256": "dfd836ca99c1afaba94350a171cc20b891184b3ba6ac1f627e1597ca53020b21",
+      "bytes": 722
+    },
+    {
+      "name": "checker-execution-receipt.json",
+      "sha256": "f2643e301ea1b030ece8eb545bc575b86a96df9db188b62e00e7ccca997b3fd5",
+      "bytes": 601
+    },
+    {
+      "name": "decision-calculator.py",
+      "sha256": "8919613548ed699d596a2a407fefd90f657150a0a5f0f6c823073c273682bcad",
+      "bytes": 1382
+    },
+    {
+      "name": "decision-record.csv",
+      "sha256": "f763fa5e914c7eb991ac056c718ca623bc964240152aca687a7cd7a7b9989e76",
+      "bytes": 157
+    },
+    {
+      "name": "effort-observations.csv",
+      "sha256": "0a466f06e699b899d6fb60397c1c3e7900dd0f07273840bfda9852d3f3eb8935",
+      "bytes": 205
+    },
+    {
+      "name": "example-assumptions.json",
+      "sha256": "0c60524a40d954bc47b1e0aa8a60315e524632be52504e3bed6c746a0ff36272",
+      "bytes": 359
+    },
+    {
+      "name": "expected-checks.md",
+      "sha256": "bd4e330d4a46566add6fee1cd2d5079b9853812262a27d95b3623226084814d7",
+      "bytes": 1555
+    },
+    {
+      "name": "practice-inputs.csv",
+      "sha256": "7a1310681777ee1c18bf7a102d005942cc2e12eafaee623ccf8e73043c73c324",
+      "bytes": 390
+    },
+    {
+      "name": "provenance.md",
+      "sha256": "825ba2b9e382a50d54c30457909c2d2431757f09d8af01bea6d0ba88b3e23b70",
+      "bytes": 701
+    },
+    {
+      "name": "simulation-worksheet.csv",
+      "sha256": "5972121159920745cd880a86c8d562dbb2a2cb86e5016c4f8bfd24470364247c",
+      "bytes": 128
+    },
+    {
+      "name": "task-assessment.csv",
+      "sha256": "0889bea76683c7a2d652a77e05905653663e3775ebcc66d8886711308a381fcd",
+      "bytes": 235
+    },
+    {
+      "name": "worksheet.md",
+      "sha256": "b3d9fb6ca4dc91dd7110b6888403136062cdf9583a695779fee2004a93a41ad3",
+      "bytes": 3597
+    }
+  ]
+}

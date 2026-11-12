@@ -1,0 +1,5 @@
+case,affected_field,problem,question_or_fallback,status,evidence_reference
+missing_date,Date,,,,source-brief.md
+conflict,Date,,,,conflicting-note.md + clarification.md
+unreadable,Venue,,,,simulated uncertain OCR observation
+unavailable,Attachment contents,,,,source deliberately withheld in pair exercise

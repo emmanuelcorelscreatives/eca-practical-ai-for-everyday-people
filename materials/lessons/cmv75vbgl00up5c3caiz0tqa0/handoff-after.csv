@@ -1,0 +1,8 @@
+Field,Source value,Required?,Check,Action,Evidence
+Event name,Riverside Skills Workshop,Yes,Present,Continue,source-brief.md
+Date,18 November 2026,Yes,Matches clarification,Continue,clarification.md
+Time,10:00–12:00,Yes,Present,Continue,source-brief.md
+Venue,Community Room B,Yes,Present,Continue,source-brief.md
+Capacity,24,Yes,Present,Continue,source-brief.md
+Audience,Adults learning basic smartphone photography,Yes,Present,Continue,source-brief.md
+Contact permission,No personal number; no contact line,Before publishing contact,Confirmed restriction,Omit,clarification.md

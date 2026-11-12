@@ -1,0 +1,10 @@
+# Expected checks
+The full source has nine content lines. The table must preserve all nine meanings; a separate source row is useful as well as per-row references. Date remains 14 May 2027; opening remains 10:00–13:00; contact remains Sam; the instruction is Bring small household items; entry is Free entry. Room capacity stays unknown. The source label stays approved event brief, version 1. The schedule has not been independently checked; calling it confirmed fails.
+
+The supplied TSV contains a hand-authored model answer, not measured app output. It has a header plus nine rows and four fields per row. Date/Open/Contact and other supplied values are supplied within the fictional brief, not independently verified real-world facts. Unknown capacity is missing, not 0. The schedule caveat is an unverified assumption, not permission to publish.
+
+A different assistant wording passes only if every meaning, source and uncertainty survives. A neat layout with a changed date, extra venue, lost assumption or invented capacity fails. The incomplete source's date must be recorded missing and the run stopped; guessing 14 May from the separate complete sample fails the drill. After an explicit clarification request, returning to the complete source can supply the date with recorded provenance.
+
+For spreadsheet paste, all four headers and nine rows must remain separate and readable; compare exact date/time strings. A single-column paste requires a manual repair and fresh comparison, not a pass. For the draft, match all source fields and keep DRAFT / human review and confirmation of capacity explicit. No address or registration URL is supplied and none may be added. A saved draft is not publication approval.
+
+Manual fallback: use a four-column document table if either assistant or spreadsheet is unavailable, retain source, compare each field, log the limitation and produce only a reviewed draft. Suitable weak-point observations include date auto-format conversion, truncating the bottom assumption while copying, or losing tabs during paste. These are hypothetical examples; record what actually happened in your run.

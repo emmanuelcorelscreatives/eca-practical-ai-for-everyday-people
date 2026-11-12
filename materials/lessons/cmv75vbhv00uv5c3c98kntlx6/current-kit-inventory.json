@@ -1,0 +1,52 @@
+{
+  "version": 1,
+  "projectId": "cmv75vbhv00uv5c3c98kntlx6",
+  "scriptSha256": "eebe06647cf86cd928ead5b21234590733cafdde88cef698efa2da0f7aca463e",
+  "files": [
+    {
+      "name": "check_inputs.py",
+      "sha256": "3496c4a0e9c52c3e4f3428601a79a8ae681323fb9a4a557e7effbc63c0f97a4c",
+      "bytes": 733
+    },
+    {
+      "name": "checklist.md",
+      "sha256": "0f992ae5e643fe953812883e3b216917a74b8d2fec46d2956114e647e989f2b7",
+      "bytes": 636
+    },
+    {
+      "name": "complete-brief.json",
+      "sha256": "a86916cafbe9a680f1cfb1f27fb0364a6369308a05ab8901fde53e89e7cb4efb",
+      "bytes": 321
+    },
+    {
+      "name": "expected-checks.md",
+      "sha256": "bfcc4e0ea0167336c0c8b7d3a1c71cf47d9de6fcb92c7f92c02b832c5a43daf1",
+      "bytes": 1054
+    },
+    {
+      "name": "four-lines-template.md",
+      "sha256": "927df0d12b366a04391ddb2912ca98ac6ec0d21b29487c47ef31755d6169dba3",
+      "bytes": 332
+    },
+    {
+      "name": "incomplete-brief.json",
+      "sha256": "cf6c7b17b712f5fa5db6f452cb9bc08b2c0c565e18809c6f9311dc6825b1afa0",
+      "bytes": 291
+    },
+    {
+      "name": "prompt-library.md",
+      "sha256": "43507ab28dce5cdc9e2a07c8149cedaa8d8e8e45950f37afc1687aba41ce870d",
+      "bytes": 625
+    },
+    {
+      "name": "provenance.md",
+      "sha256": "522d9b3094e1817b783b4f060440244dbf93afdb84adf0cb4fe3e45299f7d80a",
+      "bytes": 310
+    },
+    {
+      "name": "worksheet.md",
+      "sha256": "4e23ee0332604840ee08b882c4d3ec341676aafaa767eec2f89f88fc1777348c",
+      "bytes": 1815
+    }
+  ]
+}

@@ -1,0 +1,52 @@
+{
+  "version": 1,
+  "projectId": "cmv75v6m300675c3cyo0bit5e",
+  "scriptSha256": "4abf7e512d2d671fffb7a4bbc0b696d3e9606bc29668ae908e81e6baa64994ce",
+  "files": [
+    {
+      "name": "README.md",
+      "sha256": "0aa3b853f09cce186560e13ce8282ac8217cd22650fa0f1e3f7391d309139779",
+      "bytes": 1591
+    },
+    {
+      "name": "answer-key.md",
+      "sha256": "d7b4f6a7cd530539fc6878e67d749089e5eb9045e5e4160141fb421b6002550e",
+      "bytes": 1960
+    },
+    {
+      "name": "comparison-blank.csv",
+      "sha256": "9754e491b319a3172322c78c0e84e7b4cc6826c9afaf29c038737e8f8b8142a6",
+      "bytes": 114
+    },
+    {
+      "name": "comparison-completed.csv",
+      "sha256": "6a64a94732ebc1e9f8490b582bb1f387319b4054d1b13b384a771e169b9de6b9",
+      "bytes": 524
+    },
+    {
+      "name": "room-choice-review.xlsx",
+      "sha256": "b171cf219534f5e2a0810b2ac3914dc2c1ac0d72c53df22393fb4c32dc43e1ef",
+      "bytes": 3404
+    },
+    {
+      "name": "rooms.csv",
+      "sha256": "93b0fc8207903bf175b717dc390c1abf1b3b81f140d1688d0425dc28895f918b",
+      "bytes": 184
+    },
+    {
+      "name": "validate.py",
+      "sha256": "b393fc25ce8136b9dc70b1aba0155fc01fe2c94a0f1e12e5ef2f7b564ce37aa3",
+      "bytes": 837
+    },
+    {
+      "name": "worksheet.md",
+      "sha256": "5fe2fbd9eeab98da014297d4f46684e65cefdb682da8d52bf33094502224b5ca",
+      "bytes": 2063
+    },
+    {
+      "name": "workshop-brief.md",
+      "sha256": "39555daf0a3574df5b113813661eb6cd30512678a54f04fb09389328e2c2a6bb",
+      "bytes": 604
+    }
+  ]
+}
