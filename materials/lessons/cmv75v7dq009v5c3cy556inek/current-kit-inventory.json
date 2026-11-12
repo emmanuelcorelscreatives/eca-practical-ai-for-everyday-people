@@ -1,0 +1,47 @@
+{
+  "version": 1,
+  "projectId": "cmv75v7dq009v5c3cy556inek",
+  "scriptSha256": "d589cfb017b0fab93c2a57df139d48b9f32370c63d0894acc60bab3f2181be96",
+  "files": [
+    {
+      "name": "README.md",
+      "sha256": "417cd49c4304c21fb889ed119d5475fff47774bc433e977d88372d73360d0033",
+      "bytes": 1281
+    },
+    {
+      "name": "answer-key.md",
+      "sha256": "b061eaecea6becc276cf6b6204f567e16beb94eb7fcd8ca722f827ea191aa7ff",
+      "bytes": 3654
+    },
+    {
+      "name": "practice-cases.json",
+      "sha256": "cf0d043f9b61ca43f853d50c2d8eb2f7d08f4fabfc01f5266481d2fd03e804f8",
+      "bytes": 1319
+    },
+    {
+      "name": "request.txt",
+      "sha256": "3dd328b4c94798dc5031350031ae3f2ca20d56c397de548eb95ac336129b4c49",
+      "bytes": 238
+    },
+    {
+      "name": "response-cards.md",
+      "sha256": "957a1df1dcfb3beca403ac795df8c2957cd942745a09af0c8741856fd0d79c50",
+      "bytes": 1289
+    },
+    {
+      "name": "source-notes.md",
+      "sha256": "29a2f203dfeb5603b2b4b5426dd3a0182b931414a492af3ed1314c2bcae779ae",
+      "bytes": 698
+    },
+    {
+      "name": "traceability.csv",
+      "sha256": "8d3aace1decdb229b2bd2c0018c8f65f856481f3276c31ef7f497067a671cfed",
+      "bytes": 278
+    },
+    {
+      "name": "worksheet.md",
+      "sha256": "f429ba3976d205cc52cad5e1aeec8ddd64a37ac4ef077281f5d3780962ead4a2",
+      "bytes": 2405
+    }
+  ]
+}

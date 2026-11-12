@@ -1,0 +1,26 @@
+{
+  "fixtureStatus": "Self-authored fictional Academy examples; responses were written for teaching, not produced by a live model.",
+  "cases": [
+    {
+      "id": "P1",
+      "source": {
+        "Sesame slaw": "Contains cabbage, carrot and sesame.",
+        "Tomato soup": "Contains tomato and basil.",
+        "Rice bowl": "Contains rice, peas and carrot.",
+        "disclosure": "No cross-contact or allergy-safety information is supplied."
+      },
+      "request": "Using only this menu, say in one sentence which dish contains sesame.",
+      "authoredResponse": "The popular dishes are tomato soup and rice bowl.",
+      "intendedAudience": "A diner asking about an ingredient",
+      "requiredAction": "Identify Sesame slaw; do not infer allergy safety."
+    },
+    {
+      "id": "P2",
+      "source": "The library closes at 16:00 on Friday for maintenance. Items due Friday may be returned on Saturday without a late fee.",
+      "request": "Using only the notice, give borrowers a two-bullet summary.",
+      "authoredResponse": "1. Study library services for twenty minutes. 2. Review your notes tomorrow. 3. Practise reading for an hour.",
+      "intendedAudience": "Existing library borrowers",
+      "requiredAction": "Summarise Friday closure and Saturday return arrangement in two bullets."
+    }
+  ]
+}
