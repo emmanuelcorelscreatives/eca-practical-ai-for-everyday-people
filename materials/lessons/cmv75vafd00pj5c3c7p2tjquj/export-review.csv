@@ -1,0 +1,13 @@
+Artifact and version,Check,Actual viewer/device/tool,Observed evidence,Result: Pending/Pass/Fail/Not applicable,Repair or next action,Re-export retest
+[actual file/version],Ordinary text contrast: generally >=4.5:1,[not tested],[no observation yet],Pending,[perform check],Pending
+[actual file/version],Large text contrast: generally >=3:1,[not tested],[no observation yet],Pending,[perform check],Pending
+[actual file/version],Meaningful controls/graphics contrast: generally >=3:1,[not tested],[no observation yet],Pending,[perform check],Pending
+[actual file/version],Normal size readability,[not tested],[no observation yet],Pending,[perform check],Pending
+[actual file/version],Enlargement/smaller viewport clipping or crowding,[not tested],[no observation yet],Pending,[perform check],Pending
+[actual file/version],Logical reading order,[not tested],[no observation yet],Pending,[perform check],Pending
+[actual file/version],Semantic heading relationships,[not tested],[no observation yet],Pending,[perform check],Pending
+[actual file/version],Meaningful visual equivalent,[not tested],[no observation yet],Pending,[perform check],Pending
+[actual file/version],Conditions/actions/source note preserved,[not tested],[no observation yet],Pending,[perform check],Pending
+[actual file/version],Manual keyboard/screen-reader test where available,[not tested],[no observation yet],Pending,[perform check],Pending
+[actual file/version],Real reader identifies main action,[not tested],[no observation yet],Pending,[perform check],Pending
+[actual file/version],New export retested,[not tested],[no observation yet],Pending,[perform check],Pending

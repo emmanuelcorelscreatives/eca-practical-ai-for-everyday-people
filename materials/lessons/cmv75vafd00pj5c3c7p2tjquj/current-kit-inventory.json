@@ -1,0 +1,47 @@
+{
+  "version": 1,
+  "projectId": "cmv75vafd00pj5c3c7p2tjquj",
+  "scriptSha256": "f7e088a6df9a3e758ffaae504f789d2d72174bd3737570331a777de5bd190d3c",
+  "files": [
+    {
+      "name": "README.md",
+      "sha256": "29efa0e21454ccc8e895be5e13d5cb41373dc7ea26bf7f833e2f5e45b515cd7c",
+      "bytes": 1583
+    },
+    {
+      "name": "answer-key.md",
+      "sha256": "8271e08878c2c5af12eab6d14ed1103173984764036eb83cc8d90cb32a13f7a3",
+      "bytes": 2073
+    },
+    {
+      "name": "approved-source-pack.md",
+      "sha256": "2a4e50f5c22076c17fc6806967ce04bd1af79236dac89a96c8922a966e81551c",
+      "bytes": 1222
+    },
+    {
+      "name": "briefing-outline.md",
+      "sha256": "de5c249734a0c616c226a90c2ec9122e6d9e6073b076d51012ea5b098cdae6b7",
+      "bytes": 1075
+    },
+    {
+      "name": "concise-wording.md",
+      "sha256": "a80d7d50125808edbce335d4620fd7a1b004893ee693f76e52cd8c5f58ba11c6",
+      "bytes": 1040
+    },
+    {
+      "name": "exercise.md",
+      "sha256": "0b7141f23fbab951ebd1bf1a08abb972f90c1e0a40ccd9ab3eb7b8252b4774e7",
+      "bytes": 2539
+    },
+    {
+      "name": "export-review.csv",
+      "sha256": "65286bab449b879f30ebfdbe68d129f44ae5ed220a9cf7c88867b241db1d0e0d",
+      "bytes": 1657
+    },
+    {
+      "name": "five-slide-outline.md",
+      "sha256": "24978a47dc2895f9b8f5a637d3bce62d7ede050409cee989fd15a5f778808392",
+      "bytes": 1185
+    }
+  ]
+}
