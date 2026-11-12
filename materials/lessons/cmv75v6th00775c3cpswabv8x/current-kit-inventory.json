@@ -1,0 +1,42 @@
+{
+  "version": 1,
+  "projectId": "cmv75v6th00775c3cpswabv8x",
+  "scriptSha256": "39acd357c887709ae31fee097db223f92a24e5de7b858a94b8ba002807d0146d",
+  "files": [
+    {
+      "name": "announcement-template.txt",
+      "sha256": "1fd1ad4480d2addc050fcafe29a70496850e612e9921e4ad6ad9ccee9170be8c",
+      "bytes": 1251
+    },
+    {
+      "name": "answer-key.md",
+      "sha256": "d117863dc4aa2527611595474b485ab4a5030b2ae88a24f5414c51622d2d798f",
+      "bytes": 1304
+    },
+    {
+      "name": "quality-check-pattern.txt",
+      "sha256": "44877a567b6c3b1bfb3eb27ff942a39d48f7d157c2006ca1cdf79638e6844657",
+      "bytes": 1119
+    },
+    {
+      "name": "source-notes.txt",
+      "sha256": "2ea58b87f020d322b2a157b5c65974c370d107a448ff237ec8aa0fbbe47ea976",
+      "bytes": 321
+    },
+    {
+      "name": "three-templates-worksheet.md",
+      "sha256": "222d6bee719f518f28e1d3ca56ae49e68680539c3dd52b38443ff35d16d71f54",
+      "bytes": 1759
+    },
+    {
+      "name": "worked-announcements.md",
+      "sha256": "358625716871d2bd542ba9d9ba6f11be6fc3bc0818255e3f59cc6fad32dbdcba",
+      "bytes": 1643
+    },
+    {
+      "name": "worksheet.md",
+      "sha256": "89a736a0edbc7a1ea26d815ffe22131de817611f12997db9d1b375498f32d643",
+      "bytes": 1804
+    }
+  ]
+}

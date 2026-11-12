@@ -1,0 +1,17 @@
+ANNOUNCEMENT FROM SUPPLIED NOTES
+AUDIENCE: [intended readers]
+PURPOSE: [what they need to know]
+SOURCE NOTES: [paste confirmed source separately]
+LENGTH: no more than 90 words
+DESTINATION: [where the text will appear]
+INSTRUCTION
+Create a friendly announcement of no more than 90 words. Use only the source notes. Preserve names, dates, times and conditions. Label missing information instead of guessing.
+OUTPUT FORMAT
+One plain-text announcement, followed by unresolved information. No image without confirmed permission.
+QUALITY CHECK
+1. Confirm every name, date, time, place and condition against the supplied notes.
+2. Mark unsupported claims, assumptions and missing details. Generated wording is not source evidence.
+3. Confirm the text fits its intended destination, remains complete/readable after export and has permission for any included image or quotation.
+4. Require human approval before sending or publishing. This exercise performs neither action.
+ACCEPTANCE RULE
+ACCEPT only if all required checks pass. REVISE if a correctable issue remains. STOP or complete manually if essential information, evidence or permission is unavailable. Text may be accepted separately when an unapproved image is omitted and that decision is recorded.

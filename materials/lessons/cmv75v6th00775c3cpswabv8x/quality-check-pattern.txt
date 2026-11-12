@@ -1,0 +1,13 @@
+BRIEF: Does it meet the specific task and intended audience?
+EVIDENCE: What opened source or independent calculation confirms each key detail?
+OUTPUT: Is the actual final/exported file complete, readable and usable?
+DECISION: Accept, revise, or stop? Why?
+Label assumptions, uncertainty, conflicting evidence and missing inputs.
+Use a light check for a private brainstorm; stronger review for public claims, money, rights, health, safety and external actions.
+For factual writing: compare names, dates, places, quotes, claims and conditions.
+For numbers: confirm source values/units, then independently recalculate.
+For summaries: preserve meaning, exceptions, names and commitments.
+For translations: verify names/numbers/tone/key terms/meaning; consequential uses need a capable human reviewer.
+For images: inspect text, objects, accuracy, readability, representation, unintended changes and permission.
+For exported files: open the exported file and inspect clipping, layout, labels, contrast and reading order.
+Before sending, publishing, purchasing, deleting or consequential use: require informed human approval.
