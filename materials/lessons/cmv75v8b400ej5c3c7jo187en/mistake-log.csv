@@ -1,0 +1,8 @@
+Topic,Attempted question,Result,Mistake type,Confidence,Last practised,Priority reason
+Fractions,1/2 + 1/3,Incorrect,Forgot common denominator,High,2026-01-05,Repeated foundational error
+Fractions,1/4 + 1/2,Incorrect,Forgot common denominator,Medium,2026-01-07,Repeated foundational error
+Fractions,2/3 + 1/6,Incorrect,Forgot common denominator,Low,2026-01-09,Repeated foundational error
+Percentages,20% of 50,Incorrect,Misread percentage question,Medium,2026-01-08,One wording mistake
+Decimals,0.4 + 0.35,Incorrect,Decimal placement,Low,2026-01-08,Needs another attempt
+Ratios,Simplify 6:9,Correct,Correct but slow,Medium,2026-01-09,Needs speed practice
+Decimals,0.2 + 0.3,Correct,None observed,High,2026-01-09,Mostly correct

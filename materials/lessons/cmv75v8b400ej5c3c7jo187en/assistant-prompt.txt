@@ -1,0 +1,4 @@
+Create a one-week revision draft from the mistake log and availability below. Prioritize repeated or foundational errors. Keep some mixed review of stronger topics. Revisit weak topics in separate sessions. Do not exceed the listed time. Include an unaided attempt, useful feedback, and a next practice action. Label assumptions and missing information. Head the result "Generated revision draft". Do not claim mastery, change existing commitments or create calendar events. Availability: Tuesday 20, Thursday 30, Saturday 40 minutes; maximum 90. Paste the complete mistake-log.csv rows here.
+
+Targeted correction prompt after inspecting the supplied deliberately flawed draft:
+Revise Thursday to exactly 30 minutes. Preserve the fresh fraction attempt and shorten mixed review. Do not move work to another day. Show the addition of the durations.

@@ -1,0 +1,77 @@
+{
+  "version": 1,
+  "projectId": "cmv75v8b400ej5c3c7jo187en",
+  "scriptSha256": "fd43a357e1f50b1e4ebd8c13ba84bb65a6493d6b092496175057e60b17e582a2",
+  "files": [
+    {
+      "name": "README.md",
+      "sha256": "4ee8dae532ec4bc4d22288777200d3f37d599447f69fdc315f191d0f6e118c27",
+      "bytes": 2303
+    },
+    {
+      "name": "answer-key.md",
+      "sha256": "8d0b3af9cf16d774446c4ad526dfb35274e6e5de3562e6c24b1b71b302347501",
+      "bytes": 1335
+    },
+    {
+      "name": "assistant-prompt.txt",
+      "sha256": "cf678f05aa8f6d8b500d2d679ee40db1aa20af1ddb94d7d2085697d49a5bf2d3",
+      "bytes": 848
+    },
+    {
+      "name": "availability.csv",
+      "sha256": "361526a54efe1f8a75a6bc1a99806305eefab35b8861b0ccd3c3e2b632839ad2",
+      "bytes": 61
+    },
+    {
+      "name": "check_pack.py",
+      "sha256": "23a2dff776134ff2a8f3b6b76acb02c4e231653df2fd5d8494863236b7c01acd",
+      "bytes": 1187
+    },
+    {
+      "name": "checked-plan.csv",
+      "sha256": "f5d0db347c716519eed33905a66ce5c5cad2c8fef4e2aba3f577c7bd797e2ef0",
+      "bytes": 392
+    },
+    {
+      "name": "exercise.md",
+      "sha256": "3f885fc97e1b6cf9e7dfba1ed72db2536445a842db65fe34e8d2c96129efef9c",
+      "bytes": 1157
+    },
+    {
+      "name": "follow-up.csv",
+      "sha256": "d14f30a181bf6714b5392f42eec10409ebee5fec5563bb42626bc4cb8a54bc88",
+      "bytes": 274
+    },
+    {
+      "name": "generated-draft.csv",
+      "sha256": "7fceb3b7d63e36e4968a8d22138cc96b1f098fb2001edbf0f396b3dcb1095740",
+      "bytes": 393
+    },
+    {
+      "name": "manual-fallback.csv",
+      "sha256": "b49999670daf98a36cac7ffd45e507283614721e5ce6d07af40a386f8ef2d358",
+      "bytes": 130
+    },
+    {
+      "name": "mistake-log.csv",
+      "sha256": "2f0ff10b9cdb80bdc23e698e35ff432a970ff5c06f4a22f45f808887b1c353d8",
+      "bytes": 735
+    },
+    {
+      "name": "next-week-allocation.csv",
+      "sha256": "72521982326d65f6fa6ac5da5e79117aa61c09fbb1b97878b75618537f6ecfc7",
+      "bytes": 327
+    },
+    {
+      "name": "practice-and-source.md",
+      "sha256": "d47c97bdd2ce1b31a145eee357a1c3e2de7e43cb0902d26faefda8b03809c6e6",
+      "bytes": 1103
+    },
+    {
+      "name": "schedule-output-notes.md",
+      "sha256": "7c07531237699266f26dfe1ee5b083f6afa66b832e26e30d427e34ba14477bdb",
+      "bytes": 1232
+    }
+  ]
+}
