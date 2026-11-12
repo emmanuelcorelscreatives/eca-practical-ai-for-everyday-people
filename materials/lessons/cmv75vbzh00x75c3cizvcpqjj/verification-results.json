@@ -1,0 +1,516 @@
+{
+  "state": "COMPLETE",
+  "scope": "Actual local routing and course-only Windows queue CLI execution. GUI screenshots are separately reviewed before visual publication.",
+  "browserPython": {
+    "state": "COMPLETE",
+    "verdict": "pass",
+    "at": "2026-11-12T09:50:51.545Z",
+    "actualOS": "Linux",
+    "browserVersion": "134.0.6998.35",
+    "regression": {
+      "results": [
+        {
+          "id": "A-001",
+          "decision": "Approved",
+          "match": true,
+          "status": "Simulated action",
+          "queue": "Simulated action log",
+          "actionReached": true,
+          "realExternalAction": false,
+          "approvalFieldsComplete": true,
+          "decisionRecord": {
+            "reviewerRole": "Event communications reviewer",
+            "decisionTime": "2026-10-20T09:00:00Z",
+            "decision": "Approved",
+            "reason": "",
+            "reviewedVersion": "v1",
+            "reviewedDestination": "Public events page",
+            "supportingInformationReference": [
+              "organizer-form-v1"
+            ]
+          },
+          "archiveRecord": null,
+          "simulatedOwnerNotification": null
+        },
+        {
+          "id": "A-002",
+          "decision": "Rejected",
+          "match": true,
+          "status": "Blocked",
+          "queue": "Rejected archive",
+          "actionReached": false,
+          "realExternalAction": false,
+          "approvalFieldsComplete": true,
+          "decisionRecord": {
+            "reviewerRole": "Event communications reviewer",
+            "decisionTime": "2026-10-20T09:00:00Z",
+            "decision": "Rejected",
+            "reason": "Start time is missing",
+            "reviewedVersion": "v1",
+            "reviewedDestination": "Public events page",
+            "supportingInformationReference": [
+              "organizer-form-v1"
+            ]
+          },
+          "archiveRecord": {
+            "id": "A-002",
+            "reviewerRole": "Event communications reviewer",
+            "decisionTime": "2026-10-20T09:00:00Z",
+            "decision": "Rejected",
+            "reason": "Start time is missing",
+            "reviewedVersion": "v1",
+            "reviewedDestination": "Public events page",
+            "supportingInformationReference": [
+              "organizer-form-v1"
+            ]
+          },
+          "simulatedOwnerNotification": "SIMULATED ONLY: workflow owner notified of rejection"
+        },
+        {
+          "id": "A-003",
+          "decision": "Edit",
+          "match": false,
+          "status": "Review required",
+          "queue": "Changes requested",
+          "actionReached": false,
+          "realExternalAction": false,
+          "approvalFieldsComplete": true,
+          "decisionRecord": {
+            "reviewerRole": "Event communications reviewer",
+            "decisionTime": "2026-10-20T09:00:00Z",
+            "decision": "Edit",
+            "reason": "Add the confirmed start time",
+            "reviewedVersion": "v1",
+            "reviewedDestination": "Public events page",
+            "supportingInformationReference": [
+              "organizer-form-v1"
+            ]
+          },
+          "archiveRecord": null,
+          "simulatedOwnerNotification": null
+        },
+        {
+          "id": "A-004",
+          "decision": "Blank",
+          "match": true,
+          "status": "Pending",
+          "queue": "Pending review",
+          "actionReached": false,
+          "realExternalAction": false,
+          "approvalFieldsComplete": true,
+          "decisionRecord": {
+            "reviewerRole": "Event communications reviewer",
+            "decisionTime": "2026-10-20T09:00:00Z",
+            "decision": "",
+            "reason": "",
+            "reviewedVersion": "v1",
+            "reviewedDestination": "Public events page",
+            "supportingInformationReference": [
+              "organizer-form-v1"
+            ]
+          },
+          "archiveRecord": null,
+          "simulatedOwnerNotification": null
+        },
+        {
+          "id": "A-005",
+          "decision": "Needs discussion",
+          "match": true,
+          "status": "Manual review required",
+          "queue": "Pending review",
+          "actionReached": false,
+          "realExternalAction": false,
+          "approvalFieldsComplete": true,
+          "decisionRecord": {
+            "reviewerRole": "Event communications reviewer",
+            "decisionTime": "2026-10-20T09:00:00Z",
+            "decision": "Needs discussion",
+            "reason": "",
+            "reviewedVersion": "v1",
+            "reviewedDestination": "Public events page",
+            "supportingInformationReference": [
+              "organizer-form-v1"
+            ]
+          },
+          "archiveRecord": null,
+          "simulatedOwnerNotification": null
+        },
+        {
+          "id": "A-006",
+          "decision": "Approved",
+          "match": false,
+          "status": "Review required",
+          "queue": "Pending review",
+          "actionReached": false,
+          "realExternalAction": false,
+          "approvalFieldsComplete": true,
+          "decisionRecord": {
+            "reviewerRole": "Event communications reviewer",
+            "decisionTime": "2026-10-20T09:00:00Z",
+            "decision": "Approved",
+            "reason": "",
+            "reviewedVersion": "v1",
+            "reviewedDestination": "Public events page",
+            "supportingInformationReference": [
+              "organizer-form-v1"
+            ]
+          },
+          "archiveRecord": null,
+          "simulatedOwnerNotification": null
+        },
+        {
+          "id": "A-007",
+          "decision": "Approved",
+          "match": false,
+          "status": "Review required",
+          "queue": "Pending review",
+          "actionReached": false,
+          "realExternalAction": false,
+          "approvalFieldsComplete": true,
+          "decisionRecord": {
+            "reviewerRole": "Event communications reviewer",
+            "decisionTime": "2026-10-20T09:00:00Z",
+            "decision": "Approved",
+            "reason": "",
+            "reviewedVersion": "v1",
+            "reviewedDestination": "Public events page",
+            "supportingInformationReference": [
+              "organizer-form-v1"
+            ]
+          },
+          "archiveRecord": null,
+          "simulatedOwnerNotification": null
+        },
+        {
+          "id": "A-008",
+          "decision": "Approved",
+          "match": false,
+          "status": "Review required",
+          "queue": "Pending review",
+          "actionReached": false,
+          "realExternalAction": false,
+          "approvalFieldsComplete": true,
+          "decisionRecord": {
+            "reviewerRole": "Event communications reviewer",
+            "decisionTime": "2026-10-20T09:00:00Z",
+            "decision": "Approved",
+            "reason": "",
+            "reviewedVersion": "v1",
+            "reviewedDestination": "Public events page",
+            "supportingInformationReference": [
+              "organizer-form-v1"
+            ]
+          },
+          "archiveRecord": null,
+          "simulatedOwnerNotification": null
+        },
+        {
+          "id": "A-009",
+          "decision": "Approved",
+          "match": false,
+          "status": "Review required",
+          "queue": "Pending review",
+          "actionReached": false,
+          "realExternalAction": false,
+          "approvalFieldsComplete": true,
+          "decisionRecord": {
+            "reviewerRole": "Event communications reviewer",
+            "decisionTime": "2026-10-20T09:00:00Z",
+            "decision": "Approved",
+            "reason": "",
+            "reviewedVersion": "v1",
+            "reviewedDestination": "Public events page",
+            "supportingInformationReference": [
+              "organizer-form-v1"
+            ]
+          },
+          "archiveRecord": null,
+          "simulatedOwnerNotification": null
+        }
+      ],
+      "negative": 25,
+      "rejected": {
+        "id": "A-002",
+        "decision": "Rejected",
+        "match": true,
+        "status": "Blocked",
+        "queue": "Rejected archive",
+        "actionReached": false,
+        "realExternalAction": false,
+        "approvalFieldsComplete": true,
+        "decisionRecord": {
+          "reviewerRole": "Event communications reviewer",
+          "decisionTime": "2026-10-20T09:00:00Z",
+          "decision": "Rejected",
+          "reason": "Start time is missing",
+          "reviewedVersion": "v1",
+          "reviewedDestination": "Public events page",
+          "supportingInformationReference": [
+            "organizer-form-v1"
+          ]
+        },
+        "archiveRecord": {
+          "id": "A-002",
+          "reviewerRole": "Event communications reviewer",
+          "decisionTime": "2026-10-20T09:00:00Z",
+          "decision": "Rejected",
+          "reason": "Start time is missing",
+          "reviewedVersion": "v1",
+          "reviewedDestination": "Public events page",
+          "supportingInformationReference": [
+            "organizer-form-v1"
+          ]
+        },
+        "simulatedOwnerNotification": "SIMULATED ONLY: workflow owner notified of rejection"
+      }
+    },
+    "python": {
+      "state": "COMPLETE",
+      "pass": true,
+      "cases": [
+        {
+          "decisionRecord": {
+            "reviewerRole": "Event communications reviewer",
+            "decisionTime": "2026-10-20T09:00:00Z",
+            "decision": "Approved",
+            "reason": "",
+            "reviewedVersion": "v1",
+            "reviewedDestination": "Public events page",
+            "supportingInformationReference": [
+              "organizer-form-v1"
+            ]
+          },
+          "archiveRecord": null,
+          "simulatedOwnerNotification": null,
+          "approvalFieldsComplete": true,
+          "id": "A-001",
+          "status": "Simulated action",
+          "queue": "Simulated action log",
+          "actionReached": true,
+          "realExternalAction": false,
+          "versionDestinationContentAttachmentsMatch": true
+        },
+        {
+          "decisionRecord": {
+            "reviewerRole": "Event communications reviewer",
+            "decisionTime": "2026-10-20T09:00:00Z",
+            "decision": "Rejected",
+            "reason": "Start time is missing",
+            "reviewedVersion": "v1",
+            "reviewedDestination": "Public events page",
+            "supportingInformationReference": [
+              "organizer-form-v1"
+            ]
+          },
+          "archiveRecord": {
+            "reviewerRole": "Event communications reviewer",
+            "decisionTime": "2026-10-20T09:00:00Z",
+            "decision": "Rejected",
+            "reason": "Start time is missing",
+            "reviewedVersion": "v1",
+            "reviewedDestination": "Public events page",
+            "supportingInformationReference": [
+              "organizer-form-v1"
+            ],
+            "id": "A-002"
+          },
+          "simulatedOwnerNotification": "SIMULATED ONLY: workflow owner notified of rejection",
+          "approvalFieldsComplete": true,
+          "id": "A-002",
+          "status": "Blocked",
+          "queue": "Rejected archive",
+          "actionReached": false,
+          "realExternalAction": false,
+          "versionDestinationContentAttachmentsMatch": true
+        },
+        {
+          "decisionRecord": {
+            "reviewerRole": "Event communications reviewer",
+            "decisionTime": "2026-10-20T09:00:00Z",
+            "decision": "Edit",
+            "reason": "Add the confirmed start time",
+            "reviewedVersion": "v1",
+            "reviewedDestination": "Public events page",
+            "supportingInformationReference": [
+              "organizer-form-v1"
+            ]
+          },
+          "archiveRecord": null,
+          "simulatedOwnerNotification": null,
+          "approvalFieldsComplete": true,
+          "id": "A-003",
+          "status": "Review required",
+          "queue": "Changes requested",
+          "actionReached": false,
+          "realExternalAction": false,
+          "versionDestinationContentAttachmentsMatch": false
+        },
+        {
+          "decisionRecord": {
+            "reviewerRole": "Event communications reviewer",
+            "decisionTime": "2026-10-20T09:00:00Z",
+            "decision": "",
+            "reason": "",
+            "reviewedVersion": "v1",
+            "reviewedDestination": "Public events page",
+            "supportingInformationReference": [
+              "organizer-form-v1"
+            ]
+          },
+          "archiveRecord": null,
+          "simulatedOwnerNotification": null,
+          "approvalFieldsComplete": true,
+          "id": "A-004",
+          "status": "Pending",
+          "queue": "Pending review",
+          "actionReached": false,
+          "realExternalAction": false,
+          "versionDestinationContentAttachmentsMatch": true
+        },
+        {
+          "decisionRecord": {
+            "reviewerRole": "Event communications reviewer",
+            "decisionTime": "2026-10-20T09:00:00Z",
+            "decision": "Needs discussion",
+            "reason": "",
+            "reviewedVersion": "v1",
+            "reviewedDestination": "Public events page",
+            "supportingInformationReference": [
+              "organizer-form-v1"
+            ]
+          },
+          "archiveRecord": null,
+          "simulatedOwnerNotification": null,
+          "approvalFieldsComplete": true,
+          "id": "A-005",
+          "status": "Manual review required",
+          "queue": "Pending review",
+          "actionReached": false,
+          "realExternalAction": false,
+          "versionDestinationContentAttachmentsMatch": true
+        },
+        {
+          "decisionRecord": {
+            "reviewerRole": "Event communications reviewer",
+            "decisionTime": "2026-10-20T09:00:00Z",
+            "decision": "Approved",
+            "reason": "",
+            "reviewedVersion": "v1",
+            "reviewedDestination": "Public events page",
+            "supportingInformationReference": [
+              "organizer-form-v1"
+            ]
+          },
+          "archiveRecord": null,
+          "simulatedOwnerNotification": null,
+          "approvalFieldsComplete": true,
+          "id": "A-006",
+          "status": "Review required",
+          "queue": "Pending review",
+          "actionReached": false,
+          "realExternalAction": false,
+          "versionDestinationContentAttachmentsMatch": false
+        },
+        {
+          "decisionRecord": {
+            "reviewerRole": "Event communications reviewer",
+            "decisionTime": "2026-10-20T09:00:00Z",
+            "decision": "Approved",
+            "reason": "",
+            "reviewedVersion": "v1",
+            "reviewedDestination": "Public events page",
+            "supportingInformationReference": [
+              "organizer-form-v1"
+            ]
+          },
+          "archiveRecord": null,
+          "simulatedOwnerNotification": null,
+          "approvalFieldsComplete": true,
+          "id": "A-007",
+          "status": "Review required",
+          "queue": "Pending review",
+          "actionReached": false,
+          "realExternalAction": false,
+          "versionDestinationContentAttachmentsMatch": false
+        },
+        {
+          "decisionRecord": {
+            "reviewerRole": "Event communications reviewer",
+            "decisionTime": "2026-10-20T09:00:00Z",
+            "decision": "Approved",
+            "reason": "",
+            "reviewedVersion": "v1",
+            "reviewedDestination": "Public events page",
+            "supportingInformationReference": [
+              "organizer-form-v1"
+            ]
+          },
+          "archiveRecord": null,
+          "simulatedOwnerNotification": null,
+          "approvalFieldsComplete": true,
+          "id": "A-008",
+          "status": "Review required",
+          "queue": "Pending review",
+          "actionReached": false,
+          "realExternalAction": false,
+          "versionDestinationContentAttachmentsMatch": false
+        },
+        {
+          "decisionRecord": {
+            "reviewerRole": "Event communications reviewer",
+            "decisionTime": "2026-10-20T09:00:00Z",
+            "decision": "Approved",
+            "reason": "",
+            "reviewedVersion": "v1",
+            "reviewedDestination": "Public events page",
+            "supportingInformationReference": [
+              "organizer-form-v1"
+            ]
+          },
+          "archiveRecord": null,
+          "simulatedOwnerNotification": null,
+          "approvalFieldsComplete": true,
+          "id": "A-009",
+          "status": "Review required",
+          "queue": "Pending review",
+          "actionReached": false,
+          "realExternalAction": false,
+          "versionDestinationContentAttachmentsMatch": false
+        }
+      ],
+      "extraUnknownCaseChecks": 2,
+      "incompleteApprovalNegativeChecks": 25,
+      "rejectionReasonAndNotificationRetained": true
+    }
+  },
+  "windowsNativeJobs": [
+    {
+      "jobId": "practical201_queue_create_20261112_v1",
+      "done": {
+        "id": "practical201_queue_create_20261112_v1",
+        "scriptSha256": "05673A18D08EEDC52D68BEE6CBD2C2061DAD4A14C7EFD4207B0FF4092F3002FD",
+        "exitCode": 0,
+        "guestBootUtc": "2026-11-12T09:38:41.5000000Z",
+        "pid": 8156,
+        "at": "2026-11-12T09:50:43.7847685Z",
+        "state": "EXITED"
+      },
+      "stdout": "C:\\AcademyCourse201-Approval-20261112-v1\n{\n    \"version\":  \"10.0.26100.0\",\n    \"files\":  [\n                  {\n                      \"sha256\":  \"d362c61f90a8502230e140bf6840ad7b3bd49cad2d15c647a34cb4fc1a64bc1b\",\n                      \"name\":  \"decision-log.csv\",\n                      \"bytes\":  387\n                  },\n                  {\n                      \"sha256\":  \"ed6a3ef4d46d45fb3c9b69c2c8fb2715f0b687830a109581d0098eb5db99ea1b\",\n                      \"name\":  \"03 Rejected\\\\A-002_Riverside-Reading-Day_v1.txt\",\n                      \"bytes\":  254\n                  },\n                  {\n                      \"sha256\":  \"33f27b2943ecb1bbaf6117f39908cefa3d62d36ee74257fdf28370ee2e0a0d81\",\n                      \"name\":  \"05 Simulated Action Log\\\\A-001_approved_v1.txt\",\n                      \"bytes\":  261\n                  }\n              ],\n    \"purpose\":  \"Academy201 fictional queue only\",\n    \"folders\":  [\n                    \"01 Pending Review\",\n                    \"02 Approved\",\n                    \"03 Rejected\",\n                    \"04 Changes Requested\",\n                    \"05 Simulated Action Log\"\n                ],\n    \"state\":  \"COMPLETE\",\n    \"platform\":  \"Microsoft Windows 11 Enterprise LTSC Evaluation\"\n}\n\n",
+      "stderr": "\n"
+    },
+    {
+      "jobId": "practical201_queue_existingguard_20261112_v1",
+      "done": {
+        "id": "practical201_queue_existingguard_20261112_v1",
+        "scriptSha256": "6949722C960ACF27314928D6261E354AC8C8D2525CD7CBB59BD47C90142EC69B",
+        "exitCode": 0,
+        "guestBootUtc": "2026-11-12T09:38:41.5000000Z",
+        "pid": 9508,
+        "at": "2026-11-12T09:50:50.7532462Z",
+        "state": "EXITED"
+      },
+      "stdout": "{\n    \"scope\":  \"Academy201 only\",\n    \"fileCount\":  3,\n    \"existingDestinationRejected\":  true,\n    \"allFilesSHAUnchanged\":  true,\n    \"state\":  \"COMPLETE\"\n}\n\n",
+      "stderr": "\n"
+    }
+  ]
+}

@@ -1,0 +1,200 @@
+[
+  {
+    "reviewedVersion": "v1",
+    "currentVersion": "v1",
+    "reviewedDestination": "Public events page",
+    "currentDestination": "Public events page",
+    "reviewedContent": "Riverside Reading Day \u2014 proposed date 24 October 2026. Start time not supplied.",
+    "currentContent": "Riverside Reading Day \u2014 proposed date 24 October 2026. Start time not supplied.",
+    "reviewedAttachments": [
+      "organizer-form-v1"
+    ],
+    "currentAttachments": [
+      "organizer-form-v1"
+    ],
+    "reason": "",
+    "decisionTime": "2026-10-20T09:00:00Z",
+    "reviewerRole": "Event communications reviewer",
+    "personalName": "",
+    "permission": "Confirmed for simulation",
+    "id": "A-001",
+    "decision": "Approved",
+    "expectedStatus": "Simulated action"
+  },
+  {
+    "reviewedVersion": "v1",
+    "currentVersion": "v1",
+    "reviewedDestination": "Public events page",
+    "currentDestination": "Public events page",
+    "reviewedContent": "Riverside Reading Day \u2014 proposed date 24 October 2026. Start time not supplied.",
+    "currentContent": "Riverside Reading Day \u2014 proposed date 24 October 2026. Start time not supplied.",
+    "reviewedAttachments": [
+      "organizer-form-v1"
+    ],
+    "currentAttachments": [
+      "organizer-form-v1"
+    ],
+    "reason": "Start time is missing",
+    "decisionTime": "2026-10-20T09:00:00Z",
+    "reviewerRole": "Event communications reviewer",
+    "personalName": "",
+    "permission": "Confirmed for simulation",
+    "id": "A-002",
+    "decision": "Rejected",
+    "expectedStatus": "Blocked"
+  },
+  {
+    "reviewedVersion": "v1",
+    "currentVersion": "v2",
+    "reviewedDestination": "Public events page",
+    "currentDestination": "Public events page",
+    "reviewedContent": "Riverside Reading Day \u2014 proposed date 24 October 2026. Start time not supplied.",
+    "currentContent": "Riverside Reading Day \u2014 proposed date 24 October 2026. Start time: 10:00 (Assumption\u2014confirmation not attached).",
+    "reviewedAttachments": [
+      "organizer-form-v1"
+    ],
+    "currentAttachments": [
+      "organizer-form-v1"
+    ],
+    "reason": "Add the confirmed start time",
+    "decisionTime": "2026-10-20T09:00:00Z",
+    "reviewerRole": "Event communications reviewer",
+    "personalName": "",
+    "permission": "Confirmed for simulation",
+    "id": "A-003",
+    "decision": "Edit",
+    "expectedStatus": "Review required"
+  },
+  {
+    "reviewedVersion": "v1",
+    "currentVersion": "v1",
+    "reviewedDestination": "Public events page",
+    "currentDestination": "Public events page",
+    "reviewedContent": "Riverside Reading Day \u2014 proposed date 24 October 2026. Start time not supplied.",
+    "currentContent": "Riverside Reading Day \u2014 proposed date 24 October 2026. Start time not supplied.",
+    "reviewedAttachments": [
+      "organizer-form-v1"
+    ],
+    "currentAttachments": [
+      "organizer-form-v1"
+    ],
+    "reason": "",
+    "decisionTime": "2026-10-20T09:00:00Z",
+    "reviewerRole": "Event communications reviewer",
+    "personalName": "",
+    "permission": "Confirmed for simulation",
+    "id": "A-004",
+    "decision": "",
+    "expectedStatus": "Pending"
+  },
+  {
+    "reviewedVersion": "v1",
+    "currentVersion": "v1",
+    "reviewedDestination": "Public events page",
+    "currentDestination": "Public events page",
+    "reviewedContent": "Riverside Reading Day \u2014 proposed date 24 October 2026. Start time not supplied.",
+    "currentContent": "Riverside Reading Day \u2014 proposed date 24 October 2026. Start time not supplied.",
+    "reviewedAttachments": [
+      "organizer-form-v1"
+    ],
+    "currentAttachments": [
+      "organizer-form-v1"
+    ],
+    "reason": "",
+    "decisionTime": "2026-10-20T09:00:00Z",
+    "reviewerRole": "Event communications reviewer",
+    "personalName": "",
+    "permission": "Confirmed for simulation",
+    "id": "A-005",
+    "decision": "Needs discussion",
+    "expectedStatus": "Manual review required"
+  },
+  {
+    "reviewedVersion": "v1",
+    "currentVersion": "v1",
+    "reviewedDestination": "Public events page",
+    "currentDestination": "Private staff page",
+    "reviewedContent": "Riverside Reading Day \u2014 proposed date 24 October 2026. Start time not supplied.",
+    "currentContent": "Riverside Reading Day \u2014 proposed date 24 October 2026. Start time not supplied.",
+    "reviewedAttachments": [
+      "organizer-form-v1"
+    ],
+    "currentAttachments": [
+      "organizer-form-v1"
+    ],
+    "reason": "",
+    "decisionTime": "2026-10-20T09:00:00Z",
+    "reviewerRole": "Event communications reviewer",
+    "personalName": "",
+    "permission": "Confirmed for simulation",
+    "id": "A-006",
+    "decision": "Approved",
+    "expectedStatus": "Review required"
+  },
+  {
+    "reviewedVersion": "v1",
+    "currentVersion": "v1",
+    "reviewedDestination": "Public events page",
+    "currentDestination": "Public events page",
+    "reviewedContent": "Riverside Reading Day \u2014 proposed date 24 October 2026. Start time not supplied.",
+    "currentContent": "Riverside Reading Day \u2014 proposed date 24 October 2026. Start time not supplied. Venue added without review.",
+    "reviewedAttachments": [
+      "organizer-form-v1"
+    ],
+    "currentAttachments": [
+      "organizer-form-v1"
+    ],
+    "reason": "",
+    "decisionTime": "2026-10-20T09:00:00Z",
+    "reviewerRole": "Event communications reviewer",
+    "personalName": "",
+    "permission": "Confirmed for simulation",
+    "id": "A-007",
+    "decision": "Approved",
+    "expectedStatus": "Review required"
+  },
+  {
+    "reviewedVersion": "v1",
+    "currentVersion": "v1",
+    "reviewedDestination": "Public events page",
+    "currentDestination": "Public events page",
+    "reviewedContent": "Riverside Reading Day \u2014 proposed date 24 October 2026. Start time not supplied.",
+    "currentContent": "Riverside Reading Day \u2014 proposed date 24 October 2026. Start time not supplied.",
+    "reviewedAttachments": [
+      "organizer-form-v1"
+    ],
+    "currentAttachments": [
+      "organizer-form-v2"
+    ],
+    "reason": "",
+    "decisionTime": "2026-10-20T09:00:00Z",
+    "reviewerRole": "Event communications reviewer",
+    "personalName": "",
+    "permission": "Confirmed for simulation",
+    "id": "A-008",
+    "decision": "Approved",
+    "expectedStatus": "Review required"
+  },
+  {
+    "reviewedVersion": "v1",
+    "currentVersion": "v2",
+    "reviewedDestination": "Public events page",
+    "currentDestination": "Public events page",
+    "reviewedContent": "Riverside Reading Day \u2014 proposed date 24 October 2026. Start time not supplied.",
+    "currentContent": "Riverside Reading Day \u2014 proposed date 24 October 2026. Start time not supplied.",
+    "reviewedAttachments": [
+      "organizer-form-v1"
+    ],
+    "currentAttachments": [
+      "organizer-form-v1"
+    ],
+    "reason": "",
+    "decisionTime": "2026-10-20T09:00:00Z",
+    "reviewerRole": "Event communications reviewer",
+    "personalName": "",
+    "permission": "Confirmed for simulation",
+    "id": "A-009",
+    "decision": "Approved",
+    "expectedStatus": "Review required"
+  }
+]

@@ -1,0 +1,10 @@
+record_id,decision,expected_status,action_reached,real_external_action
+A-001,Approved,Simulated action,true,false
+A-002,Rejected,Blocked,false,false
+A-003,Edit,Review required,false,false
+A-004,,Pending,false,false
+A-005,Needs discussion,Manual review required,false,false
+A-006,Approved,Review required,false,false
+A-007,Approved,Review required,false,false
+A-008,Approved,Review required,false,false
+A-009,Approved,Review required,false,false
