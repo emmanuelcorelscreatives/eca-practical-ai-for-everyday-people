@@ -1,0 +1,7 @@
+question_id,question,draft_answer,source_id,evidence_status,assumption_or_gap,reviewer,decision,escalation_route
+Q1,Do I need to book?,"No booking is required. Visitors are helped in arrival order, subject to volunteer availability.",S1,Supported,,Content coordinator,Approved,
+Q2,What time does it start?,"The event is on Saturday, 10:00–14:00, at Community Hall.",S1,Supported,,Content coordinator,Approved,
+Q3,Can I bring a toaster?,"You may bring a small portable toaster for assessment. Whether volunteers can work on it depends on available skills, tools, and safe working conditions.",S2,Supported,,Content coordinator,Approved,
+Q4,Is there a fee?,,,Unanswered,"Whether attendance, assessment, parts, or repairs have a charge.",Content coordinator,Hold,Event coordinator; clarify which service or item; awaiting confirmation
+Q5,Can you repair phones?,,S2,Conflicting,Proposed NOT APPROVED update says phones are not accepted. Do not resolve by guessing.,Content coordinator,Hold,Workshop coordinator; resolve and approve source policy
+Q6,Is parking available?,Parking is available.,,Unanswered,Unsupported claim; remove and seek approved accessibility/parking information.,Content coordinator,Returned for edit,Event coordinator; confirm approved parking/access information

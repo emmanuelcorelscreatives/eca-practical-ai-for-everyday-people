@@ -1,0 +1,129 @@
+{
+  "sources": [
+    {
+      "source_id": "S1",
+      "document": "Event Information Sheet",
+      "owner": "Maya Chen",
+      "approved_date": "14 May 2025",
+      "public_use": "Yes",
+      "facts": "Saturday, 10:00–14:00; Community Hall; Booking is not required. Visitors are helped in arrival order, subject to volunteer availability."
+    },
+    {
+      "source_id": "S2",
+      "document": "Item Policy",
+      "owner": "Daniel Ortiz",
+      "approved_date": "09 May 2025",
+      "public_use": "Yes",
+      "facts": "Small portable household electrical items may be assessed. Acceptance depends on available volunteers, tools, and safe working conditions."
+    },
+    {
+      "source_id": "S3",
+      "document": "Volunteer Guide",
+      "owner": "Priya Nair",
+      "approved_date": "06 May 2025",
+      "public_use": "No",
+      "facts": "Internal role guidance. Not an approved public-answer source."
+    }
+  ],
+  "questions": [
+    {
+      "id": "Q1",
+      "question": "Do I need to book?",
+      "count": 8
+    },
+    {
+      "id": "Q2",
+      "question": "What time does it start?",
+      "count": 6
+    },
+    {
+      "id": "Q3",
+      "question": "Can I bring a toaster?",
+      "count": 5
+    },
+    {
+      "id": "Q4",
+      "question": "Is there a fee?",
+      "count": 4
+    },
+    {
+      "id": "Q5",
+      "question": "Can you repair phones?",
+      "count": 3
+    },
+    {
+      "id": "Q6",
+      "question": "Is parking available?",
+      "count": 2
+    }
+  ],
+  "answers": [
+    {
+      "question_id": "Q1",
+      "question": "Do I need to book?",
+      "draft_answer": "No booking is required. Visitors are helped in arrival order, subject to volunteer availability.",
+      "source_id": "S1",
+      "evidence_status": "Supported",
+      "assumption_or_gap": "",
+      "reviewer": "Content coordinator",
+      "decision": "Approved",
+      "escalation_route": ""
+    },
+    {
+      "question_id": "Q2",
+      "question": "What time does it start?",
+      "draft_answer": "The event is on Saturday, 10:00–14:00, at Community Hall.",
+      "source_id": "S1",
+      "evidence_status": "Supported",
+      "assumption_or_gap": "",
+      "reviewer": "Content coordinator",
+      "decision": "Approved",
+      "escalation_route": ""
+    },
+    {
+      "question_id": "Q3",
+      "question": "Can I bring a toaster?",
+      "draft_answer": "You may bring a small portable toaster for assessment. Whether volunteers can work on it depends on available skills, tools, and safe working conditions.",
+      "source_id": "S2",
+      "evidence_status": "Supported",
+      "assumption_or_gap": "",
+      "reviewer": "Content coordinator",
+      "decision": "Approved",
+      "escalation_route": ""
+    },
+    {
+      "question_id": "Q4",
+      "question": "Is there a fee?",
+      "draft_answer": "",
+      "source_id": "",
+      "evidence_status": "Unanswered",
+      "assumption_or_gap": "Whether attendance, assessment, parts, or repairs have a charge.",
+      "reviewer": "Content coordinator",
+      "decision": "Hold",
+      "escalation_route": "Event coordinator; clarify which service or item; awaiting confirmation"
+    },
+    {
+      "question_id": "Q5",
+      "question": "Can you repair phones?",
+      "draft_answer": "",
+      "source_id": "S2",
+      "evidence_status": "Conflicting",
+      "assumption_or_gap": "Proposed NOT APPROVED update says phones are not accepted. Do not resolve by guessing.",
+      "reviewer": "Content coordinator",
+      "decision": "Hold",
+      "escalation_route": "Workshop coordinator; resolve and approve source policy"
+    },
+    {
+      "question_id": "Q6",
+      "question": "Is parking available?",
+      "draft_answer": "Parking is available.",
+      "source_id": "",
+      "evidence_status": "Unanswered",
+      "assumption_or_gap": "Unsupported claim; remove and seek approved accessibility/parking information.",
+      "reviewer": "Content coordinator",
+      "decision": "Returned for edit",
+      "escalation_route": "Event coordinator; confirm approved parking/access information"
+    }
+  ],
+  "footer": "Can’t find your answer? Contact the event team and include the item type, your question, and any access requirement. A team member will review your request."
+}

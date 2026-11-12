@@ -1,0 +1,7 @@
+question_id,question,draft_answer,source_id,evidence_status,assumption_or_gap,reviewer,decision,escalation_route
+Q1,Do I need to book?,,,,,,,
+Q2,What time does it start?,,,,,,,
+Q3,Can I bring a toaster?,,,,,,,
+Q4,Is there a fee?,,,,,,,
+Q5,Can you repair phones?,,,,,,,
+Q6,Is parking available?,,,,,,,

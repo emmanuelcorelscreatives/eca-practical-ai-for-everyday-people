@@ -1,0 +1,82 @@
+{
+  "version": 1,
+  "projectId": "cmv75vb4500t15c3chzj0ubqx",
+  "scriptSha256": "7c1c1a23d8d17309bf15f4ccfd53b1014595515d36a3c5464ef97350b9416754",
+  "files": [
+    {
+      "name": "README.md",
+      "sha256": "67f79b977757dc50e271e870c9e121d58838c0c5987292c81d557320b90bfb25",
+      "bytes": 2741
+    },
+    {
+      "name": "answer-key.md",
+      "sha256": "2e451c2c5c5af1f30ea8cc6b9ef4261ab8a43741c3620048893301a11b6cce94",
+      "bytes": 2119
+    },
+    {
+      "name": "approved-sources.md",
+      "sha256": "aae4a96a92efe2f2d590d3acc38a7e003361d62f8458dc8a9e3bf17e726725f1",
+      "bytes": 1233
+    },
+    {
+      "name": "check_materials.py",
+      "sha256": "2a2fbead9a7f41a8a373ad5cee0cdddfe981d00461b02b362c3dd089271de231",
+      "bytes": 1211
+    },
+    {
+      "name": "drafting-instruction.md",
+      "sha256": "0251a0e53e1d81c9ca48580e6d0478529a4230614352b3bfb858470f99e7ef4b",
+      "bytes": 953
+    },
+    {
+      "name": "escalation-log.csv",
+      "sha256": "040d788a97a574da1adf5b6b82916fd4c6d4c1905f0abdb0773e88c02df30a29",
+      "bytes": 786
+    },
+    {
+      "name": "questions.csv",
+      "sha256": "97f90a9de878b2712e1db9d920ca0b94a0bd51c387baaa513133876bee77db61",
+      "bytes": 196
+    },
+    {
+      "name": "reviewed-faq-export.pdf",
+      "sha256": "926ba4255bede12a014d7965a913bd0b316f228953ece32400fe4b723aa381ee",
+      "bytes": 59002
+    },
+    {
+      "name": "reviewed-faq-export.png",
+      "sha256": "79a061c9fbcadbc06c8f639852d9eb2beba08e3d3a452f1f12b7fb6da82786da",
+      "bytes": 128583
+    },
+    {
+      "name": "reviewed-faq.md",
+      "sha256": "a2f160f07f0bbd7b20758d3cb67c5d604473438809bcf0daa67e31eca5f5fe54",
+      "bytes": 722
+    },
+    {
+      "name": "reviewed-tracker.csv",
+      "sha256": "b0d4796c8e7f3e9662db0712f5146cba4e3550ed8433f4be78f41f3b3a0c7cd7",
+      "bytes": 1290
+    },
+    {
+      "name": "scenario.json",
+      "sha256": "1b66e59329df61bbe7117d2d93fe648a04e96e85304f8e7ac8b5da2d5239fd18",
+      "bytes": 4239
+    },
+    {
+      "name": "source-register.csv",
+      "sha256": "73a7a60b7b7b0d7d87f9a71014efbc076737c6ea39d3775dc29d78e1885dd5f7",
+      "bytes": 546
+    },
+    {
+      "name": "tracker-template.csv",
+      "sha256": "54ba8fbb619391ce0d6e4b35246e30ed5d4a640c1abec6d6110c83cf32f954b4",
+      "bytes": 308
+    },
+    {
+      "name": "workspace.html",
+      "sha256": "cc0504f23762ed0c7445a688cf2a862e5709e8dbf0f94550e7082482c012aedb",
+      "bytes": 17740
+    }
+  ]
+}

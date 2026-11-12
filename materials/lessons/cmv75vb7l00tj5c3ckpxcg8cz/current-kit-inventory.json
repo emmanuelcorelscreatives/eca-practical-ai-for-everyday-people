@@ -1,0 +1,72 @@
+{
+  "version": 1,
+  "projectId": "cmv75vb7l00tj5c3ckpxcg8cz",
+  "scriptSha256": "7b63011290225fd40a63a7ac46e824ece3e43f495b641e9eb6f5cafb27fda546",
+  "files": [
+    {
+      "name": "August_Request_Register.csv",
+      "sha256": "4407fc5adfaa41bad39f6ce0f6216a5f1e1ef943b61f2504c923c4177be9ac0e",
+      "bytes": 2022
+    },
+    {
+      "name": "August_Volunteer_Log.csv",
+      "sha256": "ca568973cc8c5bd096438bbaad259595220ca320cba1c405aee4610ba26ab24c",
+      "bytes": 635
+    },
+    {
+      "name": "Communications_Log.csv",
+      "sha256": "ff26abb8484383f5902b30eadbd804f00098a3b75382ba25dd553e440a9d82b7",
+      "bytes": 107
+    },
+    {
+      "name": "README.md",
+      "sha256": "44beb2e732c5cb992786bb8785853c2cf532f5a40d60e36142fca250ee8eef71",
+      "bytes": 2540
+    },
+    {
+      "name": "Repair_Event_Records.xlsx",
+      "sha256": "481cc71b47ff51246451a37580fd49f0fef2d8fb64967cd29d66d60d18cac3f4",
+      "bytes": 9461
+    },
+    {
+      "name": "September_Request_Register_RAW.csv",
+      "sha256": "28abb7cb078db2d7fb8821741b0817aed6cf60e742382e11adb7a88337e03feb",
+      "bytes": 2337
+    },
+    {
+      "name": "Volunteer_Log.csv",
+      "sha256": "ad563f88d17baa75466f30993f84f1b9078f61ba3c9950eb1d8b6fb7a0cde9e3",
+      "bytes": 879
+    },
+    {
+      "name": "assistant-prompt.txt",
+      "sha256": "ac8c31863164d738e531cafbe7db22a674a42677e164b992090f9c861d731b55",
+      "bytes": 947
+    },
+    {
+      "name": "data-dictionary.md",
+      "sha256": "2f24cfd105e5324f615eba3fdae4b4547ed10e52c8e4070f36732363f49d8b98",
+      "bytes": 1327
+    },
+    {
+      "name": "generated-draft-example.md",
+      "sha256": "45018586b2e586ff913964e56bcc5043a0aaafbc46c5ceecdbef3e6f8e93acb5",
+      "bytes": 557
+    },
+    {
+      "name": "review-checklist.md",
+      "sha256": "99e5462c886818a440f43b869c5c5be824ff382c764248c2ac94c995a85c32cb",
+      "bytes": 558
+    },
+    {
+      "name": "reviewed-update.md",
+      "sha256": "44de924f41689edc3d7935f4975eb80deb2f9a330c3f5e21e7f89d566dc7bcc5",
+      "bytes": 1191
+    },
+    {
+      "name": "verify.py",
+      "sha256": "e3c63aca0d98a493c6de480ea3e0e4336af559352e2ff73f32833f14d83e99a8",
+      "bytes": 1192
+    }
+  ]
+}
