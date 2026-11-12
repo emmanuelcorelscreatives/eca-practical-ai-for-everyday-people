@@ -1,0 +1,42 @@
+{
+  "version": 1,
+  "projectId": "cmv75vbqo00w15c3c8ktwhjd6",
+  "scriptSha256": "fa57e0b61bbda471d75283e06e23a2b4e647e9569fcfb1f02d4fcf6654e59579",
+  "files": [
+    {
+      "name": "check.py",
+      "sha256": "e420684cad88b871d1dfd99616ab50b6aabbdfd8390151a50254e8eb0ddbefd0",
+      "bytes": 1018
+    },
+    {
+      "name": "expected-results.json",
+      "sha256": "c1265f3049a173dec5d7fa5beaf47ecd4d0a19d9f2bfab49235963f451b131ec",
+      "bytes": 1513
+    },
+    {
+      "name": "fictional-submissions.json",
+      "sha256": "db112b7f761aa6a981f56ba6ff2ff573aff117afafcf34dae8d2677fffd2d787",
+      "bytes": 960
+    },
+    {
+      "name": "manual-worksheet.csv",
+      "sha256": "b72b61ce58bfad17aefefe24c41ee5bb87bc5e2de6590850dc6059b5dcd65f0d",
+      "bytes": 308
+    },
+    {
+      "name": "practice-board.html",
+      "sha256": "a544faf0079baad333dbbdf944fe3af8787c8c7a9de4e95f7cab9da12239e69a",
+      "bytes": 6617
+    },
+    {
+      "name": "simulate.py",
+      "sha256": "f29ec7ff7f0fd1e75cd13a6f0b739843222f679cbf90221068cf6b5717647b22",
+      "bytes": 1130
+    },
+    {
+      "name": "worksheet.md",
+      "sha256": "7084ffaf879fb455a1dab51ef90ad8bae77b4d91ecfba91cf2ff527813cec883",
+      "bytes": 4494
+    }
+  ]
+}

@@ -1,0 +1,57 @@
+[
+  {
+    "route": "Workshop review draft",
+    "record": {
+      "Submission ID": "FS-104",
+      "Category": "Workshop request",
+      "Contact name": "Samira Noor",
+      "Reply address": "samira@example.test",
+      "Enquiry summary": "Saturday session for beginners"
+    }
+  },
+  {
+    "route": "Manual-review record",
+    "record": {
+      "Submission ID": "FS-105",
+      "Category": "Venue question",
+      "Contact name": "Alex Rowan",
+      "Reply address": "alex@example.test",
+      "Enquiry summary": "Is the room accessible?",
+      "Review instruction": "Review category manually"
+    }
+  },
+  {
+    "route": "Workshop review draft",
+    "record": {
+      "Submission ID": "FS-106",
+      "Category": "Workshop request",
+      "Contact name": "Rae Chen",
+      "Reply address": "rae@example.test",
+      "Enquiry summary": "Evening introduction"
+    }
+  },
+  {
+    "route": "Manual-review record",
+    "record": {
+      "Submission ID": "FS-107",
+      "Category": "General question",
+      "Contact name": "Dee Morgan",
+      "Reply address": "dee@example.test",
+      "Enquiry summary": "Where can I read the public timetable?",
+      "Review instruction": "Review category manually"
+    }
+  },
+  {
+    "route": "Manual clarification",
+    "missing": [
+      "Reply address"
+    ],
+    "record": {
+      "Submission ID": "FS-108",
+      "Name": "Noor Ellis",
+      "Reply address": "",
+      "Request type": "Workshop request",
+      "Message": "I would like an introductory session"
+    }
+  }
+]
