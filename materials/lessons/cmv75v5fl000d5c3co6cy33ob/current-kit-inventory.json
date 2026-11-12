@@ -1,0 +1,67 @@
+{
+  "version": 1,
+  "projectId": "cmv75v5fl000d5c3co6cy33ob",
+  "scriptSha256": "0b1de79ba436e6b78880c602392bfaaa55d7a0349c470f9aab4fbed45ca81b5d",
+  "files": [
+    {
+      "name": "LICENSE.txt",
+      "sha256": "652b45c2c45e6467eb8abb8a8ef0ae131e7a074ec2d09d476c116b5fd8b8773f",
+      "bytes": 205
+    },
+    {
+      "name": "README.md",
+      "sha256": "913bad118bb81a6878a0eed01da6abebfc2b3cc67de6d754bc95fa5acebf9e35",
+      "bytes": 2360
+    },
+    {
+      "name": "assistant-instruction.txt",
+      "sha256": "0b7a953e01ad2c2c7dcd5b67ddab9572ebeca76dbdd0b0dc97d0928a34447e84",
+      "bytes": 121
+    },
+    {
+      "name": "check_reference.py",
+      "sha256": "aac6a2ff743f9e12f20a52b61fddf0bc25c7176755c8dd285da4d61b4b26192b",
+      "bytes": 914
+    },
+    {
+      "name": "chosen-first-goal.md",
+      "sha256": "ad312726590d5e242af8b68e7b41b3b277deef557ac446ac5151e9944cb6219f",
+      "bytes": 463
+    },
+    {
+      "name": "exercises.md",
+      "sha256": "bae77c95c145907fb8866a1e00a6c2a54f8b3feab4e52c100f70d98136312c76",
+      "bytes": 941
+    },
+    {
+      "name": "expected-checklist.md",
+      "sha256": "6ce4367c9d4141a86450319058ee2a5a4ce1740ff2012cf3e64cc0ddb523c55f",
+      "bytes": 284
+    },
+    {
+      "name": "fictional-household-notes.txt",
+      "sha256": "d010ab2919c3b5625f60688d4501487a59ad587729d454b5bff1a3fcdd8720b3",
+      "bytes": 121
+    },
+    {
+      "name": "manual-fallback.md",
+      "sha256": "d2983bacc4f5c5e4098436b75c7735c8ecb9832a2283f39b113a3e915a5410f4",
+      "bytes": 386
+    },
+    {
+      "name": "opportunity-list-blank.csv",
+      "sha256": "432177688805a7843fae32d5d7f8ec5f03566de3f9db62efab102fbc671c80d4",
+      "bytes": 68
+    },
+    {
+      "name": "opportunity-list-example.csv",
+      "sha256": "d5e7af613b266dad9f84866470b639137381026c66ad9d814b1072d7034880b1",
+      "bytes": 398
+    },
+    {
+      "name": "six-quality-check.md",
+      "sha256": "d968ba1851bc625959d2dc9d6b8492b68d7087eadf33337a72bb209c0404c267",
+      "bytes": 768
+    }
+  ]
+}
