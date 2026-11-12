@@ -1,0 +1,15 @@
+FICTIONAL SERVICE NOTE — INDEPENDENT PRACTICE
+All details invented; no real person or business.
+Customer: Theo Example
+Account: DEMO-9731
+Email: theo@example.invalid
+Address: 8 Fiction Lane, Example Town
+Item: replacement reading light
+Original estimate: 5 November 2026
+New estimate: 8 November 2026
+Note: side entrance after 19:30
+
+Task: Draft a polite update of the changed estimate. Do not send anything.
+Create four artifacts: source copy, sanitised prompt, draft, and completed review worksheet.
+Remove unnecessary identifiers, preserve the task facts, label missing information.
+If uncertain, demonstrate a placeholder-only manual fallback instead.

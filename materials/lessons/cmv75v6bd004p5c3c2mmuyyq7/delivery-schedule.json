@@ -1,0 +1,428 @@
+{
+  "provenance": "Saved authored delivery schedule, not a newly measured native export. Every original cue retained exactly once; final native export duration remains its own release gate.",
+  "projectId": "cmv75v6bd004p5c3c2mmuyyq7",
+  "durationSeconds": 780,
+  "measuredNarrationTimingSignature": "db28d39a25a560e4a906ce8d5d1c64df5cfe3a1a98ef9fee7b733ca6a01f75d4",
+  "cues": [
+    {
+      "id": "idea-8f78c2ac9efc45ec-sub-1",
+      "end": 12.36488419098749,
+      "text": "Repeated prompts become messy when useful instructions are mixed with changing details. I\u2019ll show you how to separate them.",
+      "start": 0
+    },
+    {
+      "id": "idea-8f78c2ac9efc45ec-sub-2",
+      "end": 17.71646552275688,
+      "text": "You\u2019ll build one reusable prompt.",
+      "start": 12.36488419098749
+    },
+    {
+      "id": "idea-8f78c2ac9efc45ec-sub-3",
+      "end": 27.64646552275688,
+      "text": "This isn\u2019t a magical prompt for every task. It\u2019s a practical template with labelled spaces for the audience, source, constraints",
+      "start": 17.71646552275688
+    },
+    {
+      "id": "idea-8f78c2ac9efc45ec-sub-4",
+      "end": 32.41451997720466,
+      "text": "and required result.",
+      "start": 27.64646552275688
+    },
+    {
+      "id": "idea-8f78c2ac9efc45ec-sub-5",
+      "end": 40.87721007906856,
+      "text": "A clear request describes the goal, context, input, constraints, and output.",
+      "start": 32.41451997720466
+    },
+    {
+      "id": "idea-8f78c2ac9efc45ec-sub-6",
+      "end": 48.38794362900816,
+      "text": "We\u2019ll decide which parts stay fixed and which become labelled fields.",
+      "start": 40.87721007906856
+    },
+    {
+      "id": "idea-8f78c2ac9efc45ec-sub-7",
+      "end": 59.19794362900817,
+      "text": "This one-off request asks for a friendly announcement for local residents. It requires a heading, two short paragraphs, preserved details",
+      "start": 48.38794362900816
+    },
+    {
+      "id": "idea-8f78c2ac9efc45ec-sub-8",
+      "end": 73.99204012780567,
+      "text": "and no guessing. The source notes contain the event name, date, time, location, registration rule, and contact method.",
+      "start": 59.19794362900817
+    },
+    {
+      "id": "idea-8f78c2ac9efc45ec-sub-9",
+      "end": 82.25771752946183,
+      "text": "To reuse the request, we must expose the values that could change.",
+      "start": 73.99204012780567
+    },
+    {
+      "id": "idea-8f78c2ac9efc45ec-sub-10",
+      "end": 96.14771752946183,
+      "text": "I\u2019ll split the request into fixed instructions and changing values. The fixed instructions define the recurring job: rewrite supplied notes, preserve facts, avoid unsupported additions",
+      "start": 82.25771752946183
+    },
+    {
+      "id": "idea-8f78c2ac9efc45ec-sub-11",
+      "end": 103.9277175294618,
+      "text": "and follow the required structure. Details such as audience, purpose, source, constraints",
+      "start": 96.14771752946183
+    },
+    {
+      "id": "idea-8f78c2ac9efc45ec-sub-12",
+      "end": 112.1295635224484,
+      "text": "and format belong in labelled fields because they change with each use.",
+      "start": 103.9277175294618
+    },
+    {
+      "id": "idea-8f78c2ac9efc45ec-sub-13",
+      "end": 125.4576344491649,
+      "text": "I\u2019ll use seven clear fields. Task defines the work; Audience and Purpose identify who the result serves and why.",
+      "start": 112.1295635224484
+    },
+    {
+      "id": "idea-8f78c2ac9efc45ec-sub-14",
+      "end": 136.2476344491649,
+      "text": "Source Text contains the material. Must Preserve protects essential details. Constraints set limits",
+      "start": 125.4576344491649
+    },
+    {
+      "id": "idea-8f78c2ac9efc45ec-sub-15",
+      "end": 149.8720998681131,
+      "text": "while Output Format defines the finished shape. One fixed rule says to use only the source and flag missing information instead of inventing it.",
+      "start": 136.2476344491649
+    },
+    {
+      "id": "idea-8f78c2ac9efc45ec-sub-16",
+      "end": 163.1052242641656,
+      "text": "Square brackets are readable labels, not universal commands. Braces, blank lines, or a table could work too.",
+      "start": 149.8720998681131
+    },
+    {
+      "id": "idea-8f78c2ac9efc45ec-sub-17",
+      "end": 171.4552242641656,
+      "text": "What matters is that each field clearly shows where a new value belongs. Keep the labels consistent",
+      "start": 163.1052242641656
+    },
+    {
+      "id": "idea-8f78c2ac9efc45ec-sub-18",
+      "end": 178.9399792677188,
+      "text": "then replace only their values whenever you reuse the template.",
+      "start": 171.4552242641656
+    },
+    {
+      "id": "idea-8f78c2ac9efc45ec-sub-19",
+      "end": 191.2515605994882,
+      "text": "Keep instructions separate from source material. Instructions define the task; the source provides the permitted material.",
+      "start": 178.9399792677188
+    },
+    {
+      "id": "idea-8f78c2ac9efc45ec-sub-20",
+      "end": 201.9215605994882,
+      "text": "A heading and divider make that boundary visible. Use material you created, own, have permission to process, or may otherwise use",
+      "start": 191.2515605994882
+    },
+    {
+      "id": "idea-8f78c2ac9efc45ec-sub-21",
+      "end": 213.6507060207774,
+      "text": "and remove unnecessary private information. The source supports the draft doesn\u2019t verify itself.",
+      "start": 201.9215605994882
+    },
+    {
+      "id": "idea-8f78c2ac9efc45ec-sub-22",
+      "end": 226.1807060207774,
+      "text": "A reusable prompt needs a rule for incomplete inputs. If the location field is empty, don\u2019t let the assistant guess. Write",
+      "start": 213.6507060207774
+    },
+    {
+      "id": "idea-8f78c2ac9efc45ec-sub-23",
+      "end": 241.0940412373427,
+      "text": "\u201cIf a required field is empty, identify it and do not complete the task.\u201d The useful response is, \u201cMissing: location.\u201d",
+      "start": 226.1807060207774
+    },
+    {
+      "id": "idea-8f78c2ac9efc45ec-sub-24",
+      "end": 251.5292706850644,
+      "text": "You can then find the information, ask the responsible person, or finish manually without hiding uncertainty.",
+      "start": 241.0940412373427
+    },
+    {
+      "id": "idea-8f78c2ac9efc45ec-sub-25",
+      "end": 261.3592706850644,
+      "text": "The template also needs a review checklist. Does the draft perform the task, preserve names, dates, numbers, and commitments",
+      "start": 251.5292706850644
+    },
+    {
+      "id": "idea-8f78c2ac9efc45ec-sub-26",
+      "end": 275.5385431403728,
+      "text": "and avoid unsupported details? Does it match the requested length and format, while showing assumptions or missing information?",
+      "start": 261.3592706850644
+    },
+    {
+      "id": "idea-8f78c2ac9efc45ec-sub-27",
+      "end": 288.7474584721422,
+      "text": "Compare the draft with your source. This checklist isn\u2019t proof, and consequential claims still require suitable independent evidence.",
+      "start": 275.5385431403728
+    },
+    {
+      "id": "idea-8f78c2ac9efc45ec-sub-28",
+      "end": 301.0774584721422,
+      "text": "I\u2019ll test the template with fictional source notes. The Green Corner Workshop invites local residents to the Community Room on 18th November 2026",
+      "start": 288.7474584721422
+    },
+    {
+      "id": "idea-8f78c2ac9efc45ec-sub-29",
+      "end": 314.8374584721422,
+      "text": "from 14:00 to 15:30. Registration through the event form is required. Before submitting, I confirm the complete date, time range",
+      "start": 301.0774584721422
+    },
+    {
+      "id": "idea-8f78c2ac9efc45ec-sub-30",
+      "end": 326.3184190625679,
+      "text": "venue, and registration instruction. These are source notes, not a generated answer.",
+      "start": 314.8374584721422
+    },
+    {
+      "id": "idea-8f78c2ac9efc45ec-sub-31",
+      "end": 340.2248371662912,
+      "text": "I fill the fields without changing the stable instructions. The task is to rewrite the notes as an announcement for local residents.",
+      "start": 326.3184190625679
+    },
+    {
+      "id": "idea-8f78c2ac9efc45ec-sub-32",
+      "end": 355.1842789036219,
+      "text": "The source field contains the exact notes. Must Preserve lists the event name, date, time, location, registration requirement, and contact method.",
+      "start": 340.2248371662912
+    },
+    {
+      "id": "idea-8f78c2ac9efc45ec-sub-33",
+      "end": 365.3505272353913,
+      "text": "The constraints forbid unsupported details, while the output format requires one heading and two short paragraphs.",
+      "start": 355.1842789036219
+    },
+    {
+      "id": "idea-8f78c2ac9efc45ec-sub-34",
+      "end": 379.2205272353913,
+      "text": "The generated draft says: \u201cGreen Corner Workshop. Join local residents for the Green Corner Workshop on 18th November 2026, from 14:00 to 15:30",
+      "start": 365.3505272353913
+    },
+    {
+      "id": "idea-8f78c2ac9efc45ec-sub-35",
+      "end": 392.130958485111,
+      "text": "in the Community Room. Registration is required. Please use the event form to register.\u201d",
+      "start": 379.2205272353913
+    },
+    {
+      "id": "idea-8f78c2ac9efc45ec-sub-36",
+      "end": 402.0609582146868,
+      "text": "I label it as generated material, place it beside the source notes, and begin five checks.",
+      "start": 392.130958485111
+    },
+    {
+      "id": "idea-8f78c2ac9efc45ec-sub-37",
+      "end": 416.3164049759407,
+      "text": "Check one passes because the draft is the requested announcement. For check two, I compare every protected detail with the source notes.",
+      "start": 402.0609582146868
+    },
+    {
+      "id": "idea-8f78c2ac9efc45ec-sub-38",
+      "end": 427.6818307620532,
+      "text": "The event name, date, year, times, Community Room location, registration requirement, and event form all match.",
+      "start": 416.3164049759407
+    },
+    {
+      "id": "idea-8f78c2ac9efc45ec-sub-39",
+      "end": 436.4737762741137,
+      "text": "I inspect the material directly rather than asking the assistant to judge its own accuracy.",
+      "start": 427.6818307620532
+    },
+    {
+      "id": "idea-8f78c2ac9efc45ec-sub-40",
+      "end": 448.757552334779,
+      "text": "For check three, I confirm that the draft adds no price, organizer, guarantee, extra activity, or registration deadline.",
+      "start": 436.4737762741137
+    },
+    {
+      "id": "idea-8f78c2ac9efc45ec-sub-41",
+      "end": 457.7675523347791,
+      "text": "Check four passes because it has one heading and two short paragraphs. For check five, no field is missing",
+      "start": 448.757552334779
+    },
+    {
+      "id": "idea-8f78c2ac9efc45ec-sub-42",
+      "end": 466.0175523347791,
+      "text": "and no assumption appears as fact. This only proves that the fictional draft reflects the fictional notes,",
+      "start": 457.7675523347791
+    },
+    {
+      "id": "idea-8f78c2ac9efc45ec-sub-43",
+      "end": 474.9867553991471,
+      "text": "not that the event exists or remains current.",
+      "start": 466.0175523347791
+    },
+    {
+      "id": "idea-8f78c2ac9efc45ec-sub-44",
+      "end": 483.249202626777,
+      "text": "Suppose the draft said, \u201cFree refreshments will be provided in the Main Hall.\u201d",
+      "start": 474.9867553991471
+    },
+    {
+      "id": "idea-8f78c2ac9efc45ec-sub-45",
+      "end": 498.7380321879555,
+      "text": "That fails because the source names the Community Room and says nothing about refreshments. I would remove the unsupported promise and restore the correct location.",
+      "start": 483.249202626777
+    },
+    {
+      "id": "idea-8f78c2ac9efc45ec-sub-46",
+      "end": 510.1080321879555,
+      "text": "If I couldn\u2019t repair it confidently, I\u2019d write directly from the source notes, using the completed fields as my brief. Reuse should reduce effort",
+      "start": 498.7380321879555
+    },
+    {
+      "id": "idea-8f78c2ac9efc45ec-sub-47",
+      "end": 516.5079014880386,
+      "text": "never make errors harder to challenge.",
+      "start": 510.1080321879555
+    },
+    {
+      "id": "idea-8f78c2ac9efc45ec-sub-48",
+      "end": 530.2356101783954,
+      "text": "After the successful run, I return to the blank master. Its fields are empty, but the instructions and checklist remain.",
+      "start": 516.5079014880386
+    },
+    {
+      "id": "idea-8f78c2ac9efc45ec-sub-49",
+      "end": 541.9754940677564,
+      "text": "Save it in a notes or document app with a task-based name, such as \u201cRewrite notes as a short announcement.\u201d",
+      "start": 530.2356101783954
+    },
+    {
+      "id": "idea-8f78c2ac9efc45ec-sub-50",
+      "end": 550.3462213951008,
+      "text": "Keep each completed copy separate so old details don\u2019t enter a new prompt.",
+      "start": 541.9754940677564
+    },
+    {
+      "id": "idea-8f78c2ac9efc45ec-sub-51",
+      "end": 562.8862213951007,
+      "text": "The second fictional case tests adaptability. The Riverside Book Swap is for students and staff at the Library Entrance on 3rd December 2026,",
+      "start": 550.3462213951008
+    },
+    {
+      "id": "idea-8f78c2ac9efc45ec-sub-52",
+      "end": 576.3905415215149,
+      "text": "from 12:30 to 14:00. The reminder asks each person to bring up to three clean, readable books.",
+      "start": 562.8862213951007
+    },
+    {
+      "id": "idea-8f78c2ac9efc45ec-sub-53",
+      "end": 588.9033125827506,
+      "text": "Questions go to the information desk. The task stays the same, but the case-specific values change.",
+      "start": 576.3905415215149
+    },
+    {
+      "id": "idea-8f78c2ac9efc45ec-sub-54",
+      "end": 599.9033125827506,
+      "text": "I replace only the fields: audience, purpose, and source notes. Must Preserve lists the Riverside Book Swap name, date, time, location",
+      "start": 588.9033125827506
+    },
+    {
+      "id": "idea-8f78c2ac9efc45ec-sub-55",
+      "end": 616.3855232557902,
+      "text": "three-book limit, condition requirement, and information desk. The constraints, output format, no-guessing rule, and checklist remain fixed.",
+      "start": 599.9033125827506
+    },
+    {
+      "id": "idea-8f78c2ac9efc45ec-sub-56",
+      "end": 623.1491045875596,
+      "text": "Reusing the template saves effort while keeping every choice visible.",
+      "start": 616.3855232557902
+    },
+    {
+      "id": "idea-8f78c2ac9efc45ec-sub-57",
+      "end": 638.5119709991186,
+      "text": "The second draft announces the Riverside Book Swap to students and staff on 3rd December 2026, from 12:30 to 14:00, at the Library Entrance.",
+      "start": 623.1491045875596
+    },
+    {
+      "id": "idea-8f78c2ac9efc45ec-sub-58",
+      "end": 650.3619709991186,
+      "text": "It asks them to bring up to three clean, readable books and directs questions to the information desk. Those details and the requested structure match the source",
+      "start": 638.5119709991186
+    },
+    {
+      "id": "idea-8f78c2ac9efc45ec-sub-59",
+      "end": 659.2813489344733,
+      "text": "with no unsupported fee, promise, organizer, or activity.",
+      "start": 650.3619709991186
+    },
+    {
+      "id": "idea-8f78c2ac9efc45ec-sub-60",
+      "end": 673.4962869145991,
+      "text": "This comparison shows the method. Stable instructions govern the recurring job, labelled fields hold changing details, and the checklist defines success.",
+      "start": 659.2813489344733
+    },
+    {
+      "id": "idea-8f78c2ac9efc45ec-sub-61",
+      "end": 683.088405996522,
+      "text": "Add repeatedly missing fields to the template, but keep case-specific rules in that case\u2019s constraints.",
+      "start": 673.4962869145991
+    },
+    {
+      "id": "idea-8f78c2ac9efc45ec-sub-62",
+      "end": 690.0773213282915,
+      "text": "This prevents old details from becoming permanent instructions.",
+      "start": 683.088405996522
+    },
+    {
+      "id": "idea-8f78c2ac9efc45ec-sub-63",
+      "end": 700.8673213282915,
+      "text": "Use the template with any general assistant, or complete it in a notes app, document, or printed sheet. If no assistant is available",
+      "start": 690.0773213282915
+    },
+    {
+      "id": "idea-8f78c2ac9efc45ec-sub-64",
+      "end": 709.9924439855154,
+      "text": "the filled template remains a clear writing brief for a person.",
+      "start": 700.8673213282915
+    },
+    {
+      "id": "idea-8f78c2ac9efc45ec-sub-65",
+      "end": 724.789955077827,
+      "text": "Generated wording isn\u2019t evidence. Check important names, dates, numbers, permissions, and commitments against the original material or suitable independent evidence.",
+      "start": 709.9924439855154
+    },
+    {
+      "id": "idea-8f78c2ac9efc45ec-sub-66",
+      "end": 732.9828704095964,
+      "text": "An assistant\u2019s self-review may reveal problems, but it isn\u2019t independent verification.",
+      "start": 724.789955077827
+    },
+    {
+      "id": "idea-8f78c2ac9efc45ec-sub-67",
+      "end": 742.2335884167995,
+      "text": "Your prompt is reusable when you can replace the labelled values without rewriting the stable instructions.",
+      "start": 732.9828704095964
+    },
+    {
+      "id": "idea-8f78c2ac9efc45ec-sub-68",
+      "end": 756.0821889546462,
+      "text": "Use the checklist to compare each result with its source. In Lesson 31, we\u2019ll separate instructions from source material more deliberately.",
+      "start": 742.2335884167995
+    },
+    {
+      "id": "sub-mv7670l4-vah0ay",
+      "end": 766.95,
+      "text": "and I hope this lesson helps you turn a useful, one-off request into a prompt you can reuse.",
+      "start": 756.0821889546462
+    },
+    {
+      "id": "idea-8f78c2ac9efc45ec-sub-70",
+      "end": 780,
+      "text": "Thank You for watching. I am EMMANUEL CORELS. See you in the next video.",
+      "start": 766.95
+    }
+  ]
+}

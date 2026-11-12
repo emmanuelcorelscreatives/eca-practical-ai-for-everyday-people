@@ -1,0 +1,5 @@
+SANITISED INPUT
+Customer: [CUSTOMER_NAME]
+Item: replacement desk lamp
+Original estimate: 18 October 2026
+New estimate: 21 October 2026

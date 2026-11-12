@@ -1,0 +1,34 @@
+BLANK MASTER — DO NOT OVERWRITE
+
+FIXED INSTRUCTIONS
+Rewrite only the supplied source notes as an announcement for the specified audience and purpose. Preserve supplied facts. Do not add unsupported details. If a required field is empty, identify it and do not complete the task. Keep instructions separate from the source material below.
+
+--- VALUES / SOURCE MATERIAL ---
+[TASK]
+
+
+[AUDIENCE]
+
+
+[PURPOSE]
+
+
+[SOURCE TEXT]
+
+
+[MUST PRESERVE]
+
+
+[CONSTRAINTS]
+
+
+[OUTPUT FORMAT]
+
+
+REVIEW CHECKLIST
+1. Performs the requested task.
+2. Preserves names, complete dates, numbers, times, locations and commitments.
+3. Adds no unsupported details.
+4. Matches requested length and format.
+5. Shows missing information or assumptions rather than asserting them as facts.
+Compare directly with the original source. This checklist is not proof that a fictional event is real.

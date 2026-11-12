@@ -1,0 +1,82 @@
+{
+  "version": 1,
+  "projectId": "cmv75v5ry00215c3cbzo7pedn",
+  "scriptSha256": "52976300e2d3953d2a4cf352f5c7d48c975cd009fa691cf77f8f707da4735b2a",
+  "files": [
+    {
+      "name": "01-fictional-source.txt",
+      "sha256": "673044c3ff16f76a46207559a6478740784f0a2386c591cad3a09227b8518d75",
+      "bytes": 377
+    },
+    {
+      "name": "02-sanitised-input.txt",
+      "sha256": "f916c1795f10eaddf8c8affcfc033649457d58a521055f2631bac10e3d72810e",
+      "bytes": 135
+    },
+    {
+      "name": "03-structured-prompt.txt",
+      "sha256": "f8554fbc341b60607cdc9904ca3c5d390fa38db8bb81b1cc17386ba5df5e5d89",
+      "bytes": 352
+    },
+    {
+      "name": "04-example-draft.txt",
+      "sha256": "22a5e55c6b87f082f6827391ec3a82d8e0e0da05217982336965b04bb1549123",
+      "bytes": 458
+    },
+    {
+      "name": "05-review-worksheet.md",
+      "sha256": "546d782dd72a16c4395685fe7a91f7a16be66b95e8f1ce88aaca6c89581030fe",
+      "bytes": 1091
+    },
+    {
+      "name": "06-answer-key.md",
+      "sha256": "5c66350a1aed2143a1f6c7ac104c4c491f8e2b9145da3393786cc6e458ad40aa",
+      "bytes": 1193
+    },
+    {
+      "name": "07-safe-manual-fallback.txt",
+      "sha256": "516e3ec46b5126264deee1005a5e954f2ce9974955f4c723a86ed87160ef832a",
+      "bytes": 232
+    },
+    {
+      "name": "08-file-distribution-checklist.md",
+      "sha256": "b226946444f77a1307a96e05eba36ffef1f22cd962d285c96bfa9077f46c44d0",
+      "bytes": 1076
+    },
+    {
+      "name": "09-independent-practice.txt",
+      "sha256": "afcc4dc403cfca3e6489a569ff21d3896b2af5b11a68e1a488250a0392c8e4b8",
+      "bytes": 658
+    },
+    {
+      "name": "10-independent-answer-key.txt",
+      "sha256": "6a9d2f29d27cd34ef6260600fb790ff8981d1ea799463403f0064e4fe4d1d3c0",
+      "bytes": 861
+    },
+    {
+      "name": "11-file-redaction-practice.md",
+      "sha256": "00a9e8b61cb605c93ec3cb31f2af9af2e850f54fd3403988db72951fa1f0f6aa",
+      "bytes": 1685
+    },
+    {
+      "name": "12-production-timing-plan.md",
+      "sha256": "2d0bacc8a9f31a31b076182d262858fc8b0820c41968ce80b631b71aee0ce5f0",
+      "bytes": 652
+    },
+    {
+      "name": "13-authored-cue-evidence.json",
+      "sha256": "82f83070e29314477b940ce4181616b4598e408e709327de1c665fdbf4463cd7",
+      "bytes": 21711
+    },
+    {
+      "name": "README.md",
+      "sha256": "1b6cdc8b4882647efede5d974a12b54ba24573d7aff662241fc591a988ef93ef",
+      "bytes": 1667
+    },
+    {
+      "name": "verify.py",
+      "sha256": "62c0f5e7be2fb24306556886fd6a02d53d7d88b41234311767baed36262e41cb",
+      "bytes": 1571
+    }
+  ]
+}

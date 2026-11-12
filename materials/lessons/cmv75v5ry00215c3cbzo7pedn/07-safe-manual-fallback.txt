@@ -1,0 +1,8 @@
+SAFE MANUAL FALLBACK
+PURPOSE:
+NECESSARY CONTEXT:
+PLACEHOLDERS:
+REQUIRED OUTPUT:
+
+Start a fresh local example using placeholders only if you cannot verify safe redaction.
+Keep the uncertain original on your device. Do not upload it.

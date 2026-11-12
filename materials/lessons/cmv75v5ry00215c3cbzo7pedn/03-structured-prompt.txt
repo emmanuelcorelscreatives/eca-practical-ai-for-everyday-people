@@ -1,0 +1,12 @@
+TASK
+Draft a polite delivery update.
+SOURCE
+Customer [CUSTOMER_NAME] is awaiting a replacement desk lamp.
+Original estimate: 18 October 2026.
+New estimate: 21 October 2026.
+CONSTRAINTS
+Keep placeholders unchanged. Use only supplied facts.
+Label missing information. Do not send.
+OUTPUT
+A subject line and a brief message.
+EXPECTED ARTIFACT: DRAFT ONLY

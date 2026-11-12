@@ -1,0 +1,10 @@
+FICTIONAL PRACTICE RECORD
+All details are invented and describe nobody real. Do not substitute real data.
+Customer: Amina Solano
+Account ID: DEMO-4827
+Email: amina.solano@example.invalid
+Delivery address: 14 Sample Street, Example City
+Item: replacement desk lamp
+Original estimate: 18 October 2026
+New estimate: 21 October 2026
+Note: leave at North Gate concierge after 18:00

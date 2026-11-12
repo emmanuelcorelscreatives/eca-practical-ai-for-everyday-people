@@ -1,0 +1,628 @@
+{
+  "projectId": "cmv75v5ry00215c3cbzo7pedn",
+  "evidenceKind": "retained-authored-timeline-not-new-render-validation",
+  "desiredDurationSec": 720,
+  "existingDurationSec": 720,
+  "cueCount": 103,
+  "cues": [
+    {
+      "id": "idea-2bec65fa955f4700-sub-1",
+      "start": 0,
+      "end": 5.382735544672829,
+      "text": "Removing every name may still reveal the person."
+    },
+    {
+      "id": "idea-2bec65fa955f4700-sub-2",
+      "start": 5.382735544672829,
+      "end": 10.68269464892205,
+      "text": "Which other details should you replace?"
+    },
+    {
+      "id": "idea-2bec65fa955f4700-sub-3",
+      "start": 10.68269464892205,
+      "end": 17.25269464892204,
+      "text": "You don't replace everything. Keep the useful structure for your task"
+    },
+    {
+      "id": "idea-2bec65fa955f4700-sub-4",
+      "start": 17.25269464892204,
+      "end": 22.87524977382033,
+      "text": "but remove details the task doesn't need."
+    },
+    {
+      "id": "idea-2bec65fa955f4700-sub-5",
+      "start": 22.87524977382033,
+      "end": 24.90524977382033,
+      "text": "You can now turn what you"
+    },
+    {
+      "id": "idea-2bec65fa955f4700-sub-6",
+      "start": 24.90524977382033,
+      "end": 30.11835269025206,
+      "text": "spotted into a safer working copy."
+    },
+    {
+      "id": "idea-2bec65fa955f4700-sub-7",
+      "start": 30.11835269025206,
+      "end": 34.92835269025205,
+      "text": "Remove unnecessary details, replace needed identities with placeholders"
+    },
+    {
+      "id": "idea-2bec65fa955f4700-sub-8",
+      "start": 34.92835269025205,
+      "end": 38.99964479450128,
+      "text": "or reduce needless precision."
+    },
+    {
+      "id": "idea-2bec65fa955f4700-sub-9",
+      "start": 38.99964479450128,
+      "end": 42.60964479450128,
+      "text": "Start with direct identifiers: names, account numbers"
+    },
+    {
+      "id": "idea-2bec65fa955f4700-sub-10",
+      "start": 42.60964479450128,
+      "end": 48.96298065008128,
+      "text": "email addresses, phone numbers, and street addresses."
+    },
+    {
+      "id": "idea-2bec65fa955f4700-sub-11",
+      "start": 48.96298065008128,
+      "end": 53.92298065008129,
+      "text": "Check indirect clues because combinations of exact dates and locations,"
+    },
+    {
+      "id": "idea-2bec65fa955f4700-sub-12",
+      "start": 53.92298065008129,
+      "end": 59.5536057543305,
+      "text": "with rare roles or unusual events may identify someone."
+    },
+    {
+      "id": "idea-2bec65fa955f4700-sub-13",
+      "start": 59.5536057543305,
+      "end": 64.68156485857972,
+      "text": "Removing only the name isn't reliable."
+    },
+    {
+      "id": "idea-2bec65fa955f4700-sub-14",
+      "start": 64.68156485857972,
+      "end": 71.68138436138938,
+      "text": "Could someone familiar with the context still recognise the person?"
+    },
+    {
+      "id": "idea-2bec65fa955f4700-sub-15",
+      "start": 71.68138436138938,
+      "end": 74.59138436138937,
+      "text": "Preserve the original and work on a fresh"
+    },
+    {
+      "id": "idea-2bec65fa955f4700-sub-16",
+      "start": 74.59138436138937,
+      "end": 80.83829207934357,
+      "text": "copy so mistakes don't destroy your reliable source."
+    },
+    {
+      "id": "idea-2bec65fa955f4700-sub-17",
+      "start": 80.83829207934357,
+      "end": 85.84829207934357,
+      "text": "This practice record is entirely fictional and its names, contact details"
+    },
+    {
+      "id": "idea-2bec65fa955f4700-sub-18",
+      "start": 85.84829207934357,
+      "end": 92.44091718359279,
+      "text": "account identifier, and delivery situation describe nobody real."
+    },
+    {
+      "id": "idea-2bec65fa955f4700-sub-19",
+      "start": 92.44091718359279,
+      "end": 96.37091718359278,
+      "text": "For this delivery update, the item and both dates matter"
+    },
+    {
+      "id": "idea-2bec65fa955f4700-sub-20",
+      "start": 96.37091718359278,
+      "end": 101.1844735360714,
+      "text": "identity and location details don't."
+    },
+    {
+      "id": "idea-2bec65fa955f4700-sub-21",
+      "start": 101.1844735360714,
+      "end": 103.2809180777381,
+      "text": "I replace the fictional name with"
+    },
+    {
+      "id": "idea-2bec65fa955f4700-sub-22",
+      "start": 103.2809180777381,
+      "end": 110.7193491334946,
+      "text": "the role-labelled greeting placeholder [CUSTOMER_NAME]."
+    },
+    {
+      "id": "idea-2bec65fa955f4700-sub-23",
+      "start": 110.7193491334946,
+      "end": 113.4293491334946,
+      "text": "The account identifier isn't needed"
+    },
+    {
+      "id": "idea-2bec65fa955f4700-sub-24",
+      "start": 113.4293491334946,
+      "end": 117.9028163722833,
+      "text": "so I delete its entire line."
+    },
+    {
+      "id": "idea-2bec65fa955f4700-sub-25",
+      "start": 117.9028163722833,
+      "end": 120.4328163722833,
+      "text": "The assistant won't deliver anything"
+    },
+    {
+      "id": "idea-2bec65fa955f4700-sub-26",
+      "start": 120.4328163722833,
+      "end": 126.2243824992843,
+      "text": "so I delete the email and street address too."
+    },
+    {
+      "id": "idea-2bec65fa955f4700-sub-27",
+      "start": 126.2243824992843,
+      "end": 130.2343824992843,
+      "text": "The unneeded concierge instruction could narrow the location"
+    },
+    {
+      "id": "idea-2bec65fa955f4700-sub-28",
+      "start": 130.2343824992843,
+      "end": 133.7143726595734,
+      "text": "so I remove it."
+    },
+    {
+      "id": "idea-2bec65fa955f4700-sub-29",
+      "start": 133.7143726595734,
+      "end": 137.5443726595734,
+      "text": "I keep both delivery dates because they explain the change"
+    },
+    {
+      "id": "idea-2bec65fa955f4700-sub-30",
+      "start": 137.5443726595734,
+      "end": 143.7569977638227,
+      "text": "limiting exposure without losing task-relevant information."
+    },
+    {
+      "id": "idea-2bec65fa955f4700-sub-31",
+      "start": 143.7569977638227,
+      "end": 148.6869977638227,
+      "text": "If location mattered, I could generalise an apartment to a residential building"
+    },
+    {
+      "id": "idea-2bec65fa955f4700-sub-32",
+      "start": 148.6869977638227,
+      "end": 153.6211728226297,
+      "text": "here, no location is needed."
+    },
+    {
+      "id": "idea-2bec65fa955f4700-sub-33",
+      "start": 153.6211728226297,
+      "end": 158.9197979268789,
+      "text": "Number same-role placeholders consistently."
+    },
+    {
+      "id": "idea-2bec65fa955f4700-sub-34",
+      "start": 158.9197979268789,
+      "end": 170.3530900311281,
+      "text": "CUSTOMER_1 and CUSTOMER_2 preserve who did what without exposing either identity."
+    },
+    {
+      "id": "idea-2bec65fa955f4700-sub-35",
+      "start": 170.3530900311281,
+      "end": 179.0830900311281,
+      "text": "A placeholder isn't anonymous if a separate list links it to someone. Keep any lookup key protected"
+    },
+    {
+      "id": "idea-2bec65fa955f4700-sub-36",
+      "start": 179.0830900311281,
+      "end": 184.4453699473592,
+      "text": "separate, and out of the prompt."
+    },
+    {
+      "id": "idea-2bec65fa955f4700-sub-37",
+      "start": 184.4453699473592,
+      "end": 192.9187149549107,
+      "text": "The sanitised source retains one role placeholder, the item, and both relevant dates."
+    },
+    {
+      "id": "idea-2bec65fa955f4700-sub-38",
+      "start": 192.9187149549107,
+      "end": 199.2363237353443,
+      "text": "I removed the account, contact, and precise location."
+    },
+    {
+      "id": "idea-2bec65fa955f4700-sub-39",
+      "start": 199.2363237353443,
+      "end": 208.9808333847146,
+      "text": "Before copying, read the sanitised version alone. Could someone complete the draft?"
+    },
+    {
+      "id": "idea-2bec65fa955f4700-sub-40",
+      "start": 208.9808333847146,
+      "end": 215.056227792091,
+      "text": "Does it contain any detail they don't need?"
+    },
+    {
+      "id": "idea-2bec65fa955f4700-sub-41",
+      "start": 215.056227792091,
+      "end": 221.8251467110099,
+      "text": "I place the sanitised information in a clear request. Separating the task, source"
+    },
+    {
+      "id": "idea-2bec65fa955f4700-sub-42",
+      "start": 221.8251467110099,
+      "end": 229.5764448165912,
+      "text": "constraints, and output makes each part easy to check."
+    },
+    {
+      "id": "idea-2bec65fa955f4700-sub-43",
+      "start": 229.5764448165912,
+      "end": 233.8764448165912,
+      "text": "The input states the writing goal and only the necessary facts,"
+    },
+    {
+      "id": "idea-2bec65fa955f4700-sub-44",
+      "start": 233.8764448165912,
+      "end": 242.1115405364476,
+      "text": "it never suggests that the assistant can search for missing personal information."
+    },
+    {
+      "id": "idea-2bec65fa955f4700-sub-45",
+      "start": 242.1115405364476,
+      "end": 247.9415405364476,
+      "text": "The constraints preserve placeholders, use only supplied facts, label missing information"
+    },
+    {
+      "id": "idea-2bec65fa955f4700-sub-46",
+      "start": 247.9415405364476,
+      "end": 254.3741656406968,
+      "text": "and prevent sending; this separates drafting from external action."
+    },
+    {
+      "id": "idea-2bec65fa955f4700-sub-47",
+      "start": 254.3741656406968,
+      "end": 260.4841656406969,
+      "text": "The requested output is a subject line and brief message; it doesn't request realistic names"
+    },
+    {
+      "id": "idea-2bec65fa955f4700-sub-48",
+      "start": 260.4841656406969,
+      "end": 267.2873876046497,
+      "text": "account values, or invented reasons for the delay."
+    },
+    {
+      "id": "idea-2bec65fa955f4700-sub-49",
+      "start": 267.2873876046497,
+      "end": 270.8873876046497,
+      "text": "Only this sanitised request goes to the assistant,"
+    },
+    {
+      "id": "idea-2bec65fa955f4700-sub-50",
+      "start": 270.8873876046497,
+      "end": 279.0088096091428,
+      "text": "the original practice record stays local because the task doesn't need that extra information."
+    },
+    {
+      "id": "idea-2bec65fa955f4700-sub-51",
+      "start": 279.0088096091428,
+      "end": 288.8307994403969,
+      "text": "The response is generated material. It isn't opened evidence or a sent message."
+    },
+    {
+      "id": "idea-2bec65fa955f4700-sub-52",
+      "start": 288.8307994403969,
+      "end": 295.6760915446461,
+      "text": "That matters because fluent wording doesn't confirm the underlying facts."
+    },
+    {
+      "id": "idea-2bec65fa955f4700-sub-53",
+      "start": 295.6760915446461,
+      "end": 303.5560506488953,
+      "text": "The greeting keeps CUSTOMER_NAME instead of inventing a person."
+    },
+    {
+      "id": "idea-2bec65fa955f4700-sub-54",
+      "start": 303.5560506488953,
+      "end": 312.2025229517587,
+      "text": "The subject and opening also preserve the item and original date from the sanitised source."
+    },
+    {
+      "id": "idea-2bec65fa955f4700-sub-55",
+      "start": 312.2025229517587,
+      "end": 319.1197819490043,
+      "text": "The main sentence keeps the new estimate and asks for confirmation."
+    },
+    {
+      "id": "idea-2bec65fa955f4700-sub-56",
+      "start": 319.1197819490043,
+      "end": 326.401631311965,
+      "text": "It doesn't give a reason for the delay because none was supplied."
+    },
+    {
+      "id": "idea-2bec65fa955f4700-sub-57",
+      "start": 326.401631311965,
+      "end": 332.9055904162142,
+      "text": "The assistant marks the missing sender name with another placeholder."
+    },
+    {
+      "id": "idea-2bec65fa955f4700-sub-58",
+      "start": 332.9055904162142,
+      "end": 340.6943270230323,
+      "text": "That's safer than filling the gap with a realistic but unsupported identity."
+    },
+    {
+      "id": "idea-2bec65fa955f4700-sub-59",
+      "start": 340.6943270230323,
+      "end": 346.4243270230323,
+      "text": "I compare the draft with the sanitised source. First"
+    },
+    {
+      "id": "idea-2bec65fa955f4700-sub-60",
+      "start": 346.4243270230323,
+      "end": 354.5294060541603,
+      "text": "every placeholder must stay unchanged so an invented name can't enter the final message."
+    },
+    {
+      "id": "idea-2bec65fa955f4700-sub-61",
+      "start": 354.5294060541603,
+      "end": 362.0869467912618,
+      "text": "Second, I match the item and both dates, character by character."
+    },
+    {
+      "id": "idea-2bec65fa955f4700-sub-62",
+      "start": 362.0869467912618,
+      "end": 369.954905895511,
+      "text": "Those details came from the fictional source, not the generated explanation."
+    },
+    {
+      "id": "idea-2bec65fa955f4700-sub-63",
+      "start": 369.954905895511,
+      "end": 377.8649058955111,
+      "text": "Third, I confirm that no removed details returned. The draft has no account identifier"
+    },
+    {
+      "id": "idea-2bec65fa955f4700-sub-64",
+      "start": 377.8649058955111,
+      "end": 384.4214084397844,
+      "text": "email address, street address, or concierge instruction."
+    },
+    {
+      "id": "idea-2bec65fa955f4700-sub-65",
+      "start": 384.4214084397844,
+      "end": 394.3314084397844,
+      "text": "Finally, I check for invented actions or outcomes. The message doesn't claim the delivery was booked, confirmed, or sent"
+    },
+    {
+      "id": "idea-2bec65fa955f4700-sub-66",
+      "start": 394.3314084397844,
+      "end": 400.2050845132766,
+      "text": "because none of that happened."
+    },
+    {
+      "id": "idea-2bec65fa955f4700-sub-67",
+      "start": 400.2050845132766,
+      "end": 408.8350845132766,
+      "text": "I return the checked draft to a local working document. If real values are genuinely required"
+    },
+    {
+      "id": "idea-2bec65fa955f4700-sub-68",
+      "start": 408.8350845132766,
+      "end": 415.6246869969775,
+      "text": "add them there under your normal access and review controls."
+    },
+    {
+      "id": "idea-2bec65fa955f4700-sub-69",
+      "start": 415.6246869969775,
+      "end": 426.2946869969775,
+      "text": "Before any real use, verify the intended recipient, dates, attachments, and remaining placeholders. The assistant provided the wording"
+    },
+    {
+      "id": "idea-2bec65fa955f4700-sub-70",
+      "start": 426.2946869969775,
+      "end": 432.0527486086453,
+      "text": "but you still control approval and sending."
+    },
+    {
+      "id": "idea-2bec65fa955f4700-sub-71",
+      "start": 432.0527486086453,
+      "end": 442.2827486086453,
+      "text": "If you can't verify that the redaction is safe, upload nothing. Recreate only the necessary context in a fresh local template"
+    },
+    {
+      "id": "idea-2bec65fa955f4700-sub-72",
+      "start": 442.2827486086453,
+      "end": 447.6331361991464,
+      "text": "using placeholders from the start."
+    },
+    {
+      "id": "idea-2bec65fa955f4700-sub-73",
+      "start": 447.6331361991464,
+      "end": 456.9891127135173,
+      "text": "This manual route may take longer, but it keeps an uncertain source file on your device."
+    },
+    {
+      "id": "idea-2bec65fa955f4700-sub-74",
+      "start": 456.9891127135173,
+      "end": 462.6045071208938,
+      "text": "A safer example can still preserve the task."
+    },
+    {
+      "id": "idea-2bec65fa955f4700-sub-75",
+      "start": 462.6045071208938,
+      "end": 472.5404574869861,
+      "text": "Sanitising text for an AI prompt and redacting a file for distribution are related but different tasks."
+    },
+    {
+      "id": "idea-2bec65fa955f4700-sub-76",
+      "start": 472.5404574869861,
+      "end": 479.4156854938909,
+      "text": "A safe prompt copy doesn't prove the file is safe."
+    },
+    {
+      "id": "idea-2bec65fa955f4700-sub-77",
+      "start": 479.4156854938909,
+      "end": 487.6256854938908,
+      "text": "A highlight, white box, or black shape may only hide what you see. If you'll share the file"
+    },
+    {
+      "id": "idea-2bec65fa955f4700-sub-78",
+      "start": 487.6256854938908,
+      "end": 495.577501143043,
+      "text": "use a genuine redaction operation that removes the content."
+    },
+    {
+      "id": "idea-2bec65fa955f4700-sub-79",
+      "start": 495.577501143043,
+      "end": 506.0598796467612,
+      "text": "A file you distribute may also contain metadata, comments, tracked changes, hidden text, or embedded content."
+    },
+    {
+      "id": "idea-2bec65fa955f4700-sub-80",
+      "start": 506.0598796467612,
+      "end": 513.4065047510104,
+      "text": "Replacing visible details with placeholders doesn't inspect those areas."
+    },
+    {
+      "id": "idea-2bec65fa955f4700-sub-81",
+      "start": 513.4065047510104,
+      "end": 524.5765047510104,
+      "text": "Save the redacted result as a new file. Reopen it, then test that the removed text is gone. Search for it"
+    },
+    {
+      "id": "idea-2bec65fa955f4700-sub-82",
+      "start": 524.5765047510104,
+      "end": 534.2758398980121,
+      "text": "and where appropriate, select and copy content to confirm nothing remains accessible."
+    },
+    {
+      "id": "idea-2bec65fa955f4700-sub-83",
+      "start": 534.2758398980121,
+      "end": 547.2277990022613,
+      "text": "Editing the original shared cloud document may leave earlier values in its version history. Create a separate, sanitised artifact."
+    },
+    {
+      "id": "idea-2bec65fa955f4700-sub-84",
+      "start": 547.2277990022613,
+      "end": 553.5424241065106,
+      "text": "Don\u2019t assume visible deletion erased earlier versions."
+    },
+    {
+      "id": "idea-2bec65fa955f4700-sub-85",
+      "start": 553.5424241065106,
+      "end": 564.8724241065105,
+      "text": "Before sharing a sanitised artifact, check the intended recipient, assigned access role, and general-access setting. Interface names may vary"
+    },
+    {
+      "id": "idea-2bec65fa955f4700-sub-86",
+      "start": 564.8724241065105,
+      "end": 570.487056982994,
+      "text": "so verify these controls in your account."
+    },
+    {
+      "id": "idea-2bec65fa955f4700-sub-87",
+      "start": 570.487056982994,
+      "end": 579.737056982994,
+      "text": "The principle stays the same, whatever tool or device you use. On a phone, computer, or document assistant"
+    },
+    {
+      "id": "idea-2bec65fa955f4700-sub-88",
+      "start": 579.737056982994,
+      "end": 586.3334914839354,
+      "text": "provide only the minimum useful context."
+    },
+    {
+      "id": "idea-2bec65fa955f4700-sub-89",
+      "start": 586.3334914839354,
+      "end": 597.0270470394909,
+      "text": "The same method works for messages, notes, forms, and sample records. Keep roles, relationships, the order of events"
+    },
+    {
+      "id": "idea-2bec65fa955f4700-sub-90",
+      "start": 597.0270470394909,
+      "end": 605.6005448298897,
+      "text": "and task facts. Remove identity clues you don\u2019t need."
+    },
+    {
+      "id": "idea-2bec65fa955f4700-sub-91",
+      "start": 605.6005448298897,
+      "end": 618.7058938211717,
+      "text": "Use four questions for a quick redaction check. What can you remove? What needs a placeholder?"
+    },
+    {
+      "id": "idea-2bec65fa955f4700-sub-92",
+      "start": 618.7058938211717,
+      "end": 627.6038216717437,
+      "text": "What can you make broader? Does the task still make sense?"
+    },
+    {
+      "id": "idea-2bec65fa955f4700-sub-93",
+      "start": 627.6038216717437,
+      "end": 635.6835324437737,
+      "text": "For practice, make a safer copy of a fictional reminder or service note."
+    },
+    {
+      "id": "idea-2bec65fa955f4700-sub-94",
+      "start": 635.6835324437737,
+      "end": 642.1745332771306,
+      "text": "Keep only enough context to draft a clear update."
+    },
+    {
+      "id": "idea-2bec65fa955f4700-sub-95",
+      "start": 642.1745332771306,
+      "end": 653.6045332771306,
+      "text": "Your finished practice set should show the fictional source, sanitised input, generated draft, and checking result. If you\u2019re unsure about the redaction"
+    },
+    {
+      "id": "idea-2bec65fa955f4700-sub-96",
+      "start": 653.6045332771306,
+      "end": 659.2542115429578,
+      "text": "demonstrate the manual fallback instead."
+    },
+    {
+      "id": "idea-2bec65fa955f4700-sub-97",
+      "start": 659.2542115429578,
+      "end": 668.6942115429578,
+      "text": "The goal isn\u2019t to make every example vague. Preserve its purpose with the smallest suitable amount of information,"
+    },
+    {
+      "id": "idea-2bec65fa955f4700-sub-98",
+      "start": 668.6942115429578,
+      "end": 675.102955123415,
+      "text": "and make sure a person deliberately checks the result."
+    },
+    {
+      "id": "idea-2bec65fa955f4700-sub-99",
+      "start": 675.102955123415,
+      "end": 684.6677357680694,
+      "text": "In the next lesson, I\u2019ll show you how to review history, sharing, and data settings."
+    },
+    {
+      "id": "idea-2bec65fa955f4700-sub-100",
+      "start": 684.6677357680694,
+      "end": 691.125524280538,
+      "text": "You\u2019ll learn what your account may retain or expose."
+    },
+    {
+      "id": "idea-2bec65fa955f4700-sub-101",
+      "start": 691.125524280538,
+      "end": 700.855524280538,
+      "text": "Keep the task context, remove identity details you don\u2019t need, and check what remains. If you\u2019re unsure it\u2019s safe"
+    },
+    {
+      "id": "idea-2bec65fa955f4700-sub-102",
+      "start": 700.855524280538,
+      "end": 706.9499999999997,
+      "text": "create a fresh example using placeholders only."
+    },
+    {
+      "id": "idea-2bec65fa955f4700-sub-103",
+      "start": 706.9499999999997,
+      "end": 720,
+      "text": "Thank You for watching. I am EMMANUEL CORELS. See you in the next video."
+    }
+  ],
+  "finalNativeRenderTiming": "Controller must verify new actual native audio and final export before main release. No release approval is granted by this material kit."
+}

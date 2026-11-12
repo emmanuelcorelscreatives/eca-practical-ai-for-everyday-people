@@ -1,0 +1,15 @@
+FICTIONAL INDEPENDENT PRACTICE — ANSWER CHECK
+A useful sanitised source retains Customer: [CUSTOMER_NAME], Item: replacement reading light,
+Original estimate: 5 November 2026, New estimate: 8 November 2026.
+Remove Theo Example, DEMO-9731, theo@example.invalid, 8 Fiction Lane, Example Town,
+and the side-entrance time. No location is required by this drafting task.
+An acceptable manual draft:
+Subject: Updated estimate for your replacement reading light
+Hello [CUSTOMER_NAME],
+Your replacement reading light was originally estimated for 5 November 2026.
+The new estimate is 8 November 2026. Please confirm whether this works for you.
+Kind regards,
+[SENDER_NAME]
+DRAFT ONLY — NOT SENT
+No reason for the change, booked delivery, recipient identity or successful send is known.
+Compare meaning as well as literal strings. Real use still needs human approval.

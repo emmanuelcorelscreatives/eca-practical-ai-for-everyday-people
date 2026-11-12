@@ -1,0 +1,34 @@
+FILLED COPY — CASE 2
+
+FIXED INSTRUCTIONS
+Rewrite only the supplied source notes as an announcement for the specified audience and purpose. Preserve supplied facts. Do not add unsupported details. If a required field is empty, identify it and do not complete the task. Keep instructions separate from the source material below.
+
+--- VALUES / SOURCE MATERIAL ---
+[TASK]
+Rewrite the supplied notes as an announcement
+
+[AUDIENCE]
+students and staff
+
+[PURPOSE]
+remind people to bring suitable books
+
+[SOURCE TEXT]
+name: Riverside Book Swap; audience: students and staff; purpose: remind people to bring suitable books; date: 3 December 2026; time: 12:30–14:00; location: Library Entrance; requirement: bring up to three clean, readable books; contact: information desk
+
+[MUST PRESERVE]
+name: Riverside Book Swap; audience: students and staff; purpose: remind people to bring suitable books; date: 3 December 2026; time: 12:30–14:00; location: Library Entrance; requirement: bring up to three clean, readable books; contact: information desk
+
+[CONSTRAINTS]
+Use only supplied facts; flag required missing information; no guessing or unsupported additions
+
+[OUTPUT FORMAT]
+One heading and two short paragraphs
+
+REVIEW CHECKLIST
+1. Performs the requested task.
+2. Preserves names, complete dates, numbers, times, locations and commitments.
+3. Adds no unsupported details.
+4. Matches requested length and format.
+5. Shows missing information or assumptions rather than asserting them as facts.
+Compare directly with the original source. This checklist is not proof that a fictional event is real.

@@ -1,0 +1,52 @@
+{
+  "version": 1,
+  "projectId": "cmv75v8et00f15c3cxh1cqkl9",
+  "scriptSha256": "d83ee77c0a42b735502627cb37c37fa4129c80c46e343ebbc3038df92e15f58b",
+  "files": [
+    {
+      "name": "README.md",
+      "sha256": "9b564be48de15e03a08708d9e869e1ff9a029df18a2ce2fc13a3fea8d1d52efd",
+      "bytes": 1692
+    },
+    {
+      "name": "answer-guide.md",
+      "sha256": "9921e484167ac4a3736b183e63ce579242496efe504afda1916c93a30b37ffdc",
+      "bytes": 1336
+    },
+    {
+      "name": "check_terms.py",
+      "sha256": "61d98965db8af761de7aec2cb8b4dadc70ac46b65fd384fbfc61a9c9e2daec89",
+      "bytes": 549
+    },
+    {
+      "name": "exercise.md",
+      "sha256": "eb8fbed3e68e634e0be61b4d28cb0bdc3367a0947b5bea4bd88e3a75751f0b37",
+      "bytes": 1647
+    },
+    {
+      "name": "glossary-en-es.csv",
+      "sha256": "a8b14a9269351686dfc4b668889e976634f94ebb71c8d19f4e9048ae330399a0",
+      "bytes": 800
+    },
+    {
+      "name": "manual-request.txt",
+      "sha256": "21c7dc1525425349f78779028edd6743b2aab162a210344bed5cba6cba951c4d",
+      "bytes": 787
+    },
+    {
+      "name": "review-checklist.md",
+      "sha256": "b55061120108afcbf0890a0a0681fcd0918fd687c15dea10cfccf9cd9afe0f3a",
+      "bytes": 1065
+    },
+    {
+      "name": "source-en.txt",
+      "sha256": "3c27d8247de196625d3ca08291a7155c7f89e301bfbd4b921e412db49c397bcb",
+      "bytes": 154
+    },
+    {
+      "name": "translation-es-example.txt",
+      "sha256": "aa87978a02d15e4b1bcae92765fbfd0e6063558976facde4da90500e767b4bd4",
+      "bytes": 190
+    }
+  ]
+}

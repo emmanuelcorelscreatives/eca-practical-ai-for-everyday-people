@@ -1,0 +1,62 @@
+{
+  "version": 1,
+  "projectId": "cmv75v6bd004p5c3c2mmuyyq7",
+  "scriptSha256": "a98237b40ebe41f9ee76bdab4b1148fce95d0ffe1a1b1df53abef7aba3ecee4e",
+  "files": [
+    {
+      "name": "blank-master.txt",
+      "sha256": "9d8bed4f6bd54df70c3aad0abc9b146ce399f05498d7fda309353aa46d3474e5",
+      "bytes": 860
+    },
+    {
+      "name": "case-1-filled.txt",
+      "sha256": "0b33f680143e2044511f3944df027c3a7614606aa37041bfd7d33e82b3881965",
+      "bytes": 1579
+    },
+    {
+      "name": "case-2-filled.txt",
+      "sha256": "d0bab8ac591ef9108d106f8dc023364e9a2d4783e6ffac45623d44f0cd1896c1",
+      "bytes": 1593
+    },
+    {
+      "name": "delivery-schedule.json",
+      "sha256": "f9187def8b3928fbe26e1782d419fd6e7e7056241b9567dd6aa6f8dc405a3356",
+      "bytes": 17789
+    },
+    {
+      "name": "example-drafts.md",
+      "sha256": "6572b974047d9652f6b922daa98a06abdd763a9302a89be7590ecc3240c0e87b",
+      "bytes": 1146
+    },
+    {
+      "name": "facilitator-timing.md",
+      "sha256": "68413f75728812a643a5a3ad02d64e34330eedb18ea611ad23b381ed2ad01a27",
+      "bytes": 1076
+    },
+    {
+      "name": "one-off-to-template.md",
+      "sha256": "d0c8f4aa6ef4fded219426ee4bc716a498694df769596484b42813d0f1257db3",
+      "bytes": 1472
+    },
+    {
+      "name": "review-sheet.md",
+      "sha256": "8e4bb9ac4a5c024ba2463b8447a104117c3f4de91e4a64139c58247279efe909",
+      "bytes": 1910
+    },
+    {
+      "name": "source-cases.json",
+      "sha256": "c72dc7c8ebb593b002356ed562eb42af091b6684ee60f7bf35564ff51fe8995e",
+      "bytes": 802
+    },
+    {
+      "name": "verify-kit.py",
+      "sha256": "ad47a5c0a54c54af6fd4727061d4136ca52fad1f865066307e61a1e9f696f847",
+      "bytes": 2065
+    },
+    {
+      "name": "worksheet.md",
+      "sha256": "327642e4387706921f9ea7372058bd36d0ddf120cf62dc4fe94dd974520b0596",
+      "bytes": 3308
+    }
+  ]
+}

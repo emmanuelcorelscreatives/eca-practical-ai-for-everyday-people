@@ -1,0 +1,5 @@
+# Validated authored 13-minute delivery schedule
+
+`delivery-schedule.json` contains all 70 complete saved narration cues with their unchanged IDs, text and time boundaries. The schedule begins at 0.000 seconds and ends at 780.000 seconds; adjacent cue boundaries match, with no omitted, duplicated, overlapping or additional cue. The saved measured-narration timing signature is retained for traceability. The check in `verify-kit.py` validates complete coverage and exactly 13:00 against this supplied schedule. This provides a validated delivery schedule, not a claim that a new native export has already been rendered or measured.
+
+All demonstrations, both fictional cases, five checks, unsupported refreshments/Main Hall repair, missing-location stop, blank-master restoration and manual fallback remain in source order. Learner practice may continue after the video. Native complete audio remains authoritative; never cut, pad or retime narration to force this allocation. Actual final native audio/export duration is independently checked by the render release process.

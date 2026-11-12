@@ -1,0 +1,11 @@
+Translate the supplied fictional workshop announcement from English into neutral Latin American Spanish for adults. Use these proposed course terms where context and grammar allow. Preserve names exactly. Flag any term that does not fit naturally instead of silently choosing another translation. Do not claim human approval. Return a draft and flag uncertainties.
+
+BrightPath Community Workshop → Taller Comunitario BrightPath
+Maya Okafor → Maya Okafor
+passkey → clave de acceso (device sign-in feature)
+offline mode → modo sin conexión
+Help Desk → Mesa de Ayuda (fictional service label)
+QR code → código QR
+
+Source:
+Join the BrightPath Community Workshop. Maya Okafor will show you how to create a passkey, use offline mode, contact the Help Desk, and scan the QR code.

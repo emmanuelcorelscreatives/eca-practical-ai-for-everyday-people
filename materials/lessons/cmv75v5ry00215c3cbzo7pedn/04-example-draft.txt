@@ -1,0 +1,13 @@
+WORKED EXAMPLE — DRAFT ONLY — NOT AN EXECUTED ASSISTANT RESPONSE
+Subject: Update on your replacement desk lamp
+
+Hello [CUSTOMER_NAME],
+Your replacement desk lamp was originally estimated for 18 October 2026.
+The new estimated delivery date is 21 October 2026.
+Please let us know whether this new estimate works for you.
+
+Kind regards,
+[SENDER_NAME]
+
+Missing information: sender name.
+GENERATED — NOT SENT (status wording to check in your own exercise)

@@ -1,0 +1,25 @@
+{
+  "provenance": "Fictional, self-created practice material; not real scheduled events",
+  "cases": [
+    {
+      "name": "Green Corner Workshop",
+      "audience": "local residents",
+      "purpose": "invite local residents to the workshop",
+      "date": "18 November 2026",
+      "time": "14:00–15:30",
+      "location": "Community Room",
+      "requirement": "registration required",
+      "contact": "register using the event form"
+    },
+    {
+      "name": "Riverside Book Swap",
+      "audience": "students and staff",
+      "purpose": "remind people to bring suitable books",
+      "date": "3 December 2026",
+      "time": "12:30–14:00",
+      "location": "Library Entrance",
+      "requirement": "bring up to three clean, readable books",
+      "contact": "information desk"
+    }
+  ]
+}
