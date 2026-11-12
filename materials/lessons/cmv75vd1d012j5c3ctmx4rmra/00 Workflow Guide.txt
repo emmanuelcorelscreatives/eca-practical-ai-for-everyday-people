@@ -1,0 +1,60 @@
+Community Event Information Sheet — Workflow Guide
+FICTIONAL TRAINING WORKFLOW — NO PUBLICATION AUTHORIZED
+Purpose: Turn an approved event brief into a checked draft information sheet.
+Trigger: Begin when the approved brief and permission to use its contents are available.
+Operator: Person preparing the draft.
+Approver and guide owner: Event coordinator (fictional role).
+
+REQUIRED INPUTS
+Approved event brief; confirmed event title; confirmed date and time; confirmed venue wording; approved contact route; intended audience; permission to use any image; output deadline.
+If any required item is missing, stop and request clarification.
+No image is supplied in this exercise: use no image.
+
+DO NOT INCLUDE
+Private attendee details; personal phone numbers unless approved for publication; login details; private internal notes; unlicensed images.
+Replace unnecessary personal information with a neutral placeholder.
+
+FILES
+00 Workflow Guide.txt — process and exceptions
+01 Approved Event Brief.txt — source evidence, do not overwrite
+02 Reusable Instructions.txt — bounded assistant task
+03 Information Sheet Template.txt — common output structure
+04 Review Checklist.txt — evidence-based checks
+Drafts/ — save working results here
+Tests/ — deliberate missing-time exercise, never substitute for normal source
+
+STEPS
+1. Open and inspect 01 Approved Event Brief.txt.
+2. Confirm every required input; stop on a missing or conflicting required fact.
+3. Check current access, account permission and file support before using any suitable assistant. Copy 02 Reusable Instructions.txt and only the approved brief; otherwise use manual fallback.
+4. Generate a draft only; do not permit external actions.
+5. Save a new dated result in Drafts; never overwrite the approved source.
+6. Compare it line by line with the opened approved brief using 04 Review Checklist.txt.
+7. Prepare the checked draft for the named approver. In this exercise record NOT YET APPROVED and do not send.
+8. Publish only after explicit human approval, suitable sharing permissions and any required organizational checks. No such approval is supplied by this kit.
+
+EXCEPTIONS
+Missing required fact -> Stop and request clarification.
+Conflicting facts -> Show both and ask the owner to resolve them.
+AI unavailable -> Use manual fallback.
+File access denied -> Contact the owner; do not bypass access controls.
+Approval rejected -> Save feedback and revise; do not publish.
+
+MANUAL FALLBACK
+1. Open the approved brief and blank information-sheet template.
+2. Copy only confirmed facts into matching fields.
+3. Write 'Not provided' for optional missing content.
+4. Apply the same review checklist.
+5. Save as a draft.
+6. Obtain the same human approval before sharing; practice output remains unapproved.
+
+HANDOVER RECORD (fictional example values)
+Guide owner: Event coordinator
+Current operator: ______
+Version: 1.0
+Last reviewed: 15 October 2026 (authored fictional example date, not a claim of current audit)
+Known limitation: No image-selection process included
+Change notes: ______
+Questions raised during independent test: ______
+
+READY TO SHARE? Verify purpose/trigger, required/prohibited inputs, file-specific steps, generated label, evidence-based checks, explicit approval, safe exception rules and the same reviewed manual result. Record actual independent test outcomes before claiming completion.

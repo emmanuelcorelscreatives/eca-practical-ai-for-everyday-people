@@ -1,0 +1,14 @@
+TEST CASE — REQUIRED TIME MISSING
+Self-authored fictional test; deliberately separate from the normal approved brief.
+Event title: Riverside Reading Afternoon
+Date: 24 October 2026
+Time:
+Venue: Community Hall, East Room
+Audience: Families and adult readers
+Contact route: events@example.org
+Image permission: No image supplied
+What to expect: Not provided
+Output deadline: 20 October 2026, 17:00 local (exercise input)
+Permission to use: Permission-cleared fictional training data
+Approver: Event coordinator
+The time is intentionally absent. Do not copy it from the normal case.

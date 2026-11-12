@@ -1,0 +1,4 @@
+MISSING INPUT RESPONSE — CLARIFICATION DRAFT, NOT SENT
+The workflow cannot continue as complete because the approved event time is missing. Please provide the confirmed time or confirm that the information sheet should display 'Time: To be confirmed.' No time has been inferred.
+
+Practice check: stop pending the owner's response. The offered alternative is conditional, not already approved. Do not treat this message or the normal case as evidence for the missing time.

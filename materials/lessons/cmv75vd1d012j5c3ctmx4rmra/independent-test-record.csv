@@ -1,0 +1,4 @@
+case,operator,actual_date,started_without_spoken_help,source_found,required_inputs_checked,result_or_stop_reason,questions_asked,guide_fix_needed,approval_status
+normal,,,,,,,,,NOT YET APPROVED
+missing_time,,,,,,,,,NOT YET APPROVED
+manual_fallback,,,,,,,,,NOT YET APPROVED

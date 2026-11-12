@@ -1,0 +1,72 @@
+{
+  "version": 1,
+  "projectId": "cmv75vd1d012j5c3ctmx4rmra",
+  "scriptSha256": "b05407df09ce348648a8982fc252b173fb9d2c842ef43ca4e53233ec450d7639",
+  "files": [
+    {
+      "name": "00 Workflow Guide.txt",
+      "sha256": "da0634417423871e1c6581647fafad29b70d137ea0bcaed314b348e92a1466e1",
+      "bytes": 3395
+    },
+    {
+      "name": "01 Approved Event Brief.txt",
+      "sha256": "58a94c58277fe037e0fd8eab3a286a838e538a6ae101218b02f7a44c1cf4cb5b",
+      "bytes": 694
+    },
+    {
+      "name": "02 Reusable Instructions.txt",
+      "sha256": "4abd58a300068587ac1d461087b4f3cb2356195d61849fdd4d2358a4f285bcaa",
+      "bytes": 747
+    },
+    {
+      "name": "03 Information Sheet Template.txt",
+      "sha256": "2e619bc27b4e6772392c83e19f1cb7df879bc1d370a360f46dfa3d98da64e923",
+      "bytes": 389
+    },
+    {
+      "name": "04 Review Checklist.txt",
+      "sha256": "ad6b9ce0d0c8882218533eced49376509e28ac8bb1a1f1734b065031076c0341",
+      "bytes": 950
+    },
+    {
+      "name": "Drafts/2026-10-24 Riverside Reading Afternoon DRAFT.txt",
+      "sha256": "5d95e061699fb046862b004e11ce22f25cb6eaa84d3adaea3008b3d26c432dc2",
+      "bytes": 437
+    },
+    {
+      "name": "Tests/Missing Input Response.txt",
+      "sha256": "4002a9f63e8c9cd4cad17a2ca18d10a8c4c996dc0f4bfc05ef3015078e169016",
+      "bytes": 474
+    },
+    {
+      "name": "Tests/Missing Input Test.txt",
+      "sha256": "56eeece4af267306db83f5aa985a34255d1265505607aacfef06c2ef8057a45d",
+      "bytes": 582
+    },
+    {
+      "name": "expected-checks.md",
+      "sha256": "b48f56b1bc81e24511896ea56c8237916ebedb26b90cce2f1413cbc2234a4866",
+      "bytes": 1617
+    },
+    {
+      "name": "handover-record.md",
+      "sha256": "dae31ceff84fd22bf018267a437dcfd322bf24922edc692e2f6d50421c00fc10",
+      "bytes": 569
+    },
+    {
+      "name": "independent-test-record.csv",
+      "sha256": "d6ccd73dbe742e54073e3d2ee82e7aa526f171ed4ae901530746c0b14929b6ec",
+      "bytes": 273
+    },
+    {
+      "name": "sharing-and-cost-checklist.md",
+      "sha256": "c3e5d8a5acbc764c3732fadb1ffd964b4b3c5e277e3764765cec1b7a46efd5ce",
+      "bytes": 1431
+    },
+    {
+      "name": "worksheet.md",
+      "sha256": "893efdf3695b66059e822a1e096d9989430e41867b0d6c474cf93de210653d4f",
+      "bytes": 3227
+    }
+  ]
+}

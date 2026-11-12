@@ -1,0 +1,16 @@
+REVIEW CHECKLIST — fill after comparison, not pre-checked
+[ ] Answers the stated purpose.
+[ ] All names, dates, times and venue details match the opened approved brief.
+[ ] Audience and contact route match the source exactly.
+[ ] No unsupported promises or commitments.
+[ ] Missing optional information remains visible; missing required facts caused a stop.
+[ ] Private information is excluded; no image added when none supplied.
+[ ] Formatting is readable.
+[ ] Filename and draft label are correct; AI-generated content is marked as generated and unverified until checked.
+[ ] Named approver and required permission are confirmed.
+Approval status: NOT YET APPROVED
+Do not publish, send publicly, or overwrite the approved source.
+Checked by: ______  Date: ______  Source file/version: ______
+Corrections and unresolved questions: ______
+Human approval record (blank until actually obtained): ______
+Passing content checks does not grant approval.
