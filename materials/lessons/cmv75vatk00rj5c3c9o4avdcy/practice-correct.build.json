@@ -1,0 +1,10 @@
+{
+  "approvedScriptSha256": "d4f546d45dbd9188ad84d5904188ae4c5facee6a8fa5ecb2f5bb7a83d3a36c6d",
+  "captionFile": "caption-correct.srt",
+  "captionSha256": "8fd5d687d92666b5b3679df8c287192dd80804f5707fdb6b11effbd6b45a90c5",
+  "audioFile": "practice-voice.wav",
+  "audioSha256": "220255f2e20dfc913449db1076c2b5fc2be28322b39a837d7cf458feb3129c79",
+  "mp4Sha256": "a9472198f453135c408f0e5f74fdb83da2170f1ba418d8a6f21f37d58119c836",
+  "webmSha256": "cd93e389e4a0734e9cda23fa7e4fba74549c62f6f55fee758e91f3daf741d513",
+  "scope": "Actual local fictional export; no human listening or destination-device approval claimed"
+}

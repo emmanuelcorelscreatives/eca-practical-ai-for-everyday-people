@@ -1,0 +1,85 @@
+{
+  "practice-faulty.mp4": {
+    "fileSha256": "af695f391d8849e03dd76a27395739e87c851bba229475486904c780a0739dc8",
+    "bytes": 320844,
+    "duration": 20.0,
+    "streams": [
+      [
+        "video",
+        "h264"
+      ],
+      [
+        "audio",
+        "aac"
+      ]
+    ],
+    "audioDecodedSha256": "eb6db51e33766ccf771586c9d451122d5b0b7835d2725d2e05d5056261100127",
+    "fullDecode": "PASS"
+  },
+  "practice-correct.mp4": {
+    "fileSha256": "a9472198f453135c408f0e5f74fdb83da2170f1ba418d8a6f21f37d58119c836",
+    "bytes": 329385,
+    "duration": 20.0,
+    "streams": [
+      [
+        "video",
+        "h264"
+      ],
+      [
+        "audio",
+        "aac"
+      ]
+    ],
+    "audioDecodedSha256": "eb6db51e33766ccf771586c9d451122d5b0b7835d2725d2e05d5056261100127",
+    "fullDecode": "PASS"
+  },
+  "practice-faulty.webm": {
+    "fileSha256": "11495b795aee86d77ef94790802fce97f52a73ec03ffd8d720b91e3c9b0b1972",
+    "bytes": 461788,
+    "duration": 20.018,
+    "streams": [
+      [
+        "video",
+        "vp9"
+      ],
+      [
+        "audio",
+        "opus"
+      ]
+    ],
+    "audioDecodedSha256": "c3f2e65e2d0cbffa04d6fb77c7580e558d8146408c1f125c05cfadf7a5f59192",
+    "fullDecode": "PASS"
+  },
+  "practice-correct.webm": {
+    "fileSha256": "cd93e389e4a0734e9cda23fa7e4fba74549c62f6f55fee758e91f3daf741d513",
+    "bytes": 461358,
+    "duration": 20.018,
+    "streams": [
+      [
+        "video",
+        "vp9"
+      ],
+      [
+        "audio",
+        "opus"
+      ]
+    ],
+    "audioDecodedSha256": "c3f2e65e2d0cbffa04d6fb77c7580e558d8146408c1f125c05cfadf7a5f59192",
+    "fullDecode": "PASS"
+  },
+  "practice-voice.wav": {
+    "fileSha256": "220255f2e20dfc913449db1076c2b5fc2be28322b39a837d7cf458feb3129c79",
+    "bytes": 671564,
+    "duration": 13.99,
+    "streams": [
+      [
+        "audio",
+        "pcm_s16le"
+      ]
+    ],
+    "audioDecodedSha256": "81263002efe051e8b52087355360e071df119030d97cf9c3270e71ade4834bb2",
+    "fullDecode": "PASS"
+  },
+  "manifest": "All listed exact hashes checked",
+  "limits": "No human listening, ASR or actual phone testing claimed. Source/caption words and rendered frames need independent review."
+}

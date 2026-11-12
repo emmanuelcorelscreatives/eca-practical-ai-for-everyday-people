@@ -1,0 +1,84 @@
+{
+  "sampleRate": 24000,
+  "approvedScriptSha256": "d4f546d45dbd9188ad84d5904188ae4c5facee6a8fa5ecb2f5bb7a83d3a36c6d",
+  "voiceSha256": "220255f2e20dfc913449db1076c2b5fc2be28322b39a837d7cf458feb3129c79",
+  "sentenceNativeFrames": [
+    {
+      "index": 0,
+      "text": "Meet at fifteen.",
+      "startFrame": 0,
+      "speechEndFrame": 34560,
+      "endFrame": 44160,
+      "pcmSha256": "10b699ce2f05b6352063f54e0b0513b0431be9345fb817fa1d121f20a163c0a6"
+    },
+    {
+      "index": 1,
+      "text": "This is a fictional practice clip.",
+      "startFrame": 44160,
+      "speechEndFrame": 97440,
+      "endFrame": 107040,
+      "pcmSha256": "4c794827b754511edbfa90491deebf02f1a9a8771974ad96069939e14b2d6821"
+    },
+    {
+      "index": 2,
+      "text": "Casey Lee.",
+      "startFrame": 107040,
+      "speechEndFrame": 136920,
+      "endFrame": 146520,
+      "pcmSha256": "c25e2d5547ccd5f55b097e32eebf40375f08c88d8fed37d1ee70c14907303963"
+    },
+    {
+      "index": 3,
+      "text": "The training number is twenty seven.",
+      "startFrame": 146520,
+      "speechEndFrame": 200640,
+      "endFrame": 210240,
+      "pcmSha256": "d252a6a7c30df18acd4aac64252acb5c0053d1f62da9e52171f1afefd06a4326"
+    },
+    {
+      "index": 4,
+      "text": "Check the final instruction.",
+      "startFrame": 210240,
+      "speechEndFrame": 263520,
+      "endFrame": 273120,
+      "pcmSha256": "989624bab23a2b8548810bd125b579cb74b114a5e3dd04b9f98b9cc1a133dc4b"
+    },
+    {
+      "index": 5,
+      "text": "Keep your source and export together.",
+      "startFrame": 273120,
+      "speechEndFrame": 326160,
+      "endFrame": 335760,
+      "pcmSha256": "c26f74b13032889f8626928ca6e220e86505186a89557eb8efd122761a3657b2"
+    }
+  ],
+  "captionCues": [
+    [
+      0.0,
+      1.84,
+      "Meet at fifteen."
+    ],
+    [
+      1.84,
+      4.46,
+      "This is a fictional practice clip."
+    ],
+    [
+      4.46,
+      8.76,
+      "Casey Lee. The training number is twenty seven."
+    ],
+    [
+      8.76,
+      11.38,
+      "Check the final instruction."
+    ],
+    [
+      11.38,
+      20,
+      "Keep your source and export together."
+    ]
+  ],
+  "middleCaptureTime": 4.76,
+  "limits": "Synthetic training speech assembled by exact known sentence source/frame bounds. No recognition/forced speech verification. Final caption intentionally remains visible after speech for reading."
+}

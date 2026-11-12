@@ -1,0 +1,19 @@
+1
+00:00:00,600 --> 00:00:01,840
+Meet at fifty.
+
+2
+00:00:01,840 --> 00:00:04,460
+This is a fictional practice clip.
+
+3
+00:00:04,460 --> 00:00:08,760
+Casey Lee. The training number is twenty seven.
+
+4
+00:00:08,760 --> 00:00:11,380
+Check the final instruction.
+
+5
+00:00:11,380 --> 00:00:20,000
+Keep your source and export together.
