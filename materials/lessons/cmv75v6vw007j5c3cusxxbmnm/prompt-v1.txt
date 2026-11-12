@@ -1,0 +1,1 @@
+Turn the event notes into a friendly public announcement. Include the event name, date, time, place, activity, and contact detail. Use a heading and one short paragraph.

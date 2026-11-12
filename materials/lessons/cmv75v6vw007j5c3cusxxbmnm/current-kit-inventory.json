@@ -1,0 +1,62 @@
+{
+  "version": 1,
+  "projectId": "cmv75v6vw007j5c3cusxxbmnm",
+  "scriptSha256": "e06d26ed976ec281bd2e303b87fd99d0ddc46e3e09d09b8dc2c74eea1ab64384",
+  "files": [
+    {
+      "name": "LICENSE.txt",
+      "sha256": "d79f41da7ef0c3b25fc0d1576503e5cc798f3be68401579234ee07d0645e8fb2",
+      "bytes": 196
+    },
+    {
+      "name": "expected-behavior.md",
+      "sha256": "5b00b4df59e2c19846acc6d015c937ca9904e5fa9e373b063029268a18b20883",
+      "bytes": 1281
+    },
+    {
+      "name": "inputs/awkward.txt",
+      "sha256": "6ca9d08634ac3ee818f52df4c05aacf6dcb555f7782f45ce75f46c1d537ed885",
+      "bytes": 308
+    },
+    {
+      "name": "inputs/missing-date.txt",
+      "sha256": "0aaa25d92e6523c611d7982728183f9d8990aad80537740a0645617852bf7dde",
+      "bytes": 161
+    },
+    {
+      "name": "inputs/normal.txt",
+      "sha256": "94553664258e01aafae30ba3d314178c885c9a206c39ddbf3bcc12cbe82c6afa",
+      "bytes": 176
+    },
+    {
+      "name": "manual-fallback.md",
+      "sha256": "5455aa4a5e7ff023b9cbbfcb92a1f04df3040c638452e76007da5f50ad070227",
+      "bytes": 694
+    },
+    {
+      "name": "prompt-v1.txt",
+      "sha256": "116fb7e01c2c28c7884eda32913d46c44eccdd3276be3afcf81a34fd11204757",
+      "bytes": 170
+    },
+    {
+      "name": "prompt-v2.txt",
+      "sha256": "f7c7ffb6aa50ab2553e3759de491c5a65cbc59b839bfffa8a0f0ff118825bb15",
+      "bytes": 931
+    },
+    {
+      "name": "revision-log.md",
+      "sha256": "417249aba368b1d0ccc957d827b61814bc60c2de161cb7bacd5a3b791c671a6c",
+      "bytes": 494
+    },
+    {
+      "name": "test-record.csv",
+      "sha256": "0953a47f3a0a9ed2d45615411394c7e0b27c73176b0d5be99e0e0ad726fc21dd",
+      "bytes": 263
+    },
+    {
+      "name": "worksheet.md",
+      "sha256": "ffdd933c99a0e537cc6b7c052c239091cbd9b4167fec2349481fc29467d9f174",
+      "bytes": 1792
+    }
+  ]
+}
