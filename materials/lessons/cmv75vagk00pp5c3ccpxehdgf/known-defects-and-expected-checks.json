@@ -1,0 +1,48 @@
+{
+  "fixtureStatus": "Actual native Linux LibreOffice chart values and five-page PDFs observed; before/after pixel checks independent.",
+  "decks": [
+    {
+      "file": "Community-Learning-Weekend_original-draft.odp",
+      "expectedPages": 5,
+      "chartMonths": [
+        "April",
+        "May",
+        "June"
+      ],
+      "chartValues": [
+        48,
+        54,
+        60
+      ],
+      "expectedDefects": [
+        "subtitle text box too short",
+        "icon overlaps second item",
+        "footer beyond right margin",
+        "May/June chart values swapped",
+        "third action card crosses right boundary",
+        "registration chart source note missing"
+      ],
+      "nativeOpenOrRenderVerified": true,
+      "sourceHash": "edb731057f209a59f49cda9e6512b53bac6b65f5b6900836b5677038d7ad1cc6"
+    },
+    {
+      "file": "Community-Learning-Weekend_review-copy.odp",
+      "expectedPages": 5,
+      "chartMonths": [
+        "April",
+        "May",
+        "June"
+      ],
+      "chartValues": [
+        48,
+        60,
+        54
+      ],
+      "expectedDefects": [],
+      "nativeOpenOrRenderVerified": true,
+      "sourceHash": "e3bf4414161c34c449558176b573afcb23244f647adad1d8513ea9a7d13cf9c0"
+    }
+  ],
+  "sourcePack": "opened-source-pack.md",
+  "nativeUILimits": "Actual Linux LibreOffice24.2.7.2 source and export proof, not Windows/Impress26.2 UI. Detailed native metadata retained by lesson worker. Final appearance requires independent pixel review."
+}

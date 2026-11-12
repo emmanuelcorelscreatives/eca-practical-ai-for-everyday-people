@@ -1,0 +1,6 @@
+Slide,Known defect,Expected correction,Observed result,Re-export checked
+1,Subtitle box too short,Enlarge and inspect full text,,
+2,Icon overlap and footer beyond margin,Separate icon; inset footer,,
+3,May54 June60 data,Correct underlying May60 June54; retainApril48,,
+4,Third card beyond boundary,Resize/reposition; preserve uncertainty,,
+5,Missing registration source,Add accurate self-created source note,,

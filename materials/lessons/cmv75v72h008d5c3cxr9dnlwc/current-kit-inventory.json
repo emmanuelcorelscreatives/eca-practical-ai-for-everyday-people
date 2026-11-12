@@ -1,0 +1,87 @@
+{
+  "version": 1,
+  "projectId": "cmv75v72h008d5c3cxr9dnlwc",
+  "scriptSha256": "fe98debb7017fb3037f62432f2c1411c5b04c8fde452fbb29eccea755f10e5fb",
+  "files": [
+    {
+      "name": "PROVENANCE.md",
+      "sha256": "1b18935121b4fcbb3abc9ac6893d20256c3c895f0898dad7faa58e9be7525ef4",
+      "bytes": 1784
+    },
+    {
+      "name": "README.md",
+      "sha256": "b226e5b207cb02c839860364b0935b8b834c69f37d65c202742cf18357fc6beb",
+      "bytes": 1176
+    },
+    {
+      "name": "answers.md",
+      "sha256": "9d89d424053b84e2a60b0312f89ba296302f5a1145872a23d274b8300bb6ac5c",
+      "bytes": 3263
+    },
+    {
+      "name": "index.html",
+      "sha256": "22177fc3c6ae5834ba9382fc93205b3ff0da63f2227645f60e7d676bcca3bcf2",
+      "bytes": 6191
+    },
+    {
+      "name": "source-checking-worksheet.csv",
+      "sha256": "8b9ec5892d8aae626e006afa87d4e50dc53475ab84d4d874247804f510011423",
+      "bytes": 339
+    },
+    {
+      "name": "sources/about.html",
+      "sha256": "b802accc0b5bcfdb68c2ebae975f5a879489836185b74c3cffddaf0ff518638d",
+      "bytes": 1018
+    },
+    {
+      "name": "sources/archive.html",
+      "sha256": "a93a49ca670ad28f291ebd161bebe1e70830ea9ebb9eb4a9fe9c2764190992d7",
+      "bytes": 1110
+    },
+    {
+      "name": "sources/bellwether-venue.html",
+      "sha256": "81516695f7b2ea32e75a40be05d5c4f4dff77c3b6cf6f5e7f10a6f2e1daddbd8",
+      "bytes": 1071
+    },
+    {
+      "name": "sources/branch-hours-2024.html",
+      "sha256": "2e747de9fe5a0239be4ba23be0109ae6d5107980de7c35522728b618bdad1b34",
+      "bytes": 1053
+    },
+    {
+      "name": "sources/calendar-2026.html",
+      "sha256": "164d0af343259714b34547daf26fb083590034a68a3207cfd74eb2480019fcb5",
+      "bytes": 1057
+    },
+    {
+      "name": "sources/date-types.html",
+      "sha256": "88335b6930df3981f87c24aebc6ae70a39e20fa24bc451e73eaad81dc9d7bd4c",
+      "bytes": 1080
+    },
+    {
+      "name": "sources/north-district-policy.html",
+      "sha256": "4f8d9d548fcf87801d61f39d71ee4591bcfee150b99e250ce1e0b05745d87de4",
+      "bytes": 1107
+    },
+    {
+      "name": "sources/notemaster-4-windows.html",
+      "sha256": "1cdf6096a05a1428f96ad4598bfd07fa1323b71bffbdcf45e3434524dd8aa46a",
+      "bytes": 1071
+    },
+    {
+      "name": "sources/notemaster-5-android.html",
+      "sha256": "f8aeae2f2b6ec35f300a4729c04df170ffb33cf36db3c54a5baf3c5a6421a4fa",
+      "bytes": 1224
+    },
+    {
+      "name": "sources/staff-2023.html",
+      "sha256": "2316dcf77be4013d3be0bc33048068dc06be1c1446599b9b0deeebccb7d79354",
+      "bytes": 1131
+    },
+    {
+      "name": "worksheet.md",
+      "sha256": "556c0f214029a7f3003f23fc2fab114ab15c9defabe93c2e5659b3bd7fee2e23",
+      "bytes": 2768
+    }
+  ]
+}
