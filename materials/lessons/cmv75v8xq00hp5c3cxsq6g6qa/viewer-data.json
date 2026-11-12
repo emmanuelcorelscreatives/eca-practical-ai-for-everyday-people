@@ -1,0 +1,54 @@
+{
+  "sources": [
+    {
+      "name": "Community Garden Guide.pdf",
+      "location": "p. 2",
+      "passage": "For the shaded demonstration bed, this fictional workshop plan recommends lettuce and spinach. This describes the workshop only, not every climate or garden."
+    },
+    {
+      "name": "Workshop Notes.docx",
+      "location": "Watering",
+      "passage": "Water only when the top layer is dry. This condition is not a full-season watering schedule."
+    },
+    {
+      "name": "Planting Schedule.pdf",
+      "location": "p. 1",
+      "passage": "Workshop day: Tuesday. Volunteer briefing takes place before planting. No full-season watering schedule is supplied."
+    }
+  ],
+  "rows": [
+    [
+      "Shade plants: lettuce and spinach",
+      "Community Garden Guide.pdf",
+      "p. 2",
+      "supported; fictional workshop only"
+    ],
+    [
+      "Water only when top layer is dry",
+      "Workshop Notes.docx",
+      "Watering",
+      "supported; condition, not timetable"
+    ],
+    [
+      "Volunteer briefing before planting",
+      "Planting Schedule.pdf",
+      "p. 1",
+      "supported"
+    ],
+    [
+      "Workshop day: Tuesday",
+      "Planting Schedule.pdf",
+      "p. 1",
+      "supported; compare page image"
+    ],
+    [
+      "Full-season watering schedule",
+      "all three source files",
+      "whole collection",
+      "not specified"
+    ]
+  ],
+  "brief": "# Community Garden Workshop Brief\n\nFictional Academy practice example, based only on the supplied files.\n\n## Purpose\nPrepare the community workshop using checked source guidance.\n\n## Confirmed guidance\nThe shaded demonstration bed uses lettuce and spinach. This applies to the fictional workshop, not every garden. [Community Garden Guide.pdf, p. 2]\nWater only when the top layer is dry. [Workshop Notes.docx, Watering]\n\n## Schedule\nThe workshop day is Tuesday. Volunteer briefing takes place before planting. [Planting Schedule.pdf, p. 1]\n\n## Caveats\nThe supplied files do not state a full-season watering schedule. The example is not real horticultural advice.\n\n## Source trail\nCommunity Garden Guide.pdf, p. 2; Workshop Notes.docx, Watering; Planting Schedule.pdf, p. 1.\n",
+  "study": "# Community Garden Study Guide\n\nFictional Academy practice example.\n\n## Key ideas\nCheck the source collection before changing its format. Keep qualifications beside the claims they limit.\n\n## Terms\nSource trail: file and location used to check a claim. Caveat: a limit that changes how to read a claim. OCR: optical character recognition; the page image remains the checking reference.\n\n## Check your understanding\n1. Which two plants are recommended for the shaded demonstration bed?\n2. What condition must be checked before watering?\n3. What happens before planting, and on which workshop day?\n4. What is the full-season watering timetable?\n5. A supplied error exercise says Thursday. What should the output say?\n\n## Answers\n1. Lettuce and spinach, for this fictional workshop only. [Community Garden Guide.pdf, p. 2]\n2. Water only when the top layer is dry. [Workshop Notes.docx, Watering]\n3. Volunteer briefing takes place before planting; Tuesday. [Planting Schedule.pdf, p. 1]\n4. The sources do not specify this. [All three supplied files, complete collection]\n5. Tuesday; the visible page is the evidence. The Thursday text is a deliberately corrupted exercise, not a measured OCR observation. [Planting Schedule.pdf, p. 1]\n",
+  "audio": "# Community Garden Audio Overview\n\nPrepared audio-ready script; no audio has been generated or verified here.\n\n## Opening\nThis short overview organizes our fictional community workshop sources.\n\n## Three confirmed points\nThe garden guide recommends lettuce and spinach for the shaded demonstration bed in this workshop. The watering notes say to water only when the top layer is dry. The planting schedule sets Tuesday as the workshop day and puts volunteer briefing before planting.\n\n## Important caveat\nThis overview is based only on the supplied files; check the source pages for details. The supplied files do not state a full-season watering schedule. The plant example is fictional, not general horticultural advice.\n\n## Closing reminder\nFor the details, open Community Garden Guide.pdf, page 2; Workshop Notes.docx, Watering; and Planting Schedule.pdf, page 1. Read this script aloud at a natural pace and confirm that the caveats are still audible.\n"
+}

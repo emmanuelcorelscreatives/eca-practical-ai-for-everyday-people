@@ -1,0 +1,6 @@
+DELIBERATELY CORRUPTED EXERCISE TEXT - not actual OCR output.
+Planting Schedule
+Workshop day: Thursday
+Sequence 1: Volunteer briefing
+Sequence 2: Planting demonstration
+Compare this text with Planting Schedule.pdf, page 1. Repair Thursday to Tuesday in your output and record the page as evidence.

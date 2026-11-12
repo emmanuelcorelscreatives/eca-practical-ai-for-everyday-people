@@ -1,0 +1,102 @@
+{
+  "version": 1,
+  "projectId": "cmv75v8xq00hp5c3cxsq6g6qa",
+  "scriptSha256": "532c540c89502ee95bb3561255caa5fb8454840d309505afc34d3a5630877096",
+  "files": [
+    {
+      "name": "Community Garden Guide.pdf",
+      "sha256": "5b474d94b7944d5290af6b99cd0bb15d843e2d0c228f1aa2ebd385eb80ad5172",
+      "bytes": 2792
+    },
+    {
+      "name": "Planting Schedule page.png",
+      "sha256": "0dd809404eeed904d800f03737c4600ddd874fd751bbd31c74e5098ed18fb2a0",
+      "bytes": 71141
+    },
+    {
+      "name": "Planting Schedule.pdf",
+      "sha256": "6a471024d207458887c8187baa499aff311cc2107356e81da71d573433c01503",
+      "bytes": 60596
+    },
+    {
+      "name": "README.md",
+      "sha256": "c581d2ece9b3887c26be518aaedf9d664cbb466e6db62040d1f388c4654b3aed",
+      "bytes": 808
+    },
+    {
+      "name": "Workshop Notes.docx",
+      "sha256": "7141f99fef0b1c5821b505a5bcb306f788c36dee736a3f07aae3cba5f1b8502f",
+      "bytes": 36863
+    },
+    {
+      "name": "audio-overview.md",
+      "sha256": "05d5c069d87ab82d3f22a40e7450275a433403297cd10bfce74bf9373859ee0b",
+      "bytes": 957
+    },
+    {
+      "name": "briefing.md",
+      "sha256": "e8387dab5fb81ae615d6b13a833133bcaa70d21cea61a415cc51a8394a2c0fc5",
+      "bytes": 774
+    },
+    {
+      "name": "comparison.csv",
+      "sha256": "05839403a1fbe231d0c493f853402de9d739fe4d874c0f13e96be615c2d8684a",
+      "bytes": 196
+    },
+    {
+      "name": "ocr-exercise-deliberate-error.txt",
+      "sha256": "30c1d3637d52351dc5e82a73518502b4aaa8a75c36f1a4bed388104b5a326113",
+      "bytes": 298
+    },
+    {
+      "name": "prompts.txt",
+      "sha256": "a01e15fdccc9fc8a117966120a210374c2a4dc7be4b488acc34fce146c5a384a",
+      "bytes": 1082
+    },
+    {
+      "name": "source-map-blank.csv",
+      "sha256": "a8b58ddf8caf8c3e520e1122743a5d9c20dd0e3aae18d59b5033c99812139fec",
+      "bytes": 45
+    },
+    {
+      "name": "source-map-checked.csv",
+      "sha256": "c0026f9bb2519d00afe4253f2d89592f0e7b7afe5c75cb1be5e1320bad1c421a",
+      "bytes": 475
+    },
+    {
+      "name": "source-text/Community Garden Guide.txt",
+      "sha256": "f74795e2eb31a0d7554f4442be63997b429e72e07387841b0f307fad0e87800a",
+      "bytes": 759
+    },
+    {
+      "name": "source-text/Planting Schedule.txt",
+      "sha256": "dfa09d5d2c64cd902b83c8ad9205c432df5294f8842657a666b16c6ec1470c9e",
+      "bytes": 301
+    },
+    {
+      "name": "source-text/Workshop Notes.txt",
+      "sha256": "14a7deec16c17a6190e27dc97c8c3ff5055df5ca7a6b66e31ab2090cb56e34b0",
+      "bytes": 343
+    },
+    {
+      "name": "study-guide.md",
+      "sha256": "265414e911a267f7feb79c167c28c4b154c3bee9f2988803aae629bb924ebbd3",
+      "bytes": 1231
+    },
+    {
+      "name": "viewer-data.json",
+      "sha256": "1584f1efa80dbd50f18efff05b0a52439dd44a708558d063d7b625cb7c84a8bb",
+      "bytes": 4442
+    },
+    {
+      "name": "viewer.html",
+      "sha256": "1ed7a86f78facc6e90db9989474f906944bb30865d444ff38181fd8eda61cb85",
+      "bytes": 10802
+    },
+    {
+      "name": "worksheet.md",
+      "sha256": "76f030ff7bfc4a58a3a92949e3b3f7151c23ebad6194998cf4cbec783fcd2c7b",
+      "bytes": 3816
+    }
+  ]
+}
