@@ -1,0 +1,97 @@
+{
+  "version": 1,
+  "projectId": "cmv75v5n4001d5c3c18oi7jo1",
+  "scriptSha256": "061bcf313bd6a2c7064df18086c21bafbd1b57e446a514308fa7433a7ddce0ae",
+  "files": [
+    {
+      "name": "ANSWER-KEY.md",
+      "bytes": 1311,
+      "sha256": "dd6c5538d234ee7b42178a7050e2e2c5e11b126f92ec14a4e5d347913c92df0d"
+    },
+    {
+      "name": "EXERCISES.md",
+      "bytes": 2605,
+      "sha256": "8aed0970139a538795ba280ed01fd132a24b49a1b015f41a4d926982f147a340"
+    },
+    {
+      "name": "Morning Schedule.pdf",
+      "bytes": 856,
+      "sha256": "f74976509dbf4d0f5478f3f195f11c4bb611074cb2216f36845d8aa02590f9e0"
+    },
+    {
+      "name": "NOTICE-SOURCE.html",
+      "bytes": 504,
+      "sha256": "ca6871182ff062fb085f31419650f3dee2be2aedd0d039d0e6b48bc3e08bd92b"
+    },
+    {
+      "name": "README.md",
+      "bytes": 2738,
+      "sha256": "d34d309975ec09298a6c942d9e8204e6281f7d78a3474a208f9fa4486b169ebc"
+    },
+    {
+      "name": "Volunteer Guide.pdf",
+      "bytes": 888,
+      "sha256": "625dff8b005fc939635505704a13e59d9ac8b807ba8a2317c289d0fcec910ce8"
+    },
+    {
+      "name": "Volunteer Notice.pdf",
+      "bytes": 1459,
+      "sha256": "e7d2a99f0e7ccb579131d3c104a69039d69dff8b3b98c20e3047950087a7ec42"
+    },
+    {
+      "name": "deliberately-wrong-ocr.txt",
+      "bytes": 137,
+      "sha256": "eaf3b8f533af5208ffd2ec03a693f48d813ff03feb2b578d068575e8c3ae1f0e"
+    },
+    {
+      "name": "deliberately-wrong-voice-transcript.txt",
+      "bytes": 142,
+      "sha256": "08f8f1ae4dc24535f4ffd7f103c504e479551936aaf9a1ef5e8454800a5f9aad"
+    },
+    {
+      "name": "everyday-assistant-demo.html",
+      "bytes": 2368,
+      "sha256": "379b848980e8774920db3e201198f5dcbb97fd8b681f87832841b8a9c29e6897"
+    },
+    {
+      "name": "image-only-text-observed.txt",
+      "bytes": 1,
+      "sha256": "ef6cbd2161eaea7943ce8693b9824d23d1793ffb1c0fca05b600d3899b44c977"
+    },
+    {
+      "name": "notice-image-only.pdf",
+      "bytes": 47482,
+      "sha256": "bb2111b631018a24c69e9ae0a9ece4ed6d6eb666ae098cd154172c689b9f9bc8"
+    },
+    {
+      "name": "notice-poor.png",
+      "bytes": 55025,
+      "sha256": "f2582d8ebafd1e08cbe2db3633a25a0b8b0677e7d81081596caf440e7fcda1e3"
+    },
+    {
+      "name": "notice-sharp.png",
+      "bytes": 44268,
+      "sha256": "9f0c4f817e3ae609a1c123b228c14b2c88c27e099a854c5eb082452ec93758a3"
+    },
+    {
+      "name": "source-details.csv",
+      "bytes": 243,
+      "sha256": "80028d0968bff6df35a27daf15025f10d860a2f9c00e72a7a251da5aaa599454"
+    },
+    {
+      "name": "text-layer-observed.txt",
+      "bytes": 339,
+      "sha256": "2038814a626e4b01c8e67712c9caae96da79b7a07a1555ed22ede52a9063907b"
+    },
+    {
+      "name": "voice-note-script.txt",
+      "bytes": 84,
+      "sha256": "87abba54d354f1f8867bdfdbf5b8e07edfbd3eabd7a0d03f456bc46869c371a0"
+    },
+    {
+      "name": "worksheet.csv",
+      "bytes": 200,
+      "sha256": "8671c88a9753aec2bb923e6dd8f81220e7f4e9bed865e77c50f0ce971424be54"
+    }
+  ]
+}
