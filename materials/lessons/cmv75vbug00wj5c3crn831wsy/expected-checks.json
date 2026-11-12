@@ -1,0 +1,36 @@
+[
+  {
+    "source_id": "TEST-197-001",
+    "preserve": {
+      "source_id": "TEST-197-001",
+      "event_title": "Community Garden Orientation",
+      "event_date": "22 October 2026",
+      "location": "Cedar Room",
+      "audience": "New volunteers",
+      "notes": "Bring closed-toe shoes"
+    },
+    "unresolved": [
+      "accessibility"
+    ],
+    "final_destination": "Draft Review Table \u2014 TEST ONLY",
+    "real_trigger": "OFF",
+    "external_action_performed": false
+  },
+  {
+    "source_id": "TEST-197-002",
+    "preserve": {
+      "source_id": "TEST-197-002",
+      "event_title": "Seed Swap Table",
+      "audience": "Neighbours",
+      "notes": "Label seed packets"
+    },
+    "unresolved": [
+      "event_date",
+      "location",
+      "accessibility"
+    ],
+    "final_destination": "Draft Review Table \u2014 TEST ONLY",
+    "real_trigger": "OFF",
+    "external_action_performed": false
+  }
+]

@@ -1,0 +1,66 @@
+[
+  {
+    "provenance": "HUMAN-AUTHORED MANUAL SIMULATION; NOT AI OR EXTERNAL OUTPUT",
+    "source_id": "TEST-197-001",
+    "step_1_received": {
+      "source_id": "TEST-197-001",
+      "event_title": "Community Garden Orientation",
+      "event_date": "22 October 2026",
+      "location": "Cedar Room",
+      "audience": "New volunteers",
+      "notes": "Bring closed-toe shoes",
+      "accessibility": ""
+    },
+    "step_2_input": {
+      "source_id": "TEST-197-001",
+      "event_title": "Community Garden Orientation",
+      "event_date": "22 October 2026",
+      "location": "Cedar Room",
+      "audience": "New volunteers",
+      "notes": "Bring closed-toe shoes",
+      "accessibility": ""
+    },
+    "proposed_draft": {
+      "draft_title": "Community Garden Orientation",
+      "draft_summary": "Community Garden Orientation is planned for new volunteers on 22 October 2026 in Cedar Room.",
+      "safety_note": "Bring closed-toe shoes",
+      "missing_information": [
+        "Accessibility requirements not provided"
+      ]
+    },
+    "external_action_status": "NOT RUN; proposed row only"
+  },
+  {
+    "provenance": "HUMAN-AUTHORED MANUAL SIMULATION; NOT AI OR EXTERNAL OUTPUT",
+    "source_id": "TEST-197-002",
+    "step_1_received": {
+      "source_id": "TEST-197-002",
+      "event_title": "Seed Swap Table",
+      "event_date": "",
+      "location": "",
+      "audience": "Neighbours",
+      "notes": "Label seed packets",
+      "accessibility": ""
+    },
+    "step_2_input": {
+      "source_id": "TEST-197-002",
+      "event_title": "Seed Swap Table",
+      "event_date": "",
+      "location": "",
+      "audience": "Neighbours",
+      "notes": "Label seed packets",
+      "accessibility": ""
+    },
+    "proposed_draft": {
+      "draft_title": "Seed Swap Table",
+      "draft_summary": "Seed Swap Table is for neighbours. Event date and location were not provided.",
+      "safety_note": "Label seed packets",
+      "missing_information": [
+        "Event date not provided",
+        "Location not provided",
+        "Accessibility requirements not provided"
+      ]
+    },
+    "external_action_status": "NOT RUN; proposed row only"
+  }
+]

@@ -1,0 +1,3 @@
+sample_id,mode_real_or_manual,expected_result_before_test,trigger_input_observed,transformation_input_observed,transformation_output_observed_or_simulated,final_record_actual_or_proposed,external_action_status,pass_fail_and_scope,correction_note,trigger_off_confirmed
+TEST-197-001,,,,,,,,,,
+TEST-197-002,,,,,,,,,,

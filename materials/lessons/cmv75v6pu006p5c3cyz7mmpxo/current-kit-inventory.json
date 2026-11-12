@@ -1,0 +1,67 @@
+{
+  "version": 1,
+  "projectId": "cmv75v6pu006p5c3cyz7mmpxo",
+  "scriptSha256": "1ad9f139bdcf5c331c96eaed60ff253c2a152b9585cad0e788a2c58d107bd72c",
+  "files": [
+    {
+      "name": "LICENSE.txt",
+      "sha256": "2bfedcc1029bd42bad34671a4f2d8ac4441e951e26fa60cc77bdb8bba42ece1d",
+      "bytes": 331
+    },
+    {
+      "name": "check_examples.py",
+      "sha256": "cb548d589a653952f9ba7ea987b2f29915e95d080075fdf544735792e841e50b",
+      "bytes": 1324
+    },
+    {
+      "name": "cleartask-practice.html",
+      "sha256": "729cbe898c4f04aca808f51eeb16e461030a5936b7bfa09af8d21e50521ccf20",
+      "bytes": 11522
+    },
+    {
+      "name": "comparison-blank.csv",
+      "sha256": "34b6e6f4db1c8cc4cfbdf095fd6f5ff65349b9c11ea742210848105707a235c3",
+      "bytes": 476
+    },
+    {
+      "name": "decision-record.md",
+      "sha256": "34ebee781a9ba1265c1e9a8ebf405a48dbdf89ce6e89b6ea5b5aa4d351b16241",
+      "bytes": 746
+    },
+    {
+      "name": "expected-checks.md",
+      "sha256": "20f984a09a69bae8d679bd3e2446b651409b9e7be43e423a28e59d6d035ae2ac",
+      "bytes": 934
+    },
+    {
+      "name": "first-weak-output.txt",
+      "sha256": "25b3101052e380c148520d1c7eef51c7a7859ea8247042d2616603694d022647",
+      "bytes": 240
+    },
+    {
+      "name": "source-notes.md",
+      "sha256": "c65d471080751f90cf55bd758e55f92ddca86bc9a49d18fec77817cabd639902",
+      "bytes": 492
+    },
+    {
+      "name": "v1-factual-correction.txt",
+      "sha256": "cf2767459368f2940cab9d4bd71e6eed3ab65e6b561e41a7a32475dc3d9e5dbd",
+      "bytes": 238
+    },
+    {
+      "name": "v2-selected-notice.txt",
+      "sha256": "da89ee5a4984bfb9d9ed579afc3677a99b7ed299884831dd27d1f6056989bfeb",
+      "bytes": 205
+    },
+    {
+      "name": "v3-optional-closing.txt",
+      "sha256": "047833a6d8cdad97a0854fc32bac06a5c5d71cebf0c6229d269d758e6081207b",
+      "bytes": 293
+    },
+    {
+      "name": "worksheet.md",
+      "sha256": "c11004dcc67221fbb6c50c45843ea5d8b871484d3cf6d365bfd9dfc3374c7da3",
+      "bytes": 3261
+    }
+  ]
+}

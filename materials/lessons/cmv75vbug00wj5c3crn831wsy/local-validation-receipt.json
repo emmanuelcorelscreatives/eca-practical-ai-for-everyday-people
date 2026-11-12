@@ -1,0 +1,6 @@
+{
+  "command": "python3 validate_samples.py",
+  "exitCode": 0,
+  "stdout": "PASS: 2 fictional inputs, expected gaps and manual fixtures; no external action performed.\n",
+  "scope": "Local fixture consistency only, no vendor/AI action"
+}

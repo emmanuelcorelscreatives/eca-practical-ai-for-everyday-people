@@ -1,0 +1,20 @@
+[
+  {
+    "source_id": "TEST-197-001",
+    "event_title": "Community Garden Orientation",
+    "event_date": "22 October 2026",
+    "location": "Cedar Room",
+    "audience": "New volunteers",
+    "notes": "Bring closed-toe shoes",
+    "accessibility": ""
+  },
+  {
+    "source_id": "TEST-197-002",
+    "event_title": "Seed Swap Table",
+    "event_date": "",
+    "location": "",
+    "audience": "Neighbours",
+    "notes": "Label seed packets",
+    "accessibility": ""
+  }
+]

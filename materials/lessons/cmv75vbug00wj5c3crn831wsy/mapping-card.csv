@@ -1,0 +1,8 @@
+source_field,transformation_input,review_record_field,check
+source_id,source_id,Source ID,Exact record ID; never stale
+event_title,event_title,Draft title,Preserve title
+event_date,event_date,Draft summary,Preserve or explicitly missing
+location,location,Draft summary,Preserve or explicitly missing
+audience,audience,Draft summary,Preserve supplied audience
+notes,notes,Safety note,Preserve instruction meaning
+accessibility,accessibility,Missing information,Unanswered is unresolved
