@@ -1,0 +1,6 @@
+{
+  "actualCommand": "python3 check_simulator.py",
+  "exitCode": 0,
+  "stdout": "PASS: normal, temporary recovery, persistent stop, bounded delays, in-memory draft/error agreement, permission stop, ambiguous timeout stop, external action guard\n",
+  "sourceSHA256": "19edc89ba8864100c9712872662d7cb6302d9d95b3512a7e6dbfb1c6ada736c8"
+}

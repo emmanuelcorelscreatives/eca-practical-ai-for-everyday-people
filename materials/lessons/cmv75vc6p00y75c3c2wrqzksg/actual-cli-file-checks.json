@@ -1,0 +1,43 @@
+{
+  "state": "COMPLETE",
+  "verdict": "pass",
+  "actualPlatform": "Linux",
+  "command": "python3 simulator.py --out [fresh dedicated output directory]",
+  "exitCode": 0,
+  "sourceSha256": "19edc89ba8864100c9712872662d7cb6302d9d95b3512a7e6dbfb1c6ada736c8",
+  "checks": [
+    "Actual CLI exit0",
+    "Generated histories have1/2/3attempts",
+    "OnlyREQ101/REQ102draftfiles and actualcontents match",
+    "ActualCSV oneREQ103error and humanmessage",
+    "ActualTestSummary explicitlysimulator-only"
+  ],
+  "files": [
+    {
+      "name": "run-history.json",
+      "bytes": 2166,
+      "sha256": "8eb817dd8d65ded14d4a32f74d9d43de2ae5bff24c52b82bc4ea1de9e2d958a3"
+    },
+    {
+      "name": "Error Log.csv",
+      "bytes": 304,
+      "sha256": "6758663711175e55333f7db8960b1509219e6e881e8b4879d516af6bafc30ece"
+    },
+    {
+      "name": "Test Summary.csv",
+      "bytes": 397,
+      "sha256": "80bae1ce25fc8234c35b64b3ca0bdb15f6517bc97f98b7ab7d7ac078b213bac3"
+    },
+    {
+      "name": "Review Drafts/REQ-101-draft.txt",
+      "bytes": 86,
+      "sha256": "ba2592e5679e7516a95604ba756bb11d3495a1d03a6fa56523d87fbea2b43980"
+    },
+    {
+      "name": "Review Drafts/REQ-102-draft.txt",
+      "bytes": 86,
+      "sha256": "95b1c08d3b5323719a46c95afc23120a4719103089fdea59c65e7fd40ae8e7c7"
+    }
+  ],
+  "windowsAlternativeExecuted": false
+}

@@ -1,0 +1,103 @@
+{
+  "state": "COMPLETE",
+  "verdict": "pass",
+  "actualPlatform": "Linux",
+  "browser": "134.0.6998.35",
+  "sourceSha256": "02054adadfaa6503f36ddf9bfaa6e73a7a39bbc9c7dba5c05ad97ffe6a16596f",
+  "checks": [
+    "Normal succeeded first attempt",
+    "Temporary failure waited virtual10s then recovered attempt2",
+    "Persistent failed three attempts with10/30virtualdelays",
+    "Final attempt disabled after stop",
+    "Only2drafts and1human-error row",
+    "No outgoing network or page errors",
+    "2secservicefailureequalstimeoutremainsretryeligible",
+    "9secresponseexceeds2sectimeoutstopsforhumanreview"
+  ],
+  "network": [],
+  "errors": [],
+  "actualSimulatorState": {
+    "history": [
+      {
+        "id": "REQ-101",
+        "step": "Attempt 1 · Create draft",
+        "wait": 0,
+        "duration": 8,
+        "result": "Completed",
+        "simulation": true
+      },
+      {
+        "id": "REQ-101",
+        "step": "Save for review",
+        "wait": 0,
+        "duration": 0,
+        "result": "Completed",
+        "simulation": true
+      },
+      {
+        "id": "REQ-102",
+        "step": "Attempt 1 · Create draft",
+        "wait": 0,
+        "duration": 2,
+        "result": "Service temporarily unavailable",
+        "simulation": true
+      },
+      {
+        "id": "REQ-102",
+        "step": "Attempt 2 · Create draft",
+        "wait": 10,
+        "duration": 9,
+        "result": "Completed",
+        "simulation": true
+      },
+      {
+        "id": "REQ-102",
+        "step": "Save for review",
+        "wait": 0,
+        "duration": 0,
+        "result": "Completed",
+        "simulation": true
+      },
+      {
+        "id": "REQ-103",
+        "step": "Attempt 1 · Create draft",
+        "wait": 0,
+        "duration": 2,
+        "result": "Service temporarily unavailable",
+        "simulation": true
+      },
+      {
+        "id": "REQ-103",
+        "step": "Attempt 2 · Create draft",
+        "wait": 10,
+        "duration": 2,
+        "result": "Service temporarily unavailable",
+        "simulation": true
+      },
+      {
+        "id": "REQ-103",
+        "step": "Attempt 3 · Create draft",
+        "wait": 30,
+        "duration": 2,
+        "result": "Service temporarily unavailable",
+        "simulation": true
+      }
+    ],
+    "drafts": {
+      "REQ-101": "REQ-101\nFor review\nFictional draft for Practice request A. External actions disabled.\n",
+      "REQ-102": "REQ-102\nFor review\nFictional draft for Practice request B. External actions disabled.\n"
+    },
+    "errors": [
+      {
+        "Run or Input ID": "REQ-103",
+        "Time": "2030-01-15 09:00:46 (fictional training clock)",
+        "Failed Step": "Create draft",
+        "Attempts": 3,
+        "Plain-language Error": "Service unavailable after three attempts",
+        "Input Reference": "Practice request C",
+        "Status": "Needs human review",
+        "Suggested Manual Action": "Check service access; then create draft manually if appropriate"
+      }
+    ]
+  }
+}

@@ -1,0 +1,4 @@
+Input ID,Scenario,Safe input reference
+REQ-101,Normal,Practice request A
+REQ-102,Temporary failure,Practice request B
+REQ-103,Persistent failure,Practice request C

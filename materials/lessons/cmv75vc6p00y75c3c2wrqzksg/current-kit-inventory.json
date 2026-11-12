@@ -1,0 +1,57 @@
+{
+  "version": 1,
+  "projectId": "cmv75vc6p00y75c3c2wrqzksg",
+  "scriptSha256": "6ca0fd40a49d142ed01d1320f73bed2e6927bad1b1727f7a29348d1cba925326",
+  "files": [
+    {
+      "name": "actual-browser-checks.json",
+      "sha256": "308479b74b6a8caeaa8a2cf2e0ff77cad92559b1abeef960be52fd7c56283791",
+      "bytes": 2983
+    },
+    {
+      "name": "actual-cli-file-checks.json",
+      "sha256": "7f525a543b31121714dd237b8315f87246549e9b8285e92bfe675cb64fea66f9",
+      "bytes": 1334
+    },
+    {
+      "name": "actual-python-checks.json",
+      "sha256": "ee244b6904a54742dbe421ba7a00625bbf39924242666017f4bc2273628a0a64",
+      "bytes": 334
+    },
+    {
+      "name": "Automation_Test_Log.ods",
+      "sha256": "a7fff938cf56f5e15dca28db78a5add1bed82f4d3e2c99f32dfa5af35bd2e37a",
+      "bytes": 6295
+    },
+    {
+      "name": "check_simulator.py",
+      "sha256": "4ecd0abc7ce914717088e0abbb8d0f688aa9cd287980441e957fcaa1209043ed",
+      "bytes": 1446
+    },
+    {
+      "name": "inputs.csv",
+      "sha256": "03096b98d947e381eb11e61e303c117870b35335579dc16c40b958e94f0b834c",
+      "bytes": 164
+    },
+    {
+      "name": "settings.json",
+      "sha256": "02a175e2f708fe1d2818ea1a343c6ff169e8ab7bfe16af50d7aac250233b1c63",
+      "bytes": 286
+    },
+    {
+      "name": "simulator.html",
+      "sha256": "02054adadfaa6503f36ddf9bfaa6e73a7a39bbc9c7dba5c05ad97ffe6a16596f",
+      "bytes": 8096
+    },
+    {
+      "name": "simulator.py",
+      "sha256": "19edc89ba8864100c9712872662d7cb6302d9d95b3512a7e6dbfb1c6ada736c8",
+      "bytes": 4818
+    },
+    {
+      "name": "worksheet.md",
+      "sha256": "7e6e840cf50557fe5862dec32174eaf6090ab5907278b16e9c32c70291e665be",
+      "bytes": 4848
+    }
+  ]
+}

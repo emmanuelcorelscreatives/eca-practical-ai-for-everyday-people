@@ -1,0 +1,12 @@
+{
+  "training_only": true,
+  "timeout_seconds": 30,
+  "maximum_total_attempts": 3,
+  "delays_before_retries_seconds": [
+    10,
+    30
+  ],
+  "external_actions_enabled": false,
+  "after_final_failure": "Write error row and stop",
+  "fictional_start_time": "2030-01-15T09:00:00+00:00"
+}
