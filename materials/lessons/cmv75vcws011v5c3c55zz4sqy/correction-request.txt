@@ -1,0 +1,3 @@
+Remove the unsupported Friday deadline. Mark Luis’s deadline as missing. Keep printing signs under Suggestions, not Confirmed actions.
+
+Use this when those errors are actually present; otherwise correct the errors you observe. A real assistant may produce different wording or no errors.

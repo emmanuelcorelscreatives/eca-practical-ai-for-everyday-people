@@ -1,0 +1,114 @@
+{
+  "version": 1,
+  "projectId": "cmv75vcws011v5c3c55zz4sqy",
+  "lesson": 229,
+  "scriptSha256": "9668ceffd061075a2f6bac7e1ef2f86fd18e07a1daa6a2fe30fcf30333ae38cf",
+  "baselineSha256": "e1ba6684059fe886afa80dccd6ec9d9d5637276b55cf0adccd4a7902c2f2e87b",
+  "files": [
+    {
+      "name": "LICENSE.txt",
+      "bytes": 291,
+      "sha256": "52a92d8446e1eea97cb2a7ad8d5d01d400f6538097487f1f2fac5338e740c384"
+    },
+    {
+      "name": "PROVENANCE.md",
+      "bytes": 956,
+      "sha256": "520711f00163a6e6941afbf8e807844c9824152fe882d9a88c7f17c979258762"
+    },
+    {
+      "name": "README.md",
+      "bytes": 1496,
+      "sha256": "efccfc1ae57453a6a34c41bb82f1f4011d69a9f157119befb9b2fbaecab045e4"
+    },
+    {
+      "name": "account-and-cost-check-blank.csv",
+      "bytes": 336,
+      "sha256": "1fbf58a95cf9c6b55ed7c41aa51a1e35848031a51dd72a424d4307512a6e0e13"
+    },
+    {
+      "name": "answer-key.md",
+      "bytes": 1861,
+      "sha256": "d98dec6d137f24b7b7bacbde37f54c68856033bfacfeb1b00ed1674849a48078"
+    },
+    {
+      "name": "checked-action-list.txt",
+      "bytes": 732,
+      "sha256": "80945f8bb755c28e87c57db336619b596d5e0afe179454a88a8bf48c70891559"
+    },
+    {
+      "name": "correction-log-answer.csv",
+      "bytes": 283,
+      "sha256": "80f16ff91075e60bb26a3269a8f5fd195f65e92c1216ee96ad3de923037236a2"
+    },
+    {
+      "name": "correction-log-blank.csv",
+      "bytes": 101,
+      "sha256": "f4270d41f7751b70b8ea6dd875b29ff8ab543d52b93b7227b7cff381075d06b5"
+    },
+    {
+      "name": "correction-request.txt",
+      "bytes": 290,
+      "sha256": "05afd82d27d850073ac121dd0d2825803be1e0f9fdd60eb63329ccf4f1f6c692"
+    },
+    {
+      "name": "decision-record-blank.csv",
+      "bytes": 90,
+      "sha256": "c651c6ee1ea254d628ba1168b12a306a756af21ce38bf66fbf59b715ee674ce5"
+    },
+    {
+      "name": "decision-record-example.csv",
+      "bytes": 836,
+      "sha256": "6daf133667847c26b3d9a5a3629ae037a61cb36f59725f5368d73ce0892299da"
+    },
+    {
+      "name": "effort-log-blank.csv",
+      "bytes": 309,
+      "sha256": "314ed6de18a70e998408ed731c6eea5e85e1237a526df44c3e3b665dabc778d2"
+    },
+    {
+      "name": "exercises.md",
+      "bytes": 1522,
+      "sha256": "569af6fec5a2fa425117e1526dabed975914b23c17401353a04010f2aae6fbb5"
+    },
+    {
+      "name": "learner-guide.md",
+      "bytes": 2673,
+      "sha256": "9229140f14fa9203a0bd6bae1a64fb1d901ac738deb944c35a9d8ef4e2d8a49f"
+    },
+    {
+      "name": "manual-fallback-template.txt",
+      "bytes": 407,
+      "sha256": "65cf550c03ddedd8dbe5888442bab92cd0b4910740db4eb89916b036983bdf9a"
+    },
+    {
+      "name": "practice-draft-with-errors.txt",
+      "bytes": 343,
+      "sha256": "ca1bfe202ff527a561a16abd05fdf5c9776b338dd01836baac570854135b8a6f"
+    },
+    {
+      "name": "reusable-instruction.txt",
+      "bytes": 331,
+      "sha256": "64cc21fa18968bb471652572583d031bae3b83f4f3462d1555b973fd20a5ccfe"
+    },
+    {
+      "name": "tools-already-used-example.csv",
+      "bytes": 400,
+      "sha256": "73c8cefa16727156c2ccf4afb8601ed728cfa0e13d61d6deacc80a5cf6dc240f"
+    },
+    {
+      "name": "weekly-project-notes.txt",
+      "bytes": 262,
+      "sha256": "c76efb8ea86a5c1fc1931c0eb9c903b4262f32126ca2999fba65207c55236c96"
+    },
+    {
+      "name": "workflow-choices-blank.csv",
+      "bytes": 153,
+      "sha256": "291c46fe0168d2c1ff9905a4b54610bc5b77751eb66ad26ee7e6f67dd3cc8d9f"
+    },
+    {
+      "name": "workflow-choices-example.csv",
+      "bytes": 977,
+      "sha256": "c4fe25afd021eda0113adce40911cb504421249607b6f240d74954dd5ded9f50"
+    }
+  ]
+}

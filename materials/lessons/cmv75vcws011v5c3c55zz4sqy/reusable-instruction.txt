@@ -1,0 +1,4 @@
+Turn the supplied notes into three sections: Confirmed actions, Suggestions, and Open questions. Preserve names and dates. Do not invent owners or deadlines. Label missing information.
+
+SOURCE NOTES
+Paste the complete fictional weekly-project-notes.txt here. Keep instruction and input separate. Do not insert private information.

@@ -1,0 +1,8 @@
+Manual fallback — complete from the original supplied notes without an assistant.
+Confirmed actions:
+- Owner / action / deadline (or missing):
+Suggestions:
+- Suggestion / owner if stated:
+Open questions:
+- Question / missing information:
+Check names, dates, status and meaning against source. Keep suggestions separate. Do not invent commitments. Record human approval separately before any real sharing.

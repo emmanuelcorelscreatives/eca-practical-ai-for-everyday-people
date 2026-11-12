@@ -1,0 +1,7 @@
+# Exercises
+A. Complete six fictional workflow rows from the example, hide the Decision column first, and decide KEEP/REVISE/RETIRE with reasons. Then compare the lecture pattern. Explain why occasional travel remains useful without dedicated upkeep and why unclear saved-article summaries are retired.
+B. Read the source, then inspect the simulated flawed draft. Find the unsupported date, record the correction, and produce a revised list preserving two commitments, one suggestion and one unresolved question. Explain why a correct Thursday entry does not validate the Friday entry.
+C. Close the simulated draft and complete the manual fallback from the original notes. Compare with the expected answer. Mark missing information honestly. Do not turn the signs suggestion into an assigned action.
+D. Map the three kept workflows to existing tool categories. Explain one way a single tool supports multiple workflows. Do not invent account access.
+E. Complete an account checklist with actual observations only if you have an account you choose to inspect. Otherwise mark all uninspected fields unknown and list where you would verify them. No purchase or cancellation required. Explain why old screenshots cannot prove a current price or feature.
+F. Complete a personal decision record, choose a review date and leave a first blank effort-log row ready. When using it, total setup, generation/drafting, checking, correction, transfer and recovery. Do not invent measured times, use counts or successful fallback tests.
