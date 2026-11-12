@@ -1,0 +1,72 @@
+{
+  "version": 1,
+  "projectId": "cmv75v8sz00h15c3cylgn27nx",
+  "scriptSha256": "bfb8ae3041cc3b0f2e8bcf32a988eb9a0d2d274abac134e1def4dcc417d5a6df",
+  "files": [
+    {
+      "name": "Garden Source Pack/Garden Handbook.pdf",
+      "sha256": "375b2b503c16ff49d5448ab2fa0ae154267db7d6f79fef37133f0ca4ee19fa16",
+      "bytes": 3912
+    },
+    {
+      "name": "Garden Source Pack/Planning Notes.docx",
+      "sha256": "c4ce21c149e8566f89ccc1e5f9c94c7f6c1dfae86f3256f5dd498ce347e58f93",
+      "bytes": 37028
+    },
+    {
+      "name": "Garden Source Pack/Site Sketch.pdf",
+      "sha256": "79b5859d193084ee3e78be3a0ec3e3830142248844994d9d35d064fbac431daf",
+      "bytes": 47786
+    },
+    {
+      "name": "README.md",
+      "sha256": "6eb775920bccb72c17480406b19679c366b4542e4d185b405a469530bc14c5e9",
+      "bytes": 619
+    },
+    {
+      "name": "actual-checks.json",
+      "sha256": "2ba2d52019f073ef254c9bbd1e4e25b65cff54881f4e491f841e3bcc63c8c758",
+      "bytes": 2497
+    },
+    {
+      "name": "answer-record.csv",
+      "sha256": "0fbc2f69c5f4b51d7405331ddeb5011e1184cf2e1b299472e65b5868f34ddcd9",
+      "bytes": 204
+    },
+    {
+      "name": "expected-checks.md",
+      "sha256": "8b901f24ecfc4c1cfabea764792273c689dc4e899f2a611974a669ea092e9909",
+      "bytes": 1402
+    },
+    {
+      "name": "prompt-template.txt",
+      "sha256": "c918de162998d0c11e534e499dfb77b6e45903f963acc37883cbb271a4e33d68",
+      "bytes": 369
+    },
+    {
+      "name": "site-sketch-ocr.pdf",
+      "sha256": "0fc90319523a2a5bad1cd1fe79eb8ee531c80fed14a5c948655f420b8a531903",
+      "bytes": 44774
+    },
+    {
+      "name": "site-sketch-ocr.stderr.txt",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "bytes": 0
+    },
+    {
+      "name": "site-sketch-ocr.txt",
+      "sha256": "25accd56fe7ed7d3ce9f9c90d734d8641c2503e083c2073212a31148e1c05a4c",
+      "bytes": 113
+    },
+    {
+      "name": "site-sketch-original-image.png",
+      "sha256": "a9f5e2be7ab2e4c9d13a2291d5c15d9707d4bb1c8f658c7922e14748d2838466",
+      "bytes": 40184
+    },
+    {
+      "name": "worksheet.md",
+      "sha256": "8f2a58d487786729de759477a33a74e86d350e01b42707fa2fbc979a0b2150c1",
+      "bytes": 3770
+    }
+  ]
+}

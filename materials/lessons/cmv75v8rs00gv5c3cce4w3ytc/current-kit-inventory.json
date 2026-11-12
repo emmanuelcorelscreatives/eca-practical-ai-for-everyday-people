@@ -1,0 +1,62 @@
+{
+  "version": 1,
+  "projectId": "cmv75v8rs00gv5c3cce4w3ytc",
+  "scriptSha256": "08be2a6e5acfc1fc16addde9769295220a8a309b90698429e90f2c177ab2fc7b",
+  "files": [
+    {
+      "name": "GardenOpenDay/01_Originals/Community_Hall_Notice_Scan_2026-09-28.pdf",
+      "sha256": "1184dbed1602ad7e4aed058bfb76b22985f71c3e543b95ab68dbee1b0af97acb",
+      "bytes": 116701
+    },
+    {
+      "name": "GardenOpenDay/01_Originals/Riverside_Garden_Open_Day_Guide_2026-09-20.pdf",
+      "sha256": "a81eccded3692175e50ee780d1adf8b9d9f439e0642db55a8cf2e53f762af078",
+      "bytes": 2590
+    },
+    {
+      "name": "GardenOpenDay/01_Originals/Volunteer_Planning_Notes_2026-10-02.docx",
+      "sha256": "bf0214fc7aac03b5d349d48d91f3c2111366956eaaa5a6fdab5cff45f38209ad",
+      "bytes": 36838
+    },
+    {
+      "name": "GardenOpenDay/02_Working_Notes/Source_Log.xlsx",
+      "sha256": "7b12c229c17ee474dd193d79f7c6057157c9c4fbe5e63c8b3eb0fc7c498489e3",
+      "bytes": 6163
+    },
+    {
+      "name": "LICENSE.txt",
+      "sha256": "3eaa938c23c9752adf1d119d9774c804bff98288862e60801805a67f5b957872",
+      "bytes": 235
+    },
+    {
+      "name": "README.md",
+      "sha256": "e465cfcd7b80a95b808da5a18563ffb94e01ec16545431fe67a4db32a9f2badd",
+      "bytes": 1558
+    },
+    {
+      "name": "answer-key.md",
+      "sha256": "dec48febdc3d2526dbad9dd544610cde19337f4e0528b69384ed104caab7f155",
+      "bytes": 1026
+    },
+    {
+      "name": "check_materials.py",
+      "sha256": "5b0eaf264fd06f803b867f2b6572d1c37cc3ba07aa5fcd654290bc7ab5219f46",
+      "bytes": 631
+    },
+    {
+      "name": "exercise.md",
+      "sha256": "13e6abc455448f8b778104823de1c612d83a79f52b392e2c1019cc2ca991d22f",
+      "bytes": 1489
+    },
+    {
+      "name": "source-log-completed.csv",
+      "sha256": "952be3a486d381a7fde02404428b318ec3f796e2a3ed37a8159a7553979c35d7",
+      "bytes": 983
+    },
+    {
+      "name": "source-log-worksheet.csv",
+      "sha256": "729483af7841966490dc685a962717b27770e34f723ad9bae4d25d7fc02a6826",
+      "bytes": 194
+    }
+  ]
+}

@@ -1,0 +1,57 @@
+{
+  "version": 1,
+  "projectId": "cmv75v8o800gd5c3cjldlq0hg",
+  "scriptSha256": "2a1930b7f5b2b775c574537fbc72a2190e451556b0cf6ba04859dc4441916cb0",
+  "files": [
+    {
+      "name": "comparison-blank.csv",
+      "sha256": "51bb33d5359376668a7a24ddc9203d24dd47a911e529e75690cb8021a0f53c39",
+      "bytes": 196
+    },
+    {
+      "name": "comparison-expected.csv",
+      "sha256": "e0b28b80ec764b23b01b9e9c0aa21cf00722c69f0d075a0890fe9e0efc570916",
+      "bytes": 1169
+    },
+    {
+      "name": "faq.html",
+      "sha256": "77cf03b81f3e30f37caea4f2c536a9ae0cb2cf5271d4e7787efd2a1f6f08d65e",
+      "bytes": 1072
+    },
+    {
+      "name": "flyer.html",
+      "sha256": "981656f5da7922506514a3e65e0ee4d1f220980bcabb4c9aa79c66df471a13e0",
+      "bytes": 942
+    },
+    {
+      "name": "index.html",
+      "sha256": "d70f1a5ece11317e2ce023d2cc3d058363463890f8196a2673899478ebdea15b",
+      "bytes": 1393
+    },
+    {
+      "name": "notes.html",
+      "sha256": "3aafe00cfe2b7ccd1dc3a7989328a2ddaa29e06278f8fa6243b69f28e4483df9",
+      "bytes": 1126
+    },
+    {
+      "name": "sources.json",
+      "sha256": "4465d508e2fe689533660e491b6c4ec2aad544a4dd1b3d3158961ee779c91400",
+      "bytes": 1561
+    },
+    {
+      "name": "summary.html",
+      "sha256": "30078ffe9578fe71732ad3959154b06dce9b6ae2f863bc95b4cec36da987a737",
+      "bytes": 841
+    },
+    {
+      "name": "verify.py",
+      "sha256": "da0afaecf9068036a774dc1b5f5c163ceaa1cc39ed4df7fec2bfc9a76ad89d85",
+      "bytes": 840
+    },
+    {
+      "name": "worksheet.md",
+      "sha256": "a904d407746bcd56d5e0130edf15233b33700f86afc63a3b078428f3c0c3a606",
+      "bytes": 3927
+    }
+  ]
+}

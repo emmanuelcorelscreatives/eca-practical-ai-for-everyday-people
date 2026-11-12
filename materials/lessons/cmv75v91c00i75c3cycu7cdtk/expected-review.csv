@@ -1,0 +1,7 @@
+transcript evidence,classification,explicitly stated owner or date,confirmation needed
+T02 Jon: “I’ll book the room today.” T03 Maya: “Agreed.”,Confirmed commitment,Jon; today (relative date),None for classification; preserve recording-date context if needed
+T04 Leila: “We could offer tea.” T05 Jon: “That sounds good.”,Proposed idea,,"Was tea approved? If so, who would arrange it?"
+T06 Maya: “Should we cap attendance at 30?” T07 Leila: “We need the room layout.”,Unresolved question,,Should attendance be capped at 30? No answer supplied.
+"T08 Jon: “If the booking is confirmed, I’ll send the invitation on Friday.”",Confirmed commitment — CONDITIONAL on booking being confirmed,Jon; Friday (relative date),Keep condition; if booking unconfirmed do not imply invitation is due.
+T09 Maya: “I propose using paper sign-in sheets.” T10 Leila: “I agree. Let’s use paper sign-in sheets.”,Confirmed decision; no assigned task,,"Who prepares sheets and by when, if an action assignment is needed?"
+A01: “I think Thursday should work.”,Needs confirmation,,"What does Thursday mean, and was it agreed? No surrounding context supplied."

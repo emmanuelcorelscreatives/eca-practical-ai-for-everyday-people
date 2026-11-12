@@ -1,0 +1,6 @@
+Question: [one narrow question]
+Use only these selected sources: [exact names and versions]
+Give a concise answer. Name the supporting source and page or passage.
+Separate directly stated evidence from generated interpretation.
+For missing answers say: Not stated in the supplied material.
+Label uncertain wording as uncertain; do not fill gaps with general knowledge.

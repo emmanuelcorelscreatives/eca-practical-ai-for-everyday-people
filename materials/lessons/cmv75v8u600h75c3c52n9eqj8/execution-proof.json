@@ -1,0 +1,11 @@
+{
+  "state": "PASS",
+  "checks": [
+    "searchable original contains exact quotation",
+    "original has 12 pages",
+    "scan PDF has no extracted quotation/text",
+    "viewer position 6 contains Page 5"
+  ],
+  "originalTextSha256": "0f8b97163b5072cc57f6b8e1be6aa80d6c2f62be959aa5638a235a713543cadd",
+  "imageOnlyExtractedText": "\f"
+}

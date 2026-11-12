@@ -1,0 +1,72 @@
+{
+  "version": 1,
+  "projectId": "cmv75v8u600h75c3c52n9eqj8",
+  "scriptSha256": "904e1922f57d881e4c8b27f2450c23e8522c00ab18701cd455cabcb86444815f",
+  "files": [
+    {
+      "name": "Community Garden Access Notes - scan.pdf",
+      "sha256": "c0c39b1b6e7469fc3343a343f75221eb6264f9dee21fb8baa3c78a016b0558ed",
+      "bytes": 42759
+    },
+    {
+      "name": "Community Garden Access Notes.pdf",
+      "sha256": "c29029067fd88cc05147193da0820d0b1b54fa8ccf5e04299ab0bdef82a2fb40",
+      "bytes": 9218
+    },
+    {
+      "name": "README.md",
+      "sha256": "d7f88acfdcaf1379be27f51abb5f32052e7469b9ead2cb1393137fe90b750589",
+      "bytes": 4448
+    },
+    {
+      "name": "answer-key.csv",
+      "sha256": "36ac82be148ba376490172a0ce1d4b384fbffe5538530a18d9bd72d29fe01879",
+      "bytes": 1073
+    },
+    {
+      "name": "check_materials.py",
+      "sha256": "535ea56f19e50531ef1c76161c37dd08cd8dd8e6e4be9079352e28febf40ced7",
+      "bytes": 757
+    },
+    {
+      "name": "execution-proof.json",
+      "sha256": "e4a2339091f421e8991060dae335dc10bb55c985cef383556c3ab3c6fbcac446",
+      "bytes": 336
+    },
+    {
+      "name": "numbering-answer.csv",
+      "sha256": "a8551f3e81d8c246f1801c0757e0ca97336fad8f604d54834499ac40188fba3c",
+      "bytes": 223
+    },
+    {
+      "name": "numbering-check.csv",
+      "sha256": "9c367c0a0cfc664ebbcba21f35d8e6bfe1838e8f554bf8426af4ee800d22eb20",
+      "bytes": 104
+    },
+    {
+      "name": "ocr-draft.txt",
+      "sha256": "98bbc86e8e66c1e7a205bdf66475470808dec4ad1fb0fdc74a6832d0c0325215",
+      "bytes": 358
+    },
+    {
+      "name": "scan-page.png",
+      "sha256": "7b6f1df8cb92e209ac983218d9a8d936a985ebe8d103fe763972e2b5fc373929",
+      "bytes": 46013
+    },
+    {
+      "name": "source-record.json",
+      "sha256": "05faf5971074d5780db89bc727c184794b715f017f6a9ba51346ba00e835671d",
+      "bytes": 375
+    },
+    {
+      "name": "source-text.txt",
+      "sha256": "b6567c23fc1f7dfb18ec708af714ccee4390be2648b31a8a97688b9a6b361644",
+      "bytes": 2907
+    },
+    {
+      "name": "worksheet.csv",
+      "sha256": "caa0941b73d54ba91b637c5edb7f2ef6878fc765738c0b459ef8dfc28128e7f9",
+      "bytes": 187
+    }
+  ]
+}

@@ -1,0 +1,41 @@
+{
+  "provenance": "Self-authored fictional Riverlight Community Garden practice material. No real organization, program, AI output or search is claimed.",
+  "sources": [
+    {
+      "id": "flyer",
+      "title": "Autumn Workshop Flyer",
+      "claim": "Weekly public workshops run from October 1 through November 30, 2026.",
+      "source_date": "2026-09-02",
+      "period_start": "2026-10-01",
+      "period_end": "2026-11-30",
+      "definition": "Public workshops",
+      "audience": "Registered attendees",
+      "activities": "Weekly public workshops",
+      "relationship": "Direct schedule"
+    },
+    {
+      "id": "faq",
+      "title": "Program FAQ",
+      "claim": "Program access runs from September 15 through December 15, 2026, including volunteer preparation, public workshops and site cleanup.",
+      "source_date": "2026-09-20",
+      "period_start": "2026-09-15",
+      "period_end": "2026-12-15",
+      "definition": "Program access includes preparation, workshops and cleanup",
+      "audience": "Volunteers and registered attendees",
+      "activities": "Volunteer preparation; public workshops; site cleanup",
+      "relationship": "Direct program description"
+    },
+    {
+      "id": "summary",
+      "title": "Community Summary",
+      "claim": "The autumn program lasts three months.",
+      "source_date": null,
+      "period_start": null,
+      "period_end": null,
+      "definition": null,
+      "audience": null,
+      "activities": null,
+      "relationship": "Derivative of Program FAQ; not independent confirmation"
+    }
+  ]
+}

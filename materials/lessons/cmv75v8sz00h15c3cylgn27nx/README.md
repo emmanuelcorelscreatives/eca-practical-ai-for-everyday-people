@@ -1,0 +1,3 @@
+# Ask Questions About the Supplied Material
+
+Lesson 104 of Practical AI for Everyday People, Emmanuel Corels Academy. Start with `worksheet.md`, import only the three files in `Garden Source Pack`, and save your own observations in `answer-record.csv`. The supplied garden is entirely fictional and authored for this course. `expected-checks.md` is a human-authored answer key, not model output. The guide preserves a no-account manual fallback. All Academy-authored source text, images and worksheets in this kit are CC BY 4.0; attribution: Emmanuel Corels Academy. Third-party software is not included or relicensed.

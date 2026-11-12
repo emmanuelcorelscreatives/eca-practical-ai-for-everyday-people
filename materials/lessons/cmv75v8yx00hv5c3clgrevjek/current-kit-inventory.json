@@ -1,0 +1,47 @@
+{
+  "version": 1,
+  "projectId": "cmv75v8yx00hv5c3clgrevjek",
+  "scriptSha256": "44e46ad07e256f82277d05c8fcbc353f89057587ff7d00fd91425a798c09c187",
+  "files": [
+    {
+      "name": "PROVENANCE.md",
+      "sha256": "a9b6d1fe50bc02a137330714121c7738fa20ce938dea8ea564be1436a93dee78",
+      "bytes": 723
+    },
+    {
+      "name": "notes-fallback.md",
+      "sha256": "b8786e3f80673ee1199af411979b372e3ed218ebb394575dbe7ed5e7bd930cae",
+      "bytes": 518
+    },
+    {
+      "name": "personal-note-script.txt",
+      "sha256": "57fb0f97cdb3a33647326b95ed64bb25fafeca0811e059eda50288d7ef04b9e9",
+      "bytes": 237
+    },
+    {
+      "name": "planning-outline.md",
+      "sha256": "be956ff3b73868a0976a6a1bdadbc4df32029456fce8b10c72ffb77534b40a14",
+      "bytes": 171
+    },
+    {
+      "name": "purpose-and-permission-checklist.md",
+      "sha256": "c41f7dfac57cd77d896d4e18233beddb3f0b699951f6981e934774b8ee561b00",
+      "bytes": 1381
+    },
+    {
+      "name": "scope-check.md",
+      "sha256": "337c3df331d72d9227a7ae6d4657dc8451182256435f39b8b342085995356f92",
+      "bytes": 970
+    },
+    {
+      "name": "worked-example.md",
+      "sha256": "c3a745ba9289a5fa7a25715e276e19a2d8364599d37bd38063de6b4fb6ae5b98",
+      "bytes": 1376
+    },
+    {
+      "name": "worksheet.md",
+      "sha256": "d4808418f570af5c33bc9088f23edf88132fb9ed25e3979007846452d66b58e0",
+      "bytes": 2497
+    }
+  ]
+}

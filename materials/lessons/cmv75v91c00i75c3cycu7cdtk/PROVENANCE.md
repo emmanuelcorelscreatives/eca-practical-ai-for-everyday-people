@@ -1,0 +1,4 @@
+# Provenance and preservation
+Self-authored fictional Academy practice material, prepared for the existing lesson “Separate Decisions from Suggestions.” Source alignment: booking today with explicit acceptance; tea proposal with positive reaction only; unanswered cap-at-30 question; Friday invitation conditional on booking; confirmed paper sign-in-sheet decision with no preparer/deadline; ambiguous Thursday example; book/look audio uncertainty.
+
+No third-party dataset, real recording, actual app screenshot, actual assistant response, private document or real meeting record is included. “Generated draft” demonstrates explicitly labeled fictional mistakes. No external data collection or execution is required. The authored lecture, instructor identity and production settings are not changed by this resource kit.

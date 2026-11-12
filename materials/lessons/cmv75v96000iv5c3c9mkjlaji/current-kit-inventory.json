@@ -1,0 +1,37 @@
+{
+  "version": 1,
+  "projectId": "cmv75v96000iv5c3c9mkjlaji",
+  "scriptSha256": "925f66e052f86bd3a637be285fce970cfbb913ebe22f6577518d4addabc73472",
+  "files": [
+    {
+      "name": "ai-instruction.txt",
+      "sha256": "f00b3e2eb7b4067c57a301c82c43af60cceae9f0516f0ee0ba6f327a2ffef06c",
+      "bytes": 923
+    },
+    {
+      "name": "comparison-template.csv",
+      "sha256": "978eb0b60904776a7800dc8dac8e7aaf22aa822bea72a2c9710ab95515af3cd6",
+      "bytes": 267
+    },
+    {
+      "name": "expected-checks.md",
+      "sha256": "ac2120d4d7b03d7dca951864335376a1fb7d537c2dd3dba4a4d43690a460b19a",
+      "bytes": 1948
+    },
+    {
+      "name": "reflection.md",
+      "sha256": "47b5bcf10329c8d3c62d223a92a9288010c83e88adaceceae155f7eb9b0b2f18",
+      "bytes": 624
+    },
+    {
+      "name": "source-cards.md",
+      "sha256": "ffa224739e06b5e8990310a22fc1004418e1a925c7a739267325b119597b4a5a",
+      "bytes": 1760
+    },
+    {
+      "name": "worksheet.md",
+      "sha256": "98f3f5fbc00a5186baafe4e9e0dcc8a2b4428f4fd31eb78b5fbdecc5e293b079",
+      "bytes": 3322
+    }
+  ]
+}

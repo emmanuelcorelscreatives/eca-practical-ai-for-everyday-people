@@ -1,0 +1,38 @@
+{
+  "state": "COMPLETE",
+  "projectId": "cmv75v8sz00h15c3cylgn27nx",
+  "scriptSha256": "bfb8ae3041cc3b0f2e8bcf32a988eb9a0d2d274abac134e1def4dcc417d5a6df",
+  "checks": {
+    "handbookPages": 4,
+    "exactAccessSentencePage": 4,
+    "originalScanPages": 1,
+    "originalScanExtractedCharacters": 0,
+    "recognizedLabelPresent": true,
+    "allChecksPass": true
+  },
+  "ocr": {
+    "argv": [
+      "tesseract",
+      "/var/lib/trejj-studio/maintenance/practical-ai-pocket-production-20261112/lesson-cmv75v8sz00h15c3cylgn27nx/kit/site-sketch-original-image.png",
+      "/var/lib/trejj-studio/maintenance/practical-ai-pocket-production-20261112/lesson-cmv75v8sz00h15c3cylgn27nx/kit/site-sketch-ocr",
+      "--dpi",
+      "150",
+      "-l",
+      "eng",
+      "pdf",
+      "txt"
+    ],
+    "exitCode": 0,
+    "stdout": "",
+    "stderr": "",
+    "claim": "Local Tesseract execution only; not an Acrobat or NotebookLM observation"
+  },
+  "sourceHashes": {
+    "Garden Source Pack/Site Sketch.pdf": "79b5859d193084ee3e78be3a0ec3e3830142248844994d9d35d064fbac431daf",
+    "Garden Source Pack/Planning Notes.docx": "c4ce21c149e8566f89ccc1e5f9c94c7f6c1dfae86f3256f5dd498ce347e58f93",
+    "Garden Source Pack/Garden Handbook.pdf": "375b2b503c16ff49d5448ab2fa0ae154267db7d6f79fef37133f0ca4ee19fa16"
+  },
+  "handbookExtractedText": "Garden Handbook\nFictional neighborhood garden - learning example\nVersion 1.0\nThis handbook is supplied for document-questioning practice.\nIt describes a fictional garden and is not operating guidance.\nFictional Academy practice material | Version 1.0 | Page 1\n\nUsing the garden\nUse designated paths and respect planted beds.\nBring personal drinking water.\nAsk an authorized coordinator about unresolved access questions.\nFictional Academy practice material | Version 1.0 | Page 2\n\nSource boundaries\nRead each source in context before relying on an answer.\nThis pack is deliberately incomplete.\nAn absent detail should remain a gap rather than a guessed fact.\nFictional Academy practice material | Version 1.0 | Page 3\n\nTool shed access\nThe tool shed may be accessed only during staffed garden hours.\nThis paragraph gives a condition for access.\nIt does not provide a clock-time schedule or a lock combination.\nFictional Academy practice material | Version 1.0 | Page 4\n",
+  "originalScanExtractedText": "",
+  "ocrExtractedText": "Site Sketch \nFictional garden \n- Academy practice \nPlanted beds \nWater tank inspection area \nVersion 1.0 \n| Page 1\n"
+}

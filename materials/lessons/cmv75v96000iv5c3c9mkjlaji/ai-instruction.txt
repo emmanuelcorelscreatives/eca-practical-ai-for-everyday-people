@@ -1,0 +1,4 @@
+Organize the supplied fictional source cards into facts, preferences, constraints and unresolved questions. Use only the supplied evidence. Do not fill unknown values. Ask me before treating a preference as a requirement.
+Exercise constraints: usable shelf width is 35 cm; the option must have the supplied USB-A connection. Check each constraint independently and show satisfied, not satisfied or unknown.
+My initial preference: I strongly prefer easy carrying; quiet operation matters less. Do not invent weights or scores. Preserve the distinction between a seller statement, an interpretation and my own decision. Cite card section labels for every source claim. Leave the final choice to me.
+Follow-up: change only my preference to quiet operation. Keep the evidence and constraints fixed. Explain any supported tradeoff and any uncertainty; do not invent noise measurements or declare an option best without support.

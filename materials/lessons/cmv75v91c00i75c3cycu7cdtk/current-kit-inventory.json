@@ -1,0 +1,42 @@
+{
+  "version": 1,
+  "projectId": "cmv75v91c00i75c3cycu7cdtk",
+  "scriptSha256": "4f9c72b40d5531922c3f34b4de9ad091f0c47f94b0c13e84a48e3252bfb97057",
+  "files": [
+    {
+      "name": "PROVENANCE.md",
+      "sha256": "f145ef77624bd98ece9f0bb3857c225e5bd24183b10c83de591d11fb1ec2318f",
+      "bytes": 829
+    },
+    {
+      "name": "README.md",
+      "sha256": "5835c0ed158af7ac0d492c33bd8b754f75e523b362820cdb55b1d509a600224e",
+      "bytes": 1855
+    },
+    {
+      "name": "expected-review.csv",
+      "sha256": "253ee155af6d9637582d443002b4c5509792f6e3073d4fe94f4a4d5f9ff4bb49",
+      "bytes": 1185
+    },
+    {
+      "name": "generated-draft.md",
+      "sha256": "fb710e5e04af0ef6deca4ea743456e0339136987fa6db13434a6350396d2c7a2",
+      "bytes": 623
+    },
+    {
+      "name": "prompts.md",
+      "sha256": "676481a20dbfc8f7231d2720407d2f4515087b7c25858d85bf504dfa6639fa83",
+      "bytes": 1874
+    },
+    {
+      "name": "review-worksheet.csv",
+      "sha256": "9d6e5501bb4b29ba907de1aa634f891dc7336ad0efaf501df5c6b9c96683fcfe",
+      "bytes": 578
+    },
+    {
+      "name": "transcript.md",
+      "sha256": "ae7b21611f96521f26455d6af0fd4c2992ae3209d53ea471b4da15db2bdffda9",
+      "bytes": 1204
+    }
+  ]
+}
