@@ -1,0 +1,67 @@
+{
+  "version": 1,
+  "projectId": "cmv75vaor00qv5c3c7tx2z8gq",
+  "scriptSha256": "4060fcb7578dde81928c31a0db74f257028f7d4e0403df50203ae371bbb29047",
+  "files": [
+    {
+      "name": "LICENSE.txt",
+      "sha256": "40cd91b56d99b8684ffd4a02d56ad630049f3fc22731b751a53bc57872a10cf9",
+      "bytes": 189
+    },
+    {
+      "name": "README.md",
+      "sha256": "b4ec901d909837b065d08567c03e010836c1d0afa9f75413404b682314f4a858",
+      "bytes": 2171
+    },
+    {
+      "name": "draft-instruction.txt",
+      "sha256": "d11f426fb260c5fdfeacb7dd0ce9613ca34172d041bde68193bec2aeb9ec2184",
+      "bytes": 523
+    },
+    {
+      "name": "expected-checks.md",
+      "sha256": "27b1e3e18af43f6a703c4f09118cd1798481206b0bf3e51d9dd5cef9bee6b25b",
+      "bytes": 1178
+    },
+    {
+      "name": "generated-practice-draft.txt",
+      "sha256": "97bbbf789ab255c55005ceea75a619396d6407fb5906e3f91bdca0cac5af55fd",
+      "bytes": 236
+    },
+    {
+      "name": "lesson-delivery-map.md",
+      "sha256": "f7bbb4189d5d44f0f326be0d6d5d63f97dd5b63f9976ab4d31b1ba3cd7c04a53",
+      "bytes": 1059
+    },
+    {
+      "name": "planning-worksheet.md",
+      "sha256": "3aad4191d9240e49e389fb9f6707805c98aec0f8f29624a51710e0e3b6bf938b",
+      "bytes": 973
+    },
+    {
+      "name": "practice-editor.html",
+      "sha256": "bb184234c27daec295e7d1f62837c48c42de9909002212d73b53c1ee92832112",
+      "bytes": 5789
+    },
+    {
+      "name": "read-through-log.csv",
+      "sha256": "d638dfa868e228efe1dac7d615661b6902d05ff1a7d6ada3af99f0f0a253d1a1",
+      "bytes": 143
+    },
+    {
+      "name": "revised-practice-script.txt",
+      "sha256": "24ec40b95d092d45a60d2b65e1d71cbe294b1820fcef2b526748b09c4c65d77d",
+      "bytes": 196
+    },
+    {
+      "name": "source-notes.json",
+      "sha256": "64d9d3c1b3c7f885f352df558214c6c5a7ddab87f29c0dd2ffcdc5f408e8f5a2",
+      "bytes": 475
+    },
+    {
+      "name": "verify_materials.py",
+      "sha256": "d88d92d7d291240d5d180da697b6d752f625b4bc648fc04053c27bebdd955952",
+      "bytes": 987
+    }
+  ]
+}

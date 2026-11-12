@@ -1,0 +1,17 @@
+{
+  "fictional_practice_only": true,
+  "event": "Community device-help session",
+  "audience": "Local adults; everyday device users",
+  "purpose": "Invite interested adults to register",
+  "supported_facts": [
+    "Free device-help session",
+    "Bring one device"
+  ],
+  "date": "[DATE]",
+  "time": "[TIME]",
+  "place": "[PLACE]",
+  "contact": "[CONTACT]",
+  "target_seconds": 45,
+  "unsupported_phrase": "and the question you most want answered",
+  "publish_ready": false
+}

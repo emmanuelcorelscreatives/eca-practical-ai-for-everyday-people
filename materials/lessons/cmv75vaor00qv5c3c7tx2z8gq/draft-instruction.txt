@@ -1,0 +1,7 @@
+Create a spoken announcement with one purpose: invite local adults to register for the device-help session. Audience: everyday device users.
+Use plain, welcoming language. Aim for about 45 seconds when read naturally.
+Use only the supplied facts. Preserve placeholders. Label any assumption instead of filling missing information.
+End with one clear action: contact [CONTACT] to register. Return only the script.
+
+Supplied facts: Free device-help session. Bring one device.
+Unconfirmed: [DATE], [TIME], [PLACE], [CONTACT].
