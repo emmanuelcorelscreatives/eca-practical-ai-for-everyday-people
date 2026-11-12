@@ -1,0 +1,53 @@
+CAPSTONE BRIEF — FICTIONAL PLANNING EXAMPLE, NOT AN EXECUTED WORKFLOW
+
+Problem
+After a permission-cleared community meeting, agreed actions are difficult to find in the notes, and follow-up drafts take too long to prepare.
+
+Beneficiary
+Volunteer coordinator who reviews meeting records and prepares follow-up drafts.
+Not included: recording meetings, sending messages, assigning missing owners, or deciding policy.
+
+Manual baseline
+Current method: read notes, highlight decisions, copy actions, draft follow-up, review.
+Record later:
+Elapsed time:
+Corrections:
+Unresolved questions:
+No measurements have been taken.
+
+Inputs
+Permission-cleared meeting notes; meeting date; approved participant labels; known deadlines; approved reference documents; output destination.
+Missing required input: stop and request it. A complete set of notes may explicitly show that an action has no owner/deadline: retain those fields as MISSING rather than inventing them. If the notes, permission, date, label list or destination itself is absent, request the required input before processing.
+Include only task-relevant notes and approved references. Omit or redact private contact details, unrelated personal discussion, credentials, unnecessary identifiers. Before real use, confirm permission and applicable local requirements.
+
+Instructions
+Use only supplied material. Separate confirmed decisions, proposed ideas, actions and unresolved questions. Do not invent owners or deadlines. Label assumptions and missing information. Produce a draft only.
+SOURCE = opened notes or approved reference. GENERATED = assistant-created wording. ASSUMPTION = interpretation requiring confirmation. MISSING = information not supplied. Generated wording must not be presented as source evidence.
+
+Tools / Tool sequence
+1. Open approved notes in a document reader.
+2. Use an available assistant to create a structured draft.
+3. Compare draft with notes.
+4. Edit final document.
+5. Place in review folder.
+Required features: opens input format; permits intended material; supports required output; available on my device and account; understood usage limits; current full cost checked; access can be removed. Product selection remains undecided. Complete account-and-cost.csv from current account evidence later.
+
+Output
+One reviewed package: action table with source references; unresolved-question list; follow-up message draft; visible review status. No message is sent. Table columns: Item; Status; Owner; Deadline; Source location; Review note. See the blank output-template.txt. No AI output is claimed here.
+
+Checks
+Compare every extracted action with opened notes. Verify names and dates directly. Separate decisions from suggestions. Preserve qualifications. Confirm sharing permission. Inspect final file in destination, not just assistant draft.
+
+Acceptance criteria
+Every confirmed action traces to notes; no unsupported owner/deadline; missing information visibly labelled; follow-up preserves meaning; final file opens correctly and is usable; volunteer coordinator approves before sharing. Every criterion leads to pass, correction or stop. No current pass is claimed.
+
+Exceptions
+Unreadable file: request clearer copy. Contradictory notes: flag both passages for review. Tool unavailable: use manual method. Material lacks permission: stop. Output format fails: preserve checked content and recreate manually.
+
+Manual fallback
+1. Read notes. 2. Highlight confirmed decisions. 3. Copy actions into blank table. 4. Mark missing owners and dates. 5. Draft follow-up in document editor. 6. Compare against notes. 7. Place in review folder.
+
+Approval
+Final reviewer: volunteer coordinator. Approval covers factual accuracy, preserved meaning, permissions, recipients, attachments and readiness to share. Reviewer can stop the process. External action remains manual and separate.
+Signature:
+Date:

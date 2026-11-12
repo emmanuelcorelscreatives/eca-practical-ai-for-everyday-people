@@ -1,0 +1,51 @@
+{
+  "projectId": "cmv75vd2l012p5c3c0gfzqkx2",
+  "files": [
+    {
+      "name": "Capstone Brief.txt",
+      "bytes": 375,
+      "sha256": "c1cf861f3e2dc8b49da7c39fc285f272ba6dda7c4a9722e061da30a26592c08d"
+    },
+    {
+      "name": "README.md",
+      "bytes": 1202,
+      "sha256": "6dca9827a09211619e93f138c76de120a1d8e9776ccb571364c0aeb6f197525f"
+    },
+    {
+      "name": "account-and-cost.csv",
+      "bytes": 282,
+      "sha256": "7b259efe3784dde2eeb46d2905f8e8a02397b8c59225d2c586dd82112362f5ee"
+    },
+    {
+      "name": "answer-guide.md",
+      "bytes": 1913,
+      "sha256": "48731bb4a723c8fc8900a12cdd1143fe6eedbe012bd0f3053f0fc1b63d7de6a9"
+    },
+    {
+      "name": "exercise.md",
+      "bytes": 1364,
+      "sha256": "0b71407a9551ec9492d1e7277126e71440e150a3786152ff2c51f67e2617b42c"
+    },
+    {
+      "name": "instructions.txt",
+      "bytes": 943,
+      "sha256": "bc3613915be041e184a45070d9b99d8140d0e63806ea1d7978f44f486afacd02"
+    },
+    {
+      "name": "output-template.txt",
+      "bytes": 393,
+      "sha256": "a653e27fd71fd0b926a3d5a4df6bac616d4507536467bb0ae26bd297ac2fe067"
+    },
+    {
+      "name": "planned-cases.md",
+      "bytes": 887,
+      "sha256": "9d72c0d14147993412f351908caac961e8ad4a0e06c0e6fd79d88838973cf2d4"
+    },
+    {
+      "name": "worked-capstone-brief.txt",
+      "bytes": 3880,
+      "sha256": "342d8eea6e970e247ae864776bf6984429c4578c659ada8f43526b8f99e658dd"
+    }
+  ],
+  "scriptSha256": "a82fb90b36b27525ca6d523ed0d66fa803bf77cb92d5565899e0e984c911d9a5"
+}

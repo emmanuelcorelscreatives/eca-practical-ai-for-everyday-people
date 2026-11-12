@@ -1,0 +1,24 @@
+CAPSTONE BRIEF — PLANNING DRAFT
+Problem:
+Beneficiary:
+Manual baseline:
+  Current method:
+  Elapsed time:
+  Corrections:
+  Unresolved questions:
+Inputs:
+  Required:
+  Omit or redact:
+Instructions:
+Tools / Tool sequence:
+  Required features:
+Output:
+Checks:
+Acceptance criteria:
+Exceptions:
+Manual fallback:
+Approval:
+  Final reviewer:
+  Approval scope:
+  Signature:
+  Date:
