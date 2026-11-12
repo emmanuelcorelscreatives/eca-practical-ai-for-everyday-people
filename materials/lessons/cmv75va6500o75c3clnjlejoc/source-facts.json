@@ -1,0 +1,29 @@
+{
+  "projectId": "cmv75va6500o75c3clnjlejoc",
+  "narrationSha256": "440a73dfee3344edb375e0bc4337dd0bf28d8da94867693ef2c9fc140ef8b3ea",
+  "authoredTable": {
+    "estimates": [
+      "120",
+      "85",
+      null,
+      "40"
+    ],
+    "actuals": [
+      "125",
+      "90",
+      "0",
+      "35"
+    ]
+  },
+  "applicationEvidence": "Draft actual Excel opening/recalculation/interaction proof pending; no observed product result claimed",
+  "sheets": [
+    "Event",
+    "BlankZero",
+    "OmittedTransport",
+    "WrongCopiedColumn",
+    "ManualAddition",
+    "KnownTest",
+    "FreshPractice",
+    "FreshChecked"
+  ]
+}

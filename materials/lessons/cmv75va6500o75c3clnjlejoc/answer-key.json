@@ -1,0 +1,29 @@
+{
+  "Event": {
+    "B6": "245",
+    "C6": "250",
+    "B7": "245/3; display81.67"
+  },
+  "BlankZero": {
+    "B7": "61.25"
+  },
+  "OmittedTransport": {
+    "B6": "205"
+  },
+  "WrongCopiedColumn": {
+    "C6": "245 (wrong meaning)"
+  },
+  "ManualAddition": {
+    "B6": "245"
+  },
+  "KnownTest": {
+    "E6": "35",
+    "H6": "30"
+  },
+  "FreshPractice": {
+    "F6": "initially blank; learner writes SUM(F2:F5) predicts20"
+  },
+  "FreshChecked": {
+    "F6": "11"
+  }
+}

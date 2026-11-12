@@ -1,0 +1,1 @@
+Self-authored Emmanuel Corels Academy educational examples and worksheets: CC BY4.0. Attribute Emmanuel Corels Academy and identify changes. This grant excludes Microsoft product/software rights and third-party UI assets.

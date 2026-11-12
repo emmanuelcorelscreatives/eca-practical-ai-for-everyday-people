@@ -1,0 +1,57 @@
+{
+  "version": 1,
+  "projectId": "cmv75va6500o75c3clnjlejoc",
+  "scriptSha256": "440a73dfee3344edb375e0bc4337dd0bf28d8da94867693ef2c9fc140ef8b3ea",
+  "files": [
+    {
+      "name": "LICENSE.md",
+      "sha256": "fba6ff902ea7a8feb24581dde9e6848f7e82f838c93ec0d4d0f8954f2e73f344",
+      "bytes": 222
+    },
+    {
+      "name": "README.md",
+      "sha256": "eecdff5212566427f17ad1396d5404261923c5218506808395bb252c7d8d075f",
+      "bytes": 3618
+    },
+    {
+      "name": "answer-key.json",
+      "sha256": "5fdb6a0b5336931e4161927a0b12f6c9814fd173b2ce529f492274438311fe18",
+      "bytes": 462
+    },
+    {
+      "name": "check_workbook.py",
+      "sha256": "ce3500394b01a77d89de13b2ba5f23b81a218ca5833dddf89fbd33e9baafa213",
+      "bytes": 1289
+    },
+    {
+      "name": "event-costs.csv",
+      "sha256": "321845770f6e6ea6ae772178ba979049a11b444f207689bb326aceffde460890",
+      "bytes": 84
+    },
+    {
+      "name": "formula-practice.xlsx",
+      "sha256": "f59eb93f1a4cbc98a8a6635d7696944a1a373bc9c117c7f738884fd2d494f281",
+      "bytes": 6184
+    },
+    {
+      "name": "formula-request.txt",
+      "sha256": "0a172f5622287a1e3c31aa512b36266e2fa3a1bba3788be96f5d81a4c56edb92",
+      "bytes": 179
+    },
+    {
+      "name": "reusable-request.txt",
+      "sha256": "d3654c44b995ba90e02be6c050b187d383ad74404e8c9b6938f1e98ab3075f4c",
+      "bytes": 424
+    },
+    {
+      "name": "source-facts.json",
+      "sha256": "e36426d114e0108e5d436d2c32bfc23a9bf1c3b53e2ee6f30a31753c64b8ced8",
+      "bytes": 614
+    },
+    {
+      "name": "worksheet.md",
+      "sha256": "66c91372e8b69b39eafd05802a4cf36e2dd596e2e6fd2dbb492d8da8a4d9122d",
+      "bytes": 959
+    }
+  ]
+}

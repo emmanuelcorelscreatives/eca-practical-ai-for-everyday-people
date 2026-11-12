@@ -1,0 +1,3 @@
+Calculate [result] in [destination cell] using [source cells]. [Include/exclude rule]. Explain every function, operator, and cell reference. State assumptions. Give one small test with a known answer. Do not edit the sheet.
+
+Average example: Calculate the average of entered estimates in B2:B5. Ignore genuinely blank cells, but include an entered zero. Explain how blanks and zero affect the result. Do not edit the sheet.

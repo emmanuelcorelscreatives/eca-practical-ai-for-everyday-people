@@ -1,0 +1,1 @@
+Write a formula for cell B6 that adds the estimated costs in B2 through B5. Treat a blank as no entered value. Explain the formula in plain language, and do not change the sheet.
