@@ -1,0 +1,52 @@
+{
+  "version": 1,
+  "projectId": "cmv75v7u600c75c3c4ryu3pj2",
+  "scriptSha256": "4e9a95015f9da9e3986e8f8e33a87ef7549a81aba4b3d41ae163dd9ad001e328",
+  "files": [
+    {
+      "name": "README.md",
+      "sha256": "1aff3e0017bc1fec4d11dc63fafd3f96bf47f1663d532d2ea47a6e0edbd9b8cc",
+      "bytes": 1500
+    },
+    {
+      "name": "answers.md",
+      "sha256": "846c3c2673b9d9d586c87c260a1dcf4c6ac972e9f93cdd35a5df30d361ea1a4f",
+      "bytes": 2617
+    },
+    {
+      "name": "authored-drafts.json",
+      "sha256": "01c4a0bec8a996c6f83415e1a162e22ac62e774c3aec234ef325176b5abdf6ad",
+      "bytes": 847
+    },
+    {
+      "name": "communication-guide.md",
+      "sha256": "ddb57e56989bae9710a403eb507d8ce629bb28af87ae59919f9da4b750cb1988",
+      "bytes": 876
+    },
+    {
+      "name": "flawed-draft.txt",
+      "sha256": "49bbdff4ff30ec95b2d038871032485ca64bb7bcaabbb9620160241f9dbfbf95",
+      "bytes": 195
+    },
+    {
+      "name": "runtime-check-plan.md",
+      "sha256": "196d3ef4b36c0bec882b032314b41dc21151845b076a182f3e7942cecf0d3a2c",
+      "bytes": 1403
+    },
+    {
+      "name": "source-notes.json",
+      "sha256": "1ea169f6af748ee45b9ff958647ca0161bbb9119eb1f05521a77dfc1b22751fb",
+      "bytes": 452
+    },
+    {
+      "name": "tone-practice.html",
+      "sha256": "18f54a11b90c34a37625852e41c55333a1f4615086640bba0ad77515d147d4c5",
+      "bytes": 4677
+    },
+    {
+      "name": "worksheet.md",
+      "sha256": "f1f1d2a004f5cddba41c7a951f29a8584ff51ac6181112b79f0a9045552498af",
+      "bytes": 3291
+    }
+  ]
+}

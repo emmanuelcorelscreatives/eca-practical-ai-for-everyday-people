@@ -1,0 +1,37 @@
+{
+  "version": 1,
+  "projectId": "cmv75v93o00ij5c3cwnzzs2lo",
+  "scriptSha256": "a3b5f8b78fb81c9e39632855ea923d274a8a0983d048d29f73696016dd0873de",
+  "files": [
+    {
+      "name": "answer-guide.md",
+      "sha256": "80b5f569e4faacf82a183a6fa4eb140d7c2bcdd9922a9ce8b7137b536be610d8",
+      "bytes": 2265
+    },
+    {
+      "name": "organization-prompt.txt",
+      "sha256": "f1dda4a28c52c00fa4bbbad919385f435ad584903fcc49e7aac1c4fe760d4fce",
+      "bytes": 828
+    },
+    {
+      "name": "recording-script.txt",
+      "sha256": "229e4f08dd8b4fca58bd0b660a6a757e4009249df199a2e6410353b5f4f6fae5",
+      "bytes": 233
+    },
+    {
+      "name": "review-sheet.csv",
+      "sha256": "63f95350f1626c395f0e79d510e1a28f3e6b24ad9c8bcd93b093a30b752753c0",
+      "bytes": 612
+    },
+    {
+      "name": "transcript-with-errors.txt",
+      "sha256": "7a2599fa455f72e2de90eb1428f921676a45d10ecb86fdac046bd7e7bfc28f17",
+      "bytes": 292
+    },
+    {
+      "name": "worksheet.md",
+      "sha256": "9b81cd0d87a9894fdc2753a7092eb003f120c4bf04551b9f18fcffcfa13fa7c2",
+      "bytes": 2843
+    }
+  ]
+}

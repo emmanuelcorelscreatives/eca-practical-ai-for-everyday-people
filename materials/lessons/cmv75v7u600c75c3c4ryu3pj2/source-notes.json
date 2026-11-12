@@ -1,0 +1,17 @@
+{
+  "recipient": "Jordan",
+  "room": "Cedar Room",
+  "event": "community workshop",
+  "date": "22 October 2026",
+  "confirmationDeadline": "16 October 2026",
+  "reason": "publish attendee instructions",
+  "unsupported": [
+    "preferred greeting",
+    "personal history",
+    "emotion",
+    "special relationship",
+    "promise",
+    "cancellation consequence"
+  ],
+  "provenance": "Self-authored fictional lesson fixture; not a real venue booking."
+}
