@@ -1,0 +1,9 @@
+FICTIONAL REQUEST WORKSHEET — not sent
+Account: managed work account
+Connection: Draft Helper Connection
+Requested action: administrator to review unused connection and revoke if authorized and appropriate.
+Owner: account administrator
+Status: unresolved / revoke requested
+External action completed: no
+Prior shared data: separate follow-up needed through provider's actual controls or contact route; no deletion verified.
+Proof needed before changing status: authorized owner's actual confirmation and a fresh check of the covered connection state. A click or request alone is not completion proof.

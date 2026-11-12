@@ -1,0 +1,8 @@
+# Worked checks
+The venue guide is retired because its scope is the previous venue while the current task concerns a different, unconfirmed venue. Its age prompts inspection but does not establish obsolescence. The current brief can be kept for confirmed date and audience while missing venue and accessibility contact remain unresolved. The generated interpretation's New Hall and confirmed-contact claims are unsupported.
+
+Update the prompt by removing the assumption of a confirmed venue and adding the required-field stop. Retire the old active copy with its history. The missing-venue test must stop before a shareable announcement; the alternate test can produce only an unpublished draft matching its own supplied facts. Cedar Room never becomes evidence for the current brief.
+
+Draft Helper Connection has no current purpose; propose revoke. Because its account is managed and no administrator response is provided, the truthful status is revoke requested/unresolved, owned by the administrator. Do not claim malicious activity. Photo Picker retains a required selected-photo feature; retain only necessary permission and verify the feature, rather than choosing broad access automatically. Any past shared data needs a separate deletion check; revocation does not prove deletion.
+
+The seven-column worked log is one acceptable result. A different review trigger can be reasonable if it reflects change rate and consequence. Before closing, source must open, missing-information test must stop, and unresolved access must have an owner. On failure pause and use the manual route. No actual revocation, message or deletion has occurred in this kit.

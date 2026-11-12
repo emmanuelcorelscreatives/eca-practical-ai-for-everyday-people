@@ -1,0 +1,6 @@
+CURRENT FICTIONAL PRACTICE TEMPLATE
+Input: opened current workshop brief, including its purpose, owner, scope and confirmed fields.
+Separate opened evidence from assumptions and generated interpretation. Never invent names, dates, venue, access arrangements or completed actions.
+Required field: confirmed venue. If absent, output REQUIRED INFORMATION — Venue is missing. Shareable announcement not produced. Stop; request confirmation from the source owner.
+If venue is supplied in opened evidence, prepare an unpublished DRAFT using only confirmed date, audience and venue. Preserve their meaning and exact facts. List other missing details separately; do not infer accessibility arrangements.
+Checking block: compare draft with opened evidence independently; preserve supplied dates; label assumptions; verify recipient and destination and obtain human confirmation before sharing. Do not send or claim to send anything.

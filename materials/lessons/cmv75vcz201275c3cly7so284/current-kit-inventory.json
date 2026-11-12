@@ -1,0 +1,97 @@
+{
+  "version": 1,
+  "projectId": "cmv75vcz201275c3cly7so284",
+  "scriptSha256": "fb393cd9cc7ea0df6f5069e6c4cd7e0e58671addd25bb2ec316161fa70527a48",
+  "files": [
+    {
+      "name": "Archive_Not_For_Current_Use/Venue_Guide_Saved_Copy.txt",
+      "sha256": "06fefa489ff14a27d713d87ee2b10d0aa97f92cc5e790baae67e21c5598d3244",
+      "bytes": 486
+    },
+    {
+      "name": "Archive_Not_For_Current_Use/Workshop_Update_v1.txt",
+      "sha256": "26551c61db1adb3df5156e56f1deaf13f2cae000cf1e7766166dc140e86d8172",
+      "bytes": 334
+    },
+    {
+      "name": "Examples/Test_Complete_Input.txt",
+      "sha256": "7358636bf6cb78238ecab86d2bee9e2b5ee9c25abc989d3756479ae4bd6824be",
+      "bytes": 402
+    },
+    {
+      "name": "Examples/Test_Missing_Venue.txt",
+      "sha256": "583e5ff3dcd66b6d17c605c0e3b7755d0e2af55ba96648cd992f2360dc34a61f",
+      "bytes": 214
+    },
+    {
+      "name": "Outputs/Expected_Checks.txt",
+      "sha256": "ed7ee88f4506d9a708e9246695ce81006814e60d5f4fae665c7012740f85ddd7",
+      "bytes": 700
+    },
+    {
+      "name": "Permissions/Account_Checklist.csv",
+      "sha256": "0ab51b30b95e0afa1b771565fdb003b7dc852d17addc27c41896f6ba7dc75249",
+      "bytes": 434
+    },
+    {
+      "name": "Permissions/Action_Request.txt",
+      "sha256": "fc017dbfcccc6e7ef06b3c30b9d0634731a1dc8e05522bde12bdabec251380af",
+      "bytes": 603
+    },
+    {
+      "name": "Prompts/Workshop_Update_Current.txt",
+      "sha256": "eb23bde570664f57e352f429f4f9dc288ad1dff95498344465e995d0d85897a7",
+      "bytes": 926
+    },
+    {
+      "name": "Prompts/Workshop_Update_v1.txt",
+      "sha256": "26551c61db1adb3df5156e56f1deaf13f2cae000cf1e7766166dc140e86d8172",
+      "bytes": 334
+    },
+    {
+      "name": "README.md",
+      "sha256": "30281d307e5bf67d78188200dfaf21a65690d8c62617305f3ed03daa9a39b468",
+      "bytes": 1484
+    },
+    {
+      "name": "Review_Log/Blank.csv",
+      "sha256": "d2db2520d22c1dab3f63ab7323a8c58c97d9aa79ff91ba027c9ee3465ddfbefc",
+      "bytes": 74
+    },
+    {
+      "name": "Review_Log/Worked.csv",
+      "sha256": "5b31db60dfbb4c80172209ea6c62279e42651fe081b818e898eb92ce44121374",
+      "bytes": 674
+    },
+    {
+      "name": "Sources/Generated_Summary_Assumptions.txt",
+      "sha256": "50996e5d066b7f7743fe1a2f56af99672062f94d73f419392d53d8c7dea776be",
+      "bytes": 325
+    },
+    {
+      "name": "Sources/Replacement_Source_Record.txt",
+      "sha256": "0091896266e1d5512cc2290a8472dfcc378e2ed84026058556d9b67d9894b942",
+      "bytes": 324
+    },
+    {
+      "name": "Sources/Venue_Guide_Saved_Copy.txt",
+      "sha256": "06fefa489ff14a27d713d87ee2b10d0aa97f92cc5e790baae67e21c5598d3244",
+      "bytes": 486
+    },
+    {
+      "name": "Sources/Workshop_Brief_Current.txt",
+      "sha256": "97f20e2ab1020c06ce18716e431dc9a41dbcdef54eb9c90ed8e11df477d6a7f3",
+      "bytes": 673
+    },
+    {
+      "name": "answer-key.md",
+      "sha256": "e649f5d49fc86d30058ba02f05179a6f36275e83dda6eee83b664d39ff4a6562",
+      "bytes": 1656
+    },
+    {
+      "name": "worksheet.md",
+      "sha256": "b86c70a11ca0191f50d1ae66d79931b671b8cd88b23a1d7e5dde12afbdc063d6",
+      "bytes": 2866
+    }
+  ]
+}
