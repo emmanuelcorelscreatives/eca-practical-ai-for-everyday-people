@@ -1,0 +1,9 @@
+sentence,source_evidence,decision,kind
+I answered customer questions by email and phone and kept case records.,Evidence sheet items 3 and 4,Keep,Evidence claim
+"This experience connects to the role’s customer-question, written-communication and case-record duties.",Evidence sheet items 3–5 and role essential duties,Keep,Relevance explanation only
+Customer emails support written communication; they do not establish report writing or formal copywriting.,Evidence sheet items 4–5; no report-writing/copywriting evidence supplied,Keep,Bounded relevance explanation
+Check against evidence sheet: items 3–5.,Evidence sheet items 3–5,Keep,Review instruction
+"This statement adds no title, employer, date, qualification, result, number or management claim.",Supporting statement actual text compared with missing evidence fields,Keep,Review observation
+Do not use an unspecified motivation as a fact.,No motivation supplied in evidence sheet,Keep,Review instruction
+Missing details require verification before any real application.,Missing fields in evidence sheet items 1–2 and 6–8,Keep,Review instruction
+I improved satisfaction by 30%.,,Remove,Separate rejected example; not in checked statement
