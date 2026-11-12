@@ -1,0 +1,1 @@
+Review the generated draft against the event brief. Quote and classify no more than five weaknesses as requirement mismatch, missing information, unsupported claim, clarity, or format. Do not rewrite the announcement yet. Do not assume a claim is true merely because it sounds plausible.

@@ -1,0 +1,42 @@
+{
+  "version": 1,
+  "projectId": "cmv75vbt700wd5c3cbg7q4uxa",
+  "scriptSha256": "ba94222b482215ba20be8909606477ecad26e798b4b518d78edd20ef0c4b9f2e",
+  "files": [
+    {
+      "name": "blank-reuse-template.md",
+      "sha256": "2fdabaf0b9620b990b6e38f4bf922c153be688eafab96c59e2f0c40b256a9725",
+      "bytes": 641
+    },
+    {
+      "name": "bounded-instruction.txt",
+      "sha256": "fd634bb7311979652bf772c2f3605e632dee8b6b7bbb7fa25cc305bc9a69aca6",
+      "bytes": 964
+    },
+    {
+      "name": "check_examples.py",
+      "sha256": "27c68a09f14ec2241d54a1a47717d455d0161a2a8adf219b4f36d22c6f031072",
+      "bytes": 2808
+    },
+    {
+      "name": "local-check-receipt.json",
+      "sha256": "ab8a0b3442774c7cef9985edea9d95873947e865bb79da92b9673063d2e885c7",
+      "bytes": 1063
+    },
+    {
+      "name": "sample-input.json",
+      "sha256": "c73b2c4e4dd80e301a7ca306be9f32faeabffaec0b0e9d8493f9a0130da17a16",
+      "bytes": 278
+    },
+    {
+      "name": "simulated-draft.json",
+      "sha256": "85524d23628716b7b12500170b99dfef13c4ab2ac10ccbb0d83ee8015d5b4d34",
+      "bytes": 496
+    },
+    {
+      "name": "worksheet.md",
+      "sha256": "7fe3ec0dd7a29f98e167a0bd3e3684aa0ceb796c72931f44d7ccf6671873d631",
+      "bytes": 5154
+    }
+  ]
+}

@@ -1,0 +1,62 @@
+{
+  "version": 1,
+  "projectId": "cmv75v6nc006d5c3cq341cmyr",
+  "scriptSha256": "534de3bb6002d91dae30110039c9541971d3fc3e834c7c098b591ec36d8f8137",
+  "files": [
+    {
+      "name": "check_materials.py",
+      "sha256": "28f5a67a9d7a2bf50ab26d622077c9c70f7c4fb674bab0da4379de0351b8ab6e",
+      "bytes": 1277
+    },
+    {
+      "name": "checked-revision.md",
+      "sha256": "2e64997620158e6b1f2e9259d23151e640d8287f97acefbf655dcd261b2e65ce",
+      "bytes": 221
+    },
+    {
+      "name": "comparison-answer.csv",
+      "sha256": "c338ea6208fa4d3dfce5956ccbcef021d5f8738da03b74e46e6c5f09f0e150c8",
+      "bytes": 1043
+    },
+    {
+      "name": "comparison-blank.csv",
+      "sha256": "03036e6c6de6501e024e397db9c7525dcce50ec9775ff7ccbac50416b4402cc1",
+      "bytes": 225
+    },
+    {
+      "name": "comparison-diagnosis-only.csv",
+      "sha256": "c3e97e12ba34db3b3304e47609a510646213abc2556190f40b2c77b99114f447",
+      "bytes": 388
+    },
+    {
+      "name": "critique-example.md",
+      "sha256": "c82eab7567d921dd5b9b739413677d88de878f40db5a3a308b421cb22694f789",
+      "bytes": 793
+    },
+    {
+      "name": "critique-request.txt",
+      "sha256": "5d95dd57c05a46920a21a404a95097253515e23bca9fe78c01d688751d4c1de1",
+      "bytes": 288
+    },
+    {
+      "name": "original-event-brief.md",
+      "sha256": "7d215d80799c134837fc12fc115d49cb0e2be8dc35c7c2f3c3fe9f5cba81d937",
+      "bytes": 690
+    },
+    {
+      "name": "revision-request.txt",
+      "sha256": "eac9b6464e62f869bf61d2d5de1036a3c51e0a73eb2b4fef12d72bfc9354626d",
+      "bytes": 285
+    },
+    {
+      "name": "weak-draft.txt",
+      "sha256": "afc0e3eb29b4e2e13e05495fcd52c22cd5bdd21a55d5b095333a61df76030d3d",
+      "bytes": 220
+    },
+    {
+      "name": "worksheet.md",
+      "sha256": "1e37dfd52ff4f47f99bbe3a5f8a18762a1946b167faba8c6c8b7a08165b243a8",
+      "bytes": 3531
+    }
+  ]
+}

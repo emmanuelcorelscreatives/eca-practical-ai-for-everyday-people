@@ -1,0 +1,54 @@
+{
+  "state": "PASS",
+  "scope": "local finite fixtures, not AI or platform validation",
+  "results": [
+    {
+      "case": "authored-valid-simulation",
+      "result": "accepted"
+    },
+    {
+      "case": "missing-time",
+      "result": "rejected",
+      "reasons": [
+        "Missing Time",
+        "Changed Time"
+      ]
+    },
+    {
+      "case": "wrong-category",
+      "result": "rejected",
+      "reasons": [
+        "Category not allowed"
+      ]
+    },
+    {
+      "case": "changed-date",
+      "result": "rejected",
+      "reasons": [
+        "Changed Date"
+      ]
+    },
+    {
+      "case": "unsupported-claim",
+      "result": "rejected",
+      "reasons": [
+        "Summary requires human source comparison"
+      ]
+    },
+    {
+      "case": "missing-label",
+      "result": "rejected",
+      "reasons": [
+        "Missing label Missing information",
+        "Missing information changed"
+      ]
+    },
+    {
+      "case": "invented-access",
+      "result": "rejected",
+      "reasons": [
+        "Missing information changed"
+      ]
+    }
+  ]
+}
