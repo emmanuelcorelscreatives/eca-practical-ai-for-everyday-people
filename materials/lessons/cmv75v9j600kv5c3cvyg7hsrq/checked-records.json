@@ -1,0 +1,40 @@
+[
+  {
+    "notice": "Maple Court contact review",
+    "document_date": "6 October 2026",
+    "event_or_deadline": "23 October 2026",
+    "action": "Send updated contact details",
+    "who_acts": "People whose listed details changed",
+    "exception_or_condition": "Only if details changed; otherwise no response; do not email identity documents",
+    "alternative": "Online updates remain available",
+    "contact": "records@example.org",
+    "source_file": "Maple-Court-Notice.pdf",
+    "source_page": "1",
+    "verification_status": "Verified against pages 1–2",
+    "unresolved_question": "The notice does not state whether previous email addresses should be repeated when only a telephone number changed.",
+    "condition_quote": "Please respond by 23 October 2026 only if your telephone number, email address, or preferred contact method has changed.",
+    "no_change_quote": "If nothing has changed, no response is required.",
+    "prohibition_quote": "Do not email identity documents.",
+    "field_source_pages": "{\"action\": [1], \"alternative\": [2], \"condition_quote\": [1], \"contact\": [2], \"document_date\": [1], \"event_or_deadline\": [1], \"no_change_quote\": [1], \"prohibition_quote\": [2], \"unresolved_question\": [1, 2], \"who_acts\": [1]}",
+    "source_pages": "1;2"
+  },
+  {
+    "notice": "Reception desk maintenance",
+    "document_date": "6 October 2026",
+    "event_or_deadline": "19 October 2026, 10:00–12:00",
+    "action": "None stated",
+    "who_acts": "None stated",
+    "exception_or_condition": "Online updates available; do not email identity documents",
+    "alternative": "Online updates remain available",
+    "contact": "records@example.org",
+    "source_file": "Maple-Court-Notice.pdf",
+    "source_page": "2",
+    "verification_status": "Verified against page 2",
+    "unresolved_question": "",
+    "condition_quote": "The reception desk will be unavailable during this maintenance period.",
+    "no_change_quote": "",
+    "prohibition_quote": "Do not email identity documents.",
+    "field_source_pages": "{\"action\": [2], \"alternative\": [2], \"condition_quote\": [2], \"contact\": [2], \"document_date\": [1], \"event_or_deadline\": [2], \"no_change_quote\": [], \"prohibition_quote\": [2], \"unresolved_question\": [1, 2], \"who_acts\": [2]}",
+    "source_pages": "1;2"
+  }
+]

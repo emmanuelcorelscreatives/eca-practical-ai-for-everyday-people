@@ -1,0 +1,102 @@
+{
+  "version": 1,
+  "projectId": "cmv75v9j600kv5c3cvyg7hsrq",
+  "scriptSha256": "94aa5c4627e2d43026ea5b7db5e795a8ddcea7f05e59cf9f0170f2059c10bff9",
+  "files": [
+    {
+      "name": "2026-10-06_Maple-Court_Contact-Review_Checked-Summary.pdf",
+      "bytes": 968,
+      "sha256": "4cf9f6cc5c800789a15ec757b2a467ed71b73455e3b09d4de7375cf55af8d2e1"
+    },
+    {
+      "name": "2026-10-06_Maple-Court_Contact-Review_Original.pdf",
+      "bytes": 1650,
+      "sha256": "85275f9c35363971b5d2192c2f896a567f6efb86af96e29cddcfa34025669e3f"
+    },
+    {
+      "name": "Maple-Court-Notice.pdf",
+      "bytes": 1650,
+      "sha256": "85275f9c35363971b5d2192c2f896a567f6efb86af96e29cddcfa34025669e3f"
+    },
+    {
+      "name": "README.md",
+      "bytes": 3360,
+      "sha256": "50be3b48944f5f29b12f06013a4fa1a15efb2e9da6255d7e26b8b6d42459b790"
+    },
+    {
+      "name": "Training-Workspace.html",
+      "bytes": 21538,
+      "sha256": "8765a7a107ff8c37780ca0bd2fa6d62884df5f32cb61c6f0488ab910b6453c18"
+    },
+    {
+      "name": "checked-records.json",
+      "bytes": 2327,
+      "sha256": "ef6b2cf0f2716e010495a805d72d1fe69411e5a26bde556872b39ffca29a3bd7"
+    },
+    {
+      "name": "checked-register.csv",
+      "bytes": 1738,
+      "sha256": "005f1a2a878e13319509849bfc9c2cb052328e74cff95d564ec8af9c9b9345cb"
+    },
+    {
+      "name": "checked-summary.txt",
+      "bytes": 266,
+      "sha256": "0e14498efd8e2f0e08715c3011227c7c60e4aafcc6c6522bf6d1da70ada60df9"
+    },
+    {
+      "name": "manual-extraction.csv",
+      "bytes": 245,
+      "sha256": "9f51e0ece2f32ee0b30ebc67ec21c81242d5128d257c01fbc108b668c4da7c15"
+    },
+    {
+      "name": "ocr-unverified.txt",
+      "bytes": 590,
+      "sha256": "7d2bbd5ccfc1eb460758914a153d3afdf4d178e2491478e484c8ce6a3f133901"
+    },
+    {
+      "name": "practice-notice.md",
+      "bytes": 1247,
+      "sha256": "7c26c4980e145b85f1f84c50243537237fa8eaeffd73f973f107d4ea30d05b13"
+    },
+    {
+      "name": "source-detail-1.png",
+      "bytes": 56452,
+      "sha256": "eb2aec59e7d7c555bf29d60ee6d921b20db36686576e27a928e208a54911e90b"
+    },
+    {
+      "name": "source-detail-2.png",
+      "bytes": 47685,
+      "sha256": "db5243585fdfacfbee17e0885572e189fcb6ed8bdf71b21c434bc76d3cb6fe49"
+    },
+    {
+      "name": "source-page-1.png",
+      "bytes": 63926,
+      "sha256": "b748c6a0f76ab621a599de8f3bdc6ee7c78a7ee7a7feb8f7e4ec6418387aca24"
+    },
+    {
+      "name": "source-page-2.png",
+      "bytes": 71872,
+      "sha256": "bb8fbe6d7d1d48fb69b1a1c9fcab71cf01646cefffac22caa2a1b675d98e92bf"
+    },
+    {
+      "name": "source-pages.json",
+      "bytes": 845,
+      "sha256": "9b2c2e34e001d3e6ddb98f19e314234cc2375285a845ddf04c8566d9364f27a4"
+    },
+    {
+      "name": "unchecked-extraction.json",
+      "bytes": 2222,
+      "sha256": "3c8df35672a53f84777b2b7fb6881bd6c433ff6365211d8e5e09ce5b131bfa40"
+    },
+    {
+      "name": "verify_records.py",
+      "bytes": 3684,
+      "sha256": "b9b8faaa88d2734c6899d1b3078994f954ef6c1b1cdba1dc9300c54109c7bb87"
+    },
+    {
+      "name": "workflow-guide.md",
+      "bytes": 2795,
+      "sha256": "a66e5a354c32abe3b1990b75f08d3e5757e9174eb4bc1cffa77777fb85bd37df"
+    }
+  ]
+}
