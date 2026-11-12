@@ -1,0 +1,6 @@
+Version,Dimension changed,Desired result,Observed change,Unintended change,Facts preserved,Keep or revert
+Baseline,None,Clear resident announcement,Promotional additions present,Unsupported benefits added,Yes,Revise
+Version 1,Scope,Remove unsupported additions,Promotional claims removed,None observed,Yes,Keep
+Version 2,Detail,Clarify participation,One explanatory sentence added,Deadline repeated,Yes,Keep provisionally
+Version 3,Tone,Calm and welcoming,Warmer opening,None observed,Yes,Keep
+Version 4,Structure,Improve scanning,Details grouped under labels,None observed,Yes,Keep

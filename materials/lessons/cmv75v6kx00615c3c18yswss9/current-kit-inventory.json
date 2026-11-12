@@ -1,0 +1,57 @@
+{
+  "version": 1,
+  "projectId": "cmv75v6kx00615c3c18yswss9",
+  "scriptSha256": "3ee4282513f06de515564ae28278549ef3a2170740b487b78e4fd927226deacd",
+  "files": [
+    {
+      "name": "README.md",
+      "sha256": "9c76951c98013243a3fd19c724b888da20289e55b1bf0b7164debcecc970b78c",
+      "bytes": 1534
+    },
+    {
+      "name": "exercise-and-answer-key.md",
+      "sha256": "a31cc1169a22d8173fed80590d6d527416911d20f45bbe5e7281755741498c27",
+      "bytes": 2390
+    },
+    {
+      "name": "prompts-and-bases.md",
+      "sha256": "a9625b4ba92780e54fc8176ae5e92a87a65bd8eab3cb702e5c89d6ca6c46f4c8",
+      "bytes": 1625
+    },
+    {
+      "name": "source-card.md",
+      "sha256": "c4e9ef29dc06f4ab6be37205b0c7896e0ed80e1b80655e1af284e70ecee02257",
+      "bytes": 499
+    },
+    {
+      "name": "source-facts.json",
+      "sha256": "51fc451587b3bf10fe8dbc9219dfa9d8d61cd629487a316dba7a990e5ca8a22b",
+      "bytes": 393
+    },
+    {
+      "name": "verify.py",
+      "sha256": "7e15a6442b8d3f8c09bd0e69fc9ecf9a7120a0387b0efd487b5362634f4d9d19",
+      "bytes": 1893
+    },
+    {
+      "name": "worked-comparison.md",
+      "sha256": "11f18f5211cbc70773a121267a1e6c1eff93b94d49d3cda8f5a07af324b6c74b",
+      "bytes": 2345
+    },
+    {
+      "name": "worked-outputs.json",
+      "sha256": "8e990ba321bccff08dd17f9c7b2aa6ddb8f3a56ec8501ba6e57b060526ae3001",
+      "bytes": 2410
+    },
+    {
+      "name": "worksheet-blank.csv",
+      "sha256": "4c9666012b7ed018febdf0b3f6f0fdd90c4a883367528c4fe3cce271926f07ec",
+      "bytes": 106
+    },
+    {
+      "name": "worksheet-worked.csv",
+      "sha256": "82a5fdd111c4a6e82f3c9410a6c9e85e386e808ab1a87d923fc0256c142e5c30",
+      "bytes": 588
+    }
+  ]
+}

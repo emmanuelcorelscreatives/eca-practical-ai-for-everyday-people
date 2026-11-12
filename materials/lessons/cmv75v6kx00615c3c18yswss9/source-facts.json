@@ -1,0 +1,14 @@
+{
+  "fictional": true,
+  "facts": {
+    "event_name": "Neighborhood Book Swap",
+    "date": "Saturday, 17 October 2026",
+    "time": "10:00–12:00",
+    "place": "Cedar Room, Harbor Library",
+    "cost": "Free",
+    "capacity": "30 places",
+    "registration_deadline": "14 October 2026",
+    "bring": "one labeled book",
+    "child_rule": "Children under 12 must attend with an adult"
+  }
+}
