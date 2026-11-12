@@ -1,17 +1,17 @@
 {
   "version": 1,
   "projectId": "cmv75v5vq002j5c3cgc0vj3j7",
-  "scriptSha256": "b965a660e710171432b53788e1dc6eb798e89a4c783d744ee45d45eb80f133f9",
+  "scriptSha256": "8014cc37231b86e4b4a513cbefd23d1fa0fa2c893f896631c90732048f7c80f3",
   "files": [
     {
       "name": "LICENSE.md",
-      "sha256": "ff0ea6b2dd56c96ba74c060b4f64cf4d21a33b29ee98a1aae7df2c858ad17352",
-      "bytes": 782
+      "sha256": "28d1cfb6e3d369bdcc10cc141e7e0ae4ec288e7b4d62689f97a647d0d15004aa",
+      "bytes": 1091
     },
     {
       "name": "README.md",
-      "sha256": "e789beb00bc15b5200db2ce1ba3b0e97058e613e0aefa5fd7bf146ca1f346ee5",
-      "bytes": 2516
+      "sha256": "24afe1eff20773f1bf52f6f84ebd48032f6874e8dfa5297c855e6e073eab5dd1",
+      "bytes": 3087
     },
     {
       "name": "answer-key.md",
@@ -24,24 +24,54 @@
       "bytes": 394
     },
     {
+      "name": "espeak-ng-copyright.txt",
+      "sha256": "bf721eede49d50f84bd2c50f96888629ced572b66ad4087c7a224c4a5e1193bb",
+      "bytes": 3877
+    },
+    {
+      "name": "fixture-server.py",
+      "sha256": "06fb32c5a393ab0ab27f1ed3b55fefcfff896f5cddef7fb3666fe299d84574ea",
+      "bytes": 4855
+    },
+    {
+      "name": "generate-practice-audio.py",
+      "sha256": "88940273435ff3282421515d7cbee4c9b7cad9d57070ad4ae3a6f9d6653d79bc",
+      "bytes": 2723
+    },
+    {
+      "name": "index.html",
+      "sha256": "084748fd90970f26f556f33a117086b56ee6f59f270fd22b0b49d7d9278109b0",
+      "bytes": 7635
+    },
+    {
+      "name": "neutral-synthetic-demo.md",
+      "sha256": "2ecb328bed331d3691e9b9ddee58b411685eebe3a4f805c20385271fc1f71c32",
+      "bytes": 3794
+    },
+    {
       "name": "permission_checklist.md",
-      "sha256": "f190900a760b05392a21f064cecff2c777829249821b80864d0c4565eb427715",
-      "bytes": 1617
+      "sha256": "e5d713d2810d51676f8ee1b8fd07cafdd82799548bb3fd6ba28f1eebda6dd36d",
+      "bytes": 2037
     },
     {
       "name": "permission_checklist.odt",
-      "sha256": "df4a41827d87b4f8e2765d87566c432ff2101279142fec50cebd1ee06c5fa96b",
-      "bytes": 3178
+      "sha256": "3a9a020f8ed2b9df7fcfc03c8f2e7d15337e72fb202afe949d088462db2c8269",
+      "bytes": 34838
     },
     {
       "name": "practice-guide.md",
-      "sha256": "0215146889fda7f3f3d7da7b587f1943d84a1fdb383bda887fcda963a79a0e1f",
-      "bytes": 4374
+      "sha256": "ba785f2bc000f048e2ce401782713ead6f65a84eab27bc5fff37321df4d61ecd",
+      "bytes": 6595
     },
     {
       "name": "recording-script.txt",
       "sha256": "d8b7a3bf52115f82c5633b7786224cafa31acfdafce83955d8ad9634048d1d22",
       "bytes": 256
+    },
+    {
+      "name": "run-private-demo.py",
+      "sha256": "b20ad921a3515f5ae4f0ab1a3d4cd59e4bef94166d2cfdde526b541d3dc4ba5b",
+      "bytes": 936
     },
     {
       "name": "scenarios.csv",

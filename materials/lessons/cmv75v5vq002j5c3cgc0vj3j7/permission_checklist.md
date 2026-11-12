@@ -21,15 +21,15 @@ Educational worksheet — complete for actual inputs; blank fields are not appro
 - Public sharing decision:
 
 ## Fictional teaching example — not a real signed permission
-Material owner: Creator
-People depicted or heard: Creator only
-Purpose: 20-second fictional event announcement
+Material owner: Academy self-authored text and banner
+People depicted or heard: No real person; neutral synthetic voice
+Purpose: 20-second fictional event announcement (practice target, not measured duration)
 Audience: Private course practice
 AI editing: Basic cleanup allowed
 Synthetic identity: No cloned identity
 Storage or reuse: Delete after practice
-Change or withdrawal: Not applicable: creator's own material
+Change or withdrawal: Not applicable to a real person; self-authored synthetic fixture
 Permission gate: PASS for private practice only
 Public sharing: NOT APPROVED
 
-This example assumes genuinely creator-owned and creator-only inputs. It grants no permission for your files and makes no claim that a recording or export has already been made. Public-domain/licensed material still needs its actual conditions and people's other rights checked.
+This example assumes the actual Academy abstract banner, self-authored narration text and appropriately licensed neutral nonidentity software voice. It is not a recording of the instructor. It grants no permission for your files or another person and does not prove that you have synthesized, listened, checked captions or exported anything. For a separate optional human-recording route, record the actual creator, speakers and rights; never copy the no-real-person claim. Public-domain/licensed material still needs its actual conditions and people's other rights checked.
