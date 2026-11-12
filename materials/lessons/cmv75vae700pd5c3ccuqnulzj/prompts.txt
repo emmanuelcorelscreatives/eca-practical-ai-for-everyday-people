@@ -1,0 +1,19 @@
+CHART REQUEST
+Create one explanatory visual from the supplied attendance table. Do not invent people, places, measurements, outcomes, or missing values.
+Welcome session:48 people
+Repair demonstration:36 people
+Seed exchange:24 people
+Compare named categories, not a time trend. Use a zero baseline, honest uniform scale, direct category/value labels, units and source note. I will verify the result against my opened source.
+
+PROCESS REQUEST
+Turn these four verified steps into a simple left-to-right process diagram. Preserve their wording and order. Add no times, percentages, people, or outcomes.
+Bring reusable bottle
+Check in
+Choose a session
+Return borrowed tools
+
+VISUAL REVIEW
+Compare every category/value/step/arrow with the opened source. Label assumptions and missing evidence. Do not treat a realistic illustration, known origin or edit history as proof of the event or claim. Do not invent an event photograph or permission record.
+
+TEXT ALTERNATIVE
+Describe the visual's purpose and essential information, including all relevant categories, values, units or ordered steps. Do not describe every decorative detail or claim hidden findings.

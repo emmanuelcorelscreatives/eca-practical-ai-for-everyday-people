@@ -1,0 +1,87 @@
+{
+  "version": 1,
+  "projectId": "cmv75vae700pd5c3ccuqnulzj",
+  "scriptSha256": "056c5f249ff20cb720cbc5d438620b4bbdb66ebb056651abb6d8675fd405a3d9",
+  "files": [
+    {
+      "name": "LICENSE.txt",
+      "bytes": 422,
+      "sha256": "af57cc6769afa8e03605517f0b102dbf69bda20404a00661956fb3ad27b14277"
+    },
+    {
+      "name": "README.md",
+      "bytes": 2388,
+      "sha256": "85bf905d7e4daf0f68a813f6cc87474342dad53562724488c0faf02a113b60ee"
+    },
+    {
+      "name": "answer-guide.md",
+      "bytes": 2776,
+      "sha256": "63fdd9d7609e762710402fbee1aa3d5648b6763b70a0bdefe72795880144eafc"
+    },
+    {
+      "name": "asset-record-example.csv",
+      "bytes": 290,
+      "sha256": "687bd29e7c3d0b0071ad1532854aeacca348dbf346e978478d9ca7389c8be5c2"
+    },
+    {
+      "name": "asset-record-template.csv",
+      "bytes": 75,
+      "sha256": "6ec27886762b98259e2e3bb8a6351be9bb60b614da221d164663e6a50fb88a97"
+    },
+    {
+      "name": "attendance-chart.svg",
+      "bytes": 1955,
+      "sha256": "c490b411ffd72cd993597ea58afcc10e1375b48f0a1433d73d81359f30c8257f"
+    },
+    {
+      "name": "attendance.csv",
+      "bytes": 79,
+      "sha256": "db69e6ab29c552ca78eb86f980cf13012db490aafa653f9e677cd6e39708b87e"
+    },
+    {
+      "name": "checks.py",
+      "bytes": 2262,
+      "sha256": "896ad7718479b8061b9bfbbe84b9e15546ec2ac08b553234e9e0543b9722aa9a"
+    },
+    {
+      "name": "clearslide.html",
+      "bytes": 12880,
+      "sha256": "5d3693a67152640e0761a82a1663cfaa765742237f147a24ef0fc9f0bb28c39c"
+    },
+    {
+      "name": "participation-diagram.svg",
+      "bytes": 1920,
+      "sha256": "217d2bc82751230b0f1a0ccbdf6b91913b1d2171fbcbbc1e1a8fd5bd7b61964a"
+    },
+    {
+      "name": "process-source.txt",
+      "bytes": 132,
+      "sha256": "a826a8faac6a2e862f09ee561364affbbf8b08eb90ec173b02a151351ef0b5bb"
+    },
+    {
+      "name": "prompts.txt",
+      "bytes": 1153,
+      "sha256": "4644d912d079d86e0c39fb4e9fdd85becc13a51a163ce0eb58be78b41c6807ad"
+    },
+    {
+      "name": "source-pack.json",
+      "bytes": 673,
+      "sha256": "b5d4f681d44b0740f6c9498202efd821db08841de7b126b68acd3c74d24017fc"
+    },
+    {
+      "name": "verified-presentation.pdf",
+      "bytes": 28434,
+      "sha256": "9bb92c8581f286c5750296cfd4eacf94109b7105ebad68c4eda83517f108a06e"
+    },
+    {
+      "name": "visual-review-checklist.md",
+      "bytes": 1186,
+      "sha256": "88ec0a016bfa51fbe6751bb3a7c582c553a25193b97ac850e64e6d7b815c4a68"
+    },
+    {
+      "name": "worksheet.md",
+      "bytes": 2619,
+      "sha256": "ca65734e75b576de4fbddefa1378c6ea71dd30f8449303037f0543e837d3fe03"
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "title": "Riverside Skills Day",
+  "fictional": true,
+  "selfCreated": true,
+  "attendance": [
+    {
+      "session": "Welcome session",
+      "people": 48
+    },
+    {
+      "session": "Repair demonstration",
+      "people": 36
+    },
+    {
+      "session": "Seed exchange",
+      "people": 24
+    }
+  ],
+  "steps": [
+    "Bring reusable bottle",
+    "Check in",
+    "Choose a session",
+    "Return borrowed tools"
+  ],
+  "notSupplied": [
+    "event photograph",
+    "measurements of enjoyment",
+    "measurements of impact",
+    "future attendance"
+  ],
+  "unsupportedExtraStep": "Receive free supplies",
+  "inaccurateRepairExample": 38,
+  "correctRepairValue": 36
+}
