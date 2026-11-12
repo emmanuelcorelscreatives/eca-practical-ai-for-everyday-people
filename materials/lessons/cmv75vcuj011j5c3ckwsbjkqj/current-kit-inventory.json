@@ -1,0 +1,52 @@
+{
+  "version": 1,
+  "projectId": "cmv75vcuj011j5c3ckwsbjkqj",
+  "scriptSha256": "07360719e50e867738c0ccf291ed4fb332fad0d6182a9da2e47cf5d08fcfbf41",
+  "files": [
+    {
+      "name": "README.md",
+      "sha256": "19c794551cc89a888281ace79c44f462ab086449afb5073b9540c3343d8f7fc9",
+      "bytes": 3700
+    },
+    {
+      "name": "acceptance-checks.csv",
+      "sha256": "2aad329090aa6b5724a163bcb4a401e348183bf54921d6e50982c0b11f5d1f2c",
+      "bytes": 288
+    },
+    {
+      "name": "decision-record.txt",
+      "sha256": "0ec67bb6497cbd3f2874440816bc94439e6c7a151cd1413ab37d1f93ac16a3da",
+      "bytes": 513
+    },
+    {
+      "name": "fixed-test-cases.csv",
+      "sha256": "83ca1022f237e972909ae349d86181df1d1ea26caa540cb7b80d5ee79a1416bf",
+      "bytes": 894
+    },
+    {
+      "name": "prompt-v3.txt",
+      "sha256": "1ea079b004401c2d6ec694e727ff718388a87d80326076b5312183d0509aab53",
+      "bytes": 299
+    },
+    {
+      "name": "prompt-v4.txt",
+      "sha256": "6cab4dabb506979b9a7f28418ccd2744adf970f946c5c66e02372adf78364038",
+      "bytes": 343
+    },
+    {
+      "name": "run-record.csv",
+      "sha256": "b2292c5ee85d9956883426c80d79fbcb3ff0386300e6cd338a7885d9650cbe22",
+      "bytes": 449
+    },
+    {
+      "name": "timing-record.csv",
+      "sha256": "5d2526a57f410d763f4ebbedea553de7f79f6a126ce4cd2e9cda43429609778c",
+      "bytes": 257
+    },
+    {
+      "name": "worked-example.md",
+      "sha256": "a43ee1b8be0ef8ff429b12b23eb76dda817ce9c3f62b9d42cd3dd397dcf1e8a5",
+      "bytes": 2210
+    }
+  ]
+}

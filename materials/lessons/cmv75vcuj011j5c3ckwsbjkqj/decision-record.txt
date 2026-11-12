@@ -1,0 +1,12 @@
+Change tested:
+Working prompt/tool/settings and saved artifact location:
+Candidate prompt/tool/settings and saved artifact location:
+Exactly what changed (one change):
+Cases run (C01, C02, C03, C04):
+Regressions and supporting source/output evidence:
+Critical failure and unresolved clarification:
+Actual total-time evidence:
+Current status (retain working setup until candidate earns replacement):
+Recovery location for saved working setup:
+Manual fallback completed and checked:
+Notes / further recheck needed:

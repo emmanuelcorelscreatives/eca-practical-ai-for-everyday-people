@@ -1,0 +1,5 @@
+Case ID,Case Type,Fixed Input,Expected Requirements
+C01,Typical,"Riverside Reading Circle; Saturday, 24 October 2026; 14:00–15:30; Cedar Room; free; booking required.","Preserve every confirmed detail, free price and booking requirement."
+C02,Ambiguous,"Neighbourhood Story Hour; Sunday, 25 October 2026; 11:00; Hall A or courtyard depending on weather; weather decision not supplied.",Retain both locations and flag missing final decision; never choose courtyard.
+C03,Incomplete,"Repair Café; Tuesday, 27 October 2026; East Workshop; bring one small item; start time not supplied.",Do not invent time; explicitly label missing start time and request confirmation.
+C04,Conflicting,"Header: Community Seed Swap — Saturday, 7 November 2026. Body: Join us on Sunday, 8 November 2026.",Show both conflicting dates; request clarification; do not select either or publish unresolved draft.

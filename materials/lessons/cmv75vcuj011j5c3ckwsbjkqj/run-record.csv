@@ -1,0 +1,9 @@
+Case ID,Version,Tool/model as actually displayed,Settings,Run date/time,Unchanged input file,Saved output file,Observed result,Regressions,Clarification needed
+C01,v3,,,,fixed-test-cases.csv,,,,
+C01,v4,,,,fixed-test-cases.csv,,,,
+C02,v3,,,,fixed-test-cases.csv,,,,
+C02,v4,,,,fixed-test-cases.csv,,,,
+C03,v3,,,,fixed-test-cases.csv,,,,
+C03,v4,,,,fixed-test-cases.csv,,,,
+C04,v3,,,,fixed-test-cases.csv,,,,
+C04,v4,,,,fixed-test-cases.csv,,,,
