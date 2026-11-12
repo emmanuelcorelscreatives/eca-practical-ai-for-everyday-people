@@ -1,0 +1,62 @@
+{
+  "version": 1,
+  "projectId": "cmv75v7n700b75c3ckehjkxlg",
+  "scriptSha256": "146cc0b7a24a3a83e1071c34155b34ab6bd3e285f90458c6946ea5da929b61a5",
+  "files": [
+    {
+      "name": "answers.md",
+      "sha256": "564bf739678780e83f1e4abbbd94ac6735a16ad25a412688f0cb5c371bdf4e21",
+      "bytes": 2784
+    },
+    {
+      "name": "approved-event-note.txt",
+      "sha256": "4bd0da2d0b9118376d7f123e6d245d78b0f4cb4b559394680f8c64976bccc57a",
+      "bytes": 277
+    },
+    {
+      "name": "assistant-a-study-draft.md",
+      "sha256": "6654737ae242dff00066777891a87bc91f4422b104b36bf599f5d7867d7f535c",
+      "bytes": 480
+    },
+    {
+      "name": "assistant-b-study-review.md",
+      "sha256": "3b206448c973ab931160f98e7624e7a44ecc1d14a4d22983ffd7e0f767582cd2",
+      "bytes": 805
+    },
+    {
+      "name": "badge-inputs.json",
+      "sha256": "59c34aa9cebe07d22bc0c7bf414b5e876df2e7db4a9c2400ccc643813c526ec2",
+      "bytes": 65
+    },
+    {
+      "name": "badge_check.py",
+      "sha256": "b8101598d410d5acb25b49e9e261e484b45f8867d0a9c8addfd36c985fb5547a",
+      "bytes": 1450
+    },
+    {
+      "name": "cafe-practice.md",
+      "sha256": "a89789f4a956ccbac24108beee5b7399ed3abd1962483747fc1e76d4f9c5f957",
+      "bytes": 1340
+    },
+    {
+      "name": "claim-checklist.csv",
+      "sha256": "a99ea5feb6450dbc3b0476b5d2126058c514b1add514564e83f47226bee6a7ac",
+      "bytes": 162
+    },
+    {
+      "name": "review-prompts.md",
+      "sha256": "a4768292769e500d1521f084e6ef55112a9099416161e0d80562fa84a9b81c04",
+      "bytes": 1724
+    },
+    {
+      "name": "transfer-checklist.csv",
+      "sha256": "6585207c281077ad9776686f3390dd5b56d82040ebbaea3d0e5a62860aec9e61",
+      "bytes": 173
+    },
+    {
+      "name": "worksheet.md",
+      "sha256": "e828da8bc48d1e2cfd081224bc29e3854b675c58e2ec3410e8be08b33e722e80",
+      "bytes": 3937
+    }
+  ]
+}

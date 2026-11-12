@@ -1,0 +1,77 @@
+{
+  "version": 1,
+  "projectId": "cmv75vaiz00q15c3c9pp7o25k",
+  "scriptSha256": "dc0dcf243a640eda57a4bcf1d4463a573baff10e88b510aaf834d296e168d215",
+  "files": [
+    {
+      "name": "README.md",
+      "sha256": "d6dd21faf24bb491e2ac5e0678735cff638efc370c8b20547ea32b77ff098f1f",
+      "bytes": 1999
+    },
+    {
+      "name": "authored-worked-review.csv",
+      "sha256": "1e5a32c6d7917ebe3dc4ae9088343da56edaaeaa0ef36a3b2d73643155606cd8",
+      "bytes": 605
+    },
+    {
+      "name": "background-prompt.txt",
+      "sha256": "f31ef401e1b37a3010ee4b76bd194bd2224119f7755fdd5fa5cc2e7051b8b37b",
+      "bytes": 620
+    },
+    {
+      "name": "composition-guide.svg",
+      "sha256": "e9c0c821e3b31ffa4a916a64682220ed2cdd5fb659deaaf96e6d1c845b79b71e",
+      "bytes": 915
+    },
+    {
+      "name": "dimensions-and-use-checks.md",
+      "sha256": "a6a4530e68555a54f9ace771b77afd923faa25cd40a5900462752334574b8d5a",
+      "bytes": 832
+    },
+    {
+      "name": "edit-brief.txt",
+      "sha256": "4bb5a30a02b9a0acc063a606230746a31ee64d6b6f43439b6e58f43cf0a64682",
+      "bytes": 406
+    },
+    {
+      "name": "exercises-and-checks.md",
+      "sha256": "c3f7e1c0a6461bda01fc2ec39287bd4c4359f6083e99bea5876f643cd3f87f36",
+      "bytes": 1905
+    },
+    {
+      "name": "headline-ocr-practice.svg",
+      "sha256": "eb919e2f0fb3c76ca57543fbb725b0c0637c8644beff5897428c4379b99ece27",
+      "bytes": 1000
+    },
+    {
+      "name": "manual-fallback.md",
+      "sha256": "43f1532b061f68728b82ccba7465f05b77abf29832db4cd9af2ba1f52ee8eabd",
+      "bytes": 1192
+    },
+    {
+      "name": "ocr-comparison.md",
+      "sha256": "3c4f0dd65985729a19e01edc43b20bb2423a147cf9ef120f461f9ca53b0667f4",
+      "bytes": 977
+    },
+    {
+      "name": "reference-permission-record.csv",
+      "sha256": "6739a7defa5919e977de5e9e89e8d03ef7ed220148da2dc5f87ff321a1b0bf80",
+      "bytes": 178
+    },
+    {
+      "name": "result-review-blank.csv",
+      "sha256": "223b21725f79363981e8bac35dfc5b9d02617449b40785ce1facd7c387d76069",
+      "bytes": 698
+    },
+    {
+      "name": "seed-swap-completed-brief.md",
+      "sha256": "a4002a936a8c639f6bd01c6b8435e619b32d2d1fc1dfea0f3703965672c78e07",
+      "bytes": 3452
+    },
+    {
+      "name": "visual-brief-blank.md",
+      "sha256": "da970fca9a8649bd891a4029225b6f7d20534ec0e1737d2e5575bfecdf0d8a82",
+      "bytes": 817
+    }
+  ]
+}

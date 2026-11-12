@@ -1,0 +1,7 @@
+Request ID,Request text,Category original,Suggested category,Review status,Confirmed category,Review note
+EV-101,12 vegetarian lunch boxes,FOOD,Food,Clear,Food,Capitalization only; vegetarian lunch boxes support Food.
+EV-102,Need a van for folding tables,Transprt,Transport,Clear,Transport,"Van for folding tables supports Transport, not spelling similarity alone."
+EV-103,Ramp access near side entrance,Access,Accessibility,Clear,Accessibility,Ramp near side entrance supports Accessibility; bare Access would be unclear.
+EV-104,Markers and tape,Equipment,Supplies,Clear,Supplies,Markers and tape fit this approved Supplies category; Equipment is not allowed.
+EV-105,Two people for check-in desk,volunteers,Volunteer,Clear,Volunteer,Two people for check-in desk supports Volunteer; original count stays Two.
+EV-106,Pickup,Pickup,,Needs review,,"What is being picked up, and is transport required?"

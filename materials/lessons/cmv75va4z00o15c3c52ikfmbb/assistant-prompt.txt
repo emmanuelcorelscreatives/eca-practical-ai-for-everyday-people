@@ -1,0 +1,9 @@
+Review these fictional rows for inconsistent categories. Use only Food, Transport, Accessibility, Supplies, Volunteer, or Other. Return Request ID, suggested category, reason, and either Clear or Needs review. Do not replace unclear values. State what information is missing.
+
+Request ID,Request text,Category original
+EV-101,12 vegetarian lunch boxes,FOOD
+EV-102,Need a van for folding tables,Transprt
+EV-103,Ramp access near side entrance,Access
+EV-104,Markers and tape,Equipment
+EV-105,Two people for check-in desk,volunteers
+EV-106,Pickup,Pickup
