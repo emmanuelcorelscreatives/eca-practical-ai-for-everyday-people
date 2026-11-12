@@ -1,0 +1,5 @@
+category,check,expected,found,evidence,correction,new_export,recheck,status
+content,item meaning,OR,AND,source-brief.md,restore OR,NOT EXPORTED,NOT TESTED,STUDY TEXT ONLY
+numbers,refreshments,27,26,24+3=27,replace 26 with 27,NOT EXPORTED,NOT TESTED,STUDY TEXT ONLY
+content,walkway instruction,complete sentence,incomplete sentence,source-brief.md,restore complete supplied instruction,NOT EXPORTED,NOT TESTED,STUDY TEXT ONLY
+sharing,registration address,not supplied,not supplied,source-brief.md,retain concise missing-link label,NOT EXPORTED,NOT TESTED,UNRESOLVED FOR REAL DISTRIBUTION

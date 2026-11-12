@@ -1,0 +1,62 @@
+{
+  "version": 1,
+  "projectId": "cmv75v7og00bd5c3cxt042oz9",
+  "scriptSha256": "1a4f236805f2f6834caa6886c379920592bf587e483ad17bf2f39eaa8b7cf9ba",
+  "files": [
+    {
+      "name": "README.md",
+      "sha256": "3fa5111764b5884df56b2a609b20822597f9ead36972d827ada608aeef362086",
+      "bytes": 1542
+    },
+    {
+      "name": "answer-key.md",
+      "sha256": "36cf70ad768f64967191250fdd25fc8601589be0e68a7c40a9c648e65a18d912",
+      "bytes": 2936
+    },
+    {
+      "name": "event-pack-corrected.md",
+      "sha256": "85e7f6a76d83c9f1e2f6b973de5bc7a1ad7e4cf288c1a3bb879b0e0320b63f94",
+      "bytes": 1065
+    },
+    {
+      "name": "event-pack-corrected.rtf",
+      "sha256": "53514204905b640adf1d69c51fcfa5463f69a8fd117abe5542429dae77df41a1",
+      "bytes": 791
+    },
+    {
+      "name": "instruction-and-draft.md",
+      "sha256": "ad9ed93870a2b99e5b6c8f3ea50f884ed06a8879277db03f7f73e2bd9ca23c05",
+      "bytes": 1553
+    },
+    {
+      "name": "reusable-review-card.md",
+      "sha256": "ab09e34f43d62331c43d188dcf1e214448cb65bb6956fcf11244d418b7904bb9",
+      "bytes": 1185
+    },
+    {
+      "name": "review-log-blank.csv",
+      "sha256": "6d173b915a117f15a73bbe69490b4c69f632a5555cd4d07ce73fc4013196acd1",
+      "bytes": 615
+    },
+    {
+      "name": "review-log-worked.csv",
+      "sha256": "d3f32a6c1b23a194bd5031dd551449a1319c62ad55c387b19b08790a5830f068",
+      "bytes": 587
+    },
+    {
+      "name": "source-brief.md",
+      "sha256": "16f5c58cfdb37a9aa889cf0d22f15dd8d22a941d0fd212121e74acc1a014cc42",
+      "bytes": 1450
+    },
+    {
+      "name": "transfer-exercises.md",
+      "sha256": "8660ff0a73ac894435c98915f746326250ad2247bf78f536eb7113d00d5ff379",
+      "bytes": 1502
+    },
+    {
+      "name": "worksheet.md",
+      "sha256": "1058aa79f9c22e8dc16a7e316bf6cdab48f92b7f1ae412c5339932cea23476c8",
+      "bytes": 3898
+    }
+  ]
+}

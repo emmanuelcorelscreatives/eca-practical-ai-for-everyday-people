@@ -1,0 +1,9 @@
+category,check,expected,found,evidence,correction,new_export,recheck,status
+content,page count,2,,,,,,NOT TESTED
+content,item guidance,one small electrical OR fabric item,,,,,,NOT TESTED
+numbers,refreshments,27 people,,,,,,NOT TESTED
+layout,walkway sentence,complete and readable,,,,,,NOT TESTED
+sharing,internal editorial note,absent from distributed file,,,,,,NOT TESTED
+sharing,missing arrival time,visible warning,,,,,,NOT TESTED
+destination,registration,visible missing-link label; no invented URL,,,,,,NOT TESTED
+destination,phone and print,actual usability tests or honest limitation,,,,,,NOT TESTED
