@@ -1,0 +1,82 @@
+{
+  "version": 1,
+  "projectId": "cmv75vax200s15c3cgp2bf99a",
+  "scriptSha256": "a3c70ead4a425d1723fc8ff3006ede8163341180fb38172acb6275f973b0f86a",
+  "files": [
+    {
+      "name": "ANSWER-GUIDE.md",
+      "sha256": "e11c7ebc9573346985385c4a7c7a191389fb4c1b98416c79e21289fbea3ec1d0",
+      "bytes": 1958
+    },
+    {
+      "name": "EXERCISE.md",
+      "sha256": "2bd59104484b496ca478f965e8a3a4399b023626a9674e0b007b26f0f836aeed",
+      "bytes": 2482
+    },
+    {
+      "name": "LICENSE.txt",
+      "sha256": "c6a4ad6153b71264941ce796c369a0c3d287826fb938bdaa3dfe6387d7c44f4b",
+      "bytes": 300
+    },
+    {
+      "name": "README.md",
+      "sha256": "aca5a157239d9b0d2585e6eb3a0a6ed12ff06d7875eb34f322304afc2dfbe5fd",
+      "bytes": 2611
+    },
+    {
+      "name": "answer-key.csv",
+      "sha256": "030d387ce00b5dac91944883666cbe68e52947fa71df0635b617fa347854560d",
+      "bytes": 480
+    },
+    {
+      "name": "corrected-checked-note.txt",
+      "sha256": "114d169ee58751ad2793acc95dfa82680b772d4b25c26ee6eee2c8d8f34f9682",
+      "bytes": 268
+    },
+    {
+      "name": "intentionally-faulty-extraction.txt",
+      "sha256": "1cc687eccb5f26c3882924aaaa8e3f16aebe4c9f71ea6924b7688dd5aadb5a44",
+      "bytes": 155
+    },
+    {
+      "name": "notice-blurred-training.png",
+      "sha256": "76e3d8fa1ac8e4cb390206aed77e3b5c0a47e4bda9694991151a087b20af7601",
+      "bytes": 307340
+    },
+    {
+      "name": "notice-original.pdf",
+      "sha256": "e3638b4cb0b286115da5259be8aec4ddeb4acf1a9d7bb7c83397f061c6dd55e9",
+      "bytes": 131542
+    },
+    {
+      "name": "notice-original.png",
+      "sha256": "20867ebd602adc558b40b02dcfe24c9b4a10fc4c71687d020b84c3c27964b8a6",
+      "bytes": 97892
+    },
+    {
+      "name": "notice-original.txt",
+      "sha256": "0e708e4d61814c73a64d8560ddd3c9d962a9ef806c36d9f88bf46cc0a72c66b9",
+      "bytes": 161
+    },
+    {
+      "name": "notice-small-print.png",
+      "sha256": "7c0243443e2acc14a3175aa38fbcc5f38ae5aca8fd3b03744678a03897e85690",
+      "bytes": 26977
+    },
+    {
+      "name": "ocr-execution.json",
+      "sha256": "b13ad783bbe9939ee1aad9fac9bbc146f20f8df1b121d397daebed49ecd3868b",
+      "bytes": 436
+    },
+    {
+      "name": "tesseract-actual-output.txt",
+      "sha256": "68cde26c624b96aa98e9bdd36ff177d4980a3068102196b9afb759e46bdb0758",
+      "bytes": 167
+    },
+    {
+      "name": "worksheet.csv",
+      "sha256": "87a1e486343af7bb22e8d7222ace243b3c323ddb98bd67dc664dd720f78e331d",
+      "bytes": 147
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "engine": "tesseract 5.3.4",
+  "argv": [
+    "tesseract",
+    "notice-original.png",
+    "tesseract-actual-output",
+    "-l",
+    "eng",
+    "--psm",
+    "6"
+  ],
+  "sourceSha256": "20867ebd602adc558b40b02dcfe24c9b4a10fc4c71687d020b84c3c27964b8a6",
+  "outputSha256": "68cde26c624b96aa98e9bdd36ff177d4980a3068102196b9afb759e46bdb0758",
+  "platform": "Linux desktop demonstration, not Google Lens/Android execution",
+  "exitCode": 0
+}
