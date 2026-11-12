@@ -1,0 +1,1 @@
+Extract the event details using the required six fields. Mark anything missing. Do not perform any external action.

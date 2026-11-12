@@ -1,0 +1,77 @@
+{
+  "version": 1,
+  "projectId": "cmv75vck001015c3cgl1stabh",
+  "scriptSha256": "4c632bfb5ebfeedda3c1e2684a204761ebd65d39835904e559709fdf6f35b186",
+  "files": [
+    {
+      "name": "Candidate material/Catering Ideas.txt",
+      "sha256": "66158ab8524fac0c6b0ac8d328625f3f78eaa7fd33ad7c025a847e5932ada63f",
+      "bytes": 167
+    },
+    {
+      "name": "Candidate material/Event Information 2025.pdf",
+      "sha256": "e7b1e0c6a7210e6b9096590db4a8f39a27cbbf28be4fc283a13f1339dec40d09",
+      "bytes": 830
+    },
+    {
+      "name": "Candidate material/Event Information 2026.pdf",
+      "sha256": "0beee61ad2e4980eed741a27bfd1b3729af1a9508342d87162e6cb5be999d1ed",
+      "bytes": 864
+    },
+    {
+      "name": "Candidate material/Poster Draft.png",
+      "sha256": "cbb1edeb6a17dec0ad59765997725cbc4e77e549340f27a9ae50b41b2dae85f6",
+      "bytes": 43289
+    },
+    {
+      "name": "Candidate material/Visitor FAQ 2026.docx",
+      "sha256": "f79fb9e5598125ab3951a5c06c1298561c0b68ec3a0e481a7ee7935e7293031b",
+      "bytes": 925
+    },
+    {
+      "name": "Candidate material/Volunteer Notes.docx",
+      "sha256": "d85dfcb95ae0064fb6bb8b95a37633562ee07de4206c6d5a7623b9541a3e1487",
+      "bytes": 960
+    },
+    {
+      "name": "document-register.csv",
+      "sha256": "8a8d4ba97f8693a1d5fcd232a5d3c8d8c069361fe974cbc834bb3a4727c3cf0d",
+      "bytes": 755
+    },
+    {
+      "name": "evidence-check.csv",
+      "sha256": "b4921aba99c6562b103474bd59c9fdbc3b36d41dfb2b8258881eb177aa914887",
+      "bytes": 222
+    },
+    {
+      "name": "expected-checks.md",
+      "sha256": "c4b46349383c5d2d9802b316f493cc2fc0103ddc34c5a5fa9494bac18fd52f07",
+      "bytes": 967
+    },
+    {
+      "name": "maintenance-register.csv",
+      "sha256": "fdb33ccca76f24fb224d5479f0270c5a395b0d5a19bbf3966ba68aec3e7ad5c1",
+      "bytes": 250
+    },
+    {
+      "name": "operating-instructions.txt",
+      "sha256": "1f21d0e085c1309c884369685e2abc63c5cfcb05a554cd51ce9ad0594fd725e6",
+      "bytes": 490
+    },
+    {
+      "name": "poster-draft-source.svg",
+      "sha256": "f172588ad6cf2450d391a8328507a6128b3b0a052fad4080b33cf07fdc3a715c",
+      "bytes": 418
+    },
+    {
+      "name": "visitor-question.txt",
+      "sha256": "33b6203a66cb6583f4901d83042113f3f2cf6fcc1c8c649977625b5188aeb412",
+      "bytes": 163
+    },
+    {
+      "name": "worksheet.md",
+      "sha256": "a914b44b167458ee3bf7aa05335da6dc8aec1f29bce7f5b91016d435ab966a8f",
+      "bytes": 2509
+    }
+  ]
+}
