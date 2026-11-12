@@ -1,0 +1,36 @@
+Compare supplied options — equal criteria, visible unknowns
+
+WHEN TO USE
+Compare low-risk choices using supplied information.
+
+REQUIRED INPUTS
+[DECISION], [OPTIONS], [CRITERIA], [NONNEGOTIABLE CONDITIONS], [SUPPLIED FACTS]
+
+REUSABLE INSTRUCTION
+Compare only supplied facts. Use the same criteria for every option. Do not invent scores or choose my priorities. If a criterion is missing for any option, write Unknown and list the missing information after the table. Flag nonnegotiable conditions that cannot be confirmed. I make the final judgment.
+
+FICTIONAL SAMPLE INPUT
+DECISION: choose a meeting room. OPTIONS: Cedar, Willow. CRITERIA: seats, step-free access, hourly price. NONNEGOTIABLE: step-free access. FACTS: Cedar seats 12, is step-free and costs 15 units per hour. Willow seats 10 and costs 12 units per hour; access information was not supplied.
+
+GENERATED SAMPLE OUTPUT — AI-generated teaching draft, not evidence of an external action or measured assistant trial
+Option | Seats | Step-free access | Hourly price
+Cedar | 12 | Yes | 15 units
+Willow | 10 | Unknown | 12 units
+Missing information: Willow step-free access. Its nonnegotiable condition is not confirmed. No score or final decision is assigned.
+
+ACCEPTANCE CHECKS
+Both rows use identical criteria; Willow access remains Unknown; all numbers match; no affordability/accessibility priority is invented.
+
+TEST RECORD
+See test-cases.json for normal/missing/awkward cases. Record actual outputs and observations in test-log.csv; these are not pre-run model results. Keep failed outputs and exact smallest instruction changes.
+
+KNOWN LIMITATION
+Cannot supply missing specifications or decide personal priorities.
+
+MANUAL FALLBACK
+Create the same table manually and obtain missing facts from a suitable source before deciding.
+
+VERSION
+1.1
+REVIEW DATE
+[ACTUAL REVIEW DATE]

@@ -1,0 +1,149 @@
+{
+  "provenance": "Self-created fictional lesson fixtures. Expected behavior is a rubric, not an observed model verdict.",
+  "cases": [
+    {
+      "id": "01-normal",
+      "record": "01 Rewrite supplied text.txt",
+      "case": "normal",
+      "inputOrExactChangeToNormal": "AUDIENCE: volunteers. PURPOSE: friendly reminder. MAXIMUM LENGTH: 90 words. TONE: friendly and direct. SOURCE TEXT: Please remember our community garden session on Saturday 24 October 2026 at 09:00. We will meet at the east gate. Please bring gloves and water. The session is cancelled in heavy rain. DETAILS TO PRESERVE: Saturday; 24 October 2026; 09:00; east gate; gloves; water; cancellation in heavy rain.",
+      "expectedAcceptanceBehavior": "All seven protected details remain; reminder is under 90 words; no weather forecast, attendance, transport or equipment claim was added. Compare source and draft line by line; approval is required before sending.",
+      "actualModelRun": "NOT_RUN"
+    },
+    {
+      "id": "01-missing",
+      "record": "01 Rewrite supplied text.txt",
+      "case": "missing",
+      "inputOrExactChangeToNormal": "Remove the calendar date 24 October 2026 from BOTH SOURCE TEXT and DETAILS TO PRESERVE, leaving no supplied calendar date anywhere. Retain Saturday, 09:00, east gate, gloves, water and cancellation in heavy rain. Require obtaining the missing calendar date before producing a final reminder.",
+      "expectedAcceptanceBehavior": "Flag the missing date; no invented ready-to-send reminder.",
+      "actualModelRun": "NOT_RUN"
+    },
+    {
+      "id": "01-awkward",
+      "record": "01 Rewrite supplied text.txt",
+      "case": "awkward",
+      "inputOrExactChangeToNormal": "Supply both 09:00 and 10:00 as conflicting start times.",
+      "expectedAcceptanceBehavior": "Expose both times and stop before a final reminder.",
+      "actualModelRun": "NOT_RUN"
+    },
+    {
+      "id": "02-normal",
+      "record": "02 Extract actions from notes.txt",
+      "case": "normal",
+      "inputOrExactChangeToNormal": "NOTES: Amara agreed to print the garden map by Friday. The team agreed to check spare gloves; no owner or deadline was recorded. Someone suggested buying a new sign, but no decision was made. DEFINITION: explicitly agreed task. COLUMNS: Task | Owner | Deadline | Source phrase.",
+      "expectedAcceptanceBehavior": "Every task and owner is supported by the source; missing fields remain Not supplied; sign suggestion is not promoted to a commitment.",
+      "actualModelRun": "NOT_RUN"
+    },
+    {
+      "id": "02-missing",
+      "record": "02 Extract actions from notes.txt",
+      "case": "missing",
+      "inputOrExactChangeToNormal": "Remove Amara from the print-map action; keep task and Friday.",
+      "expectedAcceptanceBehavior": "Owner is Not supplied; no invented person.",
+      "actualModelRun": "NOT_RUN"
+    },
+    {
+      "id": "02-awkward",
+      "record": "02 Extract actions from notes.txt",
+      "case": "awkward",
+      "inputOrExactChangeToNormal": "Say Amara owns printing in one sentence and no owner was agreed in another.",
+      "expectedAcceptanceBehavior": "Expose the owner conflict; do not choose silently.",
+      "actualModelRun": "NOT_RUN"
+    },
+    {
+      "id": "03-normal",
+      "record": "03 Summarize notes.txt",
+      "case": "normal",
+      "inputOrExactChangeToNormal": "PURPOSE: volunteer handover. MAXIMUM: 60 words. NOTES: The garden session starts at 09:00 at the east gate. Bring gloves and water. Tools are shared. The coordinator has not confirmed the tool collection location. Final exception: the session is cancelled in heavy rain. MUST REMAIN: time, meeting location, requested items, cancellation condition, unresolved collection location.",
+      "expectedAcceptanceBehavior": "All required details and the final exception remain; no tool location is invented; total output is within 60 words.",
+      "actualModelRun": "NOT_RUN"
+    },
+    {
+      "id": "03-missing",
+      "record": "03 Summarize notes.txt",
+      "case": "missing",
+      "inputOrExactChangeToNormal": "Remove the meeting location from the notes.",
+      "expectedAcceptanceBehavior": "Flag the missing meeting location; do not invent one.",
+      "actualModelRun": "NOT_RUN"
+    },
+    {
+      "id": "03-awkward",
+      "record": "03 Summarize notes.txt",
+      "case": "awkward",
+      "inputOrExactChangeToNormal": "Place the heavy-rain exception at the very end after repetitive notes.",
+      "expectedAcceptanceBehavior": "Retain cancellation in heavy rain.",
+      "actualModelRun": "NOT_RUN"
+    },
+    {
+      "id": "04-normal",
+      "record": "04 Compare supplied options.txt",
+      "case": "normal",
+      "inputOrExactChangeToNormal": "DECISION: choose a meeting room. OPTIONS: Cedar, Willow. CRITERIA: seats, step-free access, hourly price. NONNEGOTIABLE: step-free access. FACTS: Cedar seats 12, is step-free and costs 15 units per hour. Willow seats 10 and costs 12 units per hour; access information was not supplied.",
+      "expectedAcceptanceBehavior": "Both rows use identical criteria; Willow access remains Unknown; all numbers match; no affordability/accessibility priority is invented.",
+      "actualModelRun": "NOT_RUN"
+    },
+    {
+      "id": "04-missing",
+      "record": "04 Compare supplied options.txt",
+      "case": "missing",
+      "inputOrExactChangeToNormal": "Remove Cedar hourly price from supplied facts.",
+      "expectedAcceptanceBehavior": "Write Unknown for Cedar price and list missing information.",
+      "actualModelRun": "NOT_RUN"
+    },
+    {
+      "id": "04-awkward",
+      "record": "04 Compare supplied options.txt",
+      "case": "awkward",
+      "inputOrExactChangeToNormal": "Add an unsupported draft claim that Willow is step-free; do not add it to supplied facts.",
+      "expectedAcceptanceBehavior": "Keep Willow access Unknown; reject unsupported draft addition.",
+      "actualModelRun": "NOT_RUN"
+    },
+    {
+      "id": "05-normal",
+      "record": "05 Draft a message.txt",
+      "case": "normal",
+      "inputOrExactChangeToNormal": "RELATIONSHIP: volunteer coordinator. PURPOSE: ask for the tool collection location. FACTS: I plan to attend the community garden session at 09:00 on Saturday 24 October 2026; the meeting point is the east gate. RESPONSE: confirm tool collection location. DEADLINE: not supplied. TONE: polite and concise.",
+      "expectedAcceptanceBehavior": "Recipient relationship and requested action are correct; date/time/location match; no deadline, attachment or promise is invented. Check before sending.",
+      "actualModelRun": "NOT_RUN"
+    },
+    {
+      "id": "05-missing",
+      "record": "05 Draft a message.txt",
+      "case": "missing",
+      "inputOrExactChangeToNormal": "Remove the session date while retaining the time and meeting point.",
+      "expectedAcceptanceBehavior": "Flag the missing date; do not invent it.",
+      "actualModelRun": "NOT_RUN"
+    },
+    {
+      "id": "05-awkward",
+      "record": "05 Draft a message.txt",
+      "case": "awkward",
+      "inputOrExactChangeToNormal": "Request a draft promise to supply extra tools when no such commitment is authorized.",
+      "expectedAcceptanceBehavior": "Flag unauthorized promise; do not add it.",
+      "actualModelRun": "NOT_RUN"
+    },
+    {
+      "id": "06-normal",
+      "record": "06 Create study questions.txt",
+      "case": "normal",
+      "inputOrExactChangeToNormal": "LEVEL: beginner. NUMBER: 2. TYPES: one short answer, one true/false. ANSWERS: separate. SOURCE: P1: A prompt record keeps its purpose, required inputs, instruction and example. P2: Checking an output means comparing it with supplied evidence. A polished answer alone is not proof.",
+      "expectedAcceptanceBehavior": "Exactly two questions; requested types; answers separate; both keys supported by P1/P2; no outside facts.",
+      "actualModelRun": "NOT_RUN"
+    },
+    {
+      "id": "06-missing",
+      "record": "06 Create study questions.txt",
+      "case": "missing",
+      "inputOrExactChangeToNormal": "Remove P2 but still request the true/false question about evidence.",
+      "expectedAcceptanceBehavior": "Flag insufficient source for the evidence question; no outside answer.",
+      "actualModelRun": "NOT_RUN"
+    },
+    {
+      "id": "06-awkward",
+      "record": "06 Create study questions.txt",
+      "case": "awkward",
+      "inputOrExactChangeToNormal": "Supply two passages that disagree on whether polished wording proves correctness.",
+      "expectedAcceptanceBehavior": "Expose the contradiction rather than present an unqualified key.",
+      "actualModelRun": "NOT_RUN"
+    }
+  ]
+}

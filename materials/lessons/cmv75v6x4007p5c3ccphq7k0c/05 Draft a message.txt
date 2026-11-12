@@ -1,0 +1,34 @@
+Draft a message — clear request without unauthorized promises
+
+WHEN TO USE
+Prepare a message for human review, never send it.
+
+REQUIRED INPUTS
+[RECIPIENT RELATIONSHIP], [PURPOSE], [FACTS], [REQUESTED RESPONSE], [DEADLINE], [TONE]
+
+REUSABLE INSTRUCTION
+Draft using only supplied facts, purpose and tone. Make the requested action clear. Do not make unauthorized promises or assume attachments, permissions, names or deadlines. Flag missing information and conflicting commitments. Return a draft only; do not send.
+
+FICTIONAL SAMPLE INPUT
+RELATIONSHIP: volunteer coordinator. PURPOSE: ask for the tool collection location. FACTS: I plan to attend the community garden session at 09:00 on Saturday 24 October 2026; the meeting point is the east gate. RESPONSE: confirm tool collection location. DEADLINE: not supplied. TONE: polite and concise.
+
+GENERATED SAMPLE OUTPUT — AI-generated teaching draft, not evidence of an external action or measured assistant trial
+Hello, I plan to attend the community garden session at 09:00 on Saturday 24 October 2026, meeting at the east gate. Could you please confirm where volunteers should collect tools? Thank you.
+Review note: no response deadline was supplied; no attachment is claimed.
+
+ACCEPTANCE CHECKS
+Recipient relationship and requested action are correct; date/time/location match; no deadline, attachment or promise is invented. Check before sending.
+
+TEST RECORD
+See test-cases.json for normal/missing/awkward cases. Record actual outputs and observations in test-log.csv; these are not pre-run model results. Keep failed outputs and exact smallest instruction changes.
+
+KNOWN LIMITATION
+Cannot know the recipient or perform an external action.
+
+MANUAL FALLBACK
+Write the request manually and inspect names, dates, attachments and commitments.
+
+VERSION
+1.0
+REVIEW DATE
+[ACTUAL REVIEW DATE]

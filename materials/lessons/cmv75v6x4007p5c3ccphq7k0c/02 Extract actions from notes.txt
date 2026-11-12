@@ -1,0 +1,37 @@
+Extract actions from notes — confirmed actions separate from suggestions
+
+WHEN TO USE
+Turn permission-cleared notes into an inspectable action list.
+
+REQUIRED INPUTS
+[NOTES], [DEFINITION OF ACTION], [OUTPUT COLUMNS]
+
+REUSABLE INSTRUCTION
+Use only the supplied notes. Apply the supplied definition of an action and use the requested output columns. Separate suggestions from confirmed actions. Do not invent owners or deadlines; write Not supplied when missing. If notes conflict, expose the conflict instead of choosing.
+
+FICTIONAL SAMPLE INPUT
+NOTES: Amara agreed to print the garden map by Friday. The team agreed to check spare gloves; no owner or deadline was recorded. Someone suggested buying a new sign, but no decision was made. DEFINITION: explicitly agreed task. COLUMNS: Task | Owner | Deadline | Source phrase.
+
+GENERATED SAMPLE OUTPUT — AI-generated teaching draft, not evidence of an external action or measured assistant trial
+Confirmed actions
+Print garden map | Amara | Friday | Amara agreed to print the garden map by Friday.
+Check spare gloves | Not supplied | Not supplied | The team agreed to check spare gloves.
+Suggestions, not confirmed actions
+Buy a new sign | suggestion only; no decision.
+
+ACCEPTANCE CHECKS
+Every task and owner is supported by the source; missing fields remain Not supplied; sign suggestion is not promoted to a commitment.
+
+TEST RECORD
+See test-cases.json for normal/missing/awkward cases. Record actual outputs and observations in test-log.csv; these are not pre-run model results. Keep failed outputs and exact smallest instruction changes.
+
+KNOWN LIMITATION
+Cannot infer decisions from ambiguous discussion.
+
+MANUAL FALLBACK
+Read the notes and create the same columns manually.
+
+VERSION
+1.0
+REVIEW DATE
+[ACTUAL REVIEW DATE]

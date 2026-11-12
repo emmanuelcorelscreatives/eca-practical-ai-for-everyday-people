@@ -1,0 +1,3 @@
+# Provenance and boundaries
+All datasets and examples here are fictional, self-created teaching material prepared by Emmanuel Corels Academy. The garden scenario and six-task structure follow the saved authored lesson. Generated draft examples are labelled as such; they are not vendor UI captures, real messages, actual assistant test histories or independent fact evidence. Test logs are intentionally blank until observed. Dates in the lesson's rewriting revision are teaching-scenario dates, not today's review claim.
+No copyrighted vendor UI is recreated. No account, credential, learner data, screenshot, narration or project runtime is bundled in this supplemental kit. Authored video topics and narration are not modified.

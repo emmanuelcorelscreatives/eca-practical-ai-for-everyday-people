@@ -1,0 +1,10 @@
+Everyday Prompt Kit
+
+01 Rewrite supplied text.txt: Short repetitive drafts based only on supplied information.
+02 Extract actions from notes.txt: Turn permission-cleared notes into an inspectable action list.
+03 Summarize notes.txt: Make brief source-grounded notes for a stated purpose.
+04 Compare supplied options.txt: Compare low-risk choices using supplied information.
+05 Draft a message.txt: Prepare a message for human review, never send it.
+06 Create study questions.txt: Practise understanding a short supplied text.
+
+Use worksheet.md first. Save a plain-text backup outside your assistant. Choose by outcome, complete inputs, label generated drafts, apply checks, use a manual fallback if checks fail, and retain revisions.

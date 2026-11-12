@@ -1,0 +1,38 @@
+Create study questions — answers traceable to supplied passages
+
+WHEN TO USE
+Practise understanding a short supplied text.
+
+REQUIRED INPUTS
+[SOURCE MATERIAL WITH PASSAGE LABELS], [LEARNING LEVEL], [NUMBER], [QUESTION TYPES], [ANSWER LOCATION]
+
+REUSABLE INSTRUCTION
+Create the requested number and types of questions for the stated learning level using only supplied passages. Put answers separately when requested. Every answer must cite a supplied passage label. Do not add outside facts; flag insufficient or conflicting material.
+
+FICTIONAL SAMPLE INPUT
+LEVEL: beginner. NUMBER: 2. TYPES: one short answer, one true/false. ANSWERS: separate. SOURCE: P1: A prompt record keeps its purpose, required inputs, instruction and example. P2: Checking an output means comparing it with supplied evidence. A polished answer alone is not proof.
+
+GENERATED SAMPLE OUTPUT — AI-generated teaching draft, not evidence of an external action or measured assistant trial
+Questions
+1. Name two items kept in a prompt record.
+2. True or false: a polished answer alone proves correctness.
+Answer key
+1. Any two of purpose, required inputs, instruction, example. [P1]
+2. False. [P2]
+
+ACCEPTANCE CHECKS
+Exactly two questions; requested types; answers separate; both keys supported by P1/P2; no outside facts.
+
+TEST RECORD
+See test-cases.json for normal/missing/awkward cases. Record actual outputs and observations in test-log.csv; these are not pre-run model results. Keep failed outputs and exact smallest instruction changes.
+
+KNOWN LIMITATION
+An answer key can repeat a misunderstanding and needs human checking.
+
+MANUAL FALLBACK
+Write two questions directly from the source and check the keys manually.
+
+VERSION
+1.0
+REVIEW DATE
+[ACTUAL REVIEW DATE]

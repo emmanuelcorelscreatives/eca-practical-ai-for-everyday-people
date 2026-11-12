@@ -1,0 +1,35 @@
+Summarize notes — preserve meaning, exceptions and questions
+
+WHEN TO USE
+Make brief source-grounded notes for a stated purpose.
+
+REQUIRED INPUTS
+[SOURCE NOTES], [PURPOSE], [MAXIMUM WORDS], [DETAILS THAT MUST REMAIN]
+
+REUSABLE INSTRUCTION
+Summarize only the supplied notes for the stated purpose within the maximum words. Return Summary, Exceptions and Open questions. Preserve required details and conditions even when they occur near the end. Do not resolve contradictions or fill missing information; flag them.
+
+FICTIONAL SAMPLE INPUT
+PURPOSE: volunteer handover. MAXIMUM: 60 words. NOTES: The garden session starts at 09:00 at the east gate. Bring gloves and water. Tools are shared. The coordinator has not confirmed the tool collection location. Final exception: the session is cancelled in heavy rain. MUST REMAIN: time, meeting location, requested items, cancellation condition, unresolved collection location.
+
+GENERATED SAMPLE OUTPUT — AI-generated teaching draft, not evidence of an external action or measured assistant trial
+Summary: Garden session at 09:00, east gate. Bring gloves and water; tools are shared.
+Exceptions: Cancelled in heavy rain.
+Open questions: Where should volunteers collect tools?
+
+ACCEPTANCE CHECKS
+All required details and the final exception remain; no tool location is invented; total output is within 60 words.
+
+TEST RECORD
+See test-cases.json for normal/missing/awkward cases. Record actual outputs and observations in test-log.csv; these are not pre-run model results. Keep failed outputs and exact smallest instruction changes.
+
+KNOWN LIMITATION
+A concise summary can still omit a crucial qualification.
+
+MANUAL FALLBACK
+Highlight required details in the source and draft a short handover manually.
+
+VERSION
+1.0
+REVIEW DATE
+[ACTUAL REVIEW DATE]

@@ -1,0 +1,34 @@
+Rewrite supplied text — shorter and clearer without changing facts or commitments
+
+WHEN TO USE
+Short repetitive drafts based only on supplied information.
+
+REQUIRED INPUTS
+[AUDIENCE], [PURPOSE], [SOURCE TEXT], [MAXIMUM LENGTH], [TONE], [DETAILS TO PRESERVE]
+
+REUSABLE INSTRUCTION
+Rewrite for the stated audience and purpose, using only supplied information. Preserve names, dates, quantities, conditions and commitments. Do not guess; flag missing information. Meet the requested length, then briefly describe important changes. When supplied details conflict, identify the conflict and stop before drafting the final version.
+
+FICTIONAL SAMPLE INPUT
+AUDIENCE: volunteers. PURPOSE: friendly reminder. MAXIMUM LENGTH: 90 words. TONE: friendly and direct. SOURCE TEXT: Please remember our community garden session on Saturday 24 October 2026 at 09:00. We will meet at the east gate. Please bring gloves and water. The session is cancelled in heavy rain. DETAILS TO PRESERVE: Saturday; 24 October 2026; 09:00; east gate; gloves; water; cancellation in heavy rain.
+
+GENERATED SAMPLE OUTPUT — AI-generated teaching draft, not evidence of an external action or measured assistant trial
+Friendly reminder: our community garden session is on Saturday 24 October 2026 at 09:00. Meet at the east gate and bring gloves and water. The session is cancelled in heavy rain.
+Important changes: shortened the wording; retained all seven protected details.
+
+ACCEPTANCE CHECKS
+All seven protected details remain; reminder is under 90 words; no weather forecast, attendance, transport or equipment claim was added. Compare source and draft line by line; approval is required before sending.
+
+TEST RECORD
+See test-cases.json for normal/missing/awkward cases. Record actual outputs and observations in test-log.csv; these are not pre-run model results. Keep failed outputs and exact smallest instruction changes.
+
+KNOWN LIMITATION
+Does not research or verify the source facts; another assistant may respond differently.
+
+MANUAL FALLBACK
+Edit manually against the seven protected details.
+
+VERSION
+1.1
+REVIEW DATE
+13 October 2026 (authored teaching scenario; record your own actual review date)

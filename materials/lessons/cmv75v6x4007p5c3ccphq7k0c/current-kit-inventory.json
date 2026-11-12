@@ -1,0 +1,72 @@
+{
+  "version": 1,
+  "projectId": "cmv75v6x4007p5c3ccphq7k0c",
+  "scriptSha256": "7f88665e2dbe172daa82777443278fd2c6a8b733ee95eb1b3ad7fa3ccacb129e",
+  "files": [
+    {
+      "name": "00 Kit Index.txt",
+      "sha256": "7fdf1739ce9c4c2c38edc1ba37acc78d2e9d37b27a1241703daa6eb36bbb766c",
+      "bytes": 734
+    },
+    {
+      "name": "01 Rewrite supplied text.txt",
+      "sha256": "796cf210e7c48d604cd6af630a5dc5b3ec64f5fa9c49e42417fb2920e7c147da",
+      "bytes": 2176
+    },
+    {
+      "name": "02 Extract actions from notes.txt",
+      "sha256": "53afa5f03b7dd6118c0a9420723bd98869c952aaed956ce012fe9618e6762ed0",
+      "bytes": 1777
+    },
+    {
+      "name": "03 Summarize notes.txt",
+      "sha256": "47e554e500b30887cd2c671cd585ede6fe63d1f0418d3a7d85e8c503cd02a397",
+      "bytes": 1794
+    },
+    {
+      "name": "04 Compare supplied options.txt",
+      "sha256": "a8e2f176655ac72f46fad16b695de28eb49d62b7c3e5364aed1e27632e1bdd9b",
+      "bytes": 1845
+    },
+    {
+      "name": "05 Draft a message.txt",
+      "sha256": "953ef8bb42542b80339731eb667c0cc2cb08538f4b9739fccd982b4e027f17a2",
+      "bytes": 1844
+    },
+    {
+      "name": "06 Create study questions.txt",
+      "sha256": "843551694c70085fc90391841307977667a53591ba34bb0819cb001e46244fcf",
+      "bytes": 1739
+    },
+    {
+      "name": "blank-record.txt",
+      "sha256": "8f6beaf3821a425b379400cd802c7701221fae013d2fa6a492aac1adee87e706",
+      "bytes": 419
+    },
+    {
+      "name": "provenance.md",
+      "sha256": "9bd69ded1dc8162a92439e484562d10403c2f2d93a8ebcf8251f61e557bc5c1c",
+      "bytes": 731
+    },
+    {
+      "name": "submission-checklist.md",
+      "sha256": "4d9675c5496f7f00d0554353a633fc340c0067f242df2825a4fc6a5c436eb4f0",
+      "bytes": 782
+    },
+    {
+      "name": "test-cases.json",
+      "sha256": "78c5045bd7476c1c645233f7054176fac6fe998e0dae361185df3bd1de292966",
+      "bytes": 8629
+    },
+    {
+      "name": "test-log.csv",
+      "sha256": "b1f859c27beb7206623536692a8658eca72bf42856fbcd5310cfaa8d4d720a23",
+      "bytes": 473
+    },
+    {
+      "name": "worksheet.md",
+      "sha256": "115280698ed760d88698bfa418e67151ae1e20e5fb2f9014ba84b0a6e2163b3b",
+      "bytes": 2570
+    }
+  ]
+}
