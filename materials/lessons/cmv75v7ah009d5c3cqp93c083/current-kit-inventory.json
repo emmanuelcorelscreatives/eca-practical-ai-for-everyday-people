@@ -1,0 +1,52 @@
+{
+  "version": 1,
+  "projectId": "cmv75v7ah009d5c3cqp93c083",
+  "scriptSha256": "2223b074370bd3ee722550c3ab71b07ba93270ad2570672451138a9f1dbe6a39",
+  "files": [
+    {
+      "name": "answers.md",
+      "sha256": "1b125d335f3cbd8dbd45138b822d48938a70aff14bbd4ed541d4994e5b8acc3f",
+      "bytes": 2816
+    },
+    {
+      "name": "audit-record.csv",
+      "sha256": "31bab1443861424058e8cc4259a9c24b17d41b3d0af2ec3c091c4e7d69f32a05",
+      "bytes": 487
+    },
+    {
+      "name": "check-fixtures.py",
+      "sha256": "eab9a00bab5369b09db3b0950c7e6b07095b9ca4668a040d29da9e5b8a557242",
+      "bytes": 1511
+    },
+    {
+      "name": "corrected-sheet.csv",
+      "sha256": "5144ce24fc0def6e04d1af20fbefbf44e25f9a48f4be2d61ef993d41a512117a",
+      "bytes": 166
+    },
+    {
+      "name": "faulty-sheet.csv",
+      "sha256": "1389a79161c603b8a6ac86ff58ef66388311a0472febf64d577171dfb424170c",
+      "bytes": 135
+    },
+    {
+      "name": "provenance.md",
+      "sha256": "a9876c8f9f72eb56e1754ffcc41131f54bfcdc4c4f1d3895b7d1fa64aa5db414",
+      "bytes": 758
+    },
+    {
+      "name": "source-notes.csv",
+      "sha256": "5144ce24fc0def6e04d1af20fbefbf44e25f9a48f4be2d61ef993d41a512117a",
+      "bytes": 166
+    },
+    {
+      "name": "source-notes.md",
+      "sha256": "b13efd22f8c32568e2c6450483a8b3579216817cfec4992c8871c037c961d8fe",
+      "bytes": 757
+    },
+    {
+      "name": "worksheet.md",
+      "sha256": "9546e3c7f63b125d8e21eab2dfe15e1103f6bb280d7e47ebf4fefa902f53eb74",
+      "bytes": 3876
+    }
+  ]
+}
