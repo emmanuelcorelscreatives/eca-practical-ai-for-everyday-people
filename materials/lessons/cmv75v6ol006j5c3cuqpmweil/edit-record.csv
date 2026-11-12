@@ -1,0 +1,5 @@
+Change,Before,After,Reason
+Time,5:00 p.m.,6:00 p.m.,Opened organizer notice supports public start 18:00
+Structure,Dense paragraph,Heading and Date/Public start/Room lines,Inspect reading order
+Assumption,Refreshments will be provided,Removed,No source supports this promise
+Room,To be confirmed,To be confirmed,No room choice has been approved

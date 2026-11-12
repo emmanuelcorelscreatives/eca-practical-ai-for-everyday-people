@@ -1,0 +1,87 @@
+{
+  "version": 1,
+  "projectId": "cmv75v6ol006j5c3cuqpmweil",
+  "scriptSha256": "01eb5549e6fe62c4fb58f175b60eddc09200e3adc7f223bfc7682f094509bcb1",
+  "files": [
+    {
+      "name": "LICENSE.txt",
+      "sha256": "8237f87f0882098bdbcf3a81e4316f9caaf6d96ea088d948834da2e0475a6fac",
+      "bytes": 276
+    },
+    {
+      "name": "comparison-answer.csv",
+      "sha256": "d5af68d44bfb83cf42f67329e1820f920f5216afd4ed512ef61f6bd7e8c07f37",
+      "bytes": 534
+    },
+    {
+      "name": "comparison-blank.csv",
+      "sha256": "501d616f95b208794b3a00a30f61d33d543dd8f2a2d7a03315ef3ee0da1b2ff8",
+      "bytes": 157
+    },
+    {
+      "name": "edit-record.csv",
+      "sha256": "db9b70d6147e9f74450766a27099e5569f6051a20a5583035cdd151a9b2a225e",
+      "bytes": 344
+    },
+    {
+      "name": "expected-checks.md",
+      "sha256": "ccdcf84b09dad2430d5521ba9501ef629c684b458b0cb937d2a9c1101328c196",
+      "bytes": 811
+    },
+    {
+      "name": "generated-example.md",
+      "sha256": "a75b2d39641044fdcc36ee57f38f0371ba0b1788c5e8c3fa20c5d551baf774a3",
+      "bytes": 855
+    },
+    {
+      "name": "notice-after.md",
+      "sha256": "9ac7750329596c192cf2f5c6166b6873400c8b6d8bacddf3560c94ff651f884e",
+      "bytes": 222
+    },
+    {
+      "name": "notice-before.md",
+      "sha256": "8472bb195c527bb15ff779b7f1946c57275cc2c64a72565cb76ef8a6c2ed0e0a",
+      "bytes": 345
+    },
+    {
+      "name": "organizer-notice.md",
+      "sha256": "15e6e0727a5b6a4bbcebbe348f93192c9591b61ca36e22c24c1608d4f0c7cfb7",
+      "bytes": 419
+    },
+    {
+      "name": "practice-site/index.html",
+      "sha256": "fa0ea9115cab87c4f26a631262fc63d6aec52522768d92b8c2018b4317f6f326",
+      "bytes": 1658
+    },
+    {
+      "name": "practice-site/organizer.html",
+      "sha256": "9eb0583b4489c33960ee5d01587e5b91d9ffac23a01a2d3b091efa1ea63967f6",
+      "bytes": 898
+    },
+    {
+      "name": "room-checked.csv",
+      "sha256": "8c41c099cf311e79712d0d2f059e27d7fcf7ed56603ff5eea52e9b6e62b8b2f1",
+      "bytes": 120
+    },
+    {
+      "name": "room-inputs.csv",
+      "sha256": "52225087eaa114ce6b28b391eea19757de193c9e4d7f960dbd583904fe2e811a",
+      "bytes": 114
+    },
+    {
+      "name": "source-notes.md",
+      "sha256": "2948398da1f9f53fe80171bf7fc2a3d38c9473a2dda635373fb67415872645f7",
+      "bytes": 468
+    },
+    {
+      "name": "source-provenance.json",
+      "sha256": "0a0f813a2244dab5f9a73412ea8155d172815e7f976d7a628c61c85e34a187a3",
+      "bytes": 864
+    },
+    {
+      "name": "worksheet.md",
+      "sha256": "2194330d9f484c1d1843767baada95ed66894b8cf6fbf72d2136b8abd7d1ccd0",
+      "bytes": 2794
+    }
+  ]
+}

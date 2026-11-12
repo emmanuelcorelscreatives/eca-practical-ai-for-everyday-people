@@ -1,0 +1,48 @@
+{
+  "provenance": "Self-authored fictional Academy receipt examples; no actual purchase/private identifiers",
+  "candidateProvenance": "Intentionally authored error cases matching the saved lesson, NOT an observed Google OCR response",
+  "receipts": [
+    {
+      "source": "receipt-001.jpg",
+      "date": "14/10/2026",
+      "normalized": "2026-10-14",
+      "total": "18.80",
+      "currency": "EUR",
+      "lines": [
+        "ACADEMY PRACTICE RECEIPT 001",
+        "FICTIONAL - NOT A REAL PURCHASE",
+        "DATE 14/10/2026",
+        "TOTAL €18.80"
+      ]
+    },
+    {
+      "source": "receipt-002.jpg",
+      "date": "03/04/2026",
+      "normalized": "2026-04-03",
+      "total": "26.40",
+      "currency": "CAD",
+      "lines": [
+        "ACADEMY PRACTICE RECEIPT 002",
+        "FICTIONAL - NOT A REAL PURCHASE",
+        "DATE 03/04/2026",
+        "DATES: DD/MM/YYYY",
+        "SUBTOTAL CAD 24.00",
+        "TAX CAD 2.40",
+        "TOTAL CAD 26.40"
+      ]
+    },
+    {
+      "source": "receipt-003.jpg",
+      "date": "08 OCT 2026",
+      "normalized": "2026-10-08",
+      "total": "1240.00",
+      "currency": "INR",
+      "lines": [
+        "ACADEMY PRACTICE RECEIPT 003",
+        "FICTIONAL - NOT A REAL PURCHASE",
+        "DATE 08 OCT 2026",
+        "TOTAL INR 1,240.00"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,4 @@
+Source file,Date as printed,Normalized date,Total,Currency,OCR result,Verification status,Correction note
+receipt-001.jpg,14/10/2026,2026-10-14,13.30,EUR,Date 14/10/2026; Total €13.30,Not checked,
+receipt-002.jpg,03/04/2026,,24.00,CAD,Date 03/04/2026; Amount 24.00,Not checked,
+receipt-003.jpg,,,1240.00,INR,"DATE uncertain; TOTAL INR 1,240.00",Needs review,

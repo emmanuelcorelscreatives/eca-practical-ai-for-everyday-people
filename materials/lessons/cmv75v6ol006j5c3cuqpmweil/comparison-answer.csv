@@ -1,0 +1,5 @@
+Issue,Can another prompt fix it?,Better method,Result,Check
+Wrong total,No,Calculator,108 seats,18 tables × 6 seats; compare inputs to source
+Buried comparison,Limited,Spreadsheet,Aligned room table; 108 and 120 seats,Source values; B2*C2 and B3*C3; seats; unknowns
+Unsupported access time,No,"Search, then open page",Access 17:30; public start 18:00,Organizer notice; event; 18 October 2026; scope; direct support
+"Dense, inaccurate notice",Limited,Editor,Concise reviewed draft,Date; wording; assumptions; layout; room unconfirmed

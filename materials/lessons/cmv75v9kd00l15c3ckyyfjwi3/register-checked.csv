@@ -1,0 +1,4 @@
+Source file,Date as printed,Normalized date,Total,Currency,OCR result,Verification status,Correction note
+receipt-001.jpg,14/10/2026,2026-10-14,18.80,EUR,Date 14/10/2026; Total €13.30,Checked and corrected,OCR read 8 as 3.
+receipt-002.jpg,03/04/2026,2026-04-03,26.40,CAD,Date 03/04/2026; Amount 24.00,Checked and corrected,OCR selected subtotal; final TOTAL is CAD 26.40.
+receipt-003.jpg,08 OCT 2026,2026-10-08,1240.00,INR,"DATE uncertain; TOTAL INR 1,240.00",Checked manually,OCR date unreadable; entered from enlarged image.

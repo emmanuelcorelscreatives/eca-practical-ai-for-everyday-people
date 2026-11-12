@@ -1,0 +1,29 @@
+{
+  "projectId": "cmv75v6ol006j5c3cuqpmweil",
+  "baselineProjectionSha256": "6109064bfe7de8ef4fa0f86ef7acac4159ff971cf78e91936c21d6f53a624cc6",
+  "scriptSha256": "01eb5549e6fe62c4fb58f175b60eddc09200e3adc7f223bfc7682f094509bcb1",
+  "sourceType": "Academy self-authored fictional exercises matching saved lecture",
+  "fictionalEventDate": "2026-10-18",
+  "preserveAuthoredNarration": true,
+  "nativeCaptureState": "NOT_STARTED; no UI capture or calculation app execution claimed",
+  "roomContract": {
+    "A": {
+      "tables": 18,
+      "seatsPerTable": 6,
+      "capacity": 108,
+      "stepFree": "Yes",
+      "projector": "Unknown"
+    },
+    "B": {
+      "tables": 15,
+      "seatsPerTable": 8,
+      "capacity": 120,
+      "stepFree": "Unknown",
+      "projector": "Yes"
+    }
+  },
+  "timingContract": {
+    "access": "17:30",
+    "publicStart": "18:00"
+  }
+}
