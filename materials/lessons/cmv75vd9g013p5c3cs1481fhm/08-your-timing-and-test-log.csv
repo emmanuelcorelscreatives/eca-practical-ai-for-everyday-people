@@ -1,0 +1,5 @@
+case,method,date,source_ids_versions,actual_tool_version,instruction_output_reference,preparation_minutes,drafting_generation_minutes,checking_minutes,correction_minutes,formatting_minutes,recovery_minutes,maintenance_minutes,total_minutes,correction_count,initial_outcome,final_checked_outcome,limitations_or_missing_fields,reviewer,permission_status
+manual_baseline,manual,,,,,,,,,,,,,,,,,,
+complete_brief,chosen_workflow,,,,,,,,,,,,,,,,,,
+changed_schedule,chosen_workflow,,,,,,,,,,,,,,,,,,
+missing_information,chosen_workflow,,,,,,,,,,,,,,,,,,

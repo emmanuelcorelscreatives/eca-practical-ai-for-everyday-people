@@ -1,0 +1,6 @@
+# License and provenance
+All learner-facing text, fictional sources, seeded drafts, worksheets and worked solutions in this lesson kit are self-authored for this course. Permission is granted to use, copy and adapt these supplied training materials for practice with attribution to Trejj Academy. No real people's private data, third-party app screenshots, credentials, working contact endpoints or vendor-generated outputs are included.
+
+The curriculum and authored lecture remain authoritative for scope. Fixture event names/dates/schedules and access notes are new fictional teaching details supporting its generic community-event capstone. Numerical totals and case-one categories reproduce its illustrative worked example. No actual AI service run, measured timing, real approval or publication is asserted. Blank forms support genuine learner observations. Source records and answer keys are not independent proof of any real-world event.
+
+Version: lesson240-kit-v1, 2026-11-12. Topic: present whole-task time, checked quality, limitations and next improvements. No coding is required. Markdown opens as plain text; CSV opens in a spreadsheet or text editor. No formulas/macros, downloads, external links, account access or scripts are necessary.

@@ -1,0 +1,72 @@
+{
+  "version": 1,
+  "projectId": "cmv75vd9g013p5c3cs1481fhm",
+  "scriptSha256": "854dc1b5f45ea51d897f9c02dc3e1406e2aa805c476a29cf2de4ec9453e03b39",
+  "files": [
+    {
+      "name": "01-source-briefs.md",
+      "bytes": 3022,
+      "sha256": "9cbe698cbbfe0bbfc28f359860b09c0f05b1c6a2a0e2dc1bfaff303eb9189448"
+    },
+    {
+      "name": "02-workflow-and-instructions.md",
+      "bytes": 2986,
+      "sha256": "3ddb764c4b137a57c85da6acd34def81830202ccf129f95ff252d5656861c33d"
+    },
+    {
+      "name": "03-practice-drafts.md",
+      "bytes": 1391,
+      "sha256": "1e45c7a51af224439a7dc9520dee4e305f7b3cde0dc9cd40cf09ecf9d7a36bf6"
+    },
+    {
+      "name": "04-correction-and-check-key.md",
+      "bytes": 3087,
+      "sha256": "3d4244d393cd4336ea422471413f4d496ffe3f0dc300a02898eedf8ae434c5d8"
+    },
+    {
+      "name": "05-final-artifact-template.md",
+      "bytes": 715,
+      "sha256": "88b8cd43d50a9a67ebf6afe13ce63702920ca98f05a35c976b261acbb5b04282"
+    },
+    {
+      "name": "06-worked-final-artifacts.md",
+      "bytes": 2274,
+      "sha256": "70cd201b9bbe56139daf2d1dec6816278028fdb01a6254c4fa67bcda948012e0"
+    },
+    {
+      "name": "07-illustrative-timing.csv",
+      "bytes": 831,
+      "sha256": "0d7d3855b8ecbbd62d844db3e00677bbbf3ec95b24a1ce92ecc3c6f47d787bc5"
+    },
+    {
+      "name": "08-your-timing-and-test-log.csv",
+      "bytes": 547,
+      "sha256": "ed932719601c77201babe47c421e3927c86993e7c36141a4e12f44de1f9df762"
+    },
+    {
+      "name": "09-verification-and-approval.md",
+      "bytes": 1832,
+      "sha256": "00571418fea47d885444da24f110177d92b1a97a0c38ca777658ba53684bdfe6"
+    },
+    {
+      "name": "10-improvement-and-retest.md",
+      "bytes": 1945,
+      "sha256": "fc28f00c55e953b6e90eee77ff9444d9f03bbb89c8869449da2361cc5288398a"
+    },
+    {
+      "name": "11-presentation-and-handover.md",
+      "bytes": 2770,
+      "sha256": "a61f9d1928e1f12958d5d5d52e27aacfbb1334f9f774d1191a23025b63bd8ccb"
+    },
+    {
+      "name": "LICENSE-AND-PROVENANCE.md",
+      "bytes": 1253,
+      "sha256": "d15d55c40d6e97d7866737adf0eb478fd4cf957c99ae98001b01a5f756c49182"
+    },
+    {
+      "name": "README.md",
+      "bytes": 2670,
+      "sha256": "0c94f7773ac7d7b133d66d9f4112dcad65ca472be7d40304103c5c767bebec60"
+    }
+  ]
+}
