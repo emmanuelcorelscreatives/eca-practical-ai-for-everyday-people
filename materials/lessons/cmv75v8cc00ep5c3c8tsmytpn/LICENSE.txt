@@ -1,0 +1,4 @@
+Copyright 2026 Emmanuel Corels Academy.
+These original lesson materials are licensed under Creative Commons Attribution 4.0 International (CC BY 4.0): https://creativecommons.org/licenses/by/4.0/
+The check-examples.py code is additionally available under the MIT License: permission is granted, free of charge, to use, copy, modify, merge, publish, distribute, sublicense and sell copies, provided this copyright and permission notice accompany substantial copies. THE SOFTWARE IS PROVIDED AS IS, WITHOUT WARRANTY OF ANY KIND.
+All numeric examples are fictional educational fixtures, not measurements of real persons or events.

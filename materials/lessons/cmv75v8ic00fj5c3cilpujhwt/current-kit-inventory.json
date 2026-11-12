@@ -1,0 +1,137 @@
+{
+  "version": 1,
+  "projectId": "cmv75v8ic00fj5c3cilpujhwt",
+  "scriptSha256": "2ddca8ccba4ac5e3369038c3104ed64855cb511cfce2a487fbceae5ebc3f4a0a",
+  "files": [
+    {
+      "name": "README.md",
+      "sha256": "9a868c8be35ef1a32a22108d51acc80947bcdffc7ebedf4baeaf4bb7650351ac",
+      "bytes": 2754
+    },
+    {
+      "name": "answer-key.md",
+      "sha256": "526a482b4788e82990ed961999a0044832a69cd7b5bd7f04cbe0f1b021e88eac",
+      "bytes": 1875
+    },
+    {
+      "name": "checked-rewrite.txt",
+      "sha256": "1b81b66f8efc8a289d6ed5035e8eca0e4a124e99b335f2164259de1ef6d6e5ee",
+      "bytes": 381
+    },
+    {
+      "name": "comparison.csv",
+      "sha256": "e32d030c4cf0485abc43ab51f730fd28a9aca5dcacd8f437aa52d35776d2da1c",
+      "bytes": 288
+    },
+    {
+      "name": "flawed-rewrite.txt",
+      "sha256": "e5ff9243ab3700c92a97be9d894c9d81caca20ee5f0b8794bab66db747b84254",
+      "bytes": 26
+    },
+    {
+      "name": "rewrite-brief.md",
+      "sha256": "bb3bb3391cca96fcde9318ddea5beb1066f74ba0beb69f153aa02e104347f49f",
+      "bytes": 760
+    },
+    {
+      "name": "source-instructions.txt",
+      "sha256": "a14cf8d572524a75d272f1cd5cacbbff1bf4dc672d2fabbad853f2d2b0cb2e37",
+      "bytes": 248
+    },
+    {
+      "name": "worksheet.md",
+      "sha256": "2bcf47f280300e591919d03e3874891d540c7c47cf27e2e242fa1218024252c3",
+      "bytes": 1920
+    },
+    {
+      "name": "workspace-brief.html",
+      "sha256": "cf3555bca3cea61836e4783747cf934088e88db4424a66d09c49329fb86f8864",
+      "bytes": 1697
+    },
+    {
+      "name": "workspace-checklist.html",
+      "sha256": "3785527899c9744e15fefa0a5decec9f116540b58febc60383b598e475b54c0e",
+      "bytes": 1601
+    },
+    {
+      "name": "workspace-comparison.html",
+      "sha256": "ddbf122b5155e89e442528a72a74d815af699ce37c4a56721d65a23aa1e76a30",
+      "bytes": 1451
+    },
+    {
+      "name": "workspace-condition.html",
+      "sha256": "736f4ac8ce625f80cbd7e0a2418c39283dc88f23b08907868dcb3294bd2ad55a",
+      "bytes": 1476
+    },
+    {
+      "name": "workspace-corrected.html",
+      "sha256": "86f70b5acc6b46d2f8625b2eb180a51b53e686a842f7c23c01ce0dc3b3b761a8",
+      "bytes": 1445
+    },
+    {
+      "name": "workspace-fallback.html",
+      "sha256": "966922c9fb8c55705e7271b2e96b60e1f45484bb04ab45938f052adab5160486",
+      "bytes": 1697
+    },
+    {
+      "name": "workspace-final.html",
+      "sha256": "16b240b9837ef4e4af2542352eb27e1e5d5eaf6a79497e652d8f1b5ce475fd37",
+      "bytes": 1423
+    },
+    {
+      "name": "workspace-flaw.html",
+      "sha256": "859a3cb5ae1e95640074abbc5076e91f26e0f55c8adbff546686a4f9127df573",
+      "bytes": 1589
+    },
+    {
+      "name": "workspace-listen.html",
+      "sha256": "4b106d13e6a19ed8c3b159892a9a58ed95dc3c5a456d9ab1548f95ece3c6f5da",
+      "bytes": 1850
+    },
+    {
+      "name": "workspace-mobile.html",
+      "sha256": "e5b1631e371af92c25075cf71a167590bf29fcd734589eeb8d1dc339905935d9",
+      "bytes": 1590
+    },
+    {
+      "name": "workspace-next.html",
+      "sha256": "d9f562b5fc4e75ce3de582fbeee0784fc0a350c2d6530b96aa164dbc3cc63ea1",
+      "bytes": 1511
+    },
+    {
+      "name": "workspace-prompt.html",
+      "sha256": "e73cde230727eb9ea2ca971e9f694d2dd26221d984fd44b625659f8f8ddc6734",
+      "bytes": 1793
+    },
+    {
+      "name": "workspace-questions.html",
+      "sha256": "cbefa1815640c8423031cc6fc1d523a39dfddfd4219981274de678844c610bea",
+      "bytes": 1882
+    },
+    {
+      "name": "workspace-reader.html",
+      "sha256": "37b023fa61773406adb99b2472f8145b32d5554a025c1b28cc95a836286f5ed0",
+      "bytes": 1636
+    },
+    {
+      "name": "workspace-responsibility.html",
+      "sha256": "1869721e5a6e526959ee9541bd646c06bea5d81986aa0cfe7ea128d13a351d45",
+      "bytes": 1572
+    },
+    {
+      "name": "workspace-rewrite.html",
+      "sha256": "313f5e3dc390fbe27ee46aff885efa6470fa9a43f2d427401da0ec1ba7484e65",
+      "bytes": 1774
+    },
+    {
+      "name": "workspace-source.html",
+      "sha256": "22ddc83bcf97972599d27d4e387e097225efc54e68b4d50bf32a4f77ba8fe1b1",
+      "bytes": 1551
+    },
+    {
+      "name": "workspace-term.html",
+      "sha256": "503301c0ba8ea84aa6857cce37d1b5cdb0afbc2db1a8b3b9bb00765eaaa035f8",
+      "bytes": 1653
+    }
+  ]
+}

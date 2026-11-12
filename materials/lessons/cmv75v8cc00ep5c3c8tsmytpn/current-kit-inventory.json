@@ -1,0 +1,52 @@
+{
+  "version": 1,
+  "projectId": "cmv75v8cc00ep5c3c8tsmytpn",
+  "scriptSha256": "db49f7c4ec4240157ecdcabec49c40719674cdcaf1e79f98d0d89aad5ac24d27",
+  "files": [
+    {
+      "name": "LICENSE.txt",
+      "bytes": 628,
+      "sha256": "bc270782f17ba78fd05691465a4a2c311a393fa2a4dc0de582de311cabf835a7"
+    },
+    {
+      "name": "README.md",
+      "bytes": 2059,
+      "sha256": "966fb16ac7042d43ae3a463bc496b866a7f5ea91a475e7a037f681de6921a08f"
+    },
+    {
+      "name": "answer-key.md",
+      "bytes": 1586,
+      "sha256": "13e68536942ff4c09e640a37c67d2b87890e9369ffbc54fd9109b1a42c5164b5"
+    },
+    {
+      "name": "check-examples.py",
+      "bytes": 885,
+      "sha256": "11bde39585b4693da5128c91a28864d1c7099f12aac8b08f96579fd97b2ed75f"
+    },
+    {
+      "name": "correction-log.csv",
+      "bytes": 157,
+      "sha256": "34df49f4ed19dd65b5dd82d3f269f34c6b1ea80cab979d99b6b01bca06c4b6c3"
+    },
+    {
+      "name": "practice-questions.md",
+      "bytes": 988,
+      "sha256": "f637821555f6e7b547e334a588af8e7d80f5f7f8571fcf70add8f91e3394cd5e"
+    },
+    {
+      "name": "response-sheet.md",
+      "bytes": 608,
+      "sha256": "b56023f346c1df61bdee3a7393ecd9687571161a669f02b173fc5bf326ef35df"
+    },
+    {
+      "name": "source-note.md",
+      "bytes": 1016,
+      "sha256": "03517cd4a4d941e9806a361d98e2b9b98b38cecd579f6f098e918cc50a1dc949"
+    },
+    {
+      "name": "worked-example.md",
+      "bytes": 951,
+      "sha256": "bfc88fc4028282dfe00d7ef695b11c3cddff69afdcf07ec1de5a734240ad1667"
+    }
+  ]
+}
