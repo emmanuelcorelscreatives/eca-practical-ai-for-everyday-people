@@ -1,0 +1,47 @@
+{
+  "version": 1,
+  "projectId": "cmv75v60o00375c3c2z3hnj0z",
+  "scriptSha256": "eebb0b09f5896feac020e0d9dc6ab9f22eaeffa77e04bf29d8a2f8e348a10cf4",
+  "files": [
+    {
+      "name": "README.md",
+      "sha256": "85b74d28f55f46692c5ddf8f7c455bc36fee7d41a8739b4cf74a42637d7a644d",
+      "bytes": 2761
+    },
+    {
+      "name": "answer-key.md",
+      "sha256": "0adf9238eaf8eb30327791625171331bb7756500dadcb37cbd4f8c4e069bbff1",
+      "bytes": 2224
+    },
+    {
+      "name": "brief-template.md",
+      "sha256": "196563d601413c83d93f6fec6555d2209c2d937e08eb059945bebc8aaeaa3b32",
+      "bytes": 468
+    },
+    {
+      "name": "corrected-notice.md",
+      "sha256": "f4d74229ae5ca59abc86a5d677db860bf3dbfe3be0940248f43401aa72e3da83",
+      "bytes": 646
+    },
+    {
+      "name": "fictional-source-notes.txt",
+      "sha256": "def4ee2ed86e80d4b9145441df86160809fbe173ecffd66e7b77e773025109f9",
+      "bytes": 302
+    },
+    {
+      "name": "original-draft.md",
+      "sha256": "a91fcadfaccc8c0075a75d288b50c5aba64f9b7135d3b7f1288efcc34f0049b1",
+      "bytes": 679
+    },
+    {
+      "name": "prompt.txt",
+      "sha256": "9d4f9fd95017ccc0de0acb0111a711f112c95cce770f111ea783fee67ca7d129",
+      "bytes": 653
+    },
+    {
+      "name": "verify-kit.py",
+      "sha256": "a5f1932bfd61132f24c7036573aba71cfb7282eaa4f5430f03444cf754ad7be5",
+      "bytes": 1434
+    }
+  ]
+}
