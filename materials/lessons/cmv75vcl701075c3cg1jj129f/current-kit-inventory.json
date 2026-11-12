@@ -1,0 +1,47 @@
+{
+  "version": 1,
+  "projectId": "cmv75vcl701075c3cg1jj129f",
+  "scriptSha256": "bf87df7964a83f0e255ec82e5c5dc8baa2e49e71a268faf606664f21e9535602",
+  "files": [
+    {
+      "name": "README.md",
+      "sha256": "8173e6200215b6df6ee49dff1c2aa0a6e616bd2c1aa72b3144a2573a9dade36f",
+      "bytes": 2341
+    },
+    {
+      "name": "action-log.csv",
+      "sha256": "3fd41caead92b7131658f61534881c97f2414b3dc494e895def911a6683d04d7",
+      "bytes": 106
+    },
+    {
+      "name": "answer-checks.md",
+      "sha256": "c204b23847b8914e407121d6fb35c6ff1d88260daa335eb65463d8667066e081",
+      "bytes": 2045
+    },
+    {
+      "name": "briefs.json",
+      "sha256": "8d0313be32762544a8a21eefb3995f7cbcaf98612ed66e02851b9f8dfb1bc4d5",
+      "bytes": 1404
+    },
+    {
+      "name": "event-brief.md",
+      "sha256": "e3bf77744475753e1eee87e1f704856a52897a0dcd32fc4d13fb49e0d82ea694",
+      "bytes": 1382
+    },
+    {
+      "name": "manual-fallback.md",
+      "sha256": "744f71cc062d9cf7cbdc8ca0cc414a98d615fdfef587bdea1e1831250367f8f4",
+      "bytes": 1166
+    },
+    {
+      "name": "task-lab.html",
+      "sha256": "e62b66cb686723e2a2b2a079a8c638e6be377283ddb02351bc05f9fba5970627",
+      "bytes": 9258
+    },
+    {
+      "name": "worksheet.md",
+      "sha256": "8e96e0b867895b282158ca76ca59160c8ee39663ead477a1640f7317577cee49",
+      "bytes": 2302
+    }
+  ]
+}

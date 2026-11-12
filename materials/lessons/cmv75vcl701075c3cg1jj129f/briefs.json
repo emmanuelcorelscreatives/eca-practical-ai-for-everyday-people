@@ -1,0 +1,47 @@
+{
+  "provenance": "Self-authored fictional Academy training data; no booking, real contact or external action.",
+  "cases": {
+    "standard": {
+      "event": "Riverlight Community Reading Day",
+      "date": "2027-06-12",
+      "start": "10:00",
+      "end": "13:00",
+      "venue": "Cedar Community Hall",
+      "attendees": 48,
+      "tables": 6,
+      "seats_per_table": 8,
+      "jugs_per_table": 2,
+      "projector": "available",
+      "accessibility_contact": null
+    },
+    "confirmed": {
+      "event": "Riverlight Community Reading Day",
+      "date": "2027-06-12",
+      "start": "10:00",
+      "end": "13:00",
+      "venue": "Cedar Community Hall",
+      "attendees": 48,
+      "tables": 6,
+      "seats_per_table": 8,
+      "jugs_per_table": 2,
+      "projector": "available",
+      "accessibility_contact": null,
+      "confirmed_seats": 48,
+      "confirmed_jugs": 12
+    },
+    "missing": {
+      "event": "Riverlight Community Reading Day",
+      "date": "2027-06-12",
+      "start": "10:00",
+      "end": "13:00",
+      "venue": "Cedar Community Hall",
+      "attendees": 48,
+      "tables": null,
+      "seats_per_table": 8,
+      "jugs_per_table": 2,
+      "projector": "available",
+      "accessibility_contact": null
+    }
+  },
+  "scheduleProvenance": "Three hours in narration;10:00\u201313:00 supplied by authored scene9\u201310 prompts as fictional Academy exercise detail."
+}

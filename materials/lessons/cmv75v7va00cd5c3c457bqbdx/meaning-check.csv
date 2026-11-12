@@ -1,0 +1,12 @@
+field,source_value,check,learner_result,evidence_or_follow_up
+event,Neighborhood book swap,Exact event preserved,,
+date,"Saturday, 24 October 2026",Weekday/full date/year unchanged,,
+time,10:00–12:00,Start and end unchanged,,
+location,Riverside community room,No garden-room sample fact imported,,
+book_limit,up to five books,Maximum preserved,,
+optionality,if you wish,No mandatory contribution,,
+refreshment,tea provided,No coffee or extra promises,,
+accessibility,contact the organizer for questions,No claim of venue accessibility,,
+organizer_name,missing,Retain gap in working record,,
+contact_method,missing,Visible missing method; no guessed contact,,
+new_claims,none supplied,"No invented feeling, experience, commitment or hype",,
