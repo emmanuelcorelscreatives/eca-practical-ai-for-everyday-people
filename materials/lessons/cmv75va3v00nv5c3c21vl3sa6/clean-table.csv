@@ -1,0 +1,7 @@
+Date,Item,Category,Quantity,Unit Cost,Paid,Source Note
+2026-10-12,Paper cups,Supplies,3,2.40,Yes,Note 1
+2026-10-12,Fruit trays,Food,2,6.50,Yes,Note 2
+2026-10-13,Hall signs,Printing,1,8.00,No,Note 3
+2026-10-13,Name badges,Supplies,2,4.25,Yes,Note 4
+2026-10-14,Water bottles,Drinks,4,3.00,Yes,Note 5
+2026-10-14,Room hire,Venue,1,45.00,No,Note 6

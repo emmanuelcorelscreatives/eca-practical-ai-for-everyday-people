@@ -1,0 +1,4 @@
+# Source binding
+All exact dates, items, categories, quantities, unit costs, Paid values and Note numbers come from the saved main lesson's authored scene20 and its repeated complete table. Paper-cup 3×2.40, room1×45.00 and six Paid values also appear in narration. The ambiguous refreshments example is separately authored in scene51 and its narration; it is not one of the six purchases.
+
+Original notes in this kit are self-authored prose renderings of those exact lesson facts, labeled fictional. No additional transactions or measured results have been introduced. The embedded estimate on Messy is a label-only defect demonstration with no numeric value. Any independent review or publication proof must bind current exact file hashes and current narration; this provenance document does not itself grant approval.

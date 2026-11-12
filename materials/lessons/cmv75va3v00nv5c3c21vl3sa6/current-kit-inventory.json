@@ -1,0 +1,57 @@
+{
+  "version": 1,
+  "projectId": "cmv75va3v00nv5c3c21vl3sa6",
+  "scriptSha256": "d2565dd70d3967b1380509ddf8e53df94846c07ad48f2d4c14ce49b3d80e9b4f",
+  "files": [
+    {
+      "name": "README.md",
+      "sha256": "acf60c597fb0ab02437e11eebbfb826544842cead3736b98a35355500587bbfb",
+      "bytes": 1166
+    },
+    {
+      "name": "answer-key.md",
+      "sha256": "ff597bf9c60967e83b59547a32c3002719319696330b2423717d5f1c0a70dc75",
+      "bytes": 1190
+    },
+    {
+      "name": "assistant-prompt.md",
+      "sha256": "236de4714af3a2a2950373be655f0ccba2d89fd6581cf12a7a9250b31e595dbe",
+      "bytes": 868
+    },
+    {
+      "name": "clean-table.csv",
+      "sha256": "d727be4d151ac4ff29a6e175a40361e2e451fad3c8551a0faec56f9e0933cdd8",
+      "bytes": 350
+    },
+    {
+      "name": "community-event-expenses.xlsx",
+      "sha256": "f6614fdf014c1082a1ce94b3832cb69991f4c659e5415c3c2a72e6c2f3ab4c40",
+      "bytes": 5247
+    },
+    {
+      "name": "manual-checklist.md",
+      "sha256": "cedc3119d03ea6c00deb4cfc84af0456dab740b1d50763ec7e3821452870c662",
+      "bytes": 987
+    },
+    {
+      "name": "provenance.md",
+      "sha256": "934a78df6232fcce23b33f467082398c19829eb5275ce17459b198fe5df4b9a6",
+      "bytes": 823
+    },
+    {
+      "name": "source-notes.csv",
+      "sha256": "278dad9505a1c817ef1ba0d39e1108a96d5449018fb2f14ab191e176b507d204",
+      "bytes": 574
+    },
+    {
+      "name": "uncertainty-example.md",
+      "sha256": "dbafc355e849483105c1753e8c00d036e1ccbf35647b092f5189749631e1bf4c",
+      "bytes": 552
+    },
+    {
+      "name": "worksheet.md",
+      "sha256": "cf10e089dcb8fbcd39425d9a355e18a2a5b2bd64e1a676642b9419852cc1997f",
+      "bytes": 2528
+    }
+  ]
+}
