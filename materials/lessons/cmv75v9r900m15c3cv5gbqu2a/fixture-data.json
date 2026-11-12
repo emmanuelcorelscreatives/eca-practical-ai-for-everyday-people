@@ -1,0 +1,50 @@
+{
+  "disclosure": "Self-authored fictional Academy teaching fixture; never live prices, current inventory, real search results, booking or purchase. Currency intentionally unspecified; compare only within this same example.",
+  "fixtureCheckedTime": "14 October 2026 07:10 UTC",
+  "shoppingRequirement": {
+    "model": "Northstar Trail",
+    "capacity": "30 L",
+    "colour": "Dark Blue",
+    "quantity": 2,
+    "requiredBy": "2026-10-23"
+  },
+  "NorthstarOutfitters": {
+    "unit": 48,
+    "available": 2,
+    "items": 96,
+    "delivery": 8,
+    "mandatoryService": 2,
+    "optionalGiftWrap": 6,
+    "totalWithoutOptional": 106,
+    "estimatedArrival": [
+      "2026-10-21",
+      "2026-10-22"
+    ]
+  },
+  "TrailMarket": {
+    "defaultCapacity": "22 L",
+    "defaultColour": "Black",
+    "defaultUnit": 43,
+    "correctCapacity": "30 L",
+    "correctColour": "Dark Blue",
+    "correctUnit": 51,
+    "availableCorrect": 1,
+    "usableTotalForTwo": null
+  },
+  "hotel": {
+    "name": "Harbour House",
+    "destination": "Riverside",
+    "room": "Standard Double",
+    "checkIn": "2026-11-04",
+    "checkOut": "2026-11-06",
+    "adults": 2,
+    "rooms": 1,
+    "baseStay": 180,
+    "mandatory": 24,
+    "optionalBreakfast": 30,
+    "totalWithoutOptional": 204,
+    "freeCancellationUntil": "2026-10-30",
+    "lateCancellation": "Later cancellation charge applies; amount not specified, remains unresolved"
+  },
+  "unknownFields": "Leave unavailable totals blank; destination-free delivery and missing conditions are unresolved, not zero."
+}

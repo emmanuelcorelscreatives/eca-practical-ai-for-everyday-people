@@ -1,0 +1,47 @@
+{
+  "version": 1,
+  "projectId": "cmv75v9r900m15c3cv5gbqu2a",
+  "scriptSha256": "d09ac0e876a22ad65f1130ac7baf266cdce056706c7e1a81c0ade050c35347ac",
+  "files": [
+    {
+      "name": "ANSWER-KEY.md",
+      "sha256": "70cf0da42c5a5f4515a5e704905c7d8b52449c47fdabc671d43072f2c595922d",
+      "bytes": 1093
+    },
+    {
+      "name": "EXERCISE.md",
+      "sha256": "21b881b59cfa41e637fa108fb21ee7dd06d94aee1edd79eb5bf6079a587bd154",
+      "bytes": 1006
+    },
+    {
+      "name": "README.md",
+      "sha256": "71137c03aac4d1120af2df461a7bdc02c44e6beaa99cfd97805e39342078eba8",
+      "bytes": 3921
+    },
+    {
+      "name": "comparison-blank.csv",
+      "sha256": "322d6c07376b40bdc273b4d861fca87b2ba2b106ed7df6b5ce8c42b3f9035646",
+      "bytes": 167
+    },
+    {
+      "name": "comparison-expected.csv",
+      "sha256": "69d9037eee1d3b2cf6b3d368a8d471a95fa01ea452c004f1ed960b93b3971c7a",
+      "bytes": 1043
+    },
+    {
+      "name": "fixture-data.json",
+      "sha256": "db0e05a8b70edd407a66f0d6958dc134c4e8059c79cee421080e9ddcafcfbcd7",
+      "bytes": 1539
+    },
+    {
+      "name": "index.html",
+      "sha256": "05daa72c5cf203f95a64886b2c5533895c15aabc5ed32c76ab1100c6e706d43a",
+      "bytes": 13676
+    },
+    {
+      "name": "verify-kit.py",
+      "sha256": "bb146018d693fcc160294e5eab6410f232eabc39af42b0eb0248b36c44b8a8cb",
+      "bytes": 1227
+    }
+  ]
+}

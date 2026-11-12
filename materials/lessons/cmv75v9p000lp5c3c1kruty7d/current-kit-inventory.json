@@ -1,0 +1,107 @@
+{
+  "version": 1,
+  "projectId": "cmv75v9p000lp5c3c1kruty7d",
+  "scriptSha256": "d89a39cb348afb4bb132590631d716c53708027314c47fda124aa2465e3c28fd",
+  "files": [
+    {
+      "name": "Admin Routine/01_Inbox/Cedar_House_Notice.pdf",
+      "sha256": "908096a0b45ab8d37fd1b46594e70fb97fc4e2a8fde9208b656fac3a6b1e1548",
+      "bytes": 1087
+    },
+    {
+      "name": "Admin Routine/01_Inbox/Northlight_Stationery_Receipt.jpg",
+      "sha256": "02da1f4d5dab97166c102104a1a9fe2411066ca691d087f72639ca7a7cddfc07",
+      "bytes": 66334
+    },
+    {
+      "name": "Admin Routine/01_Inbox/Riverbend_Repairs_Scan.jpg",
+      "sha256": "fbf2ab2803113d0d3520da798b9b67764478745468ffcbefd2fc3beba33cd843",
+      "bytes": 63154
+    },
+    {
+      "name": "Admin Routine/01_Inbox/Unclear_Notice_Scan.jpg",
+      "sha256": "832a74559681cdcccc688d8b8c60ec38a6f734d7cf10ee64a657629b4c922e95",
+      "bytes": 78106
+    },
+    {
+      "name": "Admin Routine/Monthly_Admin_Register.xlsx",
+      "sha256": "39e4af8b183b5bb31325a146b8a8c369858004bc5669ec81b9e65938c2c71eeb",
+      "bytes": 1464
+    },
+    {
+      "name": "Admin Routine/Originals/Cedar_House_Notice.pdf",
+      "sha256": "908096a0b45ab8d37fd1b46594e70fb97fc4e2a8fde9208b656fac3a6b1e1548",
+      "bytes": 1087
+    },
+    {
+      "name": "Admin Routine/Originals/Northlight_Stationery_Receipt.jpg",
+      "sha256": "02da1f4d5dab97166c102104a1a9fe2411066ca691d087f72639ca7a7cddfc07",
+      "bytes": 66334
+    },
+    {
+      "name": "Admin Routine/Originals/Northlight_Stationery_Receipt.jpg.svg",
+      "sha256": "62020ddb9524cbfdebdf8cd0ccd603de6451d3f453e685a7035f16e1fd431922",
+      "bytes": 750
+    },
+    {
+      "name": "Admin Routine/Originals/Riverbend_Repairs_Scan.jpg",
+      "sha256": "fbf2ab2803113d0d3520da798b9b67764478745468ffcbefd2fc3beba33cd843",
+      "bytes": 63154
+    },
+    {
+      "name": "Admin Routine/Originals/Riverbend_Repairs_Scan.jpg.svg",
+      "sha256": "cc56b90645025011ed37eeca6477872ddc5f76ea8b96bbd1a14ba04ba8ab558c",
+      "bytes": 741
+    },
+    {
+      "name": "Admin Routine/Originals/Unclear_Notice_Scan.jpg",
+      "sha256": "832a74559681cdcccc688d8b8c60ec38a6f734d7cf10ee64a657629b4c922e95",
+      "bytes": 78106
+    },
+    {
+      "name": "Admin Routine/Originals/Unclear_Notice_Scan.jpg.svg",
+      "sha256": "6be8dd840ed0f119f971c5c97c7922305b3c22fa1041fd7c11dc10ed0f708765",
+      "bytes": 658
+    },
+    {
+      "name": "ANSWER-KEY.md",
+      "sha256": "fb933ab5a81db8240b3838b9ac2b7c8e1ceb13c18450ec9d85f98b6e2dfff0cb",
+      "bytes": 895
+    },
+    {
+      "name": "CHECKLIST.md",
+      "sha256": "2b30009ac5ac53cc276f52b380a2218519fb5cb3f3dc67969c3c0cea324a4c6f",
+      "bytes": 922
+    },
+    {
+      "name": "expected-register.csv",
+      "sha256": "983e58d970d7d9297216481b4af4b829507f3912aa5f265a9554d26c961b42a0",
+      "bytes": 786
+    },
+    {
+      "name": "expected-register.xlsx",
+      "sha256": "5e84274f6e7e10d9a263b5392c916ba343d20763e02cc7fddeb14559e0c1c061",
+      "bytes": 1957
+    },
+    {
+      "name": "ocr-draft-fixtures.json",
+      "sha256": "999a9735c391a0b22cb59b86d9853599533a1bb2d35b2736828203385b6c0edd",
+      "bytes": 635
+    },
+    {
+      "name": "README.md",
+      "sha256": "2bcc7d1a8b1809a0f7591ac5962530243a4ab0b60dda767f9c7f663885b616ab",
+      "bytes": 3923
+    },
+    {
+      "name": "starter-register.csv",
+      "sha256": "cb2fc7deb16bcb65433ee5f7708cd950a1ff88741b8d98d74df5dc7bed4de7d5",
+      "bytes": 93
+    },
+    {
+      "name": "verify-kit.py",
+      "sha256": "660189aa9c9bba28e29cb1b1c7b5a2ab5f95c580228be9013c5ee440b86829a9",
+      "bytes": 1774
+    }
+  ]
+}

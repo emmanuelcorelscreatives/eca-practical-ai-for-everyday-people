@@ -1,0 +1,22 @@
+{
+  "disclosure": "Self-authored fixtures for verification practice, not observed OCR engine output. No model accuracy claim.",
+  "Northlight": {
+    "organization": "Northlight Stationery",
+    "documentDate": "2026-09-03",
+    "total": "48.60",
+    "reference": "NS-1042",
+    "status": "OCR DRAFT \u2014 NOT VERIFIED"
+  },
+  "Riverbend": {
+    "organization": "Riverbend Repairs",
+    "documentDate": "2026-09-27",
+    "total": "78.20",
+    "reference": "RR-771g",
+    "status": "OCR DRAFT \u2014 NOT VERIFIED"
+  },
+  "UnclearNotice": {
+    "deadline": null,
+    "status": "Exception",
+    "nextAction": "Obtain complete page"
+  }
+}
