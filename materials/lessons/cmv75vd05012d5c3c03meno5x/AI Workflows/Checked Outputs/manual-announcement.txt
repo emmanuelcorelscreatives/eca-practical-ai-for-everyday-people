@@ -1,0 +1,3 @@
+Manual worked example, checked against the fictional source (not observed AI output):
+Join the community book exchange on Saturday at 10:00 in the community room. Please bring one book to exchange.
+Check: day Saturday; time 10:00; place community room; request one book. No added price, booking rule or contact details. Missing: exact calendar date; ask the organizer before real publication.

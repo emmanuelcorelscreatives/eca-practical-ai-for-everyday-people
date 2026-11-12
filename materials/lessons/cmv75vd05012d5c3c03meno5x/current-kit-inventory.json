@@ -1,0 +1,78 @@
+{
+  "version": 1,
+  "projectId": "cmv75vd05012d5c3c03meno5x",
+  "lesson": 232,
+  "scriptSha256": "4fb3ec7e595df46db838ec8c89288a5a044bd112e55110115f99545798e18bdc",
+  "files": [
+    {
+      "name": "AI Workflows/Checked Outputs/manual-announcement.txt",
+      "bytes": 393,
+      "sha256": "d52ba5cc376b07ea11110004434bd643c8a8af17a8199f7549b75a78fa47b0be"
+    },
+    {
+      "name": "AI Workflows/Cost Records/review-record.txt",
+      "bytes": 577,
+      "sha256": "216f7a1bd9ea5c642fe0f112c3486f0545cce2b8879b028ac16f81cdbdcb2781"
+    },
+    {
+      "name": "AI Workflows/Examples/announcement-source.txt",
+      "bytes": 195,
+      "sha256": "60e52f86ce74e0ab6972da2dffb68415909a49fee1866e6c3785f163ba1e5527"
+    },
+    {
+      "name": "AI Workflows/Prompts/Compare options.txt",
+      "bytes": 339,
+      "sha256": "c081a7a4962379d9a62601ff3b99db86bf1ff139bb2983980fd4b4329474d379"
+    },
+    {
+      "name": "AI Workflows/Prompts/Rewrite message.txt",
+      "bytes": 446,
+      "sha256": "70a8aafc7ab3014620690112c94d9add0a63077c2daef19c26771bb05882cddf"
+    },
+    {
+      "name": "AI Workflows/Prompts/Summarize notes.txt",
+      "bytes": 434,
+      "sha256": "458fd45eb4a838f75b5471c0d3f51c133afd1275c479c2de86719ef33580eaa8"
+    },
+    {
+      "name": "README.md",
+      "bytes": 1207,
+      "sha256": "869d65999ef0aee397df4273ca5fac4978514e58d643e62dde389f9dc00e1665"
+    },
+    {
+      "name": "account-checklist-blank.csv",
+      "bytes": 160,
+      "sha256": "468fb34224e1d724d3d0fc43e77677e3288ff3887056147beeea3341f61e9b3f"
+    },
+    {
+      "name": "account-checklist-worked.csv",
+      "bytes": 657,
+      "sha256": "a7c7d2f7fcb875dd3eec0258d6d29d0d6899eecfd48b4e59e4a514ac53e4eb4c"
+    },
+    {
+      "name": "activity-log.csv",
+      "bytes": 2180,
+      "sha256": "acdb5ce26cd14274e39a7baad312e8c16c1e6ed7f396e3e06519b1551ff2dd1a"
+    },
+    {
+      "name": "expected-checks.md",
+      "bytes": 2143,
+      "sha256": "fc65de4503b4d27c028168875be281d2f19c816c7a2b8351b84e3bea1a1e7e5b"
+    },
+    {
+      "name": "full-cost-evidence.csv",
+      "bytes": 1194,
+      "sha256": "f6eb593cca678b399865f7a1e106a26f4dc537982ef188c5be39dbaae3cca1ba"
+    },
+    {
+      "name": "workflow-comparison-blank.csv",
+      "bytes": 303,
+      "sha256": "0ead743f6a17bda887225a81b29991138c3be2a4e43f6b7c69da11838e474e9c"
+    },
+    {
+      "name": "worksheet.md",
+      "bytes": 3253,
+      "sha256": "a37394c986d429ef97348eef21cd081ca7385b125d27c82c544a085ec4a75a24"
+    }
+  ]
+}

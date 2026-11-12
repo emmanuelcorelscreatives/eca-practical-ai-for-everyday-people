@@ -1,0 +1,3 @@
+Task: Draft a short friendly announcement using only the permission-cleared source below. Preserve day, time, location and requested action. Do not invent availability, prices, promises or contact details. List missing information separately. Check against the source before sharing.
+Source: [paste your permitted source here]
+Manual fallback: write the same announcement in an ordinary document and compare every factual detail with the source.
