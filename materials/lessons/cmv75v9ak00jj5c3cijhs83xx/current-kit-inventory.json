@@ -1,12 +1,12 @@
 {
   "version": 1,
   "projectId": "cmv75v9ak00jj5c3cijhs83xx",
-  "scriptSha256": "4e0e0bb943e0ce0d2ec0317def13571a7902e97af5cb1a7160400feb3a8d4537",
+  "scriptSha256": "4c04e8c70187c036226a4d85fbfe6c0c4e5b7ecc94ee3c6122d3e8edc8fdb5fc",
   "files": [
     {
       "name": "check-arithmetic.py",
-      "sha256": "55f6763bafe70f33f87d42cacc08d26a5c9bd005ee81ee6c49dadfb0963b8a09",
-      "bytes": 690
+      "sha256": "c16ccc4d5624288b15d46664460678969f8f15393e83af31fd724114669d853d",
+      "bytes": 1064
     },
     {
       "name": "comparison-template.csv",
@@ -15,12 +15,12 @@
     },
     {
       "name": "expected-checks.md",
-      "sha256": "511b21ef1ae7d16736a4e0ee8bf960ca7912cfeb842f52d25b07f35b6262589b",
-      "bytes": 1257
+      "sha256": "83957c1f31510e8658961e53c3f3860aa6e7be15ac8f3eba4b153ea0ee822795",
+      "bytes": 1742
     },
     {
       "name": "illustrative-scores.csv",
-      "sha256": "2042183b10d13ddb84c07cbd8fbe1e6ce38836a7e6269413e2cd1434bdee3caa",
+      "sha256": "180a1ff4f97ac9942d49b0aedb5b82ea970f0edcd5f62d41b501846a97063aa8",
       "bytes": 152
     },
     {
@@ -35,8 +35,8 @@
     },
     {
       "name": "worksheet.md",
-      "sha256": "b90a7453d94f15b2b6853ebc1d8e652c36655700d1e03bb965b4e1b597b4ef00",
-      "bytes": 2597
+      "sha256": "7c3a317252d2a1370e157b07267e09cbb43a0cbe4c653626507028e8560d6564",
+      "bytes": 2926
     }
   ]
 }
