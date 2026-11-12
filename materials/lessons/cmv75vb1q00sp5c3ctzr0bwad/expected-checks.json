@@ -1,0 +1,14 @@
+{
+  "fictional": true,
+  "source": "Community room practice \u2014 Thursday, 14:30 \u2014 bring a notebook.",
+  "day": "Thursday",
+  "time": "14:30",
+  "action": "bring a notebook",
+  "layout_only_example": [
+    "Practice reminder",
+    "Thursday, 14:30",
+    "Bring a notebook."
+  ],
+  "usability_result": null,
+  "rule": "Record actual learner observations. No scores or successful actions are supplied."
+}

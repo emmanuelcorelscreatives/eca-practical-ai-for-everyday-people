@@ -1,0 +1,62 @@
+{
+  "version": 1,
+  "projectId": "cmv75vb1q00sp5c3ctzr0bwad",
+  "scriptSha256": "f315ec252f5dc1d14f7b805d9720cf6bccb74c6443ce6d2a10faad5fb725d104",
+  "files": [
+    {
+      "name": "README.md",
+      "sha256": "cd9c96685e2cc43d1cbd68c264a7c862ce9595eba572d2e6ad5775587c69ebe0",
+      "bytes": 2273
+    },
+    {
+      "name": "actual-ocr.txt",
+      "sha256": "a8243f58ed841bbef90cf9ab0e1054422885c460c364688d72905251cbc16e91",
+      "bytes": 66
+    },
+    {
+      "name": "exercise.md",
+      "sha256": "598ddb8dd7cad44580da26b5e9cef590766461988037fe23316aa9ad0c21b5e8",
+      "bytes": 2292
+    },
+    {
+      "name": "expected-checks.json",
+      "sha256": "17eb0f6b7c313d8238cb524ace5f8c140b5c6db9a2b573b105314bfe32d4d871",
+      "bytes": 410
+    },
+    {
+      "name": "practice-workbook.html",
+      "sha256": "d892a0f8c20f1182a1ab543ca255d010e21aa64690dfbab89475665c7cdec54c",
+      "bytes": 4452
+    },
+    {
+      "name": "reminder-card.html",
+      "sha256": "327a04c399be96cf4fd5f3815dd40a2659b3235edd0ef717310124eaf6783f1d",
+      "bytes": 537
+    },
+    {
+      "name": "reminder-source.txt",
+      "sha256": "ec56b8f34f4c4e7b30f4acc11edec750f1275b02f37e914e07ec63d990940ba8",
+      "bytes": 66
+    },
+    {
+      "name": "route-observations.csv",
+      "sha256": "0d5871c7df0fe72d9146c5d40f30009280aefeec60b3552e1c612e73f8c5f4a0",
+      "bytes": 126
+    },
+    {
+      "name": "routine-template.md",
+      "sha256": "958cdf147b53a85b222ffd8208e5704d4600f647108aeea911235ae634e38e97",
+      "bytes": 622
+    },
+    {
+      "name": "source-card.png",
+      "sha256": "3d9ea841e8056edbb093cd6435c3337157ceacd0327aeddca80112c27af2d87e",
+      "bytes": 13634
+    },
+    {
+      "name": "verify_materials.py",
+      "sha256": "dd8a1439d929b1ca6dc599913b354eaed12c063848a1b22e4e93f9a8346232f9",
+      "bytes": 961
+    }
+  ]
+}
