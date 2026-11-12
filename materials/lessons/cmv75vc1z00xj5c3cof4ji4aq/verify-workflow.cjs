@@ -1,0 +1,17 @@
+const assert=require('node:assert/strict'),fs=require('node:fs');
+const w=require('./workflow.js'),input=JSON.parse(fs.readFileSync(__dirname+'/source/FORM-0001.json','utf8'));
+const now='2026-10-15T12:10:00Z',s=w.initial();
+assert.equal(w.prepare(s,{...input,form:'Unrelated form'},now).accepted,false);
+assert.equal(w.prepare(s,input,'2026-10-18T12:10:00Z').accepted,false);
+assert.equal(w.prepare(s,input,now).accepted,true);
+assert.equal(s.queue[0].queueId,'CEA-0001');assert.deepEqual(Object.keys(s.queue[0].inputSnapshot),w.allowed);
+assert.equal(s.queue[0].draft+'\n',fs.readFileSync(__dirname+'/draft/CEA-0001.txt','utf8'));
+assert.equal(s.queue[0].proposedDestination,w.destination);assert.equal(s.queue[0].reviewerDecision,'Not decided');
+assert(!JSON.stringify(s.queue).includes(input.privateNotes));assert(!JSON.stringify(s.queue).includes(input.contactDetails));
+const saved=JSON.stringify(s.queue);w.pause(s,'Practice learner','Review before any external action','2026-10-15T12:11:00Z');
+assert.equal(JSON.stringify(s.queue),saved);assert.equal(s.externalActionEnabled,false);assert.equal(s.paused,true);
+assert.equal(w.prepare(s,{...input,sourceRecordId:'FORM-0002'},now).accepted,false);assert.equal(s.queue.length,1);
+const reloaded=JSON.parse(JSON.stringify(s));assert.equal(JSON.stringify(reloaded.queue),saved);
+assert.equal(reloaded.history.at(-1).externalAction,'Not run');assert.throws(()=>w.externalAction(),/absent/);
+assert.throws(()=>w.pause(s,'','',now),/owner/);
+console.log(JSON.stringify({verdict:'pass',checks:['trigger allowlist','staffed hours','save before approval','minimum mapped fields','authored draft equality','destination boundary','private fields excluded','pause preserves queue byte-for-byte','new work blocked','persisted reload','no external action implementation','pause log owner/reason required']},null,2));

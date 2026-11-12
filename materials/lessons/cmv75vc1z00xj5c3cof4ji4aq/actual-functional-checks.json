@@ -1,0 +1,17 @@
+{
+  "verdict": "pass",
+  "checks": [
+    "trigger allowlist",
+    "staffed hours",
+    "save before approval",
+    "minimum mapped fields",
+    "authored draft equality",
+    "destination boundary",
+    "private fields excluded",
+    "pause preserves queue byte-for-byte",
+    "new work blocked",
+    "persisted reload",
+    "no external action implementation",
+    "pause log owner/reason required"
+  ]
+}

@@ -1,0 +1,97 @@
+{
+  "version": 1,
+  "projectId": "cmv75vc1z00xj5c3cof4ji4aq",
+  "scriptSha256": "afe1b1b126db7930f08a63432a2bd7736ffd6284ff131a181d9fa6152fcf1014",
+  "files": [
+    {
+      "name": "actual-browser-checks.json",
+      "sha256": "b2eb84e60e69c2d889d24117a5854e7c57a20722af0ba408d8f25289dabc6ab6",
+      "bytes": 2355
+    },
+    {
+      "name": "actual-functional-checks.json",
+      "sha256": "beda69640e7f524f9dc91f105a891fa4c7eb74d3148d3aa28064d359a4830333",
+      "bytes": 406
+    },
+    {
+      "name": "assistant-instruction.txt",
+      "sha256": "18c1a5f770b87a93b2b8fa8fd1ed639ef92af12be4653893a00e36d3c7b719b9",
+      "bytes": 218
+    },
+    {
+      "name": "draft/CEA-0001.txt",
+      "sha256": "22cab3a8a7edb79d24e7c88a989676e1a87ef3134e32959d07366cea378bcb00",
+      "bytes": 219
+    },
+    {
+      "name": "expected-results.md",
+      "sha256": "804af2e51d5f4bf62b001b66c099036dca3ce8725c6c1d1da5424ebacb245d99",
+      "bytes": 1411
+    },
+    {
+      "name": "index.html",
+      "sha256": "b78e99a57b9876c4eb7967a7b097de30d75b94cccaaa7b880df88c2d61316fe6",
+      "bytes": 12080
+    },
+    {
+      "name": "LICENSE.txt",
+      "sha256": "dc593c251cded7bcb1ee976b13e1bcdb0ccc31e5652d2455b3f5cdcfc89f7200",
+      "bytes": 156
+    },
+    {
+      "name": "manual-review.csv",
+      "sha256": "1f4b601fde0664a606fad60d690f72aae36c45eb29702b7e6e0afed77d1ed3bd",
+      "bytes": 269
+    },
+    {
+      "name": "manual/01 New Inputs/FORM-0001.json",
+      "sha256": "df693d4c7f23033fd8d26df5b2caa4e448a512be38ab5e69c8f5524ff5aacb59",
+      "bytes": 452
+    },
+    {
+      "name": "manual/02 Drafts Awaiting Review/CEA-0001.txt",
+      "sha256": "22cab3a8a7edb79d24e7c88a989676e1a87ef3134e32959d07366cea378bcb00",
+      "bytes": 219
+    },
+    {
+      "name": "manual/03 Reviewed/README.txt",
+      "sha256": "922c8047dddca6593fb37a6be0fab96a64008ed5fc0c52574851ab1a1ca71612",
+      "bytes": 55
+    },
+    {
+      "name": "manual/04 Completed Manually/README.txt",
+      "sha256": "697ba72634fa64e1cb97e30a71423ef0e48e9e6a79615a5951dad4078e9309c2",
+      "bytes": 60
+    },
+    {
+      "name": "pause-and-restart.md",
+      "sha256": "bb78c28753fca69eeb3f2abb072ed1f3f09c3310e4c8c04b609c12dbf5a6a5d7",
+      "bytes": 1250
+    },
+    {
+      "name": "README.md",
+      "sha256": "ae97cc0e214edce6565b52047816236569ac63a62ae5a839e61758ef0803defc",
+      "bytes": 2244
+    },
+    {
+      "name": "source/FORM-0001.json",
+      "sha256": "df693d4c7f23033fd8d26df5b2caa4e448a512be38ab5e69c8f5524ff5aacb59",
+      "bytes": 452
+    },
+    {
+      "name": "verify-workflow.cjs",
+      "sha256": "46b5b83c5c8e10c90ccf27eb0ddc33b7bb44e88a194a6e1e576470143814e69a",
+      "bytes": 1859
+    },
+    {
+      "name": "workflow.js",
+      "sha256": "59ad67a0c27dabfda5a5c3b370bf3b32738961203a63faef957e75a2d0267313",
+      "bytes": 2505
+    },
+    {
+      "name": "worksheet.md",
+      "sha256": "3542fcdd7b5b6173082849035e465f37e1fe8609a6351ac7fdd3aa3659820631",
+      "bytes": 1575
+    }
+  ]
+}

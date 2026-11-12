@@ -1,0 +1,76 @@
+{
+  "state": "COMPLETE",
+  "verdict": "pass",
+  "actualPlatform": "Linux",
+  "browser": "134.0.6998.35",
+  "sourceFiles": [
+    {
+      "name": "index.html",
+      "sha256": "b78e99a57b9876c4eb7967a7b097de30d75b94cccaaa7b880df88c2d61316fe6"
+    },
+    {
+      "name": "workflow.js",
+      "sha256": "59ad67a0c27dabfda5a5c3b370bf3b32738961203a63faef957e75a2d0267313"
+    }
+  ],
+  "checks": [
+    "Prepare draft clicked and CEA-0001 saved",
+    "Actual app view captures retained outside student kit",
+    "Pause clicked",
+    "New preparation rejected after pause",
+    "Queue exactly unchanged after pause and browser reload",
+    "Final action remains disabled"
+  ],
+  "network": [],
+  "errors": [],
+  "actualPersistedState": {
+    "version": 1,
+    "paused": true,
+    "externalActionEnabled": false,
+    "queue": [
+      {
+        "queueId": "CEA-0001",
+        "sourceRecordId": "FORM-0001",
+        "inputSnapshot": {
+          "eventTitle": "Riverside Reading Afternoon",
+          "approvedDescription": "Bring a favourite public-domain story",
+          "dateAndTime": "24 October 2026, 14:00",
+          "venue": "Community Hall",
+          "sourceRecordId": "FORM-0001"
+        },
+        "draft": "DRAFT — NOT PUBLISHED\nRiverside Reading Afternoon\n24 October 2026, 14:00 — Community Hall\nBring a favourite public-domain story.\n\nMissing information: accessibility details; booking requirements; organizer contact.",
+        "proposedDestination": "Community events page — draft area",
+        "status": "Awaiting review",
+        "reviewerDecision": "Not decided",
+        "createdAt": "2026-10-15T12:10:00Z",
+        "decisionAt": null
+      }
+    ],
+    "history": [
+      {
+        "at": "2026-10-15T12:10:00Z",
+        "status": "Completed — review record saved",
+        "queueId": "CEA-0001",
+        "externalAction": "Not run"
+      },
+      {
+        "at": "2026-10-15T12:10:00Z",
+        "status": "Waiting — approval",
+        "queueId": "CEA-0001",
+        "externalAction": "Not run"
+      },
+      {
+        "at": "2026-10-15T12:10:00Z",
+        "status": "No new trigger accepted after pause",
+        "externalAction": "Not run"
+      }
+    ],
+    "pauseLog": [
+      {
+        "owner": "Practice learner",
+        "reason": "Review before external action",
+        "at": "2026-10-15T12:11:00Z"
+      }
+    ]
+  }
+}

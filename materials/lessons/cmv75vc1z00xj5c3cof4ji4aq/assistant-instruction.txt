@@ -1,0 +1,1 @@
+Create a short announcement using only mapped fields. Label the result DRAFT. Do not invent prices, accessibility details, booking requirements, organizers, or contact information. List missing information separately.
