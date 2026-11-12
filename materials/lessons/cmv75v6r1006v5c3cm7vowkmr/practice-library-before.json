@@ -1,0 +1,17 @@
+[
+  {
+    "id": "checklist",
+    "title": "AI stuff",
+    "body": "Turn the supplied rough notes into a short checklist. Keep every named person, time, and condition. Do not add facts. Clearly mark missing information."
+  },
+  {
+    "id": "message",
+    "title": "Writing",
+    "body": "Rewrite the supplied message to sound clear and friendly. Preserve its meaning and supplied details. Do not add promises or facts."
+  },
+  {
+    "id": "options",
+    "title": "Research",
+    "body": "Compare the supplied options in a table using only the information provided. Mark missing information rather than guessing."
+  }
+]

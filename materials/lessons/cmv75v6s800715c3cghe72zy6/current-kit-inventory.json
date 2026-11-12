@@ -1,0 +1,42 @@
+{
+  "version": 1,
+  "projectId": "cmv75v6s800715c3cghe72zy6",
+  "scriptSha256": "dc469d7f4f28770896a730cf6b6f1d5fab9e569fd58092454961acc1d34f0e1d",
+  "files": [
+    {
+      "name": "blank-master.txt",
+      "sha256": "732e0b26137745d2b7db4f14369dd937f118f88174cf2b73e99a086958ae49cf",
+      "bytes": 867
+    },
+    {
+      "name": "check_materials.py",
+      "sha256": "68136a2da3e4b6b5754d6a1c3dbe15bcee26ee6039cf3e87e05bb8d2822680c7",
+      "bytes": 823
+    },
+    {
+      "name": "fictional-event-inputs.json",
+      "sha256": "b21a21ebf78c2198dbfa75e07a2941fd7c8d7135bb076a5183876a382b7c5c77",
+      "bytes": 506
+    },
+    {
+      "name": "filled-practice-copy.txt",
+      "sha256": "6a7aee7f0161b336fc52f2bafd9f73f8f0bf43303d6f3585ef76158d0f847beb",
+      "bytes": 943
+    },
+    {
+      "name": "human-written-practice-announcement.txt",
+      "sha256": "dd6c884566852fba1232c93e8e30ae6bffd67255a41ada4287c3507f686066e7",
+      "bytes": 618
+    },
+    {
+      "name": "missing-date-copy.txt",
+      "sha256": "ae830a620ad5cbe15e40b4d3122dc1f4ee8f9e2fef49bb892167748c52b2394c",
+      "bytes": 928
+    },
+    {
+      "name": "worksheet.md",
+      "sha256": "8866b09fac3421af32033c243749bb3fd13efd3d55d7a1af188718137bbfbd5e",
+      "bytes": 3777
+    }
+  ]
+}

@@ -1,0 +1,6 @@
+Date,Supplied information,Source file,Checked?,Status
+16 October 2026,Appointment date confirmed,01 Originals/Appointment notice.pdf; 01 Originals/Personal notes.docx,Compared notice and notes,Verified
+,Reference document not supplied,01 Originals/Appointment notice.pdf,Attachment A referenced but absent,Missing
+18 / 20 October 2026,Two records show different dates,01 Originals/Appointment notice.pdf; 01 Originals/Personal notes.docx; 01 Originals/Record scan.jpg,Compared all three; unresolved,Conflict
+18 October 2026,Scan date verified; tentative OCR2028 corrected to source2026,01 Originals/Record scan.jpg,Compared every source digit; see ocr/corrected.txt,Verified
+,Unreadable reference word — unclear—confirm,01 Originals/Record scan.jpg,Original deliberately obscured; no guessed value,Missing

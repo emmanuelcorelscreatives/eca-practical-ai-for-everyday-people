@@ -1,0 +1,52 @@
+{
+  "version": 1,
+  "projectId": "cmv75v6r1006v5c3cm7vowkmr",
+  "scriptSha256": "adf0f74c5f9c353bd19f703893736b2eec1af80c4c627fc18dded78532ea8fd1",
+  "files": [
+    {
+      "name": "README.md",
+      "sha256": "3fbc2ce8b6d616cc3e86b22b5a5744138d40a990d1faedd2fe95afdc34f4b4d5",
+      "bytes": 1155
+    },
+    {
+      "name": "answer-key.md",
+      "sha256": "b1cf04c7ef00cb03ae41cf80c2b9fc56ba62e5a58800ea05fd93bc6f1382e93c",
+      "bytes": 1377
+    },
+    {
+      "name": "community-garden-notes.txt",
+      "sha256": "dd3a70e75c72cbc8846b16f4ad3a7159558e57ce1c6b936d969ec74cab98ca0e",
+      "bytes": 193
+    },
+    {
+      "name": "output-check.md",
+      "sha256": "4b05194fc1dd1b60547bbde3bbc57516c93d1a174ab9688623098a8308e3689d",
+      "bytes": 1142
+    },
+    {
+      "name": "plain-document-library.md",
+      "sha256": "d6a1244bb445ff499227c3fde6f7f5341fbea47f8999e147c5825a7b7d5aa62c",
+      "bytes": 624
+    },
+    {
+      "name": "practice-library-after.json",
+      "sha256": "75b5a36d5b2942968550226e64321a5f3e18c0af6af1a86ca8fe31dd86d69062",
+      "bytes": 705
+    },
+    {
+      "name": "practice-library-before.json",
+      "sha256": "8b57d749b6879faad279160ffa78662b8774f3e275b776cf96db55fc5a3d23c4",
+      "bytes": 618
+    },
+    {
+      "name": "task-library.csv",
+      "sha256": "4d61ce0125665244d00fcb29c87f6472bccab123f6914d2d3198fc04f4935817",
+      "bytes": 557
+    },
+    {
+      "name": "worksheet.md",
+      "sha256": "1586f6891f3f91bb472cd147cb40c342b7e4406fcbbc105350cf215a83f48876",
+      "bytes": 2734
+    }
+  ]
+}

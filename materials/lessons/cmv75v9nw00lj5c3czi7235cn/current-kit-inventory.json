@@ -1,0 +1,122 @@
+{
+  "version": 1,
+  "projectId": "cmv75v9nw00lj5c3czi7235cn",
+  "scriptSha256": "2e917e15f75fbbeb5394e0738fb780b230acc3824f10e94941112b00244aecaf",
+  "files": [
+    {
+      "name": "Appointment Prep/01 Originals/Appointment notice.pdf",
+      "sha256": "0e4827c9826b0fcb5f7683492df125dc3e4d75cf27477b87b1c0849db151d965",
+      "bytes": 1154
+    },
+    {
+      "name": "Appointment Prep/01 Originals/Personal notes.docx",
+      "sha256": "460127c9c66e9f33d90790c1b11d4b4980777146d3192a4e85369b998eba17bd",
+      "bytes": 1124
+    },
+    {
+      "name": "Appointment Prep/01 Originals/Record scan.jpg",
+      "sha256": "68c76b5d733132e10eaaaea131ab06df2dece738ac8d8eee8a5cbeb32a282404",
+      "bytes": 88722
+    },
+    {
+      "name": "build_sources.py",
+      "sha256": "92be9c31c8c48140984b78914871cb1ada77ebdf38289352725f999e4062fc65",
+      "bytes": 4794
+    },
+    {
+      "name": "exercise/assistant-prompt.txt",
+      "sha256": "2f39f9b48ec0a0b722b8ee12172d73f19b28162330919020e0c63be5cc1caac4",
+      "bytes": 1010
+    },
+    {
+      "name": "exercise/evidence-table.csv",
+      "sha256": "7da7f6135bdb896eeb618b878dfef9c78e509305ca901470fdd1d3150e2c15bf",
+      "bytes": 73
+    },
+    {
+      "name": "exercise/final-question-sheet.md",
+      "sha256": "db75912bc0d7b5f812aa45e921c0ee24188014313b0e3dad3724b7eea60952d3",
+      "bytes": 514
+    },
+    {
+      "name": "expected/evidence-table.csv",
+      "sha256": "241991b76e4c48c044cf47ebd0a9bb09de65248ecb4af884ed9f1702233fa545",
+      "bytes": 816
+    },
+    {
+      "name": "expected/final-reviewed-sheet.md",
+      "sha256": "96113d37125c34abc5c2cdcd5eed37b44ee88e353eb1d23d85ad37de1d992ddb",
+      "bytes": 1375
+    },
+    {
+      "name": "expected/final-reviewed-sheet.pdf",
+      "sha256": "4a587d7f0999fe253878eb0417146e7f6222474fe6de9feda8ef6f1135e0e2f9",
+      "bytes": 2136
+    },
+    {
+      "name": "expected/manual-fallback-worked.md",
+      "sha256": "42398f7bf82d6d30798e34295b414650038bf976eb26543e2af78505ae029db8",
+      "bytes": 1342
+    },
+    {
+      "name": "expected/sample-draft.md",
+      "sha256": "47b7cffe29e14846751cd428469d3771741d6228383b5b71e12282e95ab33735",
+      "bytes": 1299
+    },
+    {
+      "name": "expected/source-question-review.csv",
+      "sha256": "c4f1db1d46ca4d9f2a208f18e738b72463de4f90e84520f55998139242794723",
+      "bytes": 897
+    },
+    {
+      "name": "LICENSE.txt",
+      "sha256": "0a49b43060ed1b0e4183f6f342364d51b2fd460c8ffec997284a9be58dc9fa64",
+      "bytes": 234
+    },
+    {
+      "name": "ocr/corrected.txt",
+      "sha256": "832782024e05290ddbc843c2d85a7a8b7dd7ca65be340dbc8ac13b7a1888ca91",
+      "bytes": 288
+    },
+    {
+      "name": "ocr/tentative.txt",
+      "sha256": "fb990bbcf78e8930c2002e0d2904365ad57568c5398d5b6fd29a3296b8ded2b4",
+      "bytes": 125
+    },
+    {
+      "name": "originals/Appointment notice.txt",
+      "sha256": "eb7e6dc16e21552df9db0faf922b14d232e5b396505557469a83ad8ed9e3675c",
+      "bytes": 491
+    },
+    {
+      "name": "originals/Personal notes.txt",
+      "sha256": "9bdb19d1621e4368ae19e3d1e9619c9c6e93c439f56201599fbf0c3e2d320fca",
+      "bytes": 416
+    },
+    {
+      "name": "originals/Record scan-source.svg",
+      "sha256": "c42cb92ef1a43f6b9211a7479cd8774833e28c1f273a7bc899b83c7647f5af5b",
+      "bytes": 976
+    },
+    {
+      "name": "originals/Record scan-source.txt",
+      "sha256": "de4a40dc8bbe5e3ebcf9bb440475a43ec17ef22ed1ee7dfc22fa12e90a9a0a8a",
+      "bytes": 204
+    },
+    {
+      "name": "README.md",
+      "sha256": "6d55eadb168a1d9fedfabaf2f2f9b14ca4d29c9c4986c0a2b7b5f476e4952b12",
+      "bytes": 2896
+    },
+    {
+      "name": "review-checklist.md",
+      "sha256": "a370c7c30f9a74995dbf0144f314e326a1429154e6a51c491d303c0311f6f5b9",
+      "bytes": 1013
+    },
+    {
+      "name": "verify_kit.py",
+      "sha256": "8d218c1e954d169737e44c64e189f42f2511f42174f3b5ca85ecb9da3dc09a08",
+      "bytes": 1070
+    }
+  ]
+}

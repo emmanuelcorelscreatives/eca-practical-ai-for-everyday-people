@@ -1,0 +1,15 @@
+# Task library — plain document fallback
+
+Self-authored Academy practice instructions.
+
+## Turn rough notes into a short checklist
+
+Turn the supplied rough notes into a short checklist. Keep every named person, time, and condition. Do not add facts. Clearly mark missing information.
+
+## Rewrite a message to sound clear and friendly
+
+Rewrite the supplied message to sound clear and friendly. Preserve its meaning and supplied details. Do not add promises or facts.
+
+## Compare options in a table
+
+Compare the supplied options in a table using only the information provided. Mark missing information rather than guessing.

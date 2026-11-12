@@ -1,0 +1,28 @@
+EVENT ANNOUNCEMENT TEMPLATE — FICTIONAL WORKING COPY
+
+TASK
+Turn supplied event information into a short public announcement.
+Do not add facts that are not supplied.
+
+INPUTS
+Required inputs (stop if any is blank):
+Event name: Community Repair Café
+Event date: 7 November 2026
+Start and end time: 10:00 to 13:00
+Location: Riverside Community Hall
+Purpose: Help neighbors repair portable household items
+
+Optional inputs (write “not provided” if unknown):
+Cost or free entry: Free entry
+Registration: Registration not required
+What to bring: Bring one portable household item
+Contact: events@example.org
+
+OUTPUT REQUIREMENTS
+Create one heading.
+Write 80 to 120 words.
+Use a welcoming, plain-language tone.
+End with the supplied contact or registration instruction.
+If any required input is missing, do not draft the announcement.
+List the missing fields and ask for them.
+Clearly label assumptions, and do not present them as event facts.

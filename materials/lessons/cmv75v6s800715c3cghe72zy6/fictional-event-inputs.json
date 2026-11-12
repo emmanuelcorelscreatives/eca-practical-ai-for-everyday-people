@@ -1,0 +1,16 @@
+{
+  "fictional": true,
+  "required": {
+    "EVENT NAME": "Community Repair Caf\u00e9",
+    "EVENT DATE": "7 November 2026",
+    "START AND END TIME": "10:00 to 13:00",
+    "LOCATION": "Riverside Community Hall",
+    "PURPOSE": "Help neighbors repair portable household items"
+  },
+  "optional": {
+    "COST OR FREE ENTRY": "Free entry",
+    "REGISTRATION DETAILS": "Registration not required",
+    "WHAT TO BRING": "Bring one portable household item",
+    "CONTACT INFORMATION": "events@example.org"
+  }
+}

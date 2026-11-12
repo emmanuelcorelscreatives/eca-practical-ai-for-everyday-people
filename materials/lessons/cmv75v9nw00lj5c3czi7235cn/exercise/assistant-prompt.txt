@@ -1,0 +1,11 @@
+TASK
+Use only the checked evidence table below to draft questions for a qualified professional. Purpose: Clarify supplied records and next steps. Desired outcome: Leave with answers, responsibilities, and follow-up details.
+
+SUPPLIED INFORMATION
+[Paste the checked evidence table here. Include source paths and unresolved items.]
+
+BOUNDARIES
+Do not diagnose, interpret rights, recommend financial action, or invent facts. Do not resolve conflicting dates, guess unreadable words, or assume qualification. Do not turn questions into instructions to act. Label missing and conflicting details.
+
+OUTPUT
+Label AI-GENERATED DRAFT — REVIEW REQUIRED. Keep generated questions separate from supplied facts. Sections: Appointment purpose; Verified timeline; Priority questions (Ask first, Ask if time allows); Documents to bring; Unresolved items. List only documents actually supplied and anything explicitly requested by the professional. Ask which additional items are required rather than inventing requirements.
