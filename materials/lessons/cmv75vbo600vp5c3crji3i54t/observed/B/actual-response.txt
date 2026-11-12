@@ -1,0 +1,9 @@
+**Supplied facts — inspection**
+- `accessibilityInformation` is blank.
+- All other listed fields are populated.
+- No contradictions are apparent in the supplied notes.
+
+**GAP — clarification required (generated wording)**  
+What approved accessibility information should be included for Harbour Craft Afternoon?
+
+Drafting is stopped pending this clarification; no information-sheet draft has been created. Human approval and all sending or publishing remain outside this exercise.

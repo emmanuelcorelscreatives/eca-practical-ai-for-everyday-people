@@ -1,0 +1,20 @@
+Clarification request — Await source owner
+
+## Clarification required — drafting stopped
+
+**Supplied facts (fictional exercise)**
+- Event name: Autumn Repair Café
+- Event date: 31 October 2026
+- Approved description: “Doors open 1 November 2026”
+
+**Conflict / unresolved gap**  
+The event date and the door-opening date differ. The intended date and consistent approved description are unresolved.
+
+**Generated clarification request**  
+Should the event date be **31 October 2026** or **1 November 2026**? Please confirm the correct date and the approved description to use.
+
+No information-sheet draft has been created.
+
+Human reviewer: [ ]
+Human review date: [ ]
+No final information sheet; unresolved source information remains.

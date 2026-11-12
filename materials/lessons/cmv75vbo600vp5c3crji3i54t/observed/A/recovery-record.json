@@ -1,0 +1,16 @@
+{
+  "state": "ACTUAL_STANDARD_TEMPLATE_RECOVERY_PASS_HUMAN_APPROVAL_OUTSTANDING",
+  "at": "2026-11-12T13:57:47.475909+00:00",
+  "recoveryElapsedSeconds": 19.806498058,
+  "fullCumulativeElapsedSeconds": 1600.008923911,
+  "clockScope": "Controlled software/operator span from original13:31:07 run start through actual recovery inspection; includes intervening review, other-case work and operator/audit waits. Not human labour, general speed or savings.",
+  "factualCorrections": 0,
+  "lineBreakAdjustments": 0,
+  "templateHandoffCorrections": 1,
+  "generationCallsDuringRecovery": 0,
+  "humanApproval": false,
+  "sourceComparison": "All destination event fields extracted from unchanged actual A response and compared exactly with input; source remains fictional.",
+  "actualFilename": "2026-10-24_Willow-Park-Story-Swap_DRAFT.odt",
+  "actualNativeReadbackSha256": "44230895cd7f6450f7d2137d4fa44ce1092143f595a5c4461ea9f3f0440b429d",
+  "actualOwnedWindowCaptureSha256": "d93608cc907d4d7f61495be62ceba716fd16070ea539833ed1b5f281f367ffb5"
+}

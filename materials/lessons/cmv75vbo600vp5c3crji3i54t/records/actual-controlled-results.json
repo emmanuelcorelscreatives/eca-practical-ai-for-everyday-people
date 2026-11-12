@@ -1,0 +1,122 @@
+{
+  "project": "Project8: Build Your Repeatable Workflow",
+  "actualRunDate": "2026-11-12",
+  "operator": "Controlled Codex/software-operated tools; not a human labour study",
+  "actualTools": [
+    "Configured AI route via course-owned Workflow Assistant",
+    "LibreOffice Writer24.2.7.2 on Linux"
+  ],
+  "actualGenerationCalls": 3,
+  "configuredRouteReturned": "combo/planning",
+  "upstreamProviderModel": "Not exposed by tool; no claim",
+  "caseFixtures": "Academy-authored fictional data; no real event or service",
+  "records": [
+    {
+      "case": "A",
+      "actualOutcome": "PASSED_AFTER_STANDARD_TEMPLATE_RECOVERY_HUMAN_APPROVAL_OUTSTANDING",
+      "actualElapsedSeconds": 1600.008923911,
+      "roundedClock": "26:40",
+      "clockPrecision": "Exact nanosecond start/finish retained; display rounds to nearest second.",
+      "clockScope": "Controlled software/operator span from original13:31:07 run start through actual recovery inspection; includes intervening review, other-case work and operator/audit waits. Not human labour, general speed or savings.",
+      "start": "2026-11-12T13:31:07.467002+00:00",
+      "finish": "2026-11-12T13:57:47.475909+00:00",
+      "generationCalls": 1,
+      "factualCorrections": 0,
+      "lineBreakAdjustments": 0,
+      "humanApproval": false,
+      "stageDurationsSeconds": {
+        "inputPreparation": 0.055017085000145016,
+        "generationAndDurableReceipt": 62.14285368700075,
+        "operatorSourceReviewAndWait": 32.615787062999516,
+        "writerSaveReadbackCapture": 7.103823805999127,
+        "operatorFinalInspectionAndWait": 21.615374787999826,
+        "templateHandoffRecovery": 19.806498058,
+        "interveningAuditOtherCaseAndOperatorWaits": 1455.660162577
+      },
+      "originalDeclaredToolState": "PASS",
+      "originalCorrectedInterpretation": "Initial partial-template attempt; the independent audit found the standard template had not been filled. Original records/readback remain unchanged.",
+      "initialAttemptElapsedSeconds": 124.542263276,
+      "recoveryElapsedSeconds": 19.806498058,
+      "templateHandoffCorrections": 1
+    },
+    {
+      "case": "B",
+      "actualOutcome": "PASS",
+      "actualElapsedSeconds": 90.08010536,
+      "roundedClock": "01:30",
+      "clockPrecision": "Exact nanosecond start/finish retained; display rounds to nearest second.",
+      "clockScope": "Actual controlled Codex/operator/tool elapsed, including instrumentation and review waits. NOT human labour, general AI speed or productivity savings.",
+      "start": "2026-11-12T13:33:12.060495+00:00",
+      "finish": "2026-11-12T13:34:42.140583+00:00",
+      "generationCalls": 1,
+      "factualCorrections": 0,
+      "lineBreakAdjustments": 0,
+      "humanApproval": false,
+      "stageDurationsSeconds": {
+        "inputPreparation": 0.050716301000647945,
+        "generationAndDurableReceipt": 26.259296834999986,
+        "operatorSourceReviewAndWait": 43.64506068599985,
+        "writerSaveReadbackCapture": 6.264880004000588,
+        "operatorFinalInspectionAndWait": 13.068785769999522
+      }
+    },
+    {
+      "case": "C",
+      "actualOutcome": "PASS",
+      "actualElapsedSeconds": 99.487836076,
+      "roundedClock": "01:39",
+      "clockPrecision": "Exact nanosecond start/finish retained; display rounds to nearest second.",
+      "clockScope": "Actual controlled Codex/operator/tool elapsed, including instrumentation and review waits. NOT human labour, general AI speed or productivity savings.",
+      "start": "2026-11-12T13:34:42.197761+00:00",
+      "finish": "2026-11-12T13:36:21.685587+00:00",
+      "generationCalls": 1,
+      "factualCorrections": 0,
+      "lineBreakAdjustments": 0,
+      "humanApproval": false,
+      "stageDurationsSeconds": {
+        "inputPreparation": 0.07000268199954007,
+        "generationAndDurableReceipt": 33.94806427900039,
+        "operatorSourceReviewAndWait": 43.10876848800035,
+        "writerSaveReadbackCapture": 6.425361093999527,
+        "operatorFinalInspectionAndWait": 15.074865518001388
+      }
+    },
+    {
+      "case": "Manual-A",
+      "actualOutcome": "PASS",
+      "actualElapsedSeconds": 165.797385977,
+      "roundedClock": "02:46",
+      "clockPrecision": "Exact nanosecond start/finish retained; display rounds to nearest second.",
+      "clockScope": "Actual controlled Codex/operator/tool elapsed, including instrumentation and review waits. NOT human labour, general AI speed or productivity savings.",
+      "start": "2026-11-12T13:28:21.610784+00:00",
+      "finish": "2026-11-12T13:31:07.408149+00:00",
+      "generationCalls": 0,
+      "factualCorrections": 0,
+      "lineBreakAdjustments": 0,
+      "humanApproval": false,
+      "stageDurationsSeconds": {
+        "inputPreparation": 0.048376744000051985,
+        "writerSaveReadbackCapture": 6.9955330430002505,
+        "operatorFinalInspectionAndWait": 158.45944740800041
+      }
+    }
+  ],
+  "actualOutcomes": {
+    "A": "Initial genuine response/source comparison passed but destination handoff failed to fill the standard template. A later native Writer recovery populated every required template field from the source-compared unchanged model response; actual file saved/read back/window inspected. Zero factual corrections; one template-handoff correction; DRAFT and human approval outstanding.",
+    "B": "Actual accessibilityInformation blank identified; clarification requested; no information-sheet draft.",
+    "C": "Both31October2026 event date and1November2026 approved-description date identified; neither selected; clarification requested; no information-sheet draft.",
+    "Manual-A": "Same exact source fields copied into a real Writer document without a new generation request; actual readback/window checked. Software/Codex operation, not zero AI involvement or measured human work."
+  },
+  "rawResponsePolicy": "All actual response texts and the original partial-template readback remain unchanged. The recovered standard-template file is a separate actual saved native Writer result; field extraction/source comparison and exact layout inspection are retained.",
+  "clockScope": [
+    "Controlled Codex/software-operated tools, not measured human labour or zero AI involvement.",
+    "Operator review waits, instrumentation and compaction delay are included; no efficiency/savings comparison is justified.",
+    "Model response routing label is combo/planning; upstream model identity/provider IDs not returned by omniChat and not invented.",
+    "Actual Writer imported raw returned Markdown as plain text; no rich-formatting claim.",
+    "Case A remains DRAFT; B/C await source owner; all human reviewer/date fields blank.",
+    "Actual operator inspection is not independent human approval or full material/visual model review.",
+    "CaseA final cumulative26:40 includes initial2:05partial attempt,19.806second recovery and all intervening audits/other-case work/operator waits; do not compare it with B/C or human labour."
+  ],
+  "humanReview": "Human reviewer/date fields remain blank. Codex/operator source checking is not independent human approval. No sending/publishing action is part of these tests.",
+  "reproducibility": "Prompt and inputs may be reused with an available assistant. Model wording and elapsed time vary; do not require a learner response to match observed text or times. Run all three cases and judge source fidelity and stop rules."
+}

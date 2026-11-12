@@ -1,0 +1,4 @@
+case,input_condition,expected_behavior_written_before_run,start_time,end_time,total_elapsed,preparation,handoff,checking,correction,formatting,recovery,factual_corrections,format_corrections,outcome,limitation,unresolved_question,reviewer,evidence_path
+A,complete,checked draft,,,,,,,,,,,,,,,,
+B,missing accessibility,stop and request missing field,,,,,,,,,,,,,,,,
+C,conflicting dates,show both dates and ask authority,,,,,,,,,,,,,,,,

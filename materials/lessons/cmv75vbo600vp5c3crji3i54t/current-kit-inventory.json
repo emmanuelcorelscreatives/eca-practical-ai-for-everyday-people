@@ -1,0 +1,167 @@
+{
+  "version": 1,
+  "projectId": "cmv75vbo600vp5c3crji3i54t",
+  "scriptSha256": "b1ea0af9731166fe5e937a7fc846c8b013b8ee58090d0eda5fb2b2d4182adf80",
+  "files": [
+    {
+      "name": "ORIGIN.md",
+      "sha256": "ef96eea7e2a56d7bc081f91fd83dc5136c951002bcf69ab520a1d252db39a0e2",
+      "bytes": 1950
+    },
+    {
+      "name": "expected/case-a-reference-draft.md",
+      "sha256": "44df044c3f77015a439b103a99619e92ca20010adac43b56933ba66986862440",
+      "bytes": 787
+    },
+    {
+      "name": "expected/case-b-reference-clarification.md",
+      "sha256": "32b3a7d70db1e58e4b397474e99e39dd695eefda70eb6ae763af57016c8a982c",
+      "bytes": 540
+    },
+    {
+      "name": "expected/case-c-reference-clarification.md",
+      "sha256": "06922215f386c02dd016a4ea0878eb98a86eaedb403c7c4d8b7a7ac1ff620108",
+      "bytes": 504
+    },
+    {
+      "name": "inputs/case-a-complete.json",
+      "sha256": "4862f660a198c567e9b0a9526a87170f9378260f1062b480b152084538a5fc85",
+      "bytes": 725
+    },
+    {
+      "name": "inputs/case-b-missing-accessibility.json",
+      "sha256": "088bf2472835ea930cf135d590f668f9e0fdce8c88148597c0c43fd016acfbb0",
+      "bytes": 669
+    },
+    {
+      "name": "inputs/case-c-conflicting-dates.json",
+      "sha256": "8b1331e8f4559de8f1132b1b89046a6456ab0a449ccf43db9c1c027ab12f7a68",
+      "bytes": 678
+    },
+    {
+      "name": "observed/A/actual-response.txt",
+      "sha256": "c23e71c151d29b6133e96d3676ee5a23829894f0b88f5f107e1089ca4bcf3c2c",
+      "bytes": 1134
+    },
+    {
+      "name": "observed/A/final-standard-template.txt",
+      "sha256": "44230895cd7f6450f7d2137d4fa44ce1092143f595a5c4461ea9f3f0440b429d",
+      "bytes": 588
+    },
+    {
+      "name": "observed/A/initial-partial-template-readback.txt",
+      "sha256": "116ed6ac41b33f883513304cac3c78f07b2311d9645745e2b424e249497f8971",
+      "bytes": 1272
+    },
+    {
+      "name": "observed/A/input.json",
+      "sha256": "4862f660a198c567e9b0a9526a87170f9378260f1062b480b152084538a5fc85",
+      "bytes": 725
+    },
+    {
+      "name": "observed/A/recovery-record.json",
+      "sha256": "3fa13c29b51d8dd67683f24c41e2d15e3034b6747ef884b520b4059f9c9dbe21",
+      "bytes": 1037
+    },
+    {
+      "name": "observed/B/actual-checked-document.txt",
+      "sha256": "0c5d630edadfbf8f4821c62f67b7dc40874ff49063b1a99b257fee7229a8a1d0",
+      "bytes": 641
+    },
+    {
+      "name": "observed/B/actual-response.txt",
+      "sha256": "7e2358d3f9d21811dcacd090aee7699be92029672ab08d8d21d3366711a85ba6",
+      "bytes": 484
+    },
+    {
+      "name": "observed/B/input.json",
+      "sha256": "088bf2472835ea930cf135d590f668f9e0fdce8c88148597c0c43fd016acfbb0",
+      "bytes": 669
+    },
+    {
+      "name": "observed/C/actual-checked-document.txt",
+      "sha256": "492493e349a514da91e29162b7beac07df78dc6aab4946e8a9f0ae9f7b5d8b8c",
+      "bytes": 740
+    },
+    {
+      "name": "observed/C/actual-response.txt",
+      "sha256": "924e46bfecb1bdab9ecf5315269dc497bf5c09b8798337913446b6f7f5563b6e",
+      "bytes": 583
+    },
+    {
+      "name": "observed/C/input.json",
+      "sha256": "8b1331e8f4559de8f1132b1b89046a6456ab0a449ccf43db9c1c027ab12f7a68",
+      "bytes": 678
+    },
+    {
+      "name": "observed/Manual-A/actual-checked-document.txt",
+      "sha256": "ff7c909680f613c0cf57d7409ad77526e3303376744d3e4ce84bca0693918fc4",
+      "bytes": 491
+    },
+    {
+      "name": "observed/Manual-A/input.json",
+      "sha256": "4862f660a198c567e9b0a9526a87170f9378260f1062b480b152084538a5fc85",
+      "bytes": 725
+    },
+    {
+      "name": "observed/README.md",
+      "sha256": "21ad8a8e5443a0639bc943d677cb10e7bbf72e3b57058603c43264b5b5149ed1",
+      "bytes": 3280
+    },
+    {
+      "name": "records/actual-controlled-results.json",
+      "sha256": "33f07ebbbeffbab88a8afff8be5d3c69207ece5feffb9a5864fc40d4d83f219c",
+      "bytes": 7397
+    },
+    {
+      "name": "records/actual-controlled-test-record.csv",
+      "sha256": "ee066dd5b65b404313869349cd813d4f6dd24db8128584a4c870538286d89564",
+      "bytes": 1474
+    },
+    {
+      "name": "records/blank-test-record.csv",
+      "sha256": "4adca3f93d29f8f55d50b3de804ecfce8787e0ee9b0578a9aba32ca6976724ac",
+      "bytes": 435
+    },
+    {
+      "name": "reuse-guide.md",
+      "sha256": "00a10f427e35d2df2565d992ead819eec879c78fee1e651b235af6b2397adb7d",
+      "bytes": 2330
+    },
+    {
+      "name": "templates/clarification.md",
+      "sha256": "74f867c655d91d931e7706fcb81d328887db731eb3dcdfbcad2ba7f88e94d4d3",
+      "bytes": 390
+    },
+    {
+      "name": "templates/information-sheet.md",
+      "sha256": "6cd3af833ab4953ad8319c3ddce334702531a0560d9a0fbe6daa13db87e90a72",
+      "bytes": 586
+    },
+    {
+      "name": "templates/input-form.md",
+      "sha256": "fc22e6cdac242630bc4e5ae3aac08ef7df9a4fd217f81e4912925345a05388b5",
+      "bytes": 418
+    },
+    {
+      "name": "templates/prompt-library.md",
+      "sha256": "d60b6bddf1bf39bf9979de86c2171d2d6ec056f937a017a6206002cad7d5b10a",
+      "bytes": 1551
+    },
+    {
+      "name": "templates/workflow-checklist.md",
+      "sha256": "9749aa5a46ecc84bd4ccbb14950af48fbcf3fb45f0f675dc5ba1a0d95e798e6c",
+      "bytes": 1878
+    },
+    {
+      "name": "workflow-assistant.html",
+      "sha256": "16e1c861fc5781d9f2f38b758cb3467a6fa73fe94555469d59cbdc719107045f",
+      "bytes": 5875
+    },
+    {
+      "name": "worksheet.md",
+      "sha256": "c180d570f5fd263494bc75b5215d87b21f11df21e2fdb209e6aad71dc1449c84",
+      "bytes": 5365
+    }
+  ]
+}
