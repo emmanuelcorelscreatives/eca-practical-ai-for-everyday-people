@@ -1,0 +1,142 @@
+{
+  "version": 1,
+  "projectId": "cmv75vaus00rp5c3ch1fmc689",
+  "scriptSha256": "ed4c3be0c69fb1fde1572508e7093285fda9ca4bc2036f06de47d706a8b8b6e7",
+  "files": [
+    {
+      "name": "01_Source_Pack/Event_Brief.html",
+      "sha256": "918a13aba92b795d88cdb0eb4868d1a5f1ce14075106cc813c6960e617737ef9",
+      "bytes": 933
+    },
+    {
+      "name": "01_Source_Pack/Event_Brief.odt",
+      "sha256": "b37993e7e59f50304a0e510c3d8e3975e891a4b29d816380a331b6334db00ddb",
+      "bytes": 8628
+    },
+    {
+      "name": "01_Source_Pack/Permission_Note.txt",
+      "sha256": "4c647a32fe90b5105691a2b9c5ce2120b03f2d7b9161e897d96e671ccf125bbe",
+      "bytes": 954
+    },
+    {
+      "name": "01_Source_Pack/approved-facts.json",
+      "sha256": "2f8c0ad6d465c7dbd1778235b3649cd5e3a3be6cae01c21f724ade3b5083e7a5",
+      "bytes": 299
+    },
+    {
+      "name": "01_Source_Pack/books-illustration.svg",
+      "sha256": "4464a77a61f1dbd89cb1f4bfac3c6fc2ea2c399a886ab5af42a2913cea028d09",
+      "bytes": 1446
+    },
+    {
+      "name": "02_Working_Files/Deliberate_Error_Exercise.txt",
+      "sha256": "7440f6ef1f0aa3bcb3c79e79390e64e73c8744f1261368979b73927600ff9f7f",
+      "bytes": 322
+    },
+    {
+      "name": "02_Working_Files/Event_Information_Sheet.html",
+      "sha256": "8e269ba1ac7481808c01d11db88356c8d95252a4458e06d05808aca77d856c4e",
+      "bytes": 906
+    },
+    {
+      "name": "02_Working_Files/Event_Information_Sheet.odt",
+      "sha256": "adf68f87b4320aa3c8b4521715d0a5f3d6babb809bf8d70462eab6fa97e91359",
+      "bytes": 8569
+    },
+    {
+      "name": "02_Working_Files/Kit_Fact_Sheet.html",
+      "sha256": "bb9eb3102d6fdf5aa056106787e7eb0b020c51e944798bcb561e71db00c383ea",
+      "bytes": 1112
+    },
+    {
+      "name": "02_Working_Files/Kit_Fact_Sheet.odt",
+      "sha256": "65dc8921aaedb76e3a42ef724efc764d728ef608c3fa51c3f8d830ff1901c4ce",
+      "bytes": 8713
+    },
+    {
+      "name": "02_Working_Files/Media_Script.html",
+      "sha256": "427046620af0d638f4ebf2594b9f887273b498f650e0ba2e5cd6992ca8b8da29",
+      "bytes": 739
+    },
+    {
+      "name": "02_Working_Files/Media_Script.odt",
+      "sha256": "fdd90a9d04f9dab9830f3fd1c01d8eaf06b3ac02120c66f42ddf6c7806c192c4",
+      "bytes": 8497
+    },
+    {
+      "name": "02_Working_Files/Media_Script.txt",
+      "sha256": "5558e7082b45d25dd7600715b1154775dc4d2bc37e16ec659cbded91e86025c8",
+      "bytes": 259
+    },
+    {
+      "name": "02_Working_Files/Narration_v1.wav",
+      "sha256": "4476acc1dfc5319e56c07508461b0670aa1dd5535c3cbe1e45da406f7510809d",
+      "bytes": 857250
+    },
+    {
+      "name": "02_Working_Files/Riverside_Reading_Circle_Visual_v1.svg",
+      "sha256": "4464a77a61f1dbd89cb1f4bfac3c6fc2ea2c399a886ab5af42a2913cea028d09",
+      "bytes": 1446
+    },
+    {
+      "name": "02_Working_Files/corrected.srt",
+      "sha256": "48bc4c8fab99d407c5669dc22a2b64672fae8a25911a8871a96716b0e4513556",
+      "bytes": 423
+    },
+    {
+      "name": "02_Working_Files/draft-incorrect.srt",
+      "sha256": "250f2a6eb4d07649a4eae715724213531453061855d41699584ff286bf2810b9",
+      "bytes": 423
+    },
+    {
+      "name": "03_Exports/Riverside_Reading_Circle_Checked_v1.mp4",
+      "sha256": "313f79b85db0529821e56814ec61972ff2c27d6ff4559592410f2dba34e4633e",
+      "bytes": 398497
+    },
+    {
+      "name": "03_Exports/Riverside_Reading_Circle_Info_v1.pdf",
+      "sha256": "82908c186ca7e31eef5fe5666aa7eba613ee82c65cf7f538fb5c8d479913f72b",
+      "bytes": 27867
+    },
+    {
+      "name": "03_Exports/Riverside_Reading_Circle_Visual_v1.png",
+      "sha256": "02eaef99ce67418e7f3faeaa6314c7a2bdcfbb7132602ec81b0cbdf231ba4088",
+      "bytes": 92413
+    },
+    {
+      "name": "04_Review_Record/Answer_Guide.md",
+      "sha256": "aaa73e86a2768719c400976660b231d102703183b3d44831309e3b4c4ee9828e",
+      "bytes": 1010
+    },
+    {
+      "name": "04_Review_Record/Review_Checklist.csv",
+      "sha256": "651eb464c38c0d16cd3ee591ae8189a09f02e672e719b207a0d290fbaec3635f",
+      "bytes": 746
+    },
+    {
+      "name": "04_Review_Record/actual-generation-proof.json",
+      "sha256": "a0f08bc9b0e5925da97c1a91bcfc74db62943830e4283a659dbbe1c56def1604",
+      "bytes": 4444
+    },
+    {
+      "name": "README.md",
+      "sha256": "f527740174e4e80dad32245c6ca02aaa335fb28853be457fbbe00019a7f5a60d",
+      "bytes": 1666
+    },
+    {
+      "name": "rebuild-exports.py",
+      "sha256": "582817e463e374ae6bc1b986af71df8c4108c24fed0b2242f6ecb73a7c460932",
+      "bytes": 4321
+    },
+    {
+      "name": "rebuild.md",
+      "sha256": "df1a0df9bf03a6c904a15a9e86e153f39405f34e85af55410ed0f20ab4883508",
+      "bytes": 799
+    },
+    {
+      "name": "worksheet.md",
+      "sha256": "ee569b0a1b5d0dc5a86ac72b0962476dd6b5c5c21207823b204cb5e2d3297da2",
+      "bytes": 2453
+    }
+  ]
+}

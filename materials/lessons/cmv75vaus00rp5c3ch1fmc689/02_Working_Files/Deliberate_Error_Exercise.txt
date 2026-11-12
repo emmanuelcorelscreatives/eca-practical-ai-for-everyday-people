@@ -1,0 +1,3 @@
+REJECT THIS DRAFT — deliberate errors, not approved event information:
+Sunday, 25 October 2026; 11:00–12:00; Community Room D.
+Tasks: compare against Event_Brief and approved-facts.json; identify all date/day/time/venue errors. Fix to Saturday,24October2026,10:00–11:00,CommunityRoomB. Other details must not drift.

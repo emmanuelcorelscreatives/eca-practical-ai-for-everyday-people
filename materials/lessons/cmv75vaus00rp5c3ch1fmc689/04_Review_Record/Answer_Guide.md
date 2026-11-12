@@ -1,0 +1,5 @@
+# Answer guide
+
+The only factual authority is the fictional brief. The date is Saturday 24 October 2026 (calendar check: Python datetime.date(2026,10,24).strftime("%A") returns Saturday); time 10:00–11:00; Community Room **B**, free, no registration, materials provided, adults and teenagers. Do not infer parking/childcare/refreshments/prizes/accessibility arrangements. Accessibility contact stays **not supplied**. The rejection exercise has wrong day/date, interval and venue. The deliberate draft caption uses Room D; the corrected caption uses Room B.
+
+A complete submission contains an inspectable source pack and permission record, approved fact sheet, one readable document, one square visual, a captioned media clip, and a filled review record. Open the actual exported files; do not mark human listening/phone readability as passed merely because build tests pass. Record any error/correction, replay it, and retain original evidence. All files are practice and have no real event-owner approval.

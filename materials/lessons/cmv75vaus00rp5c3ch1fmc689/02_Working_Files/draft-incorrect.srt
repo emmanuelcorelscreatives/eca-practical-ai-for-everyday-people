@@ -1,0 +1,19 @@
+1
+00:00:00,000 --> 00:00:03,108
+Join the fictional Riverside Reading Circle.
+
+2
+00:00:03,108 --> 00:00:07,665
+On Saturday, twenty fourth October twenty twenty six.
+
+3
+00:00:07,665 --> 00:00:10,583
+From ten until eleven in Community Room D.
+
+4
+00:00:10,583 --> 00:00:16,583
+The event is free. Registration is not required, and materials are provided.
+
+5
+00:00:16,583 --> 00:00:19,438
+Please arrive a few minutes before ten.
