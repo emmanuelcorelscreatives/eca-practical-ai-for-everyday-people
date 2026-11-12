@@ -1,0 +1,57 @@
+{
+  "version": 1,
+  "projectId": "cmv75v5vq002j5c3cgc0vj3j7",
+  "scriptSha256": "b965a660e710171432b53788e1dc6eb798e89a4c783d744ee45d45eb80f133f9",
+  "files": [
+    {
+      "name": "LICENSE.md",
+      "sha256": "ff0ea6b2dd56c96ba74c060b4f64cf4d21a33b29ee98a1aae7df2c858ad17352",
+      "bytes": 782
+    },
+    {
+      "name": "README.md",
+      "sha256": "e789beb00bc15b5200db2ce1ba3b0e97058e613e0aefa5fd7bf146ca1f346ee5",
+      "bytes": 2516
+    },
+    {
+      "name": "answer-key.md",
+      "sha256": "f43cb8fb12608f460aa8781f6dbefe3279fcb4ddb04c3aee4ebc1f4075d9d400",
+      "bytes": 1957
+    },
+    {
+      "name": "banner-source.svg",
+      "sha256": "7e2ff5fae0049f6229cf4105e36d56f61a6a554e31abbf9260232c40903c690c",
+      "bytes": 394
+    },
+    {
+      "name": "permission_checklist.md",
+      "sha256": "f190900a760b05392a21f064cecff2c777829249821b80864d0c4565eb427715",
+      "bytes": 1617
+    },
+    {
+      "name": "permission_checklist.odt",
+      "sha256": "df4a41827d87b4f8e2765d87566c432ff2101279142fec50cebd1ee06c5fa96b",
+      "bytes": 3178
+    },
+    {
+      "name": "practice-guide.md",
+      "sha256": "0215146889fda7f3f3d7da7b587f1943d84a1fdb383bda887fcda963a79a0e1f",
+      "bytes": 4374
+    },
+    {
+      "name": "recording-script.txt",
+      "sha256": "d8b7a3bf52115f82c5633b7786224cafa31acfdafce83955d8ad9634048d1d22",
+      "bytes": 256
+    },
+    {
+      "name": "scenarios.csv",
+      "sha256": "6dc981dac9cf2958c94dffe436ec9a37279abca105aa84d93d0222d85d953de1",
+      "bytes": 571
+    },
+    {
+      "name": "self_created_banner.jpg",
+      "sha256": "1ff5336af36939538957a4686c6cdff0484d779d921135e4a3b553848d8f23fe",
+      "bytes": 57399
+    }
+  ]
+}
