@@ -1,0 +1,1453 @@
+{
+  "title": "Practical AI for Everyday People",
+  "academy": "Emmanuel Corels Academy",
+  "instructor": "EMMANUEL CORELS",
+  "stages": [
+    {
+      "number": 0,
+      "title": "Introduction",
+      "lessons": [
+        {
+          "number": 0,
+          "title": "Introduction",
+          "objective": "Introduction"
+        }
+      ]
+    },
+    {
+      "number": 1,
+      "title": "Stage 1 — Welcome to Practical AI for Everyday People",
+      "lessons": [
+        {
+          "number": 2,
+          "title": "AI Beyond the Chat Window",
+          "objective": "AI Beyond the Chat Window"
+        },
+        {
+          "number": 3,
+          "title": "What AI Does Well and Where It Struggles",
+          "objective": "What AI Does Well and Where It Struggles"
+        },
+        {
+          "number": 4,
+          "title": "Your Everyday AI Opportunity List",
+          "objective": "Your Everyday AI Opportunity List"
+        },
+        {
+          "number": 5,
+          "title": "How the Course and Projects Work",
+          "objective": "How the Course and Projects Work"
+        },
+        {
+          "number": 6,
+          "title": "Set a Useful Starting Baseline",
+          "objective": "Set a Useful Starting Baseline"
+        }
+      ]
+    },
+    {
+      "number": 2,
+      "title": "Stage 2 — Choose the Right Kind of AI Tool",
+      "lessons": [
+        {
+          "number": 7,
+          "title": "Start with the Task, Not the Brand",
+          "objective": "Start with the Task, Not the Brand"
+        },
+        {
+          "number": 8,
+          "title": "Chat, Search and Source-Based Answers",
+          "objective": "Chat, Search and Source-Based Answers"
+        },
+        {
+          "number": 9,
+          "title": "AI Inside the Apps You Already Use",
+          "objective": "AI Inside the Apps You Already Use"
+        },
+        {
+          "number": 10,
+          "title": "Voice, Images, Files and Camera Inputs",
+          "objective": "Voice, Images, Files and Camera Inputs"
+        },
+        {
+          "number": 11,
+          "title": "Accounts, Plans and Feature Availability",
+          "objective": "Accounts, Plans and Feature Availability"
+        },
+        {
+          "number": 12,
+          "title": "Build a Small Starter Toolkit",
+          "objective": "Build a Small Starter Toolkit"
+        }
+      ]
+    },
+    {
+      "number": 3,
+      "title": "Stage 3 — Privacy, Permissions and Everyday Boundaries",
+      "lessons": [
+        {
+          "number": 13,
+          "title": "Know What You Are Uploading",
+          "objective": "Know What You Are Uploading"
+        },
+        {
+          "number": 14,
+          "title": "Use Redaction and Safer Examples",
+          "objective": "Use Redaction and Safer Examples"
+        },
+        {
+          "number": 15,
+          "title": "Review History, Sharing and Data Settings",
+          "objective": "Review History, Sharing and Data Settings"
+        },
+        {
+          "number": 16,
+          "title": "Understand Connected-App Permissions",
+          "objective": "Understand Connected-App Permissions"
+        },
+        {
+          "number": 17,
+          "title": "Consent for Recordings, Images and Voices",
+          "objective": "Consent for Recordings, Images and Voices"
+        },
+        {
+          "number": 18,
+          "title": "Recognize Suspicious Instructions in Content",
+          "objective": "Recognize Suspicious Instructions in Content"
+        }
+      ]
+    },
+    {
+      "number": 4,
+      "title": "Stage 4 — Your First Useful AI Task",
+      "lessons": [
+        {
+          "number": 19,
+          "title": "Describe the Result You Actually Need",
+          "objective": "Describe the Result You Actually Need"
+        },
+        {
+          "number": 20,
+          "title": "Supply the Minimum Helpful Context",
+          "objective": "Supply the Minimum Helpful Context"
+        },
+        {
+          "number": 21,
+          "title": "Specify Length, Tone and Format",
+          "objective": "Specify Length, Tone and Format"
+        },
+        {
+          "number": 22,
+          "title": "Ask for Missing Information to Be Flagged",
+          "objective": "Ask for Missing Information to Be Flagged"
+        },
+        {
+          "number": 23,
+          "title": "Improve the Draft with Specific Feedback",
+          "objective": "Improve the Draft with Specific Feedback"
+        },
+        {
+          "number": 24,
+          "title": "Project 1: Complete an Everyday Task",
+          "objective": "Project 1: Complete an Everyday Task"
+        }
+      ]
+    },
+    {
+      "number": 5,
+      "title": "Stage 5 — Prompting That Produces Useful Results",
+      "lessons": [
+        {
+          "number": 25,
+          "title": "The Five Parts of a Clear Request",
+          "objective": "The Five Parts of a Clear Request"
+        },
+        {
+          "number": 26,
+          "title": "Give the AI a Job, Not an Inflated Identity",
+          "objective": "Give the AI a Job, Not an Inflated Identity"
+        },
+        {
+          "number": 27,
+          "title": "Show an Example of a Good Answer",
+          "objective": "Show an Example of a Good Answer"
+        },
+        {
+          "number": 28,
+          "title": "Tell the Tool What to Preserve",
+          "objective": "Tell the Tool What to Preserve"
+        },
+        {
+          "number": 29,
+          "title": "Ask for Alternatives and Tradeoffs",
+          "objective": "Ask for Alternatives and Tradeoffs"
+        },
+        {
+          "number": 30,
+          "title": "Write a Prompt You Can Reuse",
+          "objective": "Write a Prompt You Can Reuse"
+        }
+      ]
+    },
+    {
+      "number": 6,
+      "title": "Stage 6 — Give AI Better Context and Better Inputs",
+      "lessons": [
+        {
+          "number": 31,
+          "title": "Separate Instructions from Source Material",
+          "objective": "Separate Instructions from Source Material"
+        },
+        {
+          "number": 32,
+          "title": "Prepare Messy Notes and Long Documents",
+          "objective": "Prepare Messy Notes and Long Documents"
+        },
+        {
+          "number": 33,
+          "title": "Check What the Tool Actually Received",
+          "objective": "Check What the Tool Actually Received"
+        },
+        {
+          "number": 34,
+          "title": "Work in Sections When the Input Is Too Large",
+          "objective": "Work in Sections When the Input Is Too Large"
+        },
+        {
+          "number": 35,
+          "title": "Manage Context Across Conversations",
+          "objective": "Manage Context Across Conversations"
+        },
+        {
+          "number": 36,
+          "title": "Protect Meaning During Summarization",
+          "objective": "Protect Meaning During Summarization"
+        }
+      ]
+    },
+    {
+      "number": 7,
+      "title": "Stage 7 — Refine Outputs Without Endless Re-Prompting",
+      "lessons": [
+        {
+          "number": 37,
+          "title": "Identify the Type of Problem",
+          "objective": "Identify the Type of Problem"
+        },
+        {
+          "number": 38,
+          "title": "Revise One Dimension at a Time",
+          "objective": "Revise One Dimension at a Time"
+        },
+        {
+          "number": 39,
+          "title": "Ask for a Brief Explanation of Choices",
+          "objective": "Ask for a Brief Explanation of Choices"
+        },
+        {
+          "number": 40,
+          "title": "Use Critique Without Treating It as Verification",
+          "objective": "Use Critique Without Treating It as Verification"
+        },
+        {
+          "number": 41,
+          "title": "Know When to Switch Tools",
+          "objective": "Know When to Switch Tools"
+        },
+        {
+          "number": 42,
+          "title": "Set a Stop Rule for Good Enough",
+          "objective": "Set a Stop Rule for Good Enough"
+        }
+      ]
+    },
+    {
+      "number": 8,
+      "title": "Stage 8 — Build a Personal Prompt and Task Library",
+      "lessons": [
+        {
+          "number": 43,
+          "title": "Organize by Task and Outcome",
+          "objective": "Organize by Task and Outcome"
+        },
+        {
+          "number": 44,
+          "title": "Add Placeholders and Input Requirements",
+          "objective": "Add Placeholders and Input Requirements"
+        },
+        {
+          "number": 45,
+          "title": "Include a Quality Check in Every Template",
+          "objective": "Include a Quality Check in Every Template"
+        },
+        {
+          "number": 46,
+          "title": "Version Prompts and Keep Working Examples",
+          "objective": "Version Prompts and Keep Working Examples"
+        },
+        {
+          "number": 47,
+          "title": "Test a Prompt with Different Inputs",
+          "objective": "Test a Prompt with Different Inputs"
+        },
+        {
+          "number": 48,
+          "title": "Project 2: Create Your Everyday Prompt Kit",
+          "objective": "Project 2: Create Your Everyday Prompt Kit"
+        }
+      ]
+    },
+    {
+      "number": 9,
+      "title": "Stage 9 — Check Facts, Claims and Citations",
+      "lessons": [
+        {
+          "number": 49,
+          "title": "Recognize Confident but Unsupported Answers",
+          "objective": "Recognize Confident but Unsupported Answers"
+        },
+        {
+          "number": 50,
+          "title": "Turn an Answer into Checkable Claims",
+          "objective": "Turn an Answer into Checkable Claims"
+        },
+        {
+          "number": 51,
+          "title": "Open the Source and Find the Evidence",
+          "objective": "Open the Source and Find the Evidence"
+        },
+        {
+          "number": 52,
+          "title": "Check Dates, Location and Scope",
+          "objective": "Check Dates, Location and Scope"
+        },
+        {
+          "number": 53,
+          "title": "Compare Independent Evidence",
+          "objective": "Compare Independent Evidence"
+        },
+        {
+          "number": 54,
+          "title": "Handle Uncertainty Honestly",
+          "objective": "Handle Uncertainty Honestly"
+        }
+      ]
+    },
+    {
+      "number": 10,
+      "title": "Stage 10 — Check Numbers, Tables and Calculations",
+      "lessons": [
+        {
+          "number": 55,
+          "title": "Separate Extracting Numbers from Calculating",
+          "objective": "Separate Extracting Numbers from Calculating"
+        },
+        {
+          "number": 56,
+          "title": "Units, Currency and Date Formats",
+          "objective": "Units, Currency and Date Formats"
+        },
+        {
+          "number": 57,
+          "title": "Percentages, Averages and Totals",
+          "objective": "Percentages, Averages and Totals"
+        },
+        {
+          "number": 58,
+          "title": "Inspect Formulas and Cell Ranges",
+          "objective": "Inspect Formulas and Cell Ranges"
+        },
+        {
+          "number": 59,
+          "title": "Read Charts Without Being Misled",
+          "objective": "Read Charts Without Being Misled"
+        },
+        {
+          "number": 60,
+          "title": "Estimate Before You Accept the Answer",
+          "objective": "Estimate Before You Accept the Answer"
+        }
+      ]
+    },
+    {
+      "number": 11,
+      "title": "Stage 11 — Check Meaning, Bias and Missing Context",
+      "lessons": [
+        {
+          "number": 61,
+          "title": "Check Whether the Answer Addresses the Question",
+          "objective": "Check Whether the Answer Addresses the Question"
+        },
+        {
+          "number": 62,
+          "title": "Find Missing Exceptions and Qualifications",
+          "objective": "Find Missing Exceptions and Qualifications"
+        },
+        {
+          "number": 63,
+          "title": "Recognize Stereotypes and Unfair Assumptions",
+          "objective": "Recognize Stereotypes and Unfair Assumptions"
+        },
+        {
+          "number": 64,
+          "title": "Distinguish Observation from Interpretation",
+          "objective": "Distinguish Observation from Interpretation"
+        },
+        {
+          "number": 65,
+          "title": "Evaluate Images, Audio and Translations",
+          "objective": "Evaluate Images, Audio and Translations"
+        },
+        {
+          "number": 66,
+          "title": "Know When a Qualified Person Is Needed",
+          "objective": "Know When a Qualified Person Is Needed"
+        }
+      ]
+    },
+    {
+      "number": 12,
+      "title": "Stage 12 — Create a Reliable Output-Checking Routine",
+      "lessons": [
+        {
+          "number": 67,
+          "title": "Choose the Right Depth of Review",
+          "objective": "Choose the Right Depth of Review"
+        },
+        {
+          "number": 68,
+          "title": "Build the Claim-and-Evidence Table",
+          "objective": "Build the Claim-and-Evidence Table"
+        },
+        {
+          "number": 69,
+          "title": "Use a Second AI as a Reviewer Carefully",
+          "objective": "Use a Second AI as a Reviewer Carefully"
+        },
+        {
+          "number": 70,
+          "title": "Check the Final Artifact, Not Only the Chat",
+          "objective": "Check the Final Artifact, Not Only the Chat"
+        },
+        {
+          "number": 71,
+          "title": "Decide to Accept, Revise or Stop",
+          "objective": "Decide to Accept, Revise or Stop"
+        },
+        {
+          "number": 72,
+          "title": "Project 3: Repair an Unreliable AI Answer",
+          "objective": "Project 3: Repair an Unreliable AI Answer"
+        }
+      ]
+    },
+    {
+      "number": 13,
+      "title": "Stage 13 — Everyday Writing in Your Own Voice",
+      "lessons": [
+        {
+          "number": 73,
+          "title": "Move from Notes to a Clear First Draft",
+          "objective": "Move from Notes to a Clear First Draft"
+        },
+        {
+          "number": 74,
+          "title": "Make Writing Clearer and Shorter",
+          "objective": "Make Writing Clearer and Shorter"
+        },
+        {
+          "number": 75,
+          "title": "Adjust Tone for the Audience",
+          "objective": "Adjust Tone for the Audience"
+        },
+        {
+          "number": 76,
+          "title": "Preserve Your Voice",
+          "objective": "Preserve Your Voice"
+        },
+        {
+          "number": 77,
+          "title": "Edit Line by Line When Precision Matters",
+          "objective": "Edit Line by Line When Precision Matters"
+        },
+        {
+          "number": 78,
+          "title": "Finish a Ready-to-Use Document",
+          "objective": "Finish a Ready-to-Use Document"
+        }
+      ]
+    },
+    {
+      "number": 14,
+      "title": "Stage 14 — Email, Messages and Everyday Communication",
+      "lessons": [
+        {
+          "number": 79,
+          "title": "Summarize a Long Message Thread",
+          "objective": "Summarize a Long Message Thread"
+        },
+        {
+          "number": 80,
+          "title": "Draft Clear Requests and Follow-Ups",
+          "objective": "Draft Clear Requests and Follow-Ups"
+        },
+        {
+          "number": 81,
+          "title": "Handle Difficult Messages Constructively",
+          "objective": "Handle Difficult Messages Constructively"
+        },
+        {
+          "number": 82,
+          "title": "Turn Notes into Meeting Agendas",
+          "objective": "Turn Notes into Meeting Agendas"
+        },
+        {
+          "number": 83,
+          "title": "Check Names, Dates and Commitments",
+          "objective": "Check Names, Dates and Commitments"
+        },
+        {
+          "number": 84,
+          "title": "Keep Drafting Separate from Sending",
+          "objective": "Keep Drafting Separate from Sending"
+        }
+      ]
+    },
+    {
+      "number": 15,
+      "title": "Stage 15 — Learn New Things with AI",
+      "lessons": [
+        {
+          "number": 85,
+          "title": "Ask for Explanations at the Right Level",
+          "objective": "Ask for Explanations at the Right Level"
+        },
+        {
+          "number": 86,
+          "title": "Use Analogies and Worked Examples",
+          "objective": "Use Analogies and Worked Examples"
+        },
+        {
+          "number": 87,
+          "title": "Practise Before Revealing the Answer",
+          "objective": "Practise Before Revealing the Answer"
+        },
+        {
+          "number": 88,
+          "title": "Build Quizzes and Flashcards from Sources",
+          "objective": "Build Quizzes and Flashcards from Sources"
+        },
+        {
+          "number": 89,
+          "title": "Plan Revision and Track Weak Areas",
+          "objective": "Plan Revision and Track Weak Areas"
+        },
+        {
+          "number": 90,
+          "title": "Show What You Learned Without the Tool",
+          "objective": "Show What You Learned Without the Tool"
+        }
+      ]
+    },
+    {
+      "number": 16,
+      "title": "Stage 16 — Translation, Language Practice and Accessible Wording",
+      "lessons": [
+        {
+          "number": 91,
+          "title": "Translate for a Specific Audience",
+          "objective": "Translate for a Specific Audience"
+        },
+        {
+          "number": 92,
+          "title": "Create a Glossary for Important Terms",
+          "objective": "Create a Glossary for Important Terms"
+        },
+        {
+          "number": 93,
+          "title": "Check Ambiguity and Meaning",
+          "objective": "Check Ambiguity and Meaning"
+        },
+        {
+          "number": 94,
+          "title": "Practise Conversations and Pronunciation",
+          "objective": "Practise Conversations and Pronunciation"
+        },
+        {
+          "number": 95,
+          "title": "Simplify Dense Language",
+          "objective": "Simplify Dense Language"
+        },
+        {
+          "number": 96,
+          "title": "Project 4: Create a Personal Learning Pack",
+          "objective": "Project 4: Create a Personal Learning Pack"
+        }
+      ]
+    },
+    {
+      "number": 17,
+      "title": "Stage 17 — Research Everyday Questions Efficiently",
+      "lessons": [
+        {
+          "number": 97,
+          "title": "Define the Research Question",
+          "objective": "Define the Research Question"
+        },
+        {
+          "number": 98,
+          "title": "Build a Search Plan",
+          "objective": "Build a Search Plan"
+        },
+        {
+          "number": 99,
+          "title": "Find Original and Relevant Sources",
+          "objective": "Find Original and Relevant Sources"
+        },
+        {
+          "number": 100,
+          "title": "Compare Conflicting Information",
+          "objective": "Compare Conflicting Information"
+        },
+        {
+          "number": 101,
+          "title": "Write a Short Evidence-Based Brief",
+          "objective": "Write a Short Evidence-Based Brief"
+        },
+        {
+          "number": 102,
+          "title": "Refresh Information That Can Change",
+          "objective": "Refresh Information That Can Change"
+        }
+      ]
+    },
+    {
+      "number": 18,
+      "title": "Stage 18 — Work with PDFs, Documents and Source Notebooks",
+      "lessons": [
+        {
+          "number": 103,
+          "title": "Choose Sources and Organize the Notebook",
+          "objective": "Choose Sources and Organize the Notebook"
+        },
+        {
+          "number": 104,
+          "title": "Ask Questions About the Supplied Material",
+          "objective": "Ask Questions About the Supplied Material"
+        },
+        {
+          "number": 105,
+          "title": "Check Citations Against the Original Page",
+          "objective": "Check Citations Against the Original Page"
+        },
+        {
+          "number": 106,
+          "title": "Extract Lists, Dates and Action Items",
+          "objective": "Extract Lists, Dates and Action Items"
+        },
+        {
+          "number": 107,
+          "title": "Handle Scans, Tables and Poor OCR",
+          "objective": "Handle Scans, Tables and Poor OCR"
+        },
+        {
+          "number": 108,
+          "title": "Create Summaries in Different Formats",
+          "objective": "Create Summaries in Different Formats"
+        }
+      ]
+    },
+    {
+      "number": 19,
+      "title": "Stage 19 — Voice Notes, Meetings and Action Summaries",
+      "lessons": [
+        {
+          "number": 109,
+          "title": "Capture Audio with Permission and Purpose",
+          "objective": "Capture Audio with Permission and Purpose"
+        },
+        {
+          "number": 110,
+          "title": "Create and Inspect the Transcript",
+          "objective": "Create and Inspect the Transcript"
+        },
+        {
+          "number": 111,
+          "title": "Separate Decisions from Suggestions",
+          "objective": "Separate Decisions from Suggestions"
+        },
+        {
+          "number": 112,
+          "title": "Extract Actions Without Inventing Owners",
+          "objective": "Extract Actions Without Inventing Owners"
+        },
+        {
+          "number": 113,
+          "title": "Turn Voice Notes into Organized Material",
+          "objective": "Turn Voice Notes into Organized Material"
+        },
+        {
+          "number": 114,
+          "title": "Approve the Summary Before Sharing",
+          "objective": "Approve the Summary Before Sharing"
+        }
+      ]
+    },
+    {
+      "number": 20,
+      "title": "Stage 20 — Compare Options and Support Better Decisions",
+      "lessons": [
+        {
+          "number": 115,
+          "title": "Separate Facts, Preferences and Constraints",
+          "objective": "Separate Facts, Preferences and Constraints"
+        },
+        {
+          "number": 116,
+          "title": "Choose Decision Criteria",
+          "objective": "Choose Decision Criteria"
+        },
+        {
+          "number": 117,
+          "title": "Build a Fair Comparison Table",
+          "objective": "Build a Fair Comparison Table"
+        },
+        {
+          "number": 118,
+          "title": "Test Assumptions and Tradeoffs",
+          "objective": "Test Assumptions and Tradeoffs"
+        },
+        {
+          "number": 119,
+          "title": "Avoid False Precision in Rankings",
+          "objective": "Avoid False Precision in Rankings"
+        },
+        {
+          "number": 120,
+          "title": "Project 5: Build a Checked Decision Brief",
+          "objective": "Project 5: Build a Checked Decision Brief"
+        }
+      ]
+    },
+    {
+      "number": 21,
+      "title": "Stage 21 — Planning Your Time and Everyday Projects",
+      "lessons": [
+        {
+          "number": 121,
+          "title": "Turn a Goal into Small Actions",
+          "objective": "Turn a Goal into Small Actions"
+        },
+        {
+          "number": 122,
+          "title": "Estimate Time and Dependencies",
+          "objective": "Estimate Time and Dependencies"
+        },
+        {
+          "number": 123,
+          "title": "Build a Realistic Weekly Plan",
+          "objective": "Build a Realistic Weekly Plan"
+        },
+        {
+          "number": 124,
+          "title": "Plan Meals, Events and Household Tasks",
+          "objective": "Plan Meals, Events and Household Tasks"
+        },
+        {
+          "number": 125,
+          "title": "Revise When the Plan Changes",
+          "objective": "Revise When the Plan Changes"
+        },
+        {
+          "number": 126,
+          "title": "Check Before Adding Calendar Events",
+          "objective": "Check Before Adding Calendar Events"
+        }
+      ]
+    },
+    {
+      "number": 22,
+      "title": "Stage 22 — Personal Administration and Document Organization",
+      "lessons": [
+        {
+          "number": 127,
+          "title": "Read and Summarize Routine Documents",
+          "objective": "Read and Summarize Routine Documents"
+        },
+        {
+          "number": 128,
+          "title": "Turn Receipts into a Checked Register",
+          "objective": "Turn Receipts into a Checked Register"
+        },
+        {
+          "number": 129,
+          "title": "Create Form-Filling Checklists",
+          "objective": "Create Form-Filling Checklists"
+        },
+        {
+          "number": 130,
+          "title": "Organize Files with Clear Naming Rules",
+          "objective": "Organize Files with Clear Naming Rules"
+        },
+        {
+          "number": 131,
+          "title": "Prepare Questions for a Professional",
+          "objective": "Prepare Questions for a Professional"
+        },
+        {
+          "number": 132,
+          "title": "Build a Monthly Admin Routine",
+          "objective": "Build a Monthly Admin Routine"
+        }
+      ]
+    },
+    {
+      "number": 23,
+      "title": "Stage 23 — Shopping, Travel and Everyday Recommendations",
+      "lessons": [
+        {
+          "number": 133,
+          "title": "Write a Useful Recommendation Brief",
+          "objective": "Write a Useful Recommendation Brief"
+        },
+        {
+          "number": 134,
+          "title": "Check Current Prices and Availability",
+          "objective": "Check Current Prices and Availability"
+        },
+        {
+          "number": 135,
+          "title": "Compare Reviews and Marketing Claims",
+          "objective": "Compare Reviews and Marketing Claims"
+        },
+        {
+          "number": 136,
+          "title": "Build a Travel or Outing Draft",
+          "objective": "Build a Travel or Outing Draft"
+        },
+        {
+          "number": 137,
+          "title": "Verify Before Booking or Buying",
+          "objective": "Verify Before Booking or Buying"
+        },
+        {
+          "number": 138,
+          "title": "Create a Fallback Plan",
+          "objective": "Create a Fallback Plan"
+        }
+      ]
+    },
+    {
+      "number": 24,
+      "title": "Stage 24 — Career Tasks and Everyday Professional Work",
+      "lessons": [
+        {
+          "number": 139,
+          "title": "Read a Job Description Critically",
+          "objective": "Read a Job Description Critically"
+        },
+        {
+          "number": 140,
+          "title": "Improve a CV Without Inventing Experience",
+          "objective": "Improve a CV Without Inventing Experience"
+        },
+        {
+          "number": 141,
+          "title": "Prepare a Tailored Application Draft",
+          "objective": "Prepare a Tailored Application Draft"
+        },
+        {
+          "number": 142,
+          "title": "Practise Interviews and Feedback",
+          "objective": "Practise Interviews and Feedback"
+        },
+        {
+          "number": 143,
+          "title": "Create a Simple Work Procedure",
+          "objective": "Create a Simple Work Procedure"
+        },
+        {
+          "number": 144,
+          "title": "Project 6: Build an Everyday Productivity Pack",
+          "objective": "Project 6: Build an Everyday Productivity Pack"
+        }
+      ]
+    },
+    {
+      "number": 25,
+      "title": "Stage 25 — Spreadsheets and Everyday Data",
+      "lessons": [
+        {
+          "number": 145,
+          "title": "Structure a Clean Table",
+          "objective": "Structure a Clean Table"
+        },
+        {
+          "number": 146,
+          "title": "Clean Categories and Messy Text",
+          "objective": "Clean Categories and Messy Text"
+        },
+        {
+          "number": 147,
+          "title": "Ask for Formulas You Can Explain",
+          "objective": "Ask for Formulas You Can Explain"
+        },
+        {
+          "number": 148,
+          "title": "Summarize and Compare Data",
+          "objective": "Summarize and Compare Data"
+        },
+        {
+          "number": 149,
+          "title": "Create a Chart for a Clear Question",
+          "objective": "Create a Chart for a Clear Question"
+        },
+        {
+          "number": 150,
+          "title": "Keep Original Data and Check Results",
+          "objective": "Keep Original Data and Check Results"
+        }
+      ]
+    },
+    {
+      "number": 26,
+      "title": "Stage 26 — Documents, Slides and Visual Explanations",
+      "lessons": [
+        {
+          "number": 151,
+          "title": "Start with the Audience and Main Message",
+          "objective": "Start with the Audience and Main Message"
+        },
+        {
+          "number": 152,
+          "title": "Build an Outline from Checked Material",
+          "objective": "Build an Outline from Checked Material"
+        },
+        {
+          "number": 153,
+          "title": "Create a Document or Slide Draft",
+          "objective": "Create a Document or Slide Draft"
+        },
+        {
+          "number": 154,
+          "title": "Choose Visuals That Explain the Content",
+          "objective": "Choose Visuals That Explain the Content"
+        },
+        {
+          "number": 155,
+          "title": "Edit for Readability and Accessibility",
+          "objective": "Edit for Readability and Accessibility"
+        },
+        {
+          "number": 156,
+          "title": "Verify the Finished File",
+          "objective": "Verify the Finished File"
+        }
+      ]
+    },
+    {
+      "number": 27,
+      "title": "Stage 27 — Images, Design and Visual AI",
+      "lessons": [
+        {
+          "number": 157,
+          "title": "Choose Generation, Editing or a Real Photograph",
+          "objective": "Choose Generation, Editing or a Real Photograph"
+        },
+        {
+          "number": 158,
+          "title": "Write a Clear Visual Brief",
+          "objective": "Write a Clear Visual Brief"
+        },
+        {
+          "number": 159,
+          "title": "Create Several Useful Variations",
+          "objective": "Create Several Useful Variations"
+        },
+        {
+          "number": 160,
+          "title": "Edit Images While Preserving Important Details",
+          "objective": "Edit Images While Preserving Important Details"
+        },
+        {
+          "number": 161,
+          "title": "Check Text, Details and Representation",
+          "objective": "Check Text, Details and Representation"
+        },
+        {
+          "number": 162,
+          "title": "Permissions, Attribution and Honest Presentation",
+          "objective": "Permissions, Attribution and Honest Presentation"
+        }
+      ]
+    },
+    {
+      "number": 28,
+      "title": "Stage 28 — Audio, Captions and Simple Video Work",
+      "lessons": [
+        {
+          "number": 163,
+          "title": "Plan a Short Audio or Video Message",
+          "objective": "Plan a Short Audio or Video Message"
+        },
+        {
+          "number": 164,
+          "title": "Edit Audio with Transcript-Based Tools",
+          "objective": "Edit Audio with Transcript-Based Tools"
+        },
+        {
+          "number": 165,
+          "title": "Generate and Correct Captions",
+          "objective": "Generate and Correct Captions"
+        },
+        {
+          "number": 166,
+          "title": "Use Synthetic Narration Responsibly",
+          "objective": "Use Synthetic Narration Responsibly"
+        },
+        {
+          "number": 167,
+          "title": "Inspect the Exported Media",
+          "objective": "Inspect the Exported Media"
+        },
+        {
+          "number": 168,
+          "title": "Project 7: Create a Checked Communication Kit",
+          "objective": "Project 7: Create a Checked Communication Kit"
+        }
+      ]
+    },
+    {
+      "number": 29,
+      "title": "Stage 29 — Mobile AI and Accessibility Workflows",
+      "lessons": [
+        {
+          "number": 169,
+          "title": "Use Voice When Typing Is Inconvenient",
+          "objective": "Use Voice When Typing Is Inconvenient"
+        },
+        {
+          "number": 170,
+          "title": "Read Text from an Image",
+          "objective": "Read Text from an Image"
+        },
+        {
+          "number": 171,
+          "title": "Describe Images with Appropriate Limits",
+          "objective": "Describe Images with Appropriate Limits"
+        },
+        {
+          "number": 172,
+          "title": "Listen, Simplify and Reformat",
+          "objective": "Listen, Simplify and Reformat"
+        },
+        {
+          "number": 173,
+          "title": "Adapt for Low Bandwidth or Older Devices",
+          "objective": "Adapt for Low Bandwidth or Older Devices"
+        },
+        {
+          "number": 174,
+          "title": "Build an Accessible Personal Routine",
+          "objective": "Build an Accessible Personal Routine"
+        }
+      ]
+    },
+    {
+      "number": 30,
+      "title": "Stage 30 — AI for Freelancers, Small Businesses and Community Groups",
+      "lessons": [
+        {
+          "number": 175,
+          "title": "Turn a Service Brief into Clear Copy",
+          "objective": "Turn a Service Brief into Clear Copy"
+        },
+        {
+          "number": 176,
+          "title": "Build Answers to Repeated Questions",
+          "objective": "Build Answers to Repeated Questions"
+        },
+        {
+          "number": 177,
+          "title": "Repurpose Approved Content",
+          "objective": "Repurpose Approved Content"
+        },
+        {
+          "number": 178,
+          "title": "Organize Customer or Volunteer Requests",
+          "objective": "Organize Customer or Volunteer Requests"
+        },
+        {
+          "number": 179,
+          "title": "Prepare Simple Operational Summaries",
+          "objective": "Prepare Simple Operational Summaries"
+        },
+        {
+          "number": 180,
+          "title": "Keep Sensitive and Public Information Separate",
+          "objective": "Keep Sensitive and Public Information Separate"
+        }
+      ]
+    },
+    {
+      "number": 31,
+      "title": "Stage 31 — Connect Tools into a Practical Workflow",
+      "lessons": [
+        {
+          "number": 181,
+          "title": "Map Input, Processing, Review and Output",
+          "objective": "Map Input, Processing, Review and Output"
+        },
+        {
+          "number": 182,
+          "title": "Choose the Right Tool for Each Step",
+          "objective": "Choose the Right Tool for Each Step"
+        },
+        {
+          "number": 183,
+          "title": "Use Stable Handoff Formats",
+          "objective": "Use Stable Handoff Formats"
+        },
+        {
+          "number": 184,
+          "title": "Check Each Transformation",
+          "objective": "Check Each Transformation"
+        },
+        {
+          "number": 185,
+          "title": "Use Manual Handoffs Before Automating",
+          "objective": "Use Manual Handoffs Before Automating"
+        },
+        {
+          "number": 186,
+          "title": "Recover from a Missing or Poor Input",
+          "objective": "Recover from a Missing or Poor Input"
+        }
+      ]
+    },
+    {
+      "number": 32,
+      "title": "Stage 32 — Make an Everyday Workflow Repeatable",
+      "lessons": [
+        {
+          "number": 187,
+          "title": "Write the Trigger and Required Inputs",
+          "objective": "Write the Trigger and Required Inputs"
+        },
+        {
+          "number": 188,
+          "title": "Define a Consistent Output Template",
+          "objective": "Define a Consistent Output Template"
+        },
+        {
+          "number": 189,
+          "title": "Add a Human Review Checklist",
+          "objective": "Add a Human Review Checklist"
+        },
+        {
+          "number": 190,
+          "title": "Handle Exceptions Explicitly",
+          "objective": "Handle Exceptions Explicitly"
+        },
+        {
+          "number": 191,
+          "title": "Measure Time and Quality Across Runs",
+          "objective": "Measure Time and Quality Across Runs"
+        },
+        {
+          "number": 192,
+          "title": "Project 8: Build Your Repeatable Workflow",
+          "objective": "Project 8: Build Your Repeatable Workflow"
+        }
+      ]
+    },
+    {
+      "number": 33,
+      "title": "Stage 33 — No-Code Automation from the Beginning",
+      "lessons": [
+        {
+          "number": 193,
+          "title": "Decide Whether Automation Is Worth It",
+          "objective": "Decide Whether Automation Is Worth It"
+        },
+        {
+          "number": 194,
+          "title": "Triggers, Actions and Conditions",
+          "objective": "Triggers, Actions and Conditions"
+        },
+        {
+          "number": 195,
+          "title": "Connect Apps with Limited Permissions",
+          "objective": "Connect Apps with Limited Permissions"
+        },
+        {
+          "number": 196,
+          "title": "Add an AI Transformation Step",
+          "objective": "Add an AI Transformation Step"
+        },
+        {
+          "number": 197,
+          "title": "Test with Sample Records",
+          "objective": "Test with Sample Records"
+        },
+        {
+          "number": 198,
+          "title": "Build the First Draft-Only Automation",
+          "objective": "Build the First Draft-Only Automation"
+        }
+      ]
+    },
+    {
+      "number": 34,
+      "title": "Stage 34 — Human Approval and Controlled Actions",
+      "lessons": [
+        {
+          "number": 199,
+          "title": "Separate Drafting from Doing",
+          "objective": "Separate Drafting from Doing"
+        },
+        {
+          "number": 200,
+          "title": "Design a Reviewable Approval Request",
+          "objective": "Design a Reviewable Approval Request"
+        },
+        {
+          "number": 201,
+          "title": "Handle Approve, Reject and Edit Paths",
+          "objective": "Handle Approve, Reject and Edit Paths"
+        },
+        {
+          "number": 202,
+          "title": "Recheck Changed Content Before Action",
+          "objective": "Recheck Changed Content Before Action"
+        },
+        {
+          "number": 203,
+          "title": "Limit Scope and Provide an Off Switch",
+          "objective": "Limit Scope and Provide an Off Switch"
+        },
+        {
+          "number": 204,
+          "title": "Test the Approval Boundary",
+          "objective": "Test the Approval Boundary"
+        }
+      ]
+    },
+    {
+      "number": 35,
+      "title": "Stage 35 — Make Automations Reliable Enough to Reuse",
+      "lessons": [
+        {
+          "number": 205,
+          "title": "Recognize Partial Failure",
+          "objective": "Recognize Partial Failure"
+        },
+        {
+          "number": 206,
+          "title": "Prevent Duplicate Outputs and Actions",
+          "objective": "Prevent Duplicate Outputs and Actions"
+        },
+        {
+          "number": 207,
+          "title": "Set Timeouts, Retries and Stop Conditions",
+          "objective": "Set Timeouts, Retries and Stop Conditions"
+        },
+        {
+          "number": 208,
+          "title": "Check Output Structure Before Continuing",
+          "objective": "Check Output Structure Before Continuing"
+        },
+        {
+          "number": 209,
+          "title": "Track Usage, Costs and Permissions",
+          "objective": "Track Usage, Costs and Permissions"
+        },
+        {
+          "number": 210,
+          "title": "Keep a Manual Recovery Route",
+          "objective": "Keep a Manual Recovery Route"
+        }
+      ]
+    },
+    {
+      "number": 36,
+      "title": "Stage 36 — Build a Complete Everyday Automation",
+      "lessons": [
+        {
+          "number": 211,
+          "title": "Choose a Small Useful Automation",
+          "objective": "Choose a Small Useful Automation"
+        },
+        {
+          "number": 212,
+          "title": "Build the Input and Draft Steps",
+          "objective": "Build the Input and Draft Steps"
+        },
+        {
+          "number": 213,
+          "title": "Add Validation and Review",
+          "objective": "Add Validation and Review"
+        },
+        {
+          "number": 214,
+          "title": "Add Logging and Duplicate Protection",
+          "objective": "Add Logging and Duplicate Protection"
+        },
+        {
+          "number": 215,
+          "title": "Project 9: Deliver a Reviewed Automation",
+          "objective": "Project 9: Deliver a Reviewed Automation"
+        },
+        {
+          "number": 216,
+          "title": "Compare It with the Manual Process",
+          "objective": "Compare It with the Manual Process"
+        }
+      ]
+    },
+    {
+      "number": 37,
+      "title": "Stage 37 — Reusable Assistants and Task-Performing AI",
+      "lessons": [
+        {
+          "number": 217,
+          "title": "Saved Instructions and Reusable Assistants",
+          "objective": "Saved Instructions and Reusable Assistants"
+        },
+        {
+          "number": 218,
+          "title": "Use a Small Approved Knowledge Pack",
+          "objective": "Use a Small Approved Knowledge Pack"
+        },
+        {
+          "number": 219,
+          "title": "Understand Agents and Tool Use",
+          "objective": "Understand Agents and Tool Use"
+        },
+        {
+          "number": 220,
+          "title": "Set Boundaries for a Task-Performing Assistant",
+          "objective": "Set Boundaries for a Task-Performing Assistant"
+        },
+        {
+          "number": 221,
+          "title": "Watch for Untrusted Content Instructions",
+          "objective": "Watch for Untrusted Content Instructions"
+        },
+        {
+          "number": 222,
+          "title": "Evaluate Whether the Assistant Helps",
+          "objective": "Evaluate Whether the Assistant Helps"
+        }
+      ]
+    },
+    {
+      "number": 38,
+      "title": "Stage 38 — Evaluate and Improve Your AI Workflows",
+      "lessons": [
+        {
+          "number": 223,
+          "title": "Define a Small Quality Rubric",
+          "objective": "Define a Small Quality Rubric"
+        },
+        {
+          "number": 224,
+          "title": "Build a Representative Test Set",
+          "objective": "Build a Representative Test Set"
+        },
+        {
+          "number": 225,
+          "title": "Compare Two Tools Fairly",
+          "objective": "Compare Two Tools Fairly"
+        },
+        {
+          "number": 226,
+          "title": "Measure the Whole Task",
+          "objective": "Measure the Whole Task"
+        },
+        {
+          "number": 227,
+          "title": "Recheck After a Tool or Prompt Change",
+          "objective": "Recheck After a Tool or Prompt Change"
+        },
+        {
+          "number": 228,
+          "title": "Decide to Keep, Revise or Retire",
+          "objective": "Decide to Keep, Revise or Retire"
+        }
+      ]
+    },
+    {
+      "number": 39,
+      "title": "Stage 39 — Build Your Personal AI Operating Routine",
+      "lessons": [
+        {
+          "number": 229,
+          "title": "Choose the Workflows You Will Actually Use",
+          "objective": "Choose the Workflows You Will Actually Use"
+        },
+        {
+          "number": 230,
+          "title": "Create a Home for Prompts and Templates",
+          "objective": "Create a Home for Prompts and Templates"
+        },
+        {
+          "number": 231,
+          "title": "Set a Review and Cleanup Habit",
+          "objective": "Set a Review and Cleanup Habit"
+        },
+        {
+          "number": 232,
+          "title": "Plan a Sensible Tool Budget",
+          "objective": "Plan a Sensible Tool Budget"
+        },
+        {
+          "number": 233,
+          "title": "Share a Workflow So Someone Else Can Use It",
+          "objective": "Share a Workflow So Someone Else Can Use It"
+        },
+        {
+          "number": 234,
+          "title": "Prepare Your Capstone Brief",
+          "objective": "Prepare Your Capstone Brief"
+        }
+      ]
+    },
+    {
+      "number": 40,
+      "title": "Stage 40 — Capstone: A Useful, Checked and Repeatable AI Workflow",
+      "lessons": [
+        {
+          "number": 235,
+          "title": "Choose the Everyday Problem and Success Criteria",
+          "objective": "Choose the Everyday Problem and Success Criteria"
+        },
+        {
+          "number": 236,
+          "title": "Build the Prompt and Input Pack",
+          "objective": "Build the Prompt and Input Pack"
+        },
+        {
+          "number": 237,
+          "title": "Connect the Tools and Checking Steps",
+          "objective": "Connect the Tools and Checking Steps"
+        },
+        {
+          "number": 238,
+          "title": "Project 10: Deliver Your Everyday AI Workflow",
+          "objective": "Project 10: Deliver Your Everyday AI Workflow"
+        },
+        {
+          "number": 239,
+          "title": "Test a New Case and a Failure Case",
+          "objective": "Test a New Case and a Failure Case"
+        },
+        {
+          "number": 240,
+          "title": "Present the Results and Next Improvements",
+          "objective": "Present the Results and Next Improvements"
+        }
+      ]
+    }
+  ]
+}
