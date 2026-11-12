@@ -1,0 +1,26 @@
+{
+  "fictional": true,
+  "recordId": "GARDEN-BRIEF-001",
+  "status": "Approved fictional teaching brief",
+  "headline": "Community Garden Open Day",
+  "date": "2026-10-24",
+  "day": "Saturday",
+  "time": "10:00–13:00",
+  "activities": [
+    "Seed exchange",
+    "Garden tour",
+    "Compost demonstration"
+  ],
+  "entry": "Free",
+  "location": "Riverside Community Garden",
+  "accessibilityDetails": null,
+  "contactMethod": null,
+  "destination": {
+    "channel": "Social post",
+    "name": "Community Garden — Test Event Page",
+    "id": "academy-garden-test-page",
+    "visibility": "Non-public test"
+  },
+  "reviewer": "Event coordinator — test reviewer",
+  "publicPostingEnabled": false
+}

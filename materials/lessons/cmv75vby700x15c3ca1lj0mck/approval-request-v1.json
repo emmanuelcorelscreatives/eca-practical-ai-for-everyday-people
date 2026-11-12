@@ -1,0 +1,34 @@
+{
+  "fictional": true,
+  "action": "Publish community garden announcement",
+  "ifApproved": "One post will move toward publication on the named non-public test event page. No real publication is enabled in this practice app.",
+  "destination": {
+    "channel": "Social post",
+    "name": "Community Garden — Test Event Page",
+    "id": "academy-garden-test-page",
+    "visibility": "Non-public test"
+  },
+  "contentLabel": "Generated draft",
+  "headline": "Community Garden Open Day",
+  "body": "Community Garden Open Day — Saturday, 24 October 2026, 10:00–13:00. Seed exchange, garden tour, and compost demonstration. Entry is free. Location: Riverside Community Garden.",
+  "attachment": "garden-open-day-banner-v1.svg",
+  "supportingRecords": [
+    "event-brief.json",
+    "venue-confirmation.md",
+    "banner-permission.md"
+  ],
+  "assumptions": [
+    "Audience wants a short public-style announcement"
+  ],
+  "missingInformation": [
+    "Accessibility details: not supplied",
+    "Contact method: not supplied"
+  ],
+  "version": 1,
+  "reviewer": "Event coordinator — test reviewer",
+  "reviewerAuthorityConfirmed": false,
+  "decision": null,
+  "decisionTime": null,
+  "externalAction": "Disabled",
+  "destinationConfigurationRecord": "test-destination-action-config.json"
+}

@@ -1,0 +1,11 @@
+{
+  "fictional": true,
+  "source": "Self-created local teaching target configuration; no vendor account or connector",
+  "channel": "Social post",
+  "destinationName": "Community Garden — Test Event Page",
+  "destinationId": "academy-garden-test-page",
+  "visibility": "Non-public test",
+  "publishingEnabled": false,
+  "externalConnection": null,
+  "configuredAction": "Publish community garden announcement"
+}

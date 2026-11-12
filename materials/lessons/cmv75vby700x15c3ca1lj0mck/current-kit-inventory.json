@@ -1,0 +1,72 @@
+{
+  "version": 1,
+  "projectId": "cmv75vby700x15c3ca1lj0mck",
+  "scriptSha256": "f7b3b1fdc75ab54fe7d73ec8ecf2faa828bc0cb787a27921e5b8bacab455de01",
+  "files": [
+    {
+      "name": "README.md",
+      "sha256": "976dc037647ab225442735f39c1e567e32a653c866ccb45daac22efc3ef4517a",
+      "bytes": 906
+    },
+    {
+      "name": "answer-key.md",
+      "sha256": "cd40e82a36386b92b2246fd42e95a2767cf473f5102525eb80c55a76536d4190",
+      "bytes": 1190
+    },
+    {
+      "name": "approval-practice.html",
+      "sha256": "97ab4ec874f7cdd792ba1740589fa23c5cdecd644f725d0c542adc74b7a5a46b",
+      "bytes": 9785
+    },
+    {
+      "name": "approval-request-template.md",
+      "sha256": "b2120ebdf4319c30f1866bb9238b432524afe19ad6a25ecd4661a61266a6f44b",
+      "bytes": 894
+    },
+    {
+      "name": "approval-request-v1.json",
+      "sha256": "5690b2bf799fac3e154235c093ad4dbe0ba8ab36977a62ee7fc9e7824f1e479c",
+      "bytes": 1287
+    },
+    {
+      "name": "banner-permission.md",
+      "sha256": "5c08c8169ac51e3f02d6c22f3f3773be8661193127dfe03c115c83f57d2c9a96",
+      "bytes": 574
+    },
+    {
+      "name": "check_kit.py",
+      "sha256": "f03f2c35e237f39e45de81b0f59e1cc3d0ac50023662bdcd447c0955ffe67f35",
+      "bytes": 1582
+    },
+    {
+      "name": "event-brief.json",
+      "sha256": "6109b8a050d61e85c1334ef75cf406d9ed4d332dd8e0964d9a0673ef95462018",
+      "bytes": 699
+    },
+    {
+      "name": "garden-open-day-banner-v1.svg",
+      "sha256": "38c3095f1860a1197936d8bfe8136266e0281cd0ddb60d138fb4e33628c8e8cd",
+      "bytes": 691
+    },
+    {
+      "name": "review-register.csv",
+      "sha256": "3edc1d5953618af96fb48cc3de98b65dc0759ed0ef3b642df5f0925a15587776",
+      "bytes": 140
+    },
+    {
+      "name": "test-destination-action-config.json",
+      "sha256": "910abc533845fba11587499129cf3b75a7963a6aa6bc28056de03e56d50ede8d",
+      "bytes": 414
+    },
+    {
+      "name": "venue-confirmation.md",
+      "sha256": "09e361d5e04e9b32d70aa5cd084b63be7931e919576b22af1966f887760907ea",
+      "bytes": 439
+    },
+    {
+      "name": "worksheet.md",
+      "sha256": "cef2d05abcfb8a57a0ee57f2aaea191a6acae267aee89c2ce926de95a605400a",
+      "bytes": 4032
+    }
+  ]
+}
