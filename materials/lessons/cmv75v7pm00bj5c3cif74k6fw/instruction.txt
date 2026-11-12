@@ -1,0 +1,3 @@
+Create a short workshop cost summary from the supplied notes. Show each cost and the total. Label assumptions and missing information. Do not invent details.
+
+Practice intended use: determine whether the result is ready for final spending and suitability approval. Label the calculable total as the listed-cost subtotal while additional fees are unresolved.
