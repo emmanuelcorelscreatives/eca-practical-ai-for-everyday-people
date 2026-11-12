@@ -1,0 +1,55 @@
+{
+  "lesson": 133,
+  "fictional": true,
+  "preparedNotLiveSearch": true,
+  "budgetEUR": 60,
+  "people": 2,
+  "brief": {
+    "decision": "quiet Saturday lunch",
+    "start": "central library",
+    "maxJourneyMinutes": 30,
+    "time": "12:30",
+    "actualCalendarDate": null,
+    "city": null,
+    "exactAddress": null,
+    "travelMode": null,
+    "nonnegotiable": "step-free entrance",
+    "preference": "vegetarian choices",
+    "exclude": "no published contact details"
+  },
+  "options": [
+    {
+      "id": "A",
+      "menuEUR": 50,
+      "serviceEUR": 5,
+      "knownSubtotalEUR": 55,
+      "fullUnavoidableCostKnown": false,
+      "publishedContactInFixture": true,
+      "accessConfirmed": false,
+      "availableConfirmed": false,
+      "source": "evidence-option-a.md"
+    },
+    {
+      "id": "B",
+      "menuEUR": 44,
+      "serviceEUR": null,
+      "knownSubtotalEUR": null,
+      "fullUnavoidableCostKnown": false,
+      "publishedContactInFixture": false,
+      "accessConfirmed": false,
+      "availableConfirmed": false,
+      "source": "evidence-option-b.md"
+    },
+    {
+      "id": "C",
+      "menuEUR": 58,
+      "serviceEUR": 8,
+      "knownSubtotalEUR": 66,
+      "fullUnavoidableCostKnown": false,
+      "publishedContactInFixture": true,
+      "accessConfirmed": false,
+      "availableConfirmed": false,
+      "source": "evidence-option-c.md"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+BRIEF-TO-SEARCH PATTERN
+Using my recommendation brief below, return up to five provisional options. Follow my stated location, date, budget, preferences and nonnegotiable requirements. Label assumptions, missing information, and evidence to open. Treat prices, hours, accessibility, fees and availability as unverified unless you have usable evidence. Do not invent missing details or present a shortlist as a booking. If an essential starting detail is unknown, ask me to clarify it first.
+[Paste my completed brief, excluding unnecessary private information.]
+
+FICTIONAL LESSON EXAMPLE
+Choose a quiet Saturday lunch venue for two, within 30 minutes of the central library, at Saturday 12:30. Total budget: 60 EUR including service charges. Nonnegotiable: step-free entrance. Preference: vegetarian choices. Exclude: venues with no published contact details. City, exact library address, actual date and travel mode are unknown. Clarify them rather than assuming them. Return no more than five provisional options and label assumptions, missing information and evidence to open.
+
+EVIDENCE REVIEW PATTERN
+Help organize these pages and my observations; do not treat my notes as a live search or fill unknown fields with guesses. Separate stated facts, my judgement, assumptions and missing checks. For each option record option, price, location, requirement met, preference match, evidence link, checked date, unknowns and notes. Name the next manual action. Do not buy, book, contact or publish anything.
+
+FIRST CLARIFICATION
+What city and central library address, exact calendar date and travel mode should this search use? Which other unavoidable costs must the 60 EUR total cover? What compromises are acceptable without changing the hard requirements?
