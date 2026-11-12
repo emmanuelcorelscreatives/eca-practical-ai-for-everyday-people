@@ -15,8 +15,8 @@
     },
     {
       "name": "README.md",
-      "sha256": "9668a5c6246574430775f663e5d81bc479ee76d378eab568e128ee47bb169073",
-      "bytes": 2731
+      "sha256": "ba3c31f4425631a0b15725bf085a8f4c96c61e21dfc9251f3c44003c22549056",
+      "bytes": 3337
     },
     {
       "name": "answer-key.md",
@@ -25,8 +25,8 @@
     },
     {
       "name": "exercise.md",
-      "sha256": "015a6956e1b6ff98aff8328f52b181bb47696b0463bd812316bb0b831ecaa01a",
-      "bytes": 997
+      "sha256": "406e7c06ee000090f101a39a2e356b992eae5f649c545cd78a009c4ac745c177",
+      "bytes": 1386
     },
     {
       "name": "garden-schedule.json",
@@ -35,8 +35,8 @@
     },
     {
       "name": "permission-simulator.html",
-      "sha256": "0a3bdb36a9f681310206ec58fd2e0e1eed6de0d308c129af18d3fc0244bd573f",
-      "bytes": 12145
+      "sha256": "800e259e29b308aae93318b6f744f51bc353de7c34958835631b4f37b8ee6a28",
+      "bytes": 13124
     },
     {
       "name": "timing-guide.md",

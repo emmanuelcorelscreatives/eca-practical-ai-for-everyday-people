@@ -17,3 +17,5 @@ D. Administrator approval is required but unavailable. A friend suggests a perso
 E. The only connection bundles read and delete. A permitted manual copy is available.
 
 Run the simulator. List its three source-backed dates. Identify and remove the sentence unsupported by the source. Record the observed activity and the difference between disconnecting and reversing a completed action. Finally reset and explain the manual fallback.
+
+Required independent check: open the supplied DOCX or JSON outside the simulator and compare all three event dates against the draft. The simulator comparison panels reuse a scripted teaching fixture and are not independent source evidence. Finish the manual path using **Complete manual handoff**, then save the reviewed draft locally. Confirm that no connection was created or revoked.
