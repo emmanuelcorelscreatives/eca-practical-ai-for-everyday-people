@@ -1,0 +1,8 @@
+INTENTIONALLY INCOMPLETE SUMMARY — authored exercise, not actual model output
+
+- The community room is free for residents and local groups.
+- It is available Tuesday to Saturday.
+- Accessibility support is available.
+- Food is allowed, and same-day bookings are possible.
+
+Do not rely on this summary for a booking. Compare it directly with source-notice.txt.

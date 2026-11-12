@@ -1,0 +1,14 @@
+OPTIONAL PROMPTS — paste only fictional source-notice.txt, never private booking data
+
+First prompt:
+Summarize this community-room notice in four short bullet points for someone considering a booking. Label any missing information.
+[Paste the complete practice source here.]
+
+Comparison prompt:
+Compare each sentence of your summary with the supplied notice. Make four columns: Source statement; Summary wording; What was lost; Why it matters. Check who, when, where, under what conditions, and who could be affected. Look beyond signal words to headings and nearby sentences. Do not infer missing facts.
+
+Revision prompt:
+Revise the summary using only the supplied notice. Restore conditions that affect eligibility, confirmation, hours, supervision, accessibility, food, or same-day requests. Label unresolved information.
+
+Final human check:
+Match each material source condition to the revised text. Record preserved or deliberately omitted, with a reason. Check every added assertion against the source. A requested correction is not evidence that a model made it. Actual responses vary; flawed-summary.txt and revised-summary.txt are fixed authored examples only.

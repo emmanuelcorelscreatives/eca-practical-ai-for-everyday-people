@@ -1,0 +1,10 @@
+MISSING-QUALIFICATIONS CHECK
+[ ] Mark broad claims: free, available, allowed, accessible, possible.
+[ ] Locate source conditions; inspect headings, nearby sentences, tables and notes as well as signal words.
+[ ] Compare who, when, where and under what conditions.
+[ ] Ask who could be affected by an omission.
+[ ] Record source statement, summary wording, what was lost and why it matters.
+[ ] Restore material qualifications; label unresolved facts rather than guessing.
+[ ] Recheck the revision against the original and audit every new claim.
+[ ] Record every condition as preserved or deliberately omitted with a reason.
+[ ] ACCEPT a faithful summary, REVISE fixable omissions or RETURN TO SOURCE when simplification is unsafe.
