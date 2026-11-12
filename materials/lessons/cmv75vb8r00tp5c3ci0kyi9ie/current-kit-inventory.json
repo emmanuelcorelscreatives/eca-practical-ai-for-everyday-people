@@ -1,0 +1,82 @@
+{
+  "version": 1,
+  "projectId": "cmv75vb8r00tp5c3ci0kyi9ie",
+  "scriptSha256": "7de70b2f9e63365caba74771f3cfad668b276c25bcafc4df1efb2481d0675df4",
+  "files": [
+    {
+      "name": "LICENSE.txt",
+      "sha256": "a0cb280711a8274e3fad0e39a98f5cbe7f90a2ebcf043aa911b800a2eda08df3",
+      "bytes": 241
+    },
+    {
+      "name": "README.md",
+      "sha256": "e98e3b464adf70b9c7c7ec739d3cc8f6ad1f02db3c0aa881a4c5295839b6ece2",
+      "bytes": 2169
+    },
+    {
+      "name": "announcement-inspection-copy.docx",
+      "sha256": "9ff0c701ea401fa1e5888b4f27e4031ad197284736d5a1fd5c479cd395d37aef",
+      "bytes": 2245
+    },
+    {
+      "name": "answer-key.md",
+      "sha256": "9d92b35a69e16956b6d359f75c815b26196ce31a5cc9361ea3935b98ed8126cf",
+      "bytes": 2192
+    },
+    {
+      "name": "approved-public-facts.csv",
+      "sha256": "f58bba152d37d761aef4a250ea81573576f5210e063e13b2c5df83927a7088f1",
+      "bytes": 430
+    },
+    {
+      "name": "approved-public-facts.docx",
+      "sha256": "7a8e524fdb4775520c8b8f6b5452f246144ddd2ffd4e2711e21966b2b9737fea",
+      "bytes": 1483
+    },
+    {
+      "name": "check-kit.py",
+      "sha256": "45cc2bc4e2dd3a55ad914bc494717ea3f07281c9e08c72815828a011ea401f1e",
+      "bytes": 2489
+    },
+    {
+      "name": "exercise.md",
+      "sha256": "fde481af642baea108543a760d9242aa1acc9a4f8a8fb8c777e06f414b93493b",
+      "bytes": 3026
+    },
+    {
+      "name": "prompt.txt",
+      "sha256": "caed6d7c23d32f74ec72e70e12d4b49ef786a32fc821c345d5bb56eb4843e71b",
+      "bytes": 588
+    },
+    {
+      "name": "public-announcement-model.docx",
+      "sha256": "2d32b48c86598e596ddc9be181683fc6f18a105605658b5a6cbb3809c7598a90",
+      "bytes": 1480
+    },
+    {
+      "name": "public-announcement-model.txt",
+      "sha256": "c9e37466044439c216c16e3f91f5e2d8be561caaa892d4a65559f6519e342c9a",
+      "bytes": 398
+    },
+    {
+      "name": "release-checklist.md",
+      "sha256": "a540744323162919974bb6070206a9e833b30596eb226a3ea1bb365c6e22e214",
+      "bytes": 1320
+    },
+    {
+      "name": "restricted-working-register-FICTIONAL.csv",
+      "sha256": "daedb291f383eacd661418d6f3db2cdcc3159266640a245c24f23d2ba4a04193",
+      "bytes": 555
+    },
+    {
+      "name": "restricted-working-register-FICTIONAL.xlsx",
+      "sha256": "15bc36ee01fc38581f6130f8cd592940aa68617060281332cfc9e7c2bb837ceb",
+      "bytes": 7395
+    },
+    {
+      "name": "unsafe-draft.txt",
+      "sha256": "79b7aca72f0aae387933a274f1787abe8d2039cf795c0b3b357730fbd1352821",
+      "bytes": 464
+    }
+  ]
+}
