@@ -1,0 +1,72 @@
+{
+  "version": 1,
+  "projectId": "cmv75v8ql00gp5c3cjuue9iyg",
+  "scriptSha256": "ee3f9486d6add3d02ca3e71ceff1d62df864ef157c3c4e051170626f96214eb4",
+  "files": [
+    {
+      "name": "LICENSE.txt",
+      "sha256": "54b473d7ad7c113f875733acba58599bc1632d24b081f1a1c3d921bd87d6c3d0",
+      "bytes": 181
+    },
+    {
+      "name": "answer-key.md",
+      "sha256": "f5506fb04e781c5a619f81bc8567cf3b1e9d019dc04b730777b877083d797d12",
+      "bytes": 1751
+    },
+    {
+      "name": "checkout-review.html",
+      "sha256": "b53d6392eb4baf639e1da8c603a6fe14448164ecceffacea1349e41aae85f4ce",
+      "bytes": 1287
+    },
+    {
+      "name": "completed-evidence-note.md",
+      "sha256": "828f4d914e6c986bd188f194ddb0286d5ebddf1eacb33a1ee24c9f6c546d2717",
+      "bytes": 2307
+    },
+    {
+      "name": "evidence-note-template.md",
+      "sha256": "da147e38b5a378633edc1e49c0ec621d848a60f44b2e75d088e97fad7e567a09",
+      "bytes": 828
+    },
+    {
+      "name": "index.html",
+      "sha256": "78b47145212ac2ef7e85fa87e296862a2f71ff8fd25ef11f6795f690d0e2c7e1",
+      "bytes": 1424
+    },
+    {
+      "name": "initial.html",
+      "sha256": "e4eac88fd04ea7b836328dc44d623f9d06b2cc47b5791addbeb901f297f29e61",
+      "bytes": 2139
+    },
+    {
+      "name": "live-status.html",
+      "sha256": "b6b982d6e54565b5f2e59610beff71868242d5dd00252f322ce15b3a26b4b5cd",
+      "bytes": 1289
+    },
+    {
+      "name": "refreshed.html",
+      "sha256": "c7c74d1b761a129cb2494c5ca26424545c87c4eedc59ade0b3d69ef8ae82ee64",
+      "bytes": 2163
+    },
+    {
+      "name": "research-search.html",
+      "sha256": "205afcb73450026819b5a301a82038f79f5a5ae18d763870eb35d3a1928c798b",
+      "bytes": 2870
+    },
+    {
+      "name": "scenario.json",
+      "sha256": "533c7e0df1a745f3f68583ee01ef3a8c63dd928dff504c15b9a1534d724cbb31",
+      "bytes": 1497
+    },
+    {
+      "name": "verify_scenario.py",
+      "sha256": "fe10f7213cd161d6130e3dc1a4d77b3c714f841943b921db6526ce7e47178a8d",
+      "bytes": 1073
+    },
+    {
+      "name": "worksheet.md",
+      "sha256": "7aeb192845d8484959949c6d90da6ac8760f6a2d315d8641c2959f553f3fea86",
+      "bytes": 3203
+    }
+  ]
+}

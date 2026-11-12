@@ -1,0 +1,50 @@
+{
+  "fictional": true,
+  "venue": "Harbor Science Centre",
+  "operator": "Riverline Transit",
+  "visitDate": "2026-10-17",
+  "customer": "Adult",
+  "quantity": 2,
+  "arrivalBefore": "11:00",
+  "initial": {
+    "checkedAt": "2026-10-14 10:20 (fictional exercise clock; venue)",
+    "adultAdmission": 18,
+    "subtotal": 36,
+    "availability": "2 tickets available",
+    "regularHours": "09:00\u201317:00",
+    "dateSpecificHours": "10:00\u201316:00",
+    "timedTicketRequired": true,
+    "smallBagsPermitted": true,
+    "largeLuggageAccepted": false,
+    "departure": "09:40",
+    "arrival": "10:25",
+    "service": "Direct",
+    "serviceCharge": null,
+    "finalTotal": null,
+    "transportCheckedAt": "2026-10-14 10:27 (fictional exercise clock; journey planner)"
+  },
+  "refreshed": {
+    "checkedAt": "2026-10-16 19:00 (fictional exercise clock)",
+    "adultAdmission": 20,
+    "subtotal": 40,
+    "availability": "Few remaining",
+    "dateSpecificHours": "10:00\u201316:00",
+    "timedTicketRequired": true,
+    "smallBagsPermitted": true,
+    "largeLuggageAccepted": false,
+    "entryWindowCondition": "Timed ticket must match selected entry window",
+    "departure": "09:55",
+    "arrival": "10:40",
+    "service": "Direct",
+    "notice": "Engineering work: revised timetable",
+    "serviceCharge": null,
+    "finalTotal": null
+  },
+  "liveStatus": {
+    "departure": null,
+    "platform": null,
+    "serviceStatus": null,
+    "alerts": null,
+    "instruction": "Check on travel day"
+  }
+}
