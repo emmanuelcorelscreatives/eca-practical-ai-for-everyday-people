@@ -1,0 +1,172 @@
+{
+  "version": 1,
+  "projectId": "cmv75vb5b00t75c3c24w9cy12",
+  "scriptSha256": "5cb81797e6cda2cfd6182aa4681a851c85d8191effa5fc956adef302c8b1e1d9",
+  "files": [
+    {
+      "name": "LICENSE.txt",
+      "sha256": "3368e44590ae9f84aea4ffbaee9430cde7ef1a1309d5b07d2cc6071adb6a2d80",
+      "bytes": 264
+    },
+    {
+      "name": "answer-key.md",
+      "sha256": "fd79e6c48f740f9cbac73a976b6e9140767a31e5ec41c8a9343c811c89b9fb44",
+      "bytes": 1531
+    },
+    {
+      "name": "approved-source.md",
+      "sha256": "4288d8b33981efbeb7430ea191d94f150f7231b660078f4b90372cc862fd865e",
+      "bytes": 522
+    },
+    {
+      "name": "browser-preview-guide.md",
+      "sha256": "f168ae979446659e74316ef215f95d96ca14469f98cd1797617e9e9977f620f3",
+      "bytes": 747
+    },
+    {
+      "name": "delivery-scope.md",
+      "sha256": "e2738349ae15a185119f2907738b839885f258d8a434e0c3e6d26711e0d72244",
+      "bytes": 913
+    },
+    {
+      "name": "example-drafts.md",
+      "sha256": "da4028010a753bfccde92017f0a7ff8d0a1c0ed291d22d5ab9e1f5e4df151c8f",
+      "bytes": 955
+    },
+    {
+      "name": "expected-verification.csv",
+      "sha256": "63436fe064f8330a19e1393d53f806c070ad283e287d0cf21f6e6130c816426c",
+      "bytes": 1471
+    },
+    {
+      "name": "faulty-drafts.md",
+      "sha256": "243fe05c5bee5563022fff53e98093a53c3e60acee9c878c63305a4c2447debf",
+      "bytes": 623
+    },
+    {
+      "name": "owner-review-template.md",
+      "sha256": "72e78eb030a82969a1f72e7a3712e52fc86f8e6906c4770f22578fb87bb7c630",
+      "bytes": 594
+    },
+    {
+      "name": "poster.svg",
+      "sha256": "0f8f25a4690ea92854e39e80df21cac6f269424d0d9db6ff4ace126bc17e32ea",
+      "bytes": 839
+    },
+    {
+      "name": "prompt.txt",
+      "sha256": "6722128691db6e2b219088559a23764de6ca5b4dc658d518c3b85b3045bc0eed",
+      "bytes": 770
+    },
+    {
+      "name": "verification-template.csv",
+      "sha256": "2005601a1f53dad7712875e09f0a376eb150600744963bbc274f7b3913688937",
+      "bytes": 472
+    },
+    {
+      "name": "worksheet.md",
+      "sha256": "4473c8e40c371cde38f344ed2caaec5cde41452fa6b5bda7601855c84c8b5720",
+      "bytes": 3819
+    },
+    {
+      "name": "workspace-0.html",
+      "sha256": "1d3772025c7686e63cb85e25125f3160175e3a91f62e5bd9f100474e0fab124d",
+      "bytes": 2175
+    },
+    {
+      "name": "workspace-1.html",
+      "sha256": "b85cf07a1fc828b7a16f1e24c21d872634f81a7cf30e93246ee3c3256fbd773a",
+      "bytes": 1803
+    },
+    {
+      "name": "workspace-10.html",
+      "sha256": "e39a548ad382f4ec6902da47cfdd76b07afb9c875e341b13deff5484a32d2eb7",
+      "bytes": 2137
+    },
+    {
+      "name": "workspace-11.html",
+      "sha256": "b63c1d242deb305f5ce7471d797b377b9867d6fc4b40c116083f8e52089b8b10",
+      "bytes": 2266
+    },
+    {
+      "name": "workspace-12.html",
+      "sha256": "e39a548ad382f4ec6902da47cfdd76b07afb9c875e341b13deff5484a32d2eb7",
+      "bytes": 2137
+    },
+    {
+      "name": "workspace-13.html",
+      "sha256": "d7f7a535b8f3efd693d4e51b7a6c7be2c97a946f0d3535c9867bd6bf2eac07aa",
+      "bytes": 1886
+    },
+    {
+      "name": "workspace-14.html",
+      "sha256": "d7f7a535b8f3efd693d4e51b7a6c7be2c97a946f0d3535c9867bd6bf2eac07aa",
+      "bytes": 1886
+    },
+    {
+      "name": "workspace-15.html",
+      "sha256": "5b1ac2ee00da78cf3e2f9956727c80931c74e6af77174694b9ad8518debbbd68",
+      "bytes": 1761
+    },
+    {
+      "name": "workspace-16.html",
+      "sha256": "5e0889e470d930d036bdffc4cbf1ecd11842bf8ff8d5e13c6a061e56a84b3ce5",
+      "bytes": 1492
+    },
+    {
+      "name": "workspace-17.html",
+      "sha256": "e39a548ad382f4ec6902da47cfdd76b07afb9c875e341b13deff5484a32d2eb7",
+      "bytes": 2137
+    },
+    {
+      "name": "workspace-18.html",
+      "sha256": "e39a548ad382f4ec6902da47cfdd76b07afb9c875e341b13deff5484a32d2eb7",
+      "bytes": 2137
+    },
+    {
+      "name": "workspace-19.html",
+      "sha256": "e39a548ad382f4ec6902da47cfdd76b07afb9c875e341b13deff5484a32d2eb7",
+      "bytes": 2137
+    },
+    {
+      "name": "workspace-2.html",
+      "sha256": "3540af235c935ac051186515b5e13ce5777a66b0ea46e16119a0c57d45fc5933",
+      "bytes": 1906
+    },
+    {
+      "name": "workspace-3.html",
+      "sha256": "3540af235c935ac051186515b5e13ce5777a66b0ea46e16119a0c57d45fc5933",
+      "bytes": 1906
+    },
+    {
+      "name": "workspace-4.html",
+      "sha256": "e08bc1b3773be9540bbbe60c5aa37208c4bbed6b6314a6ce816057c61cec7cc7",
+      "bytes": 2090
+    },
+    {
+      "name": "workspace-5.html",
+      "sha256": "ffbb753c22de95ec724d5a9f7948a57eee9834c43295d3adab0e0897598c62bc",
+      "bytes": 1899
+    },
+    {
+      "name": "workspace-6.html",
+      "sha256": "5b6904f87783c65a7aa2d51dd2c6115b3351f4302f0521c4bb8c41f581862a88",
+      "bytes": 1819
+    },
+    {
+      "name": "workspace-7.html",
+      "sha256": "8f62373c568e8ca3e178c38fc60c85cd5344843a6a772a7ce082dc318dfeb755",
+      "bytes": 1852
+    },
+    {
+      "name": "workspace-8.html",
+      "sha256": "9396bddebf50e02f02329f09e47d148921f876a4f478e5c9d34262e41b43eed9",
+      "bytes": 1605
+    },
+    {
+      "name": "workspace-9.html",
+      "sha256": "9396bddebf50e02f02329f09e47d148921f876a4f478e5c9d34262e41b43eed9",
+      "bytes": 1605
+    }
+  ]
+}
