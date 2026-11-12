@@ -32,13 +32,13 @@ General volunteers arrive at 09:00. [Volunteer note, section 2]
 
 ## References
 
-[Brief, p. 1] — garden-open-day-brief.docx, page 1, Event details.
+[Brief, p. 1] — community-garden-brief.pdf, page 1, Event details.
 
-[Access note, p. 2] — garden-open-day-access-note.docx, page 2, Accessibility.
+[Access note, p. 2] — access-note.pdf, page 2, Accessibility.
 
-[Volunteer note, section 1] — garden-open-day-volunteer-note.docx, section 1, Setup team.
+[Volunteer note, section 1] — volunteer-arrangements.docx, section 1, Setup team.
 
-[Volunteer note, section 2] — garden-open-day-volunteer-note.docx, section 2, General volunteers.
+[Volunteer note, section 2] — volunteer-arrangements.docx, section 2, General volunteers.
 
 [Poster draft, section 2] — garden-open-day-poster-draft.docx, section 2, Publicity wording.
 

@@ -5,18 +5,28 @@
   "files": [
     {
       "name": "Community Garden Open Day \u2014 Original Notes.docx",
-      "sha256": "a38a6c489d2ac5350fb9fa6284103f89c556dbddd3e6e51fdbacf844082fef50",
+      "sha256": "795686037cfd6a8613ee49f7fcbca7ac52c3888f2e62b2491234861f14621921",
       "bytes": 1751
     },
     {
       "name": "Community Garden Open Day \u2014 Working Copy.docx",
-      "sha256": "2321b18303f2c51f486d49cc6434171c379bd37b8bf0ff2cb6cd34cc0ce7a714",
-      "bytes": 2049
+      "sha256": "768efbd24aa4adbc8a924432458826f50f2c18d5ea728f72af263c847e82c0cb",
+      "bytes": 2055
+    },
+    {
+      "name": "access-note.pdf",
+      "sha256": "be9d91ef1a6a0e6d6b2ebd0e034b375676b114166e6744fe4131a0e6fbad4f0b",
+      "bytes": 14837
     },
     {
       "name": "bounded-request.txt",
       "sha256": "d7ae725d59a181130b5215536c4f0bf43514610e44e11540a683916418203555",
       "bytes": 212
+    },
+    {
+      "name": "community-garden-brief.pdf",
+      "sha256": "cbe5133468261cd46434aae0354f246e9f9fcdbd967450680db75b67c6bc24e1",
+      "bytes": 14388
     },
     {
       "name": "deletion-log.md",
@@ -29,29 +39,14 @@
       "bytes": 1463
     },
     {
-      "name": "garden-open-day-access-note.docx",
-      "sha256": "b78666f6982fe484f19561e0c7e271e9142d5756b6301c996c3e7133c32827f9",
-      "bytes": 1669
-    },
-    {
-      "name": "garden-open-day-brief.docx",
-      "sha256": "b3d1c58f076fc09a046f6e77164d34720fe1f5d911b69549c546d1608820b1a0",
-      "bytes": 1617
-    },
-    {
       "name": "garden-open-day-poster-draft.docx",
-      "sha256": "157b828fd09c1ca9929f9dfead2cca029dd8a29049f5fa6f191be04b3f8dc7ae",
+      "sha256": "48d34132838ed05fd3afb9e6bf180a94e7b58cd7a138fd782ee061230db200ee",
       "bytes": 1628
     },
     {
-      "name": "garden-open-day-volunteer-note.docx",
-      "sha256": "166987c56f9d9849a6c476492c13b6d28f69e0a8d4a0fb45410134cfd1238dff",
-      "bytes": 1609
-    },
-    {
       "name": "manual-information-sheet-example.md",
-      "sha256": "60ae44f6f6fb5cbfdc995e7d715b6b308e883cf8f3b738e2cf12adff00e7a37c",
-      "bytes": 1293
+      "sha256": "c407fcc7b2409f911304cdcdaf06b654e9d3f07bde3c75979208b3f33484bb5b",
+      "bytes": 1260
     },
     {
       "name": "original-notes.txt",
@@ -60,18 +55,23 @@
     },
     {
       "name": "prepared-working-copy.md",
-      "sha256": "e1aa7bb190f0d0e7ccbdafa5ce1f1ca75c0350bb4f9219b4e01aa244ee006d7f",
-      "bytes": 1269
+      "sha256": "7fd1b234410ba41072ce744e747212d8825f65a1b7c02ed4d9f83766d3ddec75",
+      "bytes": 1236
     },
     {
       "name": "reference-list.txt",
-      "sha256": "2973b0c9e951d6496cf44a2b81a716848fe4eefcfbf29338c7f988b19439ebd5",
-      "bytes": 569
+      "sha256": "d22ad300c47584f4ec10171b36e160f7ccae73be509cf39688f4318cb87dde83",
+      "bytes": 536
+    },
+    {
+      "name": "volunteer-arrangements.docx",
+      "sha256": "5831acafddda2066f556e5117f077772bf34b88af987f3935e7972da4ecc425d",
+      "bytes": 1609
     },
     {
       "name": "worksheet.md",
-      "sha256": "4d7ba54a9ed3b5d5ce7a23b5ab772ecd6f036337aca3762d6632356286d1d841",
-      "bytes": 3034
+      "sha256": "83cedab0d4f64adbbc4c01d0ac87df088f355a43514d6cc29eecf54ef3a28d92",
+      "bytes": 3009
     }
   ]
 }
