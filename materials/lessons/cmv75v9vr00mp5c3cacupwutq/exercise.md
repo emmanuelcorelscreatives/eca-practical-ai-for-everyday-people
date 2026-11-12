@@ -8,3 +8,13 @@
 7. Apply the same method to the retail example: match exact variant, location and quantity; check current status and full total before accepting a substitute. Do not buy anything.
 8. Fill offline-card-template.md without personal data. Keep a manual route and operator/staff contact method. Offline maps depend on app/region support and do not promise live traffic, alternate routes or public-transport/walking/cycling directions.
 9. Final check: clear trigger; suitable verified alternative; current opened evidence; essential details saved; manual route ready. Keep purchases/bookings/cancellations under human control.
+
+
+## Reproduce the local worked practice
+Open index.html in a browser. Its top navigation reaches every evidence page without editing URLs: Research, Suggestions, Venue A, Weekly/special hours, Listing comparison, Venue B, Venue C contact, Journey planner, Route 1 alert, Route 2 rehearsal and Retail evidence. These are self-authored fictional pages, never live official websites.
+
+On Research, edit the dated request and click Generate practice suggestions. The displayed response is scripted. Open Weekly/special hours, Listing comparison and the venue pages. On Venue C, type a question and click Keep unsent draft in this tab; navigate to Venue A and back to retrieve it. Closing the tab ends the draft; no message is sent.
+
+On Journey planner, change the date to 18 October and click the button: the app must reject this unsupported scenario without showing a checked journey. Restore 17 October, after 10:00, with step-free selected, then open the supported scenario alert. This is fixed fictional evidence, not route computation or confirmation of accessible stops, cost or return time.
+
+Import comparison-template.csv and fictional-evidence.csv into Calc using UTF-8, comma separators and every column set to Text in the import dialog. This preserves the literal 09:30 and prevents automatic time conversion. Preserve all unknown markers. Compare your closure and transport rehearsal entries to worked-comparison-closure.csv and worked-comparison-route.csv. A completed worksheet may correctly contain unresolved conditions: it must not turn missing values into approvals. Compare your offline note to worked-offline-card.md; unavailable real addresses, contacts and private references remain unavailable.

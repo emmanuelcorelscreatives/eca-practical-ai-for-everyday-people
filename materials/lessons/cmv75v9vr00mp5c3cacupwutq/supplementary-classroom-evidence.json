@@ -1,0 +1,52 @@
+{
+  "kind": "new-author-created-fictional-classroom-extension",
+  "createdAt": "2026-11-12",
+  "notOriginalSuppliedFacts": true,
+  "noRealVenueOperatorRetailerObservations": true,
+  "outing": {
+    "date": "2026-10-17",
+    "day": "Saturday",
+    "location": "Riverside",
+    "timeBasis": "local",
+    "departAfter": "10:00",
+    "returnBy": "18:00",
+    "budget": "learner-defined; no outing amount invented",
+    "access": "step-free route and entrances",
+    "food": "vegetarian"
+  },
+  "venueA": {
+    "normalWeeklyHours": "Monday\u2013Sunday 10:00\u201317:00",
+    "specialDate": "2026-10-17",
+    "specialStatus": "Closed",
+    "rehearsalClosureCheckTime": "09:30 local"
+  },
+  "venueC": {
+    "access": "confirmation required",
+    "publishedTeachingTelephone": "01632 960123",
+    "telephoneStatus": "Reserved fictitious drama-number example, never dial",
+    "numberingSource": "https://www.ofcom.org.uk/phones-and-broadband/phone-numbers/numbers-for-drama"
+  },
+  "transport": {
+    "date": "2026-10-17",
+    "route1": "Interrupted",
+    "affectedStop": "Riverside Museum stop",
+    "affectedTimeRange": "10:00\u201312:00 local",
+    "route2": "Operating in fictional rehearsal",
+    "extraTime": "unknown until refreshed",
+    "stepFreeStatus": "check",
+    "departureAndReturnJourney": "not supplied; do not infer"
+  },
+  "retailer": {
+    "branch": "Bristol Harbourside practice branch",
+    "item": "Ridgeview 22L Daypack",
+    "variant": "Olive Green",
+    "quantity": 1,
+    "stock": "In stock in fictional fixture only",
+    "currency": "GBP",
+    "unitPrice": "64.00",
+    "mandatoryCollectionCharge": "0.00",
+    "total": "64.00",
+    "generatedClaim": "available nearby",
+    "checkout": "unavailable; no purchase or reservation"
+  }
+}

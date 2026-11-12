@@ -5,13 +5,18 @@
   "files": [
     {
       "name": "README.md",
-      "sha256": "2df8e22a10e749746e9b8638a571905a56607f5a3a7f51dbd7928b55bb983daa",
-      "bytes": 1773
+      "sha256": "90aa260d7ae8be32679b1f60c8e955cd14ad3760b579038ca5080d1a8df4abce",
+      "bytes": 2245
     },
     {
       "name": "answer-key.md",
-      "sha256": "f24a6525613cce934e80468ec011fc92a1ebcb3ea6057cf7f133cc5e68083e98",
-      "bytes": 1385
+      "sha256": "eb52bc4762427a976ba7d5e0e3744c77678bcaff5325b311100425214830cf48",
+      "bytes": 2724
+    },
+    {
+      "name": "checked-primary-sources.md",
+      "sha256": "93e3b1c7207c520cba164e8f467300ec033d7109d6f2fb2151b18fcf90d940bb",
+      "bytes": 1358
     },
     {
       "name": "comparison-template.csv",
@@ -20,8 +25,8 @@
     },
     {
       "name": "exercise.md",
-      "sha256": "b498d58e5404df215991e1bdd5fcc3abc8ec818dd52bae682bb97bdc27acda58",
-      "bytes": 2185
+      "sha256": "419182a5a2dab5550e23e23f79e667ff9ec11ac6ee48ea01b12bfec486f9a792",
+      "bytes": 3900
     },
     {
       "name": "fictional-evidence.csv",
@@ -34,9 +39,39 @@
       "bytes": 745
     },
     {
+      "name": "index.html",
+      "sha256": "68a669c78cfd585081aaaabfd58d0cb1fe4a68a54a1ba2a5eb631a7fc77fe418",
+      "bytes": 10233
+    },
+    {
       "name": "offline-card-template.md",
       "sha256": "1faa329e2ac0c4f0e527a42609813ea0573781ae4d1d470f39b487f2015bf180",
       "bytes": 972
+    },
+    {
+      "name": "supplementary-classroom-evidence.json",
+      "sha256": "f3824e5b522b771ecb0cd9bbf728570c7558e88442f6e8109beef4e44235ce8c",
+      "bytes": 1756
+    },
+    {
+      "name": "supplementary-classroom-evidence.md",
+      "sha256": "c8109f96fbfd54b4549c99d1ef08b7993e42fd8ef263fed8ed88dc2c5da2a086",
+      "bytes": 2429
+    },
+    {
+      "name": "worked-comparison-closure.csv",
+      "sha256": "43ad1728ce5e3e796105e343eb96839f664b1620c8146b5c7c38bfa3bd738ea1",
+      "bytes": 1257
+    },
+    {
+      "name": "worked-comparison-route.csv",
+      "sha256": "78da869169c74993f915b72146f4feea5be937f090fd2862ff48523356ee8b8d",
+      "bytes": 1264
+    },
+    {
+      "name": "worked-offline-card.md",
+      "sha256": "2106d993b98fafe4b2cba6842de901826bf98efc6df154262f5b91622704bb5d",
+      "bytes": 1752
     }
   ]
 }

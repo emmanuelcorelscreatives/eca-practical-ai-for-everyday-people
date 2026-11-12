@@ -10,3 +10,7 @@ The lesson's nonnegotiable constraints are step-free access, vegetarian food, a 
 Evidence states: Generated = a suggestion only. Verified for date = the learner opened matching evidence within this fictional rehearsal, not real-world verification. Unresolved = a required fact is absent. Rejected = a required constraint fails. Record a source reference, what it supports, the scenario's check time and remaining gaps separately.
 
 No external account, booking, call or payment is required. Never place real personal details, credentials or private tickets into the public repository. For a real outing, repeat all consequential checks with responsible venues, sellers and operators.
+
+
+## Added fictional classroom extension
+The original source did not supply weekly hours, contact number, exact operator alert window or exact retail particulars. supplementary-classroom-evidence.md/json now supply a clearly labeled Academy-authored fictional extension, not original or real-world facts. index.html is the actual local practice app. Preserve original unknown outing budget, exact transport costs and journey times; no live requests or transactions occur.
