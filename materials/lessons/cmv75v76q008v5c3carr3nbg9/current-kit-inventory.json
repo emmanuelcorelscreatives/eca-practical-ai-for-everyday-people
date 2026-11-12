@@ -1,0 +1,42 @@
+{
+  "version": 1,
+  "projectId": "cmv75v76q008v5c3carr3nbg9",
+  "scriptSha256": "0b8c90fb8c855529e237be3796824ce8e8385e6000c559c17270382d3a11aa32",
+  "files": [
+    {
+      "name": "activity-record.md",
+      "sha256": "99964c61fa43d432a0bf1effbffbd185984678ce73ec96d33d782c67c988076f",
+      "bytes": 347
+    },
+    {
+      "name": "answers.md",
+      "sha256": "7e1b24bc3f021467196cd3f90b7065915bfad8e785af36e79990d5fff13a9a4f",
+      "bytes": 2109
+    },
+    {
+      "name": "checking-record.md",
+      "sha256": "e0ca137fdcf79459cb15f96f3f7ce093dde33409d6a648e853b61d0a0004eaba",
+      "bytes": 725
+    },
+    {
+      "name": "extraction-blank.csv",
+      "sha256": "18647860b47f5f829741d791db0f6751ffeffdc612e6a500208cbe8900b97128",
+      "bytes": 86
+    },
+    {
+      "name": "spreadsheet-starter.csv",
+      "sha256": "73a2eeefe50fec3920c55b6077712f1a3302b8b28c0a44aada71f0c1c385d70d",
+      "bytes": 69
+    },
+    {
+      "name": "teaching-extraction.csv",
+      "sha256": "0fcc26d2c1fbfa4b07f615ab114fea5d1fd2c7fc9e55fb20b700a46fbe7ea593",
+      "bytes": 169
+    },
+    {
+      "name": "worksheet.md",
+      "sha256": "332ce4e011774a1c66419dec25ad938ffd2a8a5ace9691e391f109fdb6a52fbe",
+      "bytes": 2952
+    }
+  ]
+}

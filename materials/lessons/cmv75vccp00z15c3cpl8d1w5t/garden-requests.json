@@ -1,0 +1,26 @@
+[
+  {
+    "Request ID": "G-101",
+    "Date received": "14 October 2026",
+    "Garden area": "North beds",
+    "Issue category": "Watering",
+    "Reported urgency": "Routine",
+    "Description": "Drip line appears blocked near beds 4 and 5"
+  },
+  {
+    "Request ID": "G-102",
+    "Date received": "14 October 2026",
+    "Garden area": "Herb bed",
+    "Issue category": "Labels",
+    "Reported urgency": "Routine",
+    "Description": "Loose label beside the rosemary plant"
+  },
+  {
+    "Request ID": "G-103",
+    "Date received": "14 October 2026",
+    "Garden area": "South path",
+    "Issue category": "Drainage",
+    "Reported urgency": "",
+    "Description": "Standing water beside the south path"
+  }
+]

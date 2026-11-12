@@ -1,0 +1,37 @@
+{
+  "version": 1,
+  "projectId": "cmv75vccp00z15c3cpl8d1w5t",
+  "scriptSha256": "391359043b9921a53e5763663a5191e34c699edc747ef31543f8812c507c59b6",
+  "files": [
+    {
+      "name": "expected-checks.md",
+      "sha256": "64c1d2f0226da6ba7ec280ed05a9b7f47138d0f44851d5830540a2e28b7c71e1",
+      "bytes": 1220
+    },
+    {
+      "name": "garden-requests.csv",
+      "sha256": "ba12e153a42b4e7f614f3d9d3b35f23ff181d7579a4e1f232f29e479f1c22aae",
+      "bytes": 343
+    },
+    {
+      "name": "garden-requests.json",
+      "sha256": "bf826098aeab6e3ee18376ce3684941e237e77eeac9dad7d13d35f186acb1f3f",
+      "bytes": 708
+    },
+    {
+      "name": "instruction-template.md",
+      "sha256": "3719afa9d00634a7087acfb049928b4582d5d338a89828900ee83baf568674ad",
+      "bytes": 935
+    },
+    {
+      "name": "workflow-practice-board.html",
+      "sha256": "2453495327e97873fbcfa7d45174348ddf9a7958e36222ec3cfbb69931c6509a",
+      "bytes": 11172
+    },
+    {
+      "name": "worksheet.md",
+      "sha256": "b5717b62f43291b85459f593cd2931d9fb0c7de7c9e222f25bc307d5aa5cbc06",
+      "bytes": 2969
+    }
+  ]
+}
