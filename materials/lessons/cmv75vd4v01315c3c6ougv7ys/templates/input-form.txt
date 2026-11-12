@@ -1,0 +1,17 @@
+FICTIONAL PRACTICE CASE — Pack v1.0
+Case ID: ______
+Requested output [REQUIRED]: ______
+Audience [REQUIRED]: ______
+Event name [REQUIRED]: ______
+Date [REQUIRED]: ______
+Start time [REQUIRED]: ______
+End time [REQUIRED]: ______
+Location [REQUIRED]: ______
+Activities [REQUIRED]: ______
+Access information: ______
+Registration: ______
+Restrictions: ______
+Approved contact: ______
+Approved visual material: ______
+Permission status [REQUIRED]: ______
+If any required field is blank, sources conflict on a required fact, or permission is unclear, stop and ask a concise clarification question. No draft until resolved.

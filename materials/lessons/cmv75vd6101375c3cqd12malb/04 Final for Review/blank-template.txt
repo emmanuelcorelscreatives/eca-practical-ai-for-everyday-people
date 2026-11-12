@@ -1,0 +1,9 @@
+[Event title] — DRAFT / HUMAN REVIEW REQUIRED
+Date: [verified date] | Public time: [verified time] | Venue: [verified venue]
+Sessions: [checked] | Seats per session: [checked]
+Setup time: [verified or Confirmation required]
+Rain location: [verified or Confirmation required]
+Logistics: [planned seats] seats; [available chairs] chairs; [spare chairs] chairs.
+Calculation/source references: [files and cells]
+Generated suggestions (not evidence): [separate notes]
+Permission / review decision: [unresolved until supplied]

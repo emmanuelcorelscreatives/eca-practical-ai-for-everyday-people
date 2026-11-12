@@ -1,0 +1,12 @@
+Riverside Reading Day — Draft Information Sheet
+DRAFT — HUMAN REVIEW REQUIRED. NOT READY FOR PUBLICATION.
+Fictional practice example; no external action authorized.
+Saturday, 24 October 2026 | 10:00–13:00 | Library courtyard
+Two reading sessions | 18 seats per session
+Setup time: Confirmation required (09:15 / 09:30 conflict).
+Rain location: Confirmation required (not confirmed).
+Logistics: 36 planned seats; 48 chairs available; 12 spare chairs.
+Calculation checked in Event Check worksheet: B15=SUM(B13:B14); B17=B16-B15.
+Review note outside public information:
+Generated suggestion, not source evidence: Indoor backup venue to be announced.
+Sharing approval remains absent. No send, invite, book or publish step.

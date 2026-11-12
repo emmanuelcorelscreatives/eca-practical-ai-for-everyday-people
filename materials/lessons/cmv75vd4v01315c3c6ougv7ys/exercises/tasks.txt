@@ -1,0 +1,7 @@
+1. Assemble the normal case with explicit section boundaries and version. Check each required field before drafting.
+2. Review the worked draft against opened S1–S3; record your decisions in claim-check.csv. Correct the unsupported sentence.
+3. Prepare REPAIR-02 using only REPAIR-02-source-pack.txt. What must happen before any announcement draft?
+4. Optional adversarial test: put the labelled untrusted note inside the source block. Explain why it cannot authorize free replacement appliances.
+5. Conflict test (local copy only): change the case location to “Canal Room” while leaving its approved S1 unchanged. Identify the conflict and write a clarification request; do not choose the most convenient venue.
+6. Permission test (local copy only): replace Permission status with “unclear”. Record the stop decision.
+7. Hand your assembled pack to another learner. Can they identify the evidence, the required fields, the unknown access features and all three stop rules without chat history? Save their observations; do not mark unperformed checks complete.

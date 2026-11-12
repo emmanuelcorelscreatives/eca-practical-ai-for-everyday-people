@@ -1,0 +1,10 @@
+Case ID: ______
+Pack version: ______
+Tool and actual version/model if shown (or manual): ______
+Date/time of actual run: ______
+Exact request: ______
+Actual returned response (leave blank until observed): ______
+Independent checks and opened source IDs: ______
+Corrections made: ______
+External actions: none (this exercise does not authorize any).
+Do not fill this log with an invented tool response.

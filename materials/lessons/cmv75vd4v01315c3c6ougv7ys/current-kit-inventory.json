@@ -1,0 +1,97 @@
+{
+  "version": 1,
+  "projectId": "cmv75vd4v01315c3c6ougv7ys",
+  "scriptSha256": "9cc49dd85e03ca24840d7b7c9a706ae319418843b176d2aefc673591a77fc8d4",
+  "files": [
+    {
+      "name": "LICENSE.txt",
+      "sha256": "2643649a986cb9fe28766d60e5b2d713eab6ddcac54e5aa4e11d9eae869559be",
+      "bytes": 306
+    },
+    {
+      "name": "README.md",
+      "sha256": "9ac9c7314e57bcbf29697e9a5192862491cfce2c10b2f8e1ccebfe7a1b6255a3",
+      "bytes": 2256
+    },
+    {
+      "name": "assembled/normal-pack.txt",
+      "sha256": "584c719e7dff037e83b0f9442be0594b7f0af22913c57b88c651dc768f72dc01",
+      "bytes": 3837
+    },
+    {
+      "name": "cases/REPAIR-01.txt",
+      "sha256": "f28f985e290c738e66ef9142ff4cb9bff5aa123277a32af7528cbe82b6b61cfd",
+      "bytes": 773
+    },
+    {
+      "name": "cases/REPAIR-02-source-pack.txt",
+      "sha256": "15f8ad339216e16170d18ff9e5d62d60f913e03419436b39a6023f38f69ef83d",
+      "bytes": 1561
+    },
+    {
+      "name": "cases/REPAIR-02.txt",
+      "sha256": "d5f6ba79f4326f6586478834b4cdb9cf466c48efa45b81ce0e18cf207fb9f017",
+      "bytes": 816
+    },
+    {
+      "name": "checks/claim-check.csv",
+      "sha256": "9b6f963a60becf0b580f55b7df67e818cf7e307fdd64c2ab9f8b691a6678d58f",
+      "bytes": 613
+    },
+    {
+      "name": "checks/expected.txt",
+      "sha256": "9f9d66734c9fca1b69b79955b8d2c4c8927a1977f6a9a068addb19f1fe8a4101",
+      "bytes": 1664
+    },
+    {
+      "name": "exercises/tasks.txt",
+      "sha256": "7693f203ecbeb501c4606416bda8f8ae6e8e7019135fb4e2116f5e6cd0933391",
+      "bytes": 1071
+    },
+    {
+      "name": "instructions/reusable.txt",
+      "sha256": "6d7bc4be604662d1a879bb22bbd6e03f99ddb4515bf67bc542633787e2583a5c",
+      "bytes": 1610
+    },
+    {
+      "name": "sources/S1.txt",
+      "sha256": "ecf3e925a7f302a02820c76721bd36709c4bfb3a23b7aeedf54a0ed86519fefe",
+      "bytes": 621
+    },
+    {
+      "name": "sources/S2.txt",
+      "sha256": "8c8d7ab866cb2d4f870710bc1fdc431dfa0e361532d273ca535a066664d1cae3",
+      "bytes": 375
+    },
+    {
+      "name": "sources/S3.txt",
+      "sha256": "1f30aace3086b040524301e8b7305af83a871c881ec3b1aa6dce2fd480cabade",
+      "bytes": 483
+    },
+    {
+      "name": "sources/register.csv",
+      "sha256": "4faf04419f18a53ae232568b8c2338591b1bcc83b0fecafd2c03262a122f0d26",
+      "bytes": 527
+    },
+    {
+      "name": "sources/untrusted-note.txt",
+      "sha256": "00e97f9be16261bd93ef47a9940ac66b171c45c59b88dbe27a23fbd81d6d407f",
+      "bytes": 359
+    },
+    {
+      "name": "templates/input-form.txt",
+      "sha256": "8c493cce2992cf0d376d2d9e8da7efc4ec1ebd9b91ab2994f801167f6364c902",
+      "bytes": 619
+    },
+    {
+      "name": "templates/response-log.txt",
+      "sha256": "53bec1d10846416091908686dcb066ca71bf085b06bafcbca5d2459d07219b12",
+      "bytes": 402
+    },
+    {
+      "name": "worked/draft-to-check.txt",
+      "sha256": "5826027699af788d02dd72f9b727a1a1fd237b4cd94763904c36e971c820a3b3",
+      "bytes": 997
+    }
+  ]
+}

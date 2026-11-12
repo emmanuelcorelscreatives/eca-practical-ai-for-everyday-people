@@ -1,0 +1,71 @@
+{
+  "projectId": "cmv75vd6101375c3cqd12malb",
+  "scriptSha256": "c92a0719caba53c5559fdebd49d7a74d56d44ff7e7b309b1abb13ac71c4cec42",
+  "files": [
+    {
+      "name": "01 Source/practice-brief.txt",
+      "bytes": 623,
+      "sha256": "3bd61840d7bf49adfe832f39963a030e859b660c8be1e15038682f45b1d9bfbd"
+    },
+    {
+      "name": "02 Generated Draft/saved-instruction.txt",
+      "bytes": 334,
+      "sha256": "715a9bc934c05201a56a05d0036346ce092bd6973026d82cc861df7799561378"
+    },
+    {
+      "name": "02 Generated Draft/structured-draft.csv",
+      "bytes": 443,
+      "sha256": "b330fc406232679f2cf06e4b5f34d55517ebb068e17244d28121726c932ac445"
+    },
+    {
+      "name": "02 Generated Draft/suggestion.txt",
+      "bytes": 256,
+      "sha256": "ca6eacb50b21106610f628123e4d185263a32c749fa1ad72ac39b0275ed2b5aa"
+    },
+    {
+      "name": "03 Checks/Event Check.xlsx",
+      "bytes": 2331,
+      "sha256": "699a62092acc547a56083440cdb5f1afc49223b617488fd498908fb7c3730c32"
+    },
+    {
+      "name": "03 Checks/blank-comparison.csv",
+      "bytes": 204,
+      "sha256": "1786b0507b9116be99a6adbef1260de44bb3e1542c1ff9f635508e86e536381c"
+    },
+    {
+      "name": "03 Checks/review-checklist.csv",
+      "bytes": 543,
+      "sha256": "04963eaf729bf9d08255a1e17d57a3e4db20dc05c16aa3af571c35541a6c0c62"
+    },
+    {
+      "name": "03 Checks/workbook-cell-map.txt",
+      "bytes": 1649,
+      "sha256": "20ba0127b09ddebcf9bab75b1f3b98aa70cd5879a19ef657370c480847aa741d"
+    },
+    {
+      "name": "04 Final for Review/blank-template.txt",
+      "bytes": 523,
+      "sha256": "4e19832c21401c319eee5a3da244f34125de53d480faffee1ac1b0e870e3e01b"
+    },
+    {
+      "name": "04 Final for Review/draft-information-sheet.txt",
+      "bytes": 725,
+      "sha256": "044cdc7d4d845d9ffdc98185d1cc7258b4a8cf1967ccab48939b043a389dabb8"
+    },
+    {
+      "name": "LICENSE.txt",
+      "bytes": 268,
+      "sha256": "c643b80bdcccb6b97b7116717e66669f16ef5b6199ecb74233847a6d7f6992ed"
+    },
+    {
+      "name": "decision-log.csv",
+      "bytes": 278,
+      "sha256": "74f47e529b7957a01756394f38766252e7878416de7689ede1cbc05ac0f69927"
+    },
+    {
+      "name": "worksheet.md",
+      "bytes": 3818,
+      "sha256": "1d37fab3c01512a9e871d4925217a53085383382374c30f21bbd6ff6b297e2f1"
+    }
+  ]
+}

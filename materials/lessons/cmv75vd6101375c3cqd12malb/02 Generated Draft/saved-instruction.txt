@@ -1,0 +1,2 @@
+Extract only stated event facts into the fields below. Do not resolve contradictions. Label missing information. Separate source facts from suggested wording. Do not send, publish, invite, or book anything.
+Fields: Date, Public time, Venue, Sessions, Seats per session, Chairs available, Volunteers, Setup time, Rain location, Notes.
