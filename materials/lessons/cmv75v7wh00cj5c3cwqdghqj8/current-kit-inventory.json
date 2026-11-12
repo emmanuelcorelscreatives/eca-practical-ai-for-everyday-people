@@ -1,0 +1,52 @@
+{
+  "version": 1,
+  "projectId": "cmv75v7wh00cj5c3cwqdghqj8",
+  "scriptSha256": "9104e970e65e5abbe9270b38a3a9ec7f8db456d08c6d068a0e847b218a8ea13c",
+  "files": [
+    {
+      "name": "README.md",
+      "sha256": "5cdb63be9c599487bcb030514068505f9eef283c237ada00dde4df128f41496c",
+      "bytes": 1042
+    },
+    {
+      "name": "answers.md",
+      "sha256": "d7ba7c281bbaae6a15e556d65ed26c0b43cf1d39d44db6200f5f0b8d71e25c38",
+      "bytes": 2541
+    },
+    {
+      "name": "blank-review.csv",
+      "sha256": "0253669c0cf0acf45efedfabd794c33798887a8b6bc61a7251a905189d2b1a1b",
+      "bytes": 250
+    },
+    {
+      "name": "checked-message.txt",
+      "sha256": "415b2336175bfce73a0bb17982da7949d26a28f20a9be3149a42f9127056446e",
+      "bytes": 256
+    },
+    {
+      "name": "leila-practice.md",
+      "sha256": "56a915378833ce3cc7a99b164d2a6350781e829d1e57aa7b91a52b3a3340197d",
+      "bytes": 1396
+    },
+    {
+      "name": "original-message.txt",
+      "sha256": "2e6ac9a041f61be5baa551271cb7fda77a95306c8b71177592708fc0c243b6f6",
+      "bytes": 275
+    },
+    {
+      "name": "proposed-study-draft.txt",
+      "sha256": "94ad8e38631f7c68b2929640f3d15ba1d5788a939f120f11807776f17526780f",
+      "bytes": 569
+    },
+    {
+      "name": "source-notes.md",
+      "sha256": "f0eb83c6891609784dedcbac1b5906fb683815205e2bf7bea6d5fdbbfaee386d",
+      "bytes": 664
+    },
+    {
+      "name": "worksheet.md",
+      "sha256": "bc8cffe50ad3e6c85716558582cb7b112b7293f573093b91bc7455fa05c173aa",
+      "bytes": 3094
+    }
+  ]
+}

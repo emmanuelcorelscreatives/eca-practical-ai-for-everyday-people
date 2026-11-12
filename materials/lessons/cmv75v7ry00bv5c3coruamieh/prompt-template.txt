@@ -1,0 +1,11 @@
+INSTRUCTION:
+Turn the source notes below into a short, organized message for event volunteers. Start with the purpose, then give confirmed details, then the requested reply. Place the missing-time marker between the confirmed details and requested reply.
+Use only supplied details. Do not invent names, times, reasons, or commitments.
+Write [MISSING: ...] wherever information is missing. Do not send anything.
+
+SOURCE NOTES:
+Community room booking confirmed
+Saturday, 7 November 2026
+Cedar Community Centre, Room 2
+Start time not confirmed
+Ask volunteers to reply by Friday, 30 October if they can help set up chairs.

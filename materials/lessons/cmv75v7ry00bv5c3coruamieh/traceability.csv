@@ -1,0 +1,7 @@
+source_point,source_text,draft_evidence,result
+purpose,"Community room booking confirmed","Subject: Community room booking confirmed; The community room booking is confirmed",retained
+confirmed_date,"Saturday, 7 November 2026","Saturday, 7 November 2026",exact match
+confirmed_location,"Cedar Community Centre, Room 2","Cedar Community Centre, Room 2",exact match
+unknown_time,"Start time not confirmed","The start time is [MISSING: start time].",uncertainty visible
+reply_and_action,"Ask volunteers to reply by Friday, 30 October if they can help set up chairs.","Please reply by Friday, 30 October if you can help set up chairs.",deadline and conditional chair setup retained
+unsupported_scan,"No sender name; event reason; refreshments; attendance claim; extra work supplied","None added",no unsupported additions in worked example

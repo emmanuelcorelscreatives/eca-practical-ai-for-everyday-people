@@ -1,0 +1,42 @@
+{
+  "version": 1,
+  "projectId": "cmv75v7ry00bv5c3coruamieh",
+  "scriptSha256": "eb76e296d822e1198775ccce4dcc3d530d937469166c4b86295a57c9d8c276ae",
+  "files": [
+    {
+      "name": "answers.md",
+      "sha256": "8e5c927f9f53c7b2ba0c9398c0149b69f5a47c1399aafb7cbeef2f3613604998",
+      "bytes": 2697
+    },
+    {
+      "name": "checked-first-draft.txt",
+      "sha256": "1193a3072751faf0dbeebe8e80d195ad4eedff4ba74925e553b18c5006ee36e8",
+      "bytes": 361
+    },
+    {
+      "name": "exercises.md",
+      "sha256": "8f17fca1704e651250e8194b96da98d8f63f094f09d0097666dcda30fc2a57c7",
+      "bytes": 2010
+    },
+    {
+      "name": "prompt-template.txt",
+      "sha256": "e086c72656ed365d0b41eb1b07f9ada31b8b79c4fd25d9a5a43f3c9f6057ce39",
+      "bytes": 619
+    },
+    {
+      "name": "source-notes.txt",
+      "sha256": "587d797cc54a223f4ca36351a5d2ef7e1ee7994f31dd941c257ecd8aea813009",
+      "bytes": 193
+    },
+    {
+      "name": "traceability.csv",
+      "sha256": "a0e79232631e22d840b23cfa48ab647b72a21860a74fa5c6916207ef3b0afa78",
+      "bytes": 835
+    },
+    {
+      "name": "worksheet.md",
+      "sha256": "12642bdcbe664dc28130b6cd92ae113f6bd6dc8740b890a3109ab18bb212e477",
+      "bytes": 2737
+    }
+  ]
+}
