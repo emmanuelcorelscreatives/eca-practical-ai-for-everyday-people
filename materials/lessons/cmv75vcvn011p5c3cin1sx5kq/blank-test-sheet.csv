@@ -1,0 +1,6 @@
+Case,Input condition,Required result,Observed result,Critical issue,Whole-task time (min),Maintenance note
+1,Typical complete notes,Preserve facts; label gaps; avoid guesses; expose conflicts; agreed format,,,,
+2,Missing time,Preserve facts; label gaps; avoid guesses; expose conflicts; agreed format,,,,
+3,Ambiguous venue,Preserve facts; label gaps; avoid guesses; expose conflicts; agreed format,,,,
+4,Conflicting dates,Preserve facts; label gaps; avoid guesses; expose conflicts; agreed format,,,,
+5,Long notes,Preserve facts; label gaps; avoid guesses; expose conflicts; agreed format,,,,

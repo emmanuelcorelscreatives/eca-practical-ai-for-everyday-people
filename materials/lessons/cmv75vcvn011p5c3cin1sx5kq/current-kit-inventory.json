@@ -1,0 +1,57 @@
+{
+  "projectId": "cmv75vcvn011p5c3cin1sx5kq",
+  "files": [
+    {
+      "name": "README.md",
+      "bytes": 2823,
+      "sha256": "72802479d7bb8390d8c4893c2102e7796773eb9296c197b3749f109f7b610de0"
+    },
+    {
+      "name": "blank-test-sheet.csv",
+      "bytes": 599,
+      "sha256": "99bb5e5f5f2dd688d670e5d16c25b46a5e6e12ddcae08b273da20490f2bad574"
+    },
+    {
+      "name": "decision-record.md",
+      "bytes": 1535,
+      "sha256": "f30fb108bac170a6646a2f48756a6004fbe69e8bc9ca92bc66d6483b6ee37c47"
+    },
+    {
+      "name": "decision-template.md",
+      "bytes": 332,
+      "sha256": "79b371610420dca33019c35d9c482dc01b1f3979f98d765740c204331dd1ce9f"
+    },
+    {
+      "name": "draft-artifacts.md",
+      "bytes": 1989,
+      "sha256": "305117f5ba1840c014cea4a2fa205b1eb6cf37eaca4b8aa793cf8a2da45bbba4"
+    },
+    {
+      "name": "expected-checks.md",
+      "bytes": 1338,
+      "sha256": "59becf2765dce798ebb0d0395453212175fe3d159c2fc191267a8e0140006ca2"
+    },
+    {
+      "name": "maintenance-notes.md",
+      "bytes": 647,
+      "sha256": "3a99b0206d560be8ff99e30810b547f88673ece28ee378bbd4e43cc9e0fcabac"
+    },
+    {
+      "name": "source-inputs.md",
+      "bytes": 1830,
+      "sha256": "6093df36d11947ed6384e143dae2a5fa49f076918b2bbff5c2c662417c1d1a00"
+    },
+    {
+      "name": "timing-record.csv",
+      "bytes": 1072,
+      "sha256": "31b77516073992c16fcfc4dba6bfbaa225b83087f55392cf0cc550ca265a8140"
+    },
+    {
+      "name": "worked-test-sheet.csv",
+      "bytes": 936,
+      "sha256": "4ae7c2c1d688cdf40f4b3416f4ce6a8aba1a3d6b5b527e5b79ab9abb1225efd7"
+    }
+  ],
+  "version": 1,
+  "scriptSha256": "8b2c61937babc58a17ac9c9e623ba18e7977c1435d2b9d26264429d6ac9ec111"
+}

@@ -1,0 +1,6 @@
+Case,Input condition,Required result,Observed result,Critical issue,Whole-task time (min),Maintenance note
+1,Typical complete notes,Preserve facts; label gaps; avoid guesses; expose conflicts; agreed format,Passed all required checks,None,4,Format stable
+2,Missing time,Preserve facts; label gaps; avoid guesses; expose conflicts; agreed format,Gap labelled for confirmation,None,5,No change
+3,Ambiguous venue,Preserve facts; label gaps; avoid guesses; expose conflicts; agreed format,Invented a specific venue,Yes — unsupported location,8,Ambiguity rule needs repair
+4,Conflicting dates,Preserve facts; label gaps; avoid guesses; expose conflicts; agreed format,Selected one date without warning,Yes — conflict concealed,10,Conflict rule needs repair
+5,Long notes,Preserve facts; label gaps; avoid guesses; expose conflicts; agreed format,Shortened repetition; retained accessibility and contact,None,6,Retest all five cases
