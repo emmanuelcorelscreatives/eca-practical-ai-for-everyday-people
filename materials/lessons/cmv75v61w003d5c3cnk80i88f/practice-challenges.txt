@@ -1,0 +1,5 @@
+For each course-authored faulty example, identify every unsupported change and write a correction:
+A. Meet at 11:00 in the community room; contact Sam.
+B. Bring three books.
+C. Sam may be the public contact.
+Explain which labels apply and why. Compare with answer-key.md only after your own review.

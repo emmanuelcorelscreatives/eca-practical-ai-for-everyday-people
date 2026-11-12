@@ -1,0 +1,2 @@
+# Manual route
+Open an ordinary document and copy only the three supported actions from `source-notes.txt`. Add a separate Missing information section with “Who is responsible?” Check the saved and reopened document against all three source lines. Record one correction, one limitation and your final decision in the evidence template. Paper is an optional learner fallback mentioned in the narration; course illustrations use a digital canvas.

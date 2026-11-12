@@ -1,0 +1,6 @@
+# Expected checks — read after attempting the practice
+The invitation must retain Community Reading Afternoon, 18 June 2030, 14:00–15:30, Cedar Community Room at 12 Example Lane, free entry, no advance booking, and optional book with spare books available. Accessibility is unconfirmed; a draft may explicitly flag this or keep the unresolved question beside the draft. It must not claim step-free access or any other unprovided arrangement. Count words in your document editor to check the 80-word maximum. Many valid drafts are possible.
+
+Supply arithmetic uses fictional USD practice prices: notebooks 6 × 2.50 = 15.00; pens 12 × 0.75 = 9.00; name cards 10 × 0.40 = 4.00. Total = 28.00 USD. In a spreadsheet with header row1 and quantity in columnB/unit price in columnC, enter `=B2*C2` in D2, fill through D4, then `=SUM(D2:D4)` in D5. Formula separators and formatting may differ by locale. Check exactly rows2–4 and do not sum the quantities as money. You can also verify each multiplication and addition on a calculator.
+
+Do not infer real-world prices, stock, tax, delivery or a recommended supplier from these fictional records. The exercise demonstrates extraction versus calculation; it is not a purchasing instruction.

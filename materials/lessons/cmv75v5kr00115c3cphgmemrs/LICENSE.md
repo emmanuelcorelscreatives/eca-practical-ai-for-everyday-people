@@ -1,0 +1,2 @@
+# Licence and provenance
+The original Academy exercise text, CSV fixtures, PDF brief and checker in this lesson folder are self-created fictional training materials, licensed Creative Commons Attribution 4.0 International: https://creativecommons.org/licenses/by/4.0/ . Attribute Emmanuel Corels Academy. Third-party applications, websites and trademarks retain their respective rights. This kit contains no private learner data, borrowed case records or asserted external execution results.

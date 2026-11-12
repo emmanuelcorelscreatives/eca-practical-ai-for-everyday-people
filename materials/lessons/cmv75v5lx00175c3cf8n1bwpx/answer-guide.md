@@ -1,0 +1,7 @@
+# Checks and reasoning
+The fictional document's date is 18 September 2027; the venue is Not decided; activities are a reading circle and book swap. Missing decisions must not become invented confirmed facts. The supplied five-bullet count is an instruction; actual AI output must still be inspected.
+The initial source contains Lantern table and no Cedar capacity. A capacity answer cannot be justified from that document. The separate Room Notes sample says 24 people; that becomes an available source only after a deliberate supported reference/opening step. It is fictional and must not be presented as measured venue data.
+Four attendance values total 80. The fifth value is 9, making 89. The unchanged original range is still 80: a correct calculation for an incomplete range is an incomplete answer to the expanded task.
+A document panel draft, proposed formula and unaccepted image variation are suggestions. Inserting/replacing/applying/accepting can change a file; record the actual action.
+Context examples: active document or referenced source; named spreadsheet range; selected image and marked edit target. None alone demonstrates blanket access to an entire drive, email, design library or device. A mask does not promise the rest of an uploaded photo is inaccessible.
+Your worksheet answers depend on your actual interface and actions. Do not copy fictional observations. If context is unclear, reduce input, conduct a harmless test or use manual controls.

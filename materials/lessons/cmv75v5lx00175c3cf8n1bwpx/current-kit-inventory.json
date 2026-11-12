@@ -1,0 +1,62 @@
+{
+  "version": 1,
+  "projectId": "cmv75v5lx00175c3cf8n1bwpx",
+  "scriptSha256": "8607275c92cc3e7143951bd1685ae6fb46b07a4621ae17b068e6aef1fb637381",
+  "files": [
+    {
+      "name": "LICENSE.txt",
+      "sha256": "09a69059e9c57c027ce84386d19349b8d602a49efdd7b0b1ff6a39018dbd68c5",
+      "bytes": 742
+    },
+    {
+      "name": "README.md",
+      "sha256": "ae6bf3cc77fac42c084d33accf1f18d61f93452219a683552f4ca35d437710b1",
+      "bytes": 1653
+    },
+    {
+      "name": "additional-attendance.csv",
+      "sha256": "b79a034ae42ab5fc88ceece4facf6674d842015e47dc1e3b20e1f21801da52e9",
+      "bytes": 54
+    },
+    {
+      "name": "answer-guide.md",
+      "sha256": "93c8b2240c1fde30e8e726c4a820f4d3b56c4bfeb9b63a891167b0380f951b17",
+      "bytes": 1472
+    },
+    {
+      "name": "context-review-worksheet.csv",
+      "sha256": "07af1906bf17ea295c4dd34ac48f2f6befee68a71cfa71c6a066e38a2ce5c590",
+      "bytes": 248
+    },
+    {
+      "name": "exercise-guide.md",
+      "sha256": "b6e07646a75210bcfa029a7f7ead572a1b0433d1c9b2b00679dd3e6823329a01",
+      "bytes": 1677
+    },
+    {
+      "name": "image-practice.md",
+      "sha256": "73578579e91ef5921db515f5bf6356b1ed7d49fa051048455c5509e783208703",
+      "bytes": 1203
+    },
+    {
+      "name": "reading-day-attendance.csv",
+      "sha256": "5e87ed8b2dcc3043e9b364e821622c3350c9a582887adeff7ccd4c9659e17cf1",
+      "bytes": 125
+    },
+    {
+      "name": "riverside-reading-day.txt",
+      "sha256": "fa84faa23f53dc13e1a9ad88bbd4d125a2e5246a26a61c951ccaca3b0382f025",
+      "bytes": 585
+    },
+    {
+      "name": "room-notes-cedar.txt",
+      "sha256": "2d144b406b7bb54b285d6adf9ae24a245bc8c690c300feb454cb7e9e14f6681c",
+      "bytes": 382
+    },
+    {
+      "name": "verify_materials.py",
+      "sha256": "b00e203a0fa6f99c9637ffa58bb61c407ec1088e85ca8ff9294023e296a6f7ee",
+      "bytes": 923
+    }
+  ]
+}

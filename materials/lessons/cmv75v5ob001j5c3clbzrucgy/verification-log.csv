@@ -1,0 +1,6 @@
+claim,source_page,exact_source_words,status,correction
+Start time 10:00,1,The Community Garden Open Day begins at 10:00,confirmed,
+Children without adult,1,Children must remain with their accompanying adult,contradicted,Retain accompanying adult condition
+Finish time 16:00,2,finish time ... not supplied,unsupported,Mark finish time missing
+Water only,1,Volunteers should bring a reusable water bottle,weakened,Retain reusable water bottle
+Weather condition omitted,1,Activities may change if weather conditions make the growing beds unsafe,omitted,Retain weather safety condition

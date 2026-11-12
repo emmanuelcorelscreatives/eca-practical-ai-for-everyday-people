@@ -1,0 +1,57 @@
+{
+  "version": 1,
+  "projectId": "cmv75v5qr001v5c3c26mla44m",
+  "scriptSha256": "750d68981901c5e79011e7c8cf2fb7b7fd21992293cb3f018f769994ce3d0f70",
+  "files": [
+    {
+      "name": "README.md",
+      "sha256": "5575542fd7f2298d14682a1111493c6348262958f87b0e07be67c939fe43b507",
+      "bytes": 3323
+    },
+    {
+      "name": "Riverside_Clean_Setup_Notes.odt",
+      "sha256": "053890f0973654f4f4e1053272858df44d368934ba0a7afac773a7fe7859196e",
+      "bytes": 2190
+    },
+    {
+      "name": "Riverside_Event_Source.odt",
+      "sha256": "e9f2d0e8eb9729d7f6a3b01e560ad17b793e8ba2c953023113e035ba86a465f9",
+      "bytes": 3196
+    },
+    {
+      "name": "Riverside_Event_Working_Copy.odt",
+      "sha256": "e9f2d0e8eb9729d7f6a3b01e560ad17b793e8ba2c953023113e035ba86a465f9",
+      "bytes": 3196
+    },
+    {
+      "name": "answer-key.md",
+      "sha256": "2fddbe7c34dc8aaf6d5b7c355850fa23845f7d52783842d141dabf3c5d713391",
+      "bytes": 1670
+    },
+    {
+      "name": "clean-notes.txt",
+      "sha256": "0fa3c593dae37304324230d14a413de1e07d944b824df1fc3bce810bebf5712c",
+      "bytes": 139
+    },
+    {
+      "name": "expected-checklist.md",
+      "sha256": "0a56b11f3ed7bb075bdd1126611e433892c5623e5ac0e58065c6617626ff12eb",
+      "bytes": 537
+    },
+    {
+      "name": "prompt.txt",
+      "sha256": "c4ed3220d18b465ea626340455463233a23be81381c128c3c6d3a152fe2435b3",
+      "bytes": 264
+    },
+    {
+      "name": "verify-kit.py",
+      "sha256": "f253594261da017305cfb83c7c8e6ad7632dc95747d742bc69c04e9e13911994",
+      "bytes": 1616
+    },
+    {
+      "name": "worksheet.md",
+      "sha256": "e547e59098afe337a82ceacf022efb996426fa2eaca2a517545ab77cc4f53b72",
+      "bytes": 1154
+    }
+  ]
+}

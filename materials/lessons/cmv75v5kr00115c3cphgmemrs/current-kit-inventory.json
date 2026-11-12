@@ -1,0 +1,57 @@
+{
+  "version": 1,
+  "projectId": "cmv75v5kr00115c3cphgmemrs",
+  "scriptSha256": "5dc8b515208385e54d6ddc9262535aaf9953f45cf09892ca935a86e285af6121",
+  "files": [
+    {
+      "name": "Community_Garden_Open_Day_Brief.pdf",
+      "sha256": "70d8425c645aad41abaa057d92c69f5221d193bfc2cb1d7bf73057c57c900135",
+      "bytes": 1069
+    },
+    {
+      "name": "Community_Garden_Open_Day_Brief.txt",
+      "sha256": "e6af5ba9a88b907f7fcc488e33b89f2e7528723f14ed0e24f554af96ba390d79",
+      "bytes": 423
+    },
+    {
+      "name": "EXPECTED-CHECKS.md",
+      "sha256": "975042a5058720a45f7d8c067a5bd5587373dc0242fdb4e21fc195a540d94b7c",
+      "bytes": 1247
+    },
+    {
+      "name": "LAB.md",
+      "sha256": "101ca49d1222c83770a6e349e75291417682c0ed1de754d3485719aa6f0b1f33",
+      "bytes": 1842
+    },
+    {
+      "name": "LICENSE.md",
+      "sha256": "4ba328d87d6af99e1d3b37a0192dade39c2ebf3c2f0e96cd15a1f46dad46c248",
+      "bytes": 492
+    },
+    {
+      "name": "README.md",
+      "sha256": "6c9d399a2f1da433b5f9c4716a6abc294a8288afe7b3a0de941b389aacf7f711",
+      "bytes": 1187
+    },
+    {
+      "name": "check_materials.py",
+      "sha256": "a2f3933ffdcf34d725a27a35b8e8665e798303c206a4e2a10f3abbfaec1df3fd",
+      "bytes": 502
+    },
+    {
+      "name": "checked-notes.csv",
+      "sha256": "c0f006ea1710b51aae03c0278c5831d4517eb4f80f743d61e27afd3327945ea5",
+      "bytes": 106
+    },
+    {
+      "name": "decision-worksheet.csv",
+      "sha256": "0436342adb0051e0fd0e92f318855280e17cd3a3482c730426f5a782630829bb",
+      "bytes": 275
+    },
+    {
+      "name": "prompts.md",
+      "sha256": "61bcd5b93aaa456910f3779c33c5e3765b7a1c846ac5bd4344e9d98731a6e58b",
+      "bytes": 1501
+    }
+  ]
+}

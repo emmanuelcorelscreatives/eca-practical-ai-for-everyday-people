@@ -1,0 +1,47 @@
+{
+  "version": 1,
+  "projectId": "cmv75v5zg00315c3cczgdd928",
+  "scriptSha256": "14c8f86084e94d7b2e48e2e5c61118d59d8abde315fa7c029dbde28db90ebdb5",
+  "files": [
+    {
+      "name": "LICENSE.txt",
+      "sha256": "7e959b947cb54c45e6aca09f056d63b6d1bb0717ca46f193dc49e8f0faed51f4",
+      "bytes": 259
+    },
+    {
+      "name": "check_materials.py",
+      "sha256": "37827fb26732413c7d6ae6cb5ed37d12871ecccd192af407717f1687f8e23e89",
+      "bytes": 771
+    },
+    {
+      "name": "compact-request.txt",
+      "sha256": "eaa25ee9da2cb89459640f8c7eb5f2b4102aa0ab56e65b22101ba5c34e5261ef",
+      "bytes": 711
+    },
+    {
+      "name": "final-checklist.txt",
+      "sha256": "75c6ba9f448ca7b049f91c6d329848e0ec77c7bf6e757d8ae9db522223b2b60a",
+      "bytes": 345
+    },
+    {
+      "name": "source-notes.txt",
+      "sha256": "5d07553eaa02e982546e84ad6f109f810980490f340658b1a625fc8df48939f3",
+      "bytes": 550
+    },
+    {
+      "name": "traceability.csv",
+      "sha256": "4913916b0cd1a1bd975fb6510cbd526119242e7ce296eeb7582414c2258c669c",
+      "bytes": 569
+    },
+    {
+      "name": "unsupported-draft.txt",
+      "sha256": "934a22a60a028fd4e1e1d7005d51d48b4cfbdc307720c82dccab997fb1c895dd",
+      "bytes": 237
+    },
+    {
+      "name": "worksheet.md",
+      "sha256": "8331888ba3fd37834dced834169db71f09de8018d5e41e98a5e0dc780ee9965c",
+      "bytes": 2452
+    }
+  ]
+}

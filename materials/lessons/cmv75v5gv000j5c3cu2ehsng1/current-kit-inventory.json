@@ -1,0 +1,62 @@
+{
+  "version": 1,
+  "projectId": "cmv75v5gv000j5c3cu2ehsng1",
+  "scriptSha256": "a1c94c096b494adb50cc200fb60aea0aa032fdf134f88e626096cc76de03ce0c",
+  "files": [
+    {
+      "name": "README.md",
+      "bytes": 2552,
+      "sha256": "4f2711b9d5e672549f7b6aa8903e123547c2412e506e39d64a28a0a931bf4a45"
+    },
+    {
+      "name": "corrected-checklist.txt",
+      "bytes": 174,
+      "sha256": "386203960abeda13292432bde392b05c8bf6b67b851f1b445c132936d55ab67b"
+    },
+    {
+      "name": "correction-instruction.txt",
+      "bytes": 99,
+      "sha256": "24bba62254b069d7596b64adbb6ae1d4a6d06d8f94fcd2566e7250fc6e431914"
+    },
+    {
+      "name": "generated-draft.txt",
+      "bytes": 183,
+      "sha256": "7eb1c37b165aa68c5d091b65b19f7ffdb410507982f9cc577d43508c5a7a2081"
+    },
+    {
+      "name": "instruction.txt",
+      "bytes": 100,
+      "sha256": "72dfe3415ea4fa5f0a374b8230c3fa0147288c7d6efb0f79c289ae45b478815e"
+    },
+    {
+      "name": "manual-fallback.md",
+      "bytes": 449,
+      "sha256": "65e9062d68476814ad4b53e1ff9506593dc9a4a687c5b7549dae7fd90e2a9110"
+    },
+    {
+      "name": "practice-assistant.html",
+      "bytes": 3540,
+      "sha256": "1ceafaff122507a0774950ed2d90fee2bcf973fac1d45933cde8d05575731100"
+    },
+    {
+      "name": "project-evidence-template.md",
+      "bytes": 521,
+      "sha256": "fc2bd4565e4b1a051094840ab78fae837b61f43464192b56f15dc054a5e5f6c0"
+    },
+    {
+      "name": "reflection.md",
+      "bytes": 484,
+      "sha256": "b1cbfade888ce21ca487b8b74346b6b45746c388aad5f69a0b8420cb54b29620"
+    },
+    {
+      "name": "source-notes.txt",
+      "bytes": 92,
+      "sha256": "2af52d8828ed797308b4cb1f0c618907196c492a6d9a840e7d7ea5dcd662139a"
+    },
+    {
+      "name": "worked-check.txt",
+      "bytes": 423,
+      "sha256": "61b7e33e707a5398983a48da693de607a98b0514c64ca3f5aaa602c1346e5321"
+    }
+  ]
+}

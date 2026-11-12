@@ -1,0 +1,7 @@
+Arrange twelve chairs: supported by source line 1.
+Put water near the entrance: supported by source line 2.
+Begin at 18:00: supported; Start and Begin express the same starting time.
+Print guest name cards: unsupported; remove it.
+Who is responsible?: unknown; retain as a question, not an assigned person.
+No venue, responsible person or additional deadline is supplied.
+Reopen the saved document and repeat these checks.

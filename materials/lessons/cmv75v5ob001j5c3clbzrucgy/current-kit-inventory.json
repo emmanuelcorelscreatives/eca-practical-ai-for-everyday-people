@@ -1,0 +1,47 @@
+{
+  "version": 1,
+  "projectId": "cmv75v5ob001j5c3clbzrucgy",
+  "scriptSha256": "c34448ebd8262ad494aa73003ea3fa2b092d31c5e63fcfc89d1145c11daeed02",
+  "files": [
+    {
+      "name": "Community Garden Open Day Brief.pdf",
+      "sha256": "d92477bcb33fb15a3f79818ba09007a616668764f3429ba02ac848a4fe4ea6ba",
+      "bytes": 2079
+    },
+    {
+      "name": "Community Garden Open Day Brief.txt",
+      "sha256": "f6235b60f87c2980c607033a1a0fe365cd0e34a79302823f3c2e503675e59255",
+      "bytes": 668
+    },
+    {
+      "name": "README.md",
+      "sha256": "62c153cd47a50c1f38d71bdd2ed96c7cd140f15c22023ad726540ad97681abaf",
+      "bytes": 4512
+    },
+    {
+      "name": "checked-summary-example.txt",
+      "sha256": "adaddc16e0d94443f2ceeacc3d075b5d2712d1bd1ae1f019e09cdd85031fb08c",
+      "bytes": 696
+    },
+    {
+      "name": "practice-draft-to-check.txt",
+      "sha256": "91ff5cd0f7006308ca696e90a336f1eff7893fc5fdd3b0698fdba57a4a022c5c",
+      "bytes": 327
+    },
+    {
+      "name": "preflight-checklist.csv",
+      "sha256": "5adcfb8e25b1a6fcdde5f09eb547dd506c3d94563355b351ca09cf0d648d1a0c",
+      "bytes": 1272
+    },
+    {
+      "name": "prompt.txt",
+      "sha256": "076ceff25129925bb177aa5502809cf721bf4f62f2d312c905f0ba3deca85b60",
+      "bytes": 101
+    },
+    {
+      "name": "verification-log.csv",
+      "sha256": "e294c0f9953d03cbc052975e511781eb53786a66f938edf33361e74ef16472bd",
+      "bytes": 582
+    }
+  ]
+}

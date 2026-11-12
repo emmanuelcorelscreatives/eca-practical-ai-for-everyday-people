@@ -1,0 +1,47 @@
+{
+  "version": 1,
+  "projectId": "cmv758j6h00875cdkz3yz8270",
+  "scriptSha256": "4981fcd35f6c2390ffcd2efa81ccefb36d28115e38dc0a6a75d13507eb3e4e0a",
+  "files": [
+    {
+      "name": "LICENSE.txt",
+      "sha256": "54421419ae0b1ebbc308ec12af4497fc7d6e21ce29f9675615727a8331140db6",
+      "bytes": 307
+    },
+    {
+      "name": "README.md",
+      "sha256": "d043b743dd352acbdd1ba978e576ce28f3b09a009ad46ada02ac67b18ef4c7df",
+      "bytes": 1857
+    },
+    {
+      "name": "checks/expected-observations.md",
+      "sha256": "3f2fa7db4b0f5f05f1a9c2ada2524aee7d6b49a526276b363be54403f8ebe47c",
+      "bytes": 1240
+    },
+    {
+      "name": "checks/review-checklist.md",
+      "sha256": "229f7fda255274a1f33f78c90e1093d3e48672bbc3202a7c27727ef9cac0c42c",
+      "bytes": 893
+    },
+    {
+      "name": "practice/source-notes.md",
+      "sha256": "fe228ee96c1e4126e75936b0d4e30904807e492f6c6a6cc93bd158e4cce6784b",
+      "bytes": 1011
+    },
+    {
+      "name": "practice/supplies.csv",
+      "sha256": "6780543c5d48353a109264f9868a50b92414f70f4a6e009aea05f81a1a77303f",
+      "bytes": 82
+    },
+    {
+      "name": "worksheets/reuse-record.md",
+      "sha256": "26c0488bc1c28a05e4d34adc4cc36a28d3de53bbacd7f32b2a5e093b18c7b9db",
+      "bytes": 647
+    },
+    {
+      "name": "worksheets/task-brief.md",
+      "sha256": "390d4f819d6747111f594b1d59628dfce5d7fdbeaad5ffe730d4ecb3b3247f1e",
+      "bytes": 519
+    }
+  ]
+}

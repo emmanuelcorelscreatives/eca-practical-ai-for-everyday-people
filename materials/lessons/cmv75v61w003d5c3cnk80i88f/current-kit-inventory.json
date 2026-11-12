@@ -1,0 +1,62 @@
+{
+  "version": 1,
+  "projectId": "cmv75v61w003d5c3cnk80i88f",
+  "scriptSha256": "801e44c4cd6ba714cc6cfd407a9af5bc79122f49c1854b8562d4eaedcefe3989",
+  "files": [
+    {
+      "name": "LICENSE.txt",
+      "sha256": "d644e90cd0a8f528c1f5fbb6938713254eed945662a3e2a0bef4f964a5038bac",
+      "bytes": 182
+    },
+    {
+      "name": "answer-key.md",
+      "sha256": "5a178ad33c8f30126ba0957441f647ec8db7d8b9728020c18f63dfc82e9d7a0c",
+      "bytes": 1382
+    },
+    {
+      "name": "assistant-prompt.txt",
+      "sha256": "528fba9665939536ec5652a1977d0b71d188a7c1e89c2f875a9d3f84ab5f3c7b",
+      "bytes": 439
+    },
+    {
+      "name": "checked-final.txt",
+      "sha256": "db808a36032dff5707ebff61c746f5a773861719b2bc7046164a36e4ccc13f1e",
+      "bytes": 295
+    },
+    {
+      "name": "checking-table.csv",
+      "sha256": "c6a8f2462a465612ab53b2174d8887a80f5baae81642fe720428f1a851c08618",
+      "bytes": 120
+    },
+    {
+      "name": "expected-checking-table.csv",
+      "sha256": "b021dd68cb29a379c6acaaa95b3f784e2c7fe37470be60043a5783481560529a",
+      "bytes": 375
+    },
+    {
+      "name": "illustrative-draft.txt",
+      "sha256": "2e719704614f923aefbb8325aaaeebb111504afb5e8b773d4fe5287c40c09236",
+      "bytes": 402
+    },
+    {
+      "name": "manual-template.txt",
+      "sha256": "72f590d07d38b25807cb1fdd70f56254cedfb84e6e81f8dab5f61e32d420bd3c",
+      "bytes": 109
+    },
+    {
+      "name": "practice-challenges.txt",
+      "sha256": "f674ebeea3af5a236f7272dc21e37d71d2a4ceb3d124bd38e65e99c29b4a7f84",
+      "bytes": 299
+    },
+    {
+      "name": "source-notes.txt",
+      "sha256": "5747561b6cce9bf9bdf4e58a393ef49cacf2e431d118f71c684245665e55a385",
+      "bytes": 178
+    },
+    {
+      "name": "worksheet.md",
+      "sha256": "af44f878d93db528a9bbb7ab51a03371fb05f869f5d973fcab15f424db1e0cd8",
+      "bytes": 2320
+    }
+  ]
+}

@@ -1,0 +1,5 @@
+GENERATED DRAFT — fixed fictional course example, not actual model execution
+[ ] Arrange twelve chairs
+[ ] Put water near the entrance
+[ ] Begin at 18:00
+[ ] Print guest name cards
