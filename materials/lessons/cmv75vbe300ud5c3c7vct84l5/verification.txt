@@ -1,0 +1,6 @@
+PASS: six source IDs; source controls 6 / 2026-11-03 / 2026-11-18 / 53.
+PASS: output 1 missing EV-104; 5 rows and quantity 49.
+PASS: output 2 EV-105 date differs; summaries still match and fail to detect it.
+PASS: duplicate-ID counterexample caught despite matching row count.
+PASS: checked and destination references equal every original field.
+PASS: missing delivery status preserved; deliberate unsupported prose isolated.

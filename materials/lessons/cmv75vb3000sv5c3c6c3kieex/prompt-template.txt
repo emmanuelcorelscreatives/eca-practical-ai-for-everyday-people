@@ -1,0 +1,6 @@
+Task: Draft a service description of 80 to 100 words for a website.
+Source facts: ClearDesk Document Support formats customer-supplied notes into clear documents. Remote service. Editable document and PDF. Audience: freelancers and community groups. Customer approves the final document and remains responsible for its use. No legal advice.
+Constraints: Do not invent prices, turnaround times, qualifications, availability, customer results, testimonials, guarantees, or services. Label missing information instead of guessing.
+Output: Clear, calm, practical voice. Return 1. Draft description. 2. Missing-information note. 3. Claims requiring confirmation.
+
+The length is a drafting target, not permission to add unsupported facts. The final checked description in the lecture is shorter after review. The brief is authoritative; assistant output is not evidence.

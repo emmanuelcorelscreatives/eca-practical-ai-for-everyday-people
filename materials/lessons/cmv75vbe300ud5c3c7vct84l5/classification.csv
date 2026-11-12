@@ -1,0 +1,6 @@
+Category,Example,Why
+Copied,Quantity 6,Exact EV-105 source field
+Calculated,Total quantity 53,Sum of the six source quantities
+Generated,Arrange supplies by preparation date,"Organizing suggestion, not an observed fact"
+Assumed,Delivery may occur before the event,Unverified possibility; label it
+Unsupported,Delivery confirmed,No evidence in source; remove or independently verify

@@ -1,0 +1,52 @@
+{
+  "version": 1,
+  "projectId": "cmv75vavy00rv5c3cqnoz4kma",
+  "scriptSha256": "fdae7628dd490a33e212d6079782392c70c7d56aabf217a74303364dfe8fad7b",
+  "files": [
+    {
+      "name": "README.md",
+      "sha256": "c9e3087301cae37b250de868096517951a6a8f8c36c042edd5276967190c6186",
+      "bytes": 1671
+    },
+    {
+      "name": "answer-guide.md",
+      "sha256": "8279abd8f39925a289e4e354bc2369916a8ff3bad8f5f05ebbfba4b037eac6fa",
+      "bytes": 1393
+    },
+    {
+      "name": "check.py",
+      "sha256": "217b442284414646f9674550dd05e1c802d7af423ed95c1b4ac01830bf8c7963",
+      "bytes": 726
+    },
+    {
+      "name": "expected-corrections.csv",
+      "sha256": "242deaa1f52e243fb108d2ce90373916934ad4d2b5b08f980efa713599ef5174",
+      "bytes": 197
+    },
+    {
+      "name": "learner-log.csv",
+      "sha256": "50bdf9bb311872b7cd739bdde48f7d4ec53dab78315f7938cadf930b5b98aa77",
+      "bytes": 173
+    },
+    {
+      "name": "practice.md",
+      "sha256": "4ac75a852bfcc7a632e8902d149a42caf2d9ef4562fa89f382a1ea58125164a3",
+      "bytes": 2547
+    },
+    {
+      "name": "privacy-accessibility-checklist.md",
+      "sha256": "65254721ec53f1732f90a666508864d84738fe84c9d0b4ed7c18a9e37ae195e5",
+      "bytes": 729
+    },
+    {
+      "name": "simulated-transcripts.csv",
+      "sha256": "820e26829ddb61670f7eabb5c4e00373249194b0df12fcd1863413069f75ff4a",
+      "bytes": 376
+    },
+    {
+      "name": "source-cards.csv",
+      "sha256": "8eb0c15db1f3ae0caa843db4790b6de212f7e5f0853176ce8a4c6d413123f328",
+      "bytes": 298
+    }
+  ]
+}

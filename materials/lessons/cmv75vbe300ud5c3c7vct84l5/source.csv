@@ -1,0 +1,7 @@
+Record ID,Date,Item,Quantity,Note,Source reference
+EV-101,2026-11-03,Folding chairs,12,North entrance,SRC-A1
+EV-102,2026-11-03,Tables,8,Main hall,SRC-A2
+EV-103,2026-11-10,Sign boards,20,Wording pending,SRC-B1
+EV-104,2026-11-12,Extension leads,4,Electrical review required,SRC-B2
+EV-105,2026-11-18,Water containers,6,Delivery status missing,SRC-C1
+EV-106,2026-11-18,First-aid signs,3,Placement pending,SRC-C2

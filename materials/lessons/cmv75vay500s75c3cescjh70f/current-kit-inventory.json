@@ -1,0 +1,42 @@
+{
+  "version": 1,
+  "projectId": "cmv75vay500s75c3cescjh70f",
+  "scriptSha256": "acfccdd2726e8669e17eab99a0e18891fed9981104235eb0cddaab84a22b4d35",
+  "files": [
+    {
+      "name": "README.md",
+      "sha256": "bd178aea5740257d3b5a08e5d5baaaad30dff8f79c3fcb40e70bc744c1b3c82d",
+      "bytes": 1434
+    },
+    {
+      "name": "answer-key.md",
+      "sha256": "72b61e8e5c2b6ef293041b45b77612d707b8cd5257dae34fe4f9dd57b52501f6",
+      "bytes": 1374
+    },
+    {
+      "name": "cases.json",
+      "sha256": "7f230386da611d6606740ef2b0e54395e7435e3a59c3e77b89893939f519d0f0",
+      "bytes": 1358
+    },
+    {
+      "name": "check_cases.py",
+      "sha256": "b1b0349dd79cb83d7e5ad4cd3b52a76472ce1c402223e8cb0bb42996df0b733e",
+      "bytes": 865
+    },
+    {
+      "name": "poster-low-detail.svg",
+      "sha256": "71164cbc470c1bb16203cccc1eb079feec2220cbf6a7f93f6fd6280d20e48a72",
+      "bytes": 853
+    },
+    {
+      "name": "poster-original.svg",
+      "sha256": "f54f1da12feaa4abf57b1c92e78cbfe6b4c45605bda6dd9177396ad61850cce1",
+      "bytes": 822
+    },
+    {
+      "name": "worksheet.md",
+      "sha256": "65f6e6210c631f11a4acd4b0048d595d62a9731035aeeb8f9e74c4cc72e7e5fa",
+      "bytes": 2830
+    }
+  ]
+}

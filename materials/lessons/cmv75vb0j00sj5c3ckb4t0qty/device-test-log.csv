@@ -1,0 +1,5 @@
+task,device_os_version,app_version,language,input_bytes,output_bytes,network_condition,observed_result,checked_against_source,uncertain_fields,manual_fallback,next_test
+notice extraction,UNKNOWN,UNKNOWN,English,UNKNOWN,UNKNOWN,UNKNOWN,NOT_TESTED,NO,UNKNOWN,type checked text,try readable crop
+voice note,UNKNOWN,UNKNOWN,English,UNKNOWN,UNKNOWN,UNKNOWN,NOT_TESTED,NO,UNKNOWN,type short note,inspect actual transcript
+translation,UNKNOWN,UNKNOWN,UNKNOWN,UNKNOWN,UNKNOWN,UNKNOWN,NOT_TESTED,NO,UNKNOWN,phrase list or human helper,check meaning
+read aloud,UNKNOWN,UNKNOWN,English,UNKNOWN,UNKNOWN,UNKNOWN,NOT_TESTED,NO,UNKNOWN,large text or human reading,test pronunciation

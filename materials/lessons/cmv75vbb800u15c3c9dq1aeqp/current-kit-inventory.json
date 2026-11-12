@@ -1,0 +1,82 @@
+{
+  "version": 1,
+  "projectId": "cmv75vbb800u15c3c9dq1aeqp",
+  "scriptSha256": "27acfcd6ae82a309be208161747625fbb0ebd0387d4cbf157be2200652b71591",
+  "files": [
+    {
+      "name": "LICENSE.txt",
+      "sha256": "34b7c727928adb5502ceb0a14ec7dfbfe5ea6d932ae50f6e62ab248958abad03",
+      "bytes": 217
+    },
+    {
+      "name": "budget-inputs.csv",
+      "sha256": "d1c6d0325a898485b6bf511cdd2aea10f3f457cfe63c7dcaa93df29a31cdd034",
+      "bytes": 278
+    },
+    {
+      "name": "budget-note-template.html",
+      "sha256": "12bdecd0c9bb072a806e3df542c1ff8936de723aefff94652486fcfc762fb386",
+      "bytes": 1710
+    },
+    {
+      "name": "check_budget.py",
+      "sha256": "74a09209b761b911ef6982bdb9711215d9d5220d6837c6e797c6df6fffe7b2af",
+      "bytes": 719
+    },
+    {
+      "name": "exercise-checklist.md",
+      "sha256": "5ff46f50cea6ca5769c2b212c1642ae50a9e0a3c5dd8b48f5fab5d945fdaa3ee",
+      "bytes": 936
+    },
+    {
+      "name": "expected-budget-note.html",
+      "sha256": "0f43ba55e61e3a38834c4b52d848d2f1104b3b6bb449ab33acfb509a13a5ccc0",
+      "bytes": 1612
+    },
+    {
+      "name": "expected-budget.csv",
+      "sha256": "923732e680ff717e6b95ba19658e60d63da0e2ad04c2d0635ca9a85ea2ccd895",
+      "bytes": 440
+    },
+    {
+      "name": "source-register-answer.csv",
+      "sha256": "bd5d3f1f9b0efbe3630a5520b5d394d4f917ab685ed3628968931fc4ff29197b",
+      "bytes": 633
+    },
+    {
+      "name": "source-register-blank.csv",
+      "sha256": "f7dc7901844aeb9162d7b4c32a34e87846c732a75b8d1bfd04ae46e18a674f25",
+      "bytes": 403
+    },
+    {
+      "name": "sources/index.html",
+      "sha256": "4fb40a50f1e48d1cef024ad83fad3f90ff53609c61c800c7264852bab93f123d",
+      "bytes": 900
+    },
+    {
+      "name": "sources/printing.html",
+      "sha256": "f7431ae83bdab432851a62c9088a584330cdafd4cb6827d55910bd3a238f1a3c",
+      "bytes": 883
+    },
+    {
+      "name": "sources/refreshments.html",
+      "sha256": "fc10d226c8df1a8d59d158c8ab87f3d76e6ebec9725f2968ba00b426dad90b0c",
+      "bytes": 966
+    },
+    {
+      "name": "sources/venue.html",
+      "sha256": "dcea515e59d0f2f9bc1224c829679a3305a938e825f93dedcba0d4d3f30cbff5",
+      "bytes": 872
+    },
+    {
+      "name": "worksheet.md",
+      "sha256": "c7fc97bfaa63884f26d1c13cb8ceb71e1d624d89da43cd19776859254775e305",
+      "bytes": 4901
+    },
+    {
+      "name": "workshop-budget.xlsx",
+      "sha256": "3ca184efda892359ba035cedb6b4e127d5193e590c1406efcf2bf88151bf929b",
+      "bytes": 2439
+    }
+  ]
+}

@@ -1,0 +1,6 @@
+Fictional source sentence for learner dictation or manual typing:
+Please ask Northbridge practice hall for a large-print copy before 16 September 2027; the reading afternoon is on 18 September 2027 at 14:30.
+
+Check the actual transcription; do not assume this file is a recognizer result.
+Translation exercise: If you need a large-print copy, please ask before 16 September 2027.
+Preserve the conditional “if”, polite request, object and exact date. Record your language/checker and observed result in the log.

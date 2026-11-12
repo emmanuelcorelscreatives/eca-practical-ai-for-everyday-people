@@ -1,0 +1,37 @@
+[
+  {
+    "id": "A",
+    "image": "poster-original.svg",
+    "description": "A blue circle and a yellow rectangle appear under the heading Community workshop today.",
+    "classification": "supported",
+    "reason": "Compare visible shapes, colours and heading with the original."
+  },
+  {
+    "id": "B",
+    "image": "poster-low-detail.svg",
+    "description": "The small print says Room B at 14:30 on 21 June.",
+    "classification": "unsupported",
+    "reason": "This copy obscures that region. Do not infer it from another image without explicitly recording the separate source."
+  },
+  {
+    "id": "C",
+    "image": "poster-original.svg",
+    "description": "Room 8 • 14:30 • 21 June",
+    "classification": "incorrect",
+    "reason": "Original says Room B, not digit 8; a changed character matters."
+  },
+  {
+    "id": "D",
+    "image": "poster-original.svg",
+    "description": "Admission is free and everyone should attend.",
+    "classification": "unsupported",
+    "reason": "No admission policy or recommendation is visible."
+  },
+  {
+    "id": "E",
+    "image": "poster-low-detail.svg",
+    "description": "The large heading is Community workshop today; the small print cannot be read in this copy.",
+    "classification": "supported-with-uncertainty",
+    "reason": "Heading is visible and the obscured text is explicitly unresolved."
+  }
+]

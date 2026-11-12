@@ -1,0 +1,42 @@
+{
+  "version": 1,
+  "projectId": "cmv75vb0j00sj5c3ckb4t0qty",
+  "scriptSha256": "7f5a52642b72be0845e31703443efc2df281b7a8ab710143d78cf8350c882e6c",
+  "files": [
+    {
+      "name": "worksheet.md",
+      "sha256": "522e51133b2bd0e824b900549606ec0125d623e7d0fac931a47aa8b585fd9aef",
+      "bytes": 3198
+    },
+    {
+      "name": "community-notice.txt",
+      "sha256": "65819514c16512b4bfcfa17b1188e5be1e83011a401cc9ad49617317932be02e",
+      "bytes": 441
+    },
+    {
+      "name": "ocr-draft.txt",
+      "sha256": "7138ca011a45e154688642b28ec66af0ed9c75dea60b042989735d69592c64c7",
+      "bytes": 279
+    },
+    {
+      "name": "voice-note-exercise.txt",
+      "sha256": "1fa2d4ac38752cc82e875bddd07b8288238b89fbcfdce813892a5c7c06ea9b54",
+      "bytes": 515
+    },
+    {
+      "name": "answer-key.md",
+      "sha256": "0e4db519f3f58aa3bb07489e89b599edb1fdccafc2240ab072043ad0c8b8b0ad",
+      "bytes": 1435
+    },
+    {
+      "name": "device-test-log.csv",
+      "sha256": "248f41eac12eacacdcdda006bb721cacdb0014dfbd8bda19eace4837e377c0f0",
+      "bytes": 668
+    },
+    {
+      "name": "LICENSE.txt",
+      "sha256": "3ce8d7d75d9be7f84ef608d42127611fe49031541ed5f02796ef57f8c893fbd6",
+      "bytes": 257
+    }
+  ]
+}

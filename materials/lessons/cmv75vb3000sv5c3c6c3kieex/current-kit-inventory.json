@@ -1,0 +1,57 @@
+{
+  "version": 1,
+  "projectId": "cmv75vb3000sv5c3c6c3kieex",
+  "scriptSha256": "82c9786b0f987277c637aecfa597cf7b8c2745d5f32b61f8d5559d71371d24ed",
+  "files": [
+    {
+      "name": "answers.md",
+      "sha256": "9b68387d7fc250683d3ffe8e50023f8eb6787d0ca891ce1af0d467081f4e0ea1",
+      "bytes": 1660
+    },
+    {
+      "name": "approved-brief.md",
+      "sha256": "efd2622843a89a5c7bb17b54ca9f7812a87cd164b2a89a183f2bf8664dea6589",
+      "bytes": 820
+    },
+    {
+      "name": "brief.json",
+      "sha256": "05b95ef3faf4eb8d4fb9cff18eb9c1deaea0dd00ba876477a8c8a3243b241927",
+      "bytes": 675
+    },
+    {
+      "name": "claim-review-answer.csv",
+      "sha256": "d304e21c28c9290d425385feb04249630993a87165868007b0be384501e5b810",
+      "bytes": 628
+    },
+    {
+      "name": "claim-review-blank.csv",
+      "sha256": "73e6ea7b827004b5803128bf1cd298447f500a5b0d2b1df2564929e5d7b483a7",
+      "bytes": 303
+    },
+    {
+      "name": "final-public-copy.txt",
+      "sha256": "904bcad12991456ec7afb283261d2ec55f598a8df6c41f4f454ff686729926de",
+      "bytes": 322
+    },
+    {
+      "name": "internal-note.txt",
+      "sha256": "6f2d911cdcbc3d61d04d527ffb927609910ad9a97f7b73c4365940ddddc59e45",
+      "bytes": 177
+    },
+    {
+      "name": "prompt-template.txt",
+      "sha256": "9c1b457b99f2559ae68bfa407d9fdc08d719b102eb76ffe5a3ef51a0fb1b40e5",
+      "bytes": 865
+    },
+    {
+      "name": "verify-kit.py",
+      "sha256": "2c31964dd8c22613b51329534f73ed368a86eabc559bb0de4b5caed64f8f131a",
+      "bytes": 813
+    },
+    {
+      "name": "worksheet.md",
+      "sha256": "f765ee4bec573ffc4301d6073bea13af435c54f62716a04704892fec2d7b785d",
+      "bytes": 2749
+    }
+  ]
+}

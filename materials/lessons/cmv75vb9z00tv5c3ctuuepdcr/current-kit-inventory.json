@@ -1,0 +1,52 @@
+{
+  "version": 1,
+  "projectId": "cmv75vb9z00tv5c3ctuuepdcr",
+  "scriptSha256": "81f4a0624dad1e1d00f42de576a3d22d66d41e23462efecb5120d69aa61fa18b",
+  "files": [
+    {
+      "name": "answer-key.md",
+      "sha256": "8508afde05796eee8e0cca2d0be62fc36e04d4c240787d6b487455d82f05db1b",
+      "bytes": 1773
+    },
+    {
+      "name": "approved-input.md",
+      "sha256": "f6910020a8ffdabac908fe66dacb36685e269ddca9a2303fe54254c76a36a8fa",
+      "bytes": 922
+    },
+    {
+      "name": "check_materials.py",
+      "sha256": "d5055236ed3376fa4534c4af3d8fd3334d9dae914b72bbe33352ad27c4c58fff",
+      "bytes": 1225
+    },
+    {
+      "name": "checked-review-copy.md",
+      "sha256": "e28160b907f5b1f29d96ea4f658601cbf9336959f9129fc34e98dd6be807daf0",
+      "bytes": 750
+    },
+    {
+      "name": "field-review.csv",
+      "sha256": "73e3c426aaa8aedd84410b213f576418e30d4aafc9c2254abf0535a16b2ee86d",
+      "bytes": 634
+    },
+    {
+      "name": "practice-draft.md",
+      "sha256": "430a2ee45a2251b65efb4cf38256d645da19ef6c46de771687c0e166b7f43853",
+      "bytes": 589
+    },
+    {
+      "name": "processing-instructions.txt",
+      "sha256": "cad2d6aee5dda07d02f92ab18beac1072649112f64f520ad8e9e30ca97df0569",
+      "bytes": 641
+    },
+    {
+      "name": "workflow-template.md",
+      "sha256": "2db28aa221b2a999e5fe5cf456a45b67958073cc06532c1a25283a0aaef9441e",
+      "bytes": 1087
+    },
+    {
+      "name": "worksheet.md",
+      "sha256": "26006b4030b67e8eeb833b5fc4c042e14fa1ce74bb2d3f9088fa3697dd688997",
+      "bytes": 2958
+    }
+  ]
+}

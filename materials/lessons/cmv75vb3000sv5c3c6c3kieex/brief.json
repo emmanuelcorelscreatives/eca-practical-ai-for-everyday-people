@@ -1,0 +1,33 @@
+{
+  "service_name": "ClearDesk Document Support",
+  "service": "formats customer-supplied notes into clear documents",
+  "delivery": [
+    "editable document",
+    "PDF"
+  ],
+  "method": "remote",
+  "audience": [
+    "freelancers",
+    "community groups"
+  ],
+  "process": [
+    "Customer approves the final document",
+    "Customer remains responsible for its use"
+  ],
+  "limitation": "ClearDesk does not provide legal advice",
+  "voice": [
+    "clear",
+    "calm",
+    "practical",
+    "plain language"
+  ],
+  "not_supplied": [
+    "price",
+    "turnaround time",
+    "qualifications",
+    "availability",
+    "customer results",
+    "testimonials",
+    "guarantee"
+  ]
+}
