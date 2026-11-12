@@ -1,0 +1,39 @@
+{
+  "state": "COMPLETE",
+  "projectId": "cmv75v6h7005j5c3cw92cd6bk",
+  "scope": "Actual production file/application checks only, no student or account activity claimed.",
+  "actualApplication": "LibreOffice Writer LibreOffice 24.2.7.2 420(Build:2) on Ubuntu Linux; Chromium 134.0.6998.35",
+  "documents": [
+    {
+      "file": "repair-cafe-source-notes.odt",
+      "sha256": "f65b810773ae19396fb7385107236f4385d6120c7fcab4b7cba300fb92de7f9f",
+      "bytes": 23861,
+      "zipCrcPass": true,
+      "actualMimeType": "application/vnd.oasis.opendocument.text",
+      "actualDocumentText": "REPAIR CAF\u00c9 SOURCE NOTES \u2014 FICTIONAL TEACHING EXAMPLESelf-authored, permission-cleared practice content. Not a real event listing.Confirmed factsPurpose: A volunteer-run community repair caf\u00e9 offers an initial assessment of portable household items.Date: Saturday, 17 October 2026.Opening time: 10:00\u201314:00.Location: Riverside Community Hall.Items: Visitors may bring one portable household item for volunteers to examine.Qualification: Repairs are not guaranteed.Qualification: Electrical items require an initial safety check.Unresolved informationBooking requirement: unknown; no booking link supplied.Accessibility information: not supplied.Fee: not supplied.Contact information: not supplied.These notes do not imply successful repair, guaranteed assessment, a booking policy, free admission, accessibility features or permission to publish. Organizer approval of any announcement is still required.",
+      "sourceMarkupSha256": "fa0ba028201d6ce4b563c257d512cafd36b5fdba9e84bb1eb3cc6abc817d6578"
+    },
+    {
+      "file": "task-brief-example.odt",
+      "sha256": "c7b5ee1e02378f4ebf25ca55b12afa9b4f5c8e7a071ec384f08dc9e02e2110bf",
+      "bytes": 27214,
+      "zipCrcPass": true,
+      "actualMimeType": "application/vnd.oasis.opendocument.text",
+      "actualDocumentText": "REPAIR CAF\u00c9 TASK BRIEF \u2014 WORKED STARTING EXAMPLEGoal: Draft a public event announcement.Audience: Local residents with no repair experience.Relevant Background: Volunteer-run repair caf\u00e9. Visitors may bring one portable household item for an initial assessment.Constraints: Use only supplied facts. Do not promise a successful repair. Do not invent a booking link, fee or contact detail. Do not make booking or accessibility claims.Required Output: One headline and 90\u2013120 words of clear, welcoming body text. Keep a compliance check separate from the announcement.Preserve: Saturday, 17 October 2026; 10:00\u201314:00; Riverside Community Hall; repairs are not guaranteed; electrical items require an initial safety check.Gaps and Current Status: Booking requirement unknown. Accessibility information not supplied. Source notes reviewed for this worked example; first draft not approved. Organizer approval required before publication.Sharing check: Fictional public event details only; no private participant data.Source: repair-cafe-source-notes.txt from this kit.This is a teaching example. Update status only after doing the corresponding work yourself.",
+      "sourceMarkupSha256": "77ab7949776c79927501066e966944ee7bf632d239d3779463f3b1a937852f2e"
+    }
+  ],
+  "notebook": {
+    "file": "source-notebook.html",
+    "sha256": "944454402a2e7069c0198caf9fa3f8fdc13c4f19c88ddfb02842b1f2afb3ef22",
+    "actualSourceOpenMatchesOriginal": true,
+    "extractedConfirmedFacts": 5,
+    "passage5Readback": "Qualification: Electrical items require an initial safety check.",
+    "rejectedNarrationFooterRemoved": true,
+    "externalNetworkActions": 0
+  },
+  "teachingDraftBodyWhitespaceWords": 95,
+  "sourceDateWeekday": "Saturday",
+  "sevenHeadingsPresentInBlankAndWorkedBrief": true,
+  "approvalState": "No organizer approval; learner execution still required."
+}

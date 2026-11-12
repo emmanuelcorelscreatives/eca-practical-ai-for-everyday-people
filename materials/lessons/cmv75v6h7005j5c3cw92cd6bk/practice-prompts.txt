@@ -1,0 +1,16 @@
+OPTIONAL PROMPTS — NO ACTION HAS BEEN EXECUTED
+
+Receipt check (provide source notes and your brief first):
+“Restate my task brief using its seven headings. Identify missing information. Keep the source facts separate from instructions, and do not draft yet. Do not fill gaps with assumptions.”
+
+Decision about gaps:
+“Proceed without booking or accessibility claims. Label those details as not supplied in your internal check, but do not add unsupported wording to the announcement.”
+
+Draft request:
+“Draft the announcement now using the supplied facts and brief: one headline plus 90–120 words of welcoming body text. Preserve both repair qualifications. Label the output GENERATED DRAFT. After it, provide a brief compliance check against the task brief. Do not publish or send anything.”
+
+If anything was omitted:
+“Compare this specific missing detail with the source notes and correct the draft while preserving all other constraints. Do not invent facts.”
+
+New-conversation handoff:
+“Here are the current source notes, task brief and unapproved draft. Restate the constraints, unknowns and current status before continuing. Do not rely on memory from a previous chat.”

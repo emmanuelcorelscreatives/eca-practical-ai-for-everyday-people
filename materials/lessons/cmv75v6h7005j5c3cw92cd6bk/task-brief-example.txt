@@ -1,0 +1,12 @@
+REPAIR CAFÉ TASK BRIEF — WORKED STARTING EXAMPLE
+Goal: Draft a public event announcement.
+Audience: Local residents with no repair experience.
+Relevant Background: Volunteer-run repair café. Visitors may bring one portable household item for an initial assessment.
+Constraints: Use only supplied facts. Do not promise a successful repair. Do not invent a booking link, fee or contact detail. Do not make booking or accessibility claims.
+Required Output: One headline and 90–120 words of clear, welcoming body text. Keep a compliance check separate from the announcement.
+Preserve: Saturday, 17 October 2026; 10:00–14:00; Riverside Community Hall; repairs are not guaranteed; electrical items require an initial safety check.
+Gaps and Current Status: Booking requirement unknown. Accessibility information not supplied. Source notes reviewed for this worked example; first draft not approved. Organizer approval required before publication.
+
+Sharing check: Fictional public event details only; no private participant data.
+Source: repair-cafe-source-notes.txt from this kit.
+This is a teaching example. Update status only after doing the corresponding work yourself.

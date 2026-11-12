@@ -1,0 +1,72 @@
+{
+  "version": 1,
+  "projectId": "cmv75v6h7005j5c3cw92cd6bk",
+  "scriptSha256": "1226dcefd693252d4a4921107ba418cd03a10de52c34678e61a6ee9da5be22b0",
+  "files": [
+    {
+      "name": "LICENSE.txt",
+      "sha256": "7b655d0a008535f0a930e9fb94faf2a27a395aa7bc5cda316a29a252d8a3ab97",
+      "bytes": 497
+    },
+    {
+      "name": "answer-guide.md",
+      "sha256": "b074a1c58c59053b22e3e61aacbbe4cbe4333737d4008a71319a3113078ff2c4",
+      "bytes": 2674
+    },
+    {
+      "name": "functional-checks.json",
+      "sha256": "b9f5810f022090d3da70035b22fe7b2c8703b34646dcd73576d8233fa234b555",
+      "bytes": 3773
+    },
+    {
+      "name": "offline-notebook-guide.md",
+      "sha256": "6cab0089bd0a8abb2c058dcc25c3e269def5d30547964c9a0de2328afc6ea8c6",
+      "bytes": 2191
+    },
+    {
+      "name": "practice-prompts.txt",
+      "sha256": "d51fddd202e28ae4107c8f1f849a9f9767f77e2f7e271eaa6693151c0f17f7d4",
+      "bytes": 1197
+    },
+    {
+      "name": "repair-cafe-source-notes.odt",
+      "sha256": "f65b810773ae19396fb7385107236f4385d6120c7fcab4b7cba300fb92de7f9f",
+      "bytes": 23861
+    },
+    {
+      "name": "repair-cafe-source-notes.txt",
+      "sha256": "0466d7471f57b2d48976f13440de74a22edeac854ae0f1ccadb42169eafa58f3",
+      "bytes": 929
+    },
+    {
+      "name": "source-notebook.html",
+      "sha256": "944454402a2e7069c0198caf9fa3f8fdc13c4f19c88ddfb02842b1f2afb3ef22",
+      "bytes": 2958
+    },
+    {
+      "name": "task-brief-blank.txt",
+      "sha256": "d2c55d3beda6b9331d6a2401475b9380512d6772f3fa0cabc7036a83241cf1ad",
+      "bytes": 195
+    },
+    {
+      "name": "task-brief-example.odt",
+      "sha256": "c7b5ee1e02378f4ebf25ca55b12afa9b4f5c8e7a071ec384f08dc9e02e2110bf",
+      "bytes": 27214
+    },
+    {
+      "name": "task-brief-example.txt",
+      "sha256": "a8f02aa90ae155064ce43101cb5b0bca877d6f48037ffb3a23df74f4c41089a1",
+      "bytes": 1174
+    },
+    {
+      "name": "verification-and-handoff.md",
+      "sha256": "b43d219ab6fc30d51fce57361f9180b0f1c9ef743c754deb2e4aa7f38577447d",
+      "bytes": 1331
+    },
+    {
+      "name": "worksheet.md",
+      "sha256": "1a9c9bc1e6327512ec945200309ad98c91906d5cef7efd0389f13ba2625a3cb2",
+      "bytes": 4513
+    }
+  ]
+}
