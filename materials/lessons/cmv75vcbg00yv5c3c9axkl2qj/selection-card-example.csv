@@ -1,0 +1,13 @@
+Field,Candidate A — fictional workshop enquiry
+Purpose,Prepare one internal review item for each fictional workshop enquiry
+Frequency,Several times each week (exercise assumption)
+Trigger,New workshop enquiry form response
+Required input,Request ID; Name or group; Workshop topic; Preferred date; Contact method
+Optional input,Notes
+Expected result,One saved review item with preserved fields and Needs review status
+Acceptance checks,Exact ID; all required fields; unchanged values and optional notes; Needs review
+Exceptions,Missing required field; unclear request; outside workshop scope
+Permissions,Read submitted fields; create internal review items only
+Manual fallback,Copy fields into review template; label Needs review; compare with source
+Assumptions,Stable fields; available reviewer; scope confirmed; connections supported
+Human decision,Clarify scope and next action; no automatic approval or sending

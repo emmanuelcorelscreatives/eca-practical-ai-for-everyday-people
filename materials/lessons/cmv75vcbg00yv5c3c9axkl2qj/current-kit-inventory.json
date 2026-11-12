@@ -1,0 +1,52 @@
+{
+  "version": 1,
+  "projectId": "cmv75vcbg00yv5c3c9axkl2qj",
+  "scriptSha256": "472f2f38be443842247e5f110817c635a17f8bb7481646c2e1feefaacebcd79e",
+  "files": [
+    {
+      "name": "README.md",
+      "sha256": "6c2e534a96d886e423cb095de8e9c9228a63826a2ae01bc846e348d292f7d5a6",
+      "bytes": 1620
+    },
+    {
+      "name": "answer-key.md",
+      "sha256": "6bb47164039f7ce7c93d036bda5faa9d4d1c0388e31c7a9a279504f4e3b35b4a",
+      "bytes": 2404
+    },
+    {
+      "name": "candidate-comparison.csv",
+      "sha256": "c56b930bcbd6d83c0045bcdfff0f27398bf5457607533bcfdf560a38022f40e1",
+      "bytes": 818
+    },
+    {
+      "name": "review-item-checks.csv",
+      "sha256": "a042821914b140f55f2e07d40f4db53b403afe2b9b8228cc7e991e50414a0ac5",
+      "bytes": 381
+    },
+    {
+      "name": "review-item-template.md",
+      "sha256": "f005ce8adf6a3955b384162f780fb5c4054122994b9759d024197e5c0d6f6b3c",
+      "bytes": 605
+    },
+    {
+      "name": "selection-card-blank.csv",
+      "sha256": "bf0ec145a97803b26d6517fec207d5106ec54f9cc36a49ab86c9208a5cc662e8",
+      "bytes": 202
+    },
+    {
+      "name": "selection-card-example.csv",
+      "sha256": "73d1e5ea5883874f8c4d49abe053cdad19a982fb9c60eb8cfa132bc344e6cfe9",
+      "bytes": 930
+    },
+    {
+      "name": "worksheet.md",
+      "sha256": "291e4673980b1751448313513c65a5f41a3c5657ecc6c0071532028b6aae0114",
+      "bytes": 2587
+    },
+    {
+      "name": "workshop-enquiries.csv",
+      "sha256": "1f5f7880d7451e1794b73d47ec54b4ebf26d6ded58f0a4140d8104f406253c5c",
+      "bytes": 728
+    }
+  ]
+}
