@@ -1,0 +1,8 @@
+task,requested_minutes,selected_minutes,status
+Study,240,240,Protected priority
+Personal project,180,0,Deferred to a later week
+Groceries,90,90,Protected priority
+Laundry,90,90,Protected priority
+Cleaning,120,60,Essential cleaning only; remaining scope not complete
+Administration,60,60,Protected priority
+Family call,60,60,Selected

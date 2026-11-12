@@ -1,0 +1,5 @@
+day,start,end,allocation,minutes
+Monday,20:00,21:00,Protected buffer,60
+Sunday,17:00,18:00,Protected buffer,60
+Friday,19:30,20:00,Unassigned usable capacity,30
+Saturday,11:30,12:00,Unassigned usable capacity / transition,30
