@@ -1,0 +1,26 @@
+{
+  "state": "COMPLETE",
+  "scope": "Actual local offline model only; not Zapier or Google Sheets results",
+  "checkCommand": "python3 check_boundary.py",
+  "checkExitCode": 0,
+  "checkStdout": "PASS: 3 authored outcomes, 9 bypass guards including equal-version content/context/ID changes, duplicate ID refusal\n",
+  "modelCommand": "python3 boundary_lab.py --output observed-local-run-v2",
+  "modelExitCode": 0,
+  "inspectedHistoryRecords": 3,
+  "inspectedDestinationRows": 1,
+  "observedCounts": {
+    "CONTROL-204-A": 1,
+    "REJECT-204-B": 0,
+    "INCOMPLETE-204-C": 0
+  },
+  "scripts": {
+    "boundary_lab.py": "a9f66858c133ce9775a83f0b87fc7fe822008f88b247aefd668a8df10cc79937",
+    "check_boundary.py": "0ab3c057f65f44e8671298050fde4a0445c7f7c9b8e2b75e281f255d7cb546b2",
+    "cases.json": "cc8896c5cd9fcfa80a7d296c683323dc452f818e4c69995bb2182a819f2d0701"
+  },
+  "resultFiles": {
+    "run-history.json": "0ba91b446948abbfc2dd44e06992599d83e568b9e7e7e26ea5d66953b717ba34",
+    "test-log.csv": "3e1fe0af40b48f510b14f850bf8225749e76b2a042e1b5c71e33fc0939e46557",
+    "summary.json": "4666a933f0fd3a8e43c400aec8ae0ca9c866b78afc8fbc9bc06b6f509d5f68bc"
+  }
+}

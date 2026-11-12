@@ -1,0 +1,10 @@
+{
+  "evidence_scope": "Actual local Python model execution only; not vendor history or online spreadsheet evidence",
+  "total_records": 1,
+  "counts_by_case": {
+    "CONTROL-204-A": 1,
+    "REJECT-204-B": 0,
+    "INCOMPLETE-204-C": 0
+  },
+  "external_actions": "Disabled: this program imports no network or messaging client and only writes its new output directory"
+}

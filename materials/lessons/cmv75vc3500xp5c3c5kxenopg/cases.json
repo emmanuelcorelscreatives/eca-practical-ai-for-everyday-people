@@ -1,0 +1,62 @@
+[
+  {
+    "case_id": "CONTROL-204-A",
+    "proposed_action": "Add a test record",
+    "destination": "Approval Boundary Test Log",
+    "final_content": "Boundary control passed",
+    "supporting_information": "Fictional training case",
+    "test_mode": true,
+    "decision": "Approve",
+    "proposal_version": 1,
+    "reviewed_version": 1,
+    "reviewed_proposal": {
+      "case_id": "CONTROL-204-A",
+      "proposed_action": "Add a test record",
+      "destination": "Approval Boundary Test Log",
+      "final_content": "Boundary control passed",
+      "supporting_information": "Fictional training case",
+      "test_mode": true,
+      "proposal_version": 1
+    }
+  },
+  {
+    "case_id": "REJECT-204-B",
+    "proposed_action": "Add a test record",
+    "destination": "Approval Boundary Test Log",
+    "final_content": "Rejected boundary test",
+    "supporting_information": "Fictional training case",
+    "test_mode": true,
+    "decision": "Reject",
+    "proposal_version": 1,
+    "reviewed_version": 1,
+    "reviewed_proposal": {
+      "case_id": "REJECT-204-B",
+      "proposed_action": "Add a test record",
+      "destination": "Approval Boundary Test Log",
+      "final_content": "Rejected boundary test",
+      "supporting_information": "Fictional training case",
+      "test_mode": true,
+      "proposal_version": 1
+    }
+  },
+  {
+    "case_id": "INCOMPLETE-204-C",
+    "proposed_action": "Add a test record",
+    "destination": "",
+    "final_content": "Incomplete boundary test",
+    "supporting_information": "Fictional training case",
+    "test_mode": true,
+    "decision": "Approve",
+    "proposal_version": 1,
+    "reviewed_version": 1,
+    "reviewed_proposal": {
+      "case_id": "INCOMPLETE-204-C",
+      "proposed_action": "Add a test record",
+      "destination": "",
+      "final_content": "Incomplete boundary test",
+      "supporting_information": "Fictional training case",
+      "test_mode": true,
+      "proposal_version": 1
+    }
+  }
+]

@@ -1,0 +1,2 @@
+timestamp,case_id,validation,decision,proposed_action,result
+2026-11-12T09:57:50.955659+00:00,CONTROL-204-A,Complete,Approve,Add a test record,Boundary control passed

@@ -1,0 +1,40 @@
+[
+  {
+    "timestamp": "2026-11-12T09:57:50.955659+00:00",
+    "case_id": "CONTROL-204-A",
+    "validation": "Complete",
+    "decision": "Approve",
+    "missing_fields": [],
+    "reviewed_version_unchanged": true,
+    "test_destination_allowed": true,
+    "gate": "Passed",
+    "action": "Completed",
+    "destination": "Approval Boundary Test Log"
+  },
+  {
+    "timestamp": "2026-11-12T09:57:50.955702+00:00",
+    "case_id": "REJECT-204-B",
+    "validation": "Complete",
+    "decision": "Reject",
+    "missing_fields": [],
+    "reviewed_version_unchanged": true,
+    "test_destination_allowed": true,
+    "gate": "Stopped",
+    "action": "Not run",
+    "destination": "Approval Boundary Test Log"
+  },
+  {
+    "timestamp": "2026-11-12T09:57:50.955715+00:00",
+    "case_id": "INCOMPLETE-204-C",
+    "validation": "Incomplete",
+    "decision": "Approve",
+    "missing_fields": [
+      "destination"
+    ],
+    "reviewed_version_unchanged": true,
+    "test_destination_allowed": false,
+    "gate": "Stopped",
+    "action": "Not run",
+    "destination": ""
+  }
+]

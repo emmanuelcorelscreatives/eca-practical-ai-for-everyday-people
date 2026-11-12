@@ -1,0 +1,4 @@
+Case ID,Proposed action,Destination,Final content,Supporting information,Test mode,Validation,Decision,Expected test rows
+CONTROL-204-A,Add a test record,Approval Boundary Test Log,Boundary control passed,Fictional training case,On,Complete,Approve,1
+REJECT-204-B,Add a test record,Approval Boundary Test Log,Rejected boundary test,Fictional training case,On,Complete,Reject,0
+INCOMPLETE-204-C,Add a test record,,Incomplete boundary test,Fictional training case,On,Incomplete,Approve,0
