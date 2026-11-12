@@ -1,0 +1,107 @@
+{
+  "version": 1,
+  "projectId": "cmv75v5pi001p5c3c42oi9sdi",
+  "scriptSha256": "7f221c242c8457523f2686d579d43e75c97edd5c3a09010c6d416847b5aab715",
+  "files": [
+    {
+      "name": "README.md",
+      "sha256": "0099c49745cc3e51e23659e477e707c4a197478ae53975073cfc8c28012fbc77",
+      "bytes": 2060
+    },
+    {
+      "name": "event-brief.md",
+      "sha256": "8c4cc8cd44cfc99aa66c110fd78f76c7391450a52618d0c5ecae98293bedebbe",
+      "bytes": 669
+    },
+    {
+      "name": "event-brief.pdf",
+      "sha256": "0442a24af11d9d6586cba0756a35c6618f8f02159dc3ca8292e2014fb3e41986",
+      "bytes": 1391
+    },
+    {
+      "name": "exercise-and-answer-key.md",
+      "sha256": "fe8826473e43b35131dd35bcea90172c509e252b936c1a1f5d64466c58f5cef0",
+      "bytes": 2034
+    },
+    {
+      "name": "media-source.md",
+      "sha256": "a8aa8f632ec4ba7b60113c54f11509b3fdc0111f0f6b305b102c1465d2d28d23",
+      "bytes": 841
+    },
+    {
+      "name": "permission-cleared-synthetic-invitation.wav",
+      "sha256": "12279c6e38696e60d41226bf3d0a9c5f0b26cd8e35370587b4fe4b674a131345",
+      "bytes": 223338
+    },
+    {
+      "name": "personal-toolkit-template.csv",
+      "sha256": "79ee292a5142c5ad750dbbe803b784150efa05d8ab15a14aafca3da24b50db90",
+      "bytes": 105
+    },
+    {
+      "name": "starter-map-step-0.ods",
+      "sha256": "99111ba3adf1a4721ea0d0ab44f33bee4ecb5695725987625d9d1125dcd2c201",
+      "bytes": 2689
+    },
+    {
+      "name": "starter-map-step-1.ods",
+      "sha256": "4dd9cc7300fe58bb33c925484e099c55e80aa5855b209100155a706c75ebc3b0",
+      "bytes": 3653
+    },
+    {
+      "name": "starter-map-step-2.ods",
+      "sha256": "a4f9547700aef2bad092ad707c4baefee1117472b18ce3ebad40661329162935",
+      "bytes": 4603
+    },
+    {
+      "name": "starter-map-step-3.ods",
+      "sha256": "1d0b2cbb5ea9d61c32acc1958686d10ecdb62463359dc5340cefff2d1ff9216d",
+      "bytes": 5547
+    },
+    {
+      "name": "starter-map-step-4.ods",
+      "sha256": "af7277aaabfc1e9dd6844a3f00baad61ec754b4102825146bf854896287f787a",
+      "bytes": 6480
+    },
+    {
+      "name": "starter-map-step-5.ods",
+      "sha256": "1393d99d92616417aa90179026464ba71cb94eec083c78f09738f8884ffd58af",
+      "bytes": 7442
+    },
+    {
+      "name": "starter-toolkit-map.csv",
+      "sha256": "9d979ada8601480e7816c3bd963edf41804e3b4b3f5faa1452bef4672d318f36",
+      "bytes": 890
+    },
+    {
+      "name": "supply-budget.csv",
+      "sha256": "95a3025a4fba5161cbd24a11a1cec3c8f2da70ff50435be2f62dbe802b260655",
+      "bytes": 156
+    },
+    {
+      "name": "venue-hours-example.html",
+      "sha256": "1d7fcca7adecd3691bb61d14fb038c89d24beb727bbf251165d6f56ac278046c",
+      "bytes": 471
+    },
+    {
+      "name": "venue-rules.md",
+      "sha256": "046bcfba89fb10e2a6ae02e2e03fa066f1d8ac7b91cea4d9dce26e3bd0de0e8b",
+      "bytes": 462
+    },
+    {
+      "name": "venue-rules.pdf",
+      "sha256": "3cda1e6ae65331b09c1857861202de125113998df38416a8074b866ee6b65473",
+      "bytes": 1143
+    },
+    {
+      "name": "volunteer-guide.md",
+      "sha256": "a6a61f49f13996f0f7b6afdd0a2f97df230565c47f350a398b432c50789ec0d6",
+      "bytes": 437
+    },
+    {
+      "name": "volunteer-guide.pdf",
+      "sha256": "2cd23e864bed0c6f15eb800df11e1f5df072c6c8ef70e20ff3123288b7fd9659",
+      "bytes": 1112
+    }
+  ]
+}

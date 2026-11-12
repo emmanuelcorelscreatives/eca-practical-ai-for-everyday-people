@@ -1,0 +1,6 @@
+Job,Input,Tool category,Reason,Check,Manual fallback,Notes
+Draft event announcement,Bullet notes,General assistant,Restructure wording,"Compare names, date, venue, promises with notes",Write manually in editor,Assumes friendly public tone
+Confirm current venue hours,Public webpage,Browser or AI search,Current public information,Open original page,Search and read manually,Venue contact method missing
+Answer questions about event rules,Event documents,Source notebook,Defined file collection,Open cited passage,Search PDFs manually,Volunteer limit unresolved
+Prepare supply budget,Item and price table,Spreadsheet,Visible formulas and totals,Recalculate key total,Paper or calculator,Practice amounts only
+Trim recorded invitation,Permission-cleared audio,Media editor,Edit by transcript and timeline,Listen and correct transcript,Replay and note timestamps,Optional recurring need
