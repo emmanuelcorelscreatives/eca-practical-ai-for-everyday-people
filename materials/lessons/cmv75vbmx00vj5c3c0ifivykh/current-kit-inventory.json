@@ -1,0 +1,47 @@
+{
+  "version": 1,
+  "projectId": "cmv75vbmx00vj5c3c0ifivykh",
+  "scriptSha256": "d271f4d313ef2d659adfe7fe238322c49a73b7ea42f68dd13524c951f6be3e44",
+  "files": [
+    {
+      "name": "LICENSE.txt",
+      "sha256": "a45ce29b4d2f8dd1c5d5af4caaf62b328a62744c9c9c0d93895570127bffff66",
+      "bytes": 201
+    },
+    {
+      "name": "acceptance-checklist.md",
+      "sha256": "593005d274c7ab917ceea14e758b68d970cb4d899890c81c957f9243520750a2",
+      "bytes": 891
+    },
+    {
+      "name": "blank-log.csv",
+      "sha256": "199c8cc66c0664ba13c1d8da023e484565b69ba244930aec1df40611140c4c6f",
+      "bytes": 205
+    },
+    {
+      "name": "calculate.py",
+      "sha256": "658045642b82413b8dca54d177b82a311a758cc0305419d9b3c2ab0f750e0cb9",
+      "bytes": 1685
+    },
+    {
+      "name": "lecture-demo-results.csv",
+      "sha256": "4ced304f5905d9b450524d19b0ebec6ceb1cef48528b78e0c62088428ac5c03d",
+      "bytes": 526
+    },
+    {
+      "name": "source-briefs.md",
+      "sha256": "cb2c24d3f303d321a838464998066038430c7c46c9089d9d041039ec56260165",
+      "bytes": 1644
+    },
+    {
+      "name": "test_calculate.py",
+      "sha256": "8344a0e8588e83467fdcfc1e86668232c536071da890dfdc9d2c6afb57aad38d",
+      "bytes": 1209
+    },
+    {
+      "name": "worksheet.md",
+      "sha256": "6400646f762007face9fa795bce9e18d1a5b7df09387146ca873a7f1b9e775ed",
+      "bytes": 3681
+    }
+  ]
+}
