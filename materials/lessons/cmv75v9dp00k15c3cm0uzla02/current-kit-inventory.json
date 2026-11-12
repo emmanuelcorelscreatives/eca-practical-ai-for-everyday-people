@@ -1,7 +1,7 @@
 {
   "version": 1,
   "projectId": "cmv75v9dp00k15c3cm0uzla02",
-  "scriptSha256": "ae70dec4f55883b7360e9d100772be36aaebf94dc7d4e27e0b9e4158c80f7767",
+  "scriptSha256": "fc8a8c29c817c77261f9e915954ed9df1a125483d16437f134fe36334ae5c92c",
   "files": [
     {
       "name": "assistant-prompt.txt",
