@@ -1,0 +1,52 @@
+{
+  "version": 1,
+  "projectId": "cmv75v5uf002d5c3c1zyye3wl",
+  "scriptSha256": "7544054140cfbd631febd9a36bd2100c6d842128ed6408e8ab1a9759bdfa8187",
+  "files": [
+    {
+      "name": "Community Garden Schedule \u2014 Sample.docx",
+      "sha256": "08341674323b57838a27305aa067d6bb8e562661d99d4ea9cfb074fecb73e799",
+      "bytes": 990
+    },
+    {
+      "name": "LICENSE.txt",
+      "sha256": "cfa091d42a2038027029214d5557900aab40a7f696e1fae985bc134d87d912f0",
+      "bytes": 242
+    },
+    {
+      "name": "README.md",
+      "sha256": "9668a5c6246574430775f663e5d81bc479ee76d378eab568e128ee47bb169073",
+      "bytes": 2731
+    },
+    {
+      "name": "answer-key.md",
+      "sha256": "d2be878ae30ed6bfe90181531947cfb2da2f4f6842a137220a0fbbf53b23984b",
+      "bytes": 1243
+    },
+    {
+      "name": "exercise.md",
+      "sha256": "015a6956e1b6ff98aff8328f52b181bb47696b0463bd812316bb0b831ecaa01a",
+      "bytes": 997
+    },
+    {
+      "name": "garden-schedule.json",
+      "sha256": "7bd8afc5b8360102c60c5333fe216edaf3916033edf8bef362127cf949db42c8",
+      "bytes": 559
+    },
+    {
+      "name": "permission-simulator.html",
+      "sha256": "0a3bdb36a9f681310206ec58fd2e0e1eed6de0d308c129af18d3fc0244bd573f",
+      "bytes": 12145
+    },
+    {
+      "name": "timing-guide.md",
+      "sha256": "8fe4711735922da9862994d3f280247be075b95a9f6d3f251825f2456cbd284b",
+      "bytes": 750
+    },
+    {
+      "name": "verify.py",
+      "sha256": "97c4fc1083a7243ec276cc9acd585ab2734368baa17ce71117b8010387cc1069",
+      "bytes": 1308
+    }
+  ]
+}

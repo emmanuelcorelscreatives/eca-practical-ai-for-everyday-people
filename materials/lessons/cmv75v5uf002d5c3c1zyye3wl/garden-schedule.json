@@ -1,0 +1,24 @@
+{
+  "notice": "Self-authored fictional permission-cleared practice data; no real appointments.",
+  "document": "Community Garden Schedule \u2014 Sample.docx",
+  "events": [
+    {
+      "event": "Seed swap",
+      "date": "2026-04-11",
+      "time": "10:00",
+      "place": "Garden entrance"
+    },
+    {
+      "event": "Planting session",
+      "date": "2026-04-18",
+      "time": "09:30",
+      "place": "Raised beds"
+    },
+    {
+      "event": "Compost workshop",
+      "date": "2026-04-25",
+      "time": "11:00",
+      "place": "Compost area"
+    }
+  ]
+}
