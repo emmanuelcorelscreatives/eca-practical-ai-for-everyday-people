@@ -1,0 +1,47 @@
+{
+  "version": 1,
+  "projectId": "cmv75vbrx00w75c3claf4bl4a",
+  "scriptSha256": "6027c0742ab63c7a4501de549a1c9786097de697a567146547a55558ba8230db",
+  "files": [
+    {
+      "name": "answer-key.md",
+      "sha256": "626aec5a60d2dcb5be62a16a73c64b37a1ad228e52e782ce8c7a6e95d4ff21cd",
+      "bytes": 1117
+    },
+    {
+      "name": "check_kit.py",
+      "sha256": "065fc09f9d704433579d17ea576650dccc20943c217b986d8712104b4eceecb1",
+      "bytes": 767
+    },
+    {
+      "name": "permission-cases.csv",
+      "sha256": "d7d81031f5918d581216411a72a05b6466be73979200cb59eaad7e2abb7e48ca",
+      "bytes": 384
+    },
+    {
+      "name": "permission-record-template.csv",
+      "sha256": "cacf9a118cc67b7e13a4f352fbf936556fafc66bc29f47e8e7b025b8c7d71280",
+      "bytes": 324
+    },
+    {
+      "name": "practice.html",
+      "sha256": "b1b343041eb629930e83743deae885260b1f042bea0258a2b9b0710d304583fd",
+      "bytes": 3102
+    },
+    {
+      "name": "sample-response.csv",
+      "sha256": "1de5ab9c89eeed91096c12a58704a9a13db287411a76b9416a6e88717ec534d3",
+      "bytes": 109
+    },
+    {
+      "name": "sample-response.json",
+      "sha256": "0352d2ce6c93383c77d155115791fef33a22aacd9e8630d87fd9b0721f51a0f2",
+      "bytes": 134
+    },
+    {
+      "name": "worksheet.md",
+      "sha256": "4f6dbe297b691f54ddaa10f2f4c4d9834d4118c1284f4d86c7d116be614d5593",
+      "bytes": 4966
+    }
+  ]
+}
