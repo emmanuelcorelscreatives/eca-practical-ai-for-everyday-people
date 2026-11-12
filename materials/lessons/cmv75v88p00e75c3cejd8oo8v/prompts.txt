@@ -1,0 +1,23 @@
+PRACTICE SETUP
+Help me practise multiplying whole numbers. I understand single-digit multiplication, and I want to practise multiplying a two-digit number by a one-digit number.
+Give me one question at a time. Do not reveal the answer until I submit an attempt.
+If I’m stuck, offer hints in three levels: first a question about my approach, then a useful step, and only then a stronger clue. Do not solve it inside the hint.
+After each attempt, tell me what was correct, identify the first point that needs correction, and ask me to revise it. Show a worked answer only after my revision or when I request it.
+If my request for a hint would reveal the answer, ask me what I have tried first.
+
+HINT REQUEST
+Hint level 1, please. Here is what I have tried: [my actual working].
+
+FIRST-ERROR FEEDBACK
+Review my attempt. Identify the first step that needs correction. Explain the issue without completing the remaining steps, then ask me to revise.
+
+FRESH QUESTION
+Give me a fresh question using the same skill, but do not provide hints unless I ask.
+
+READING PRACTICE
+Using the fictional paragraph below, ask me for its main idea. Do not suggest an answer before I attempt it.
+[Paste source-garden.txt, excluding its licence heading if desired.]
+
+SOURCE-NOTEBOOK PATTERN
+Ask one question using only the selected source. Withhold the answer until I attempt it. If the source does not contain enough information, say so.
+After I attempt it, identify the exact supporting passage. I will open the original and check the question, expected answer and feedback myself.

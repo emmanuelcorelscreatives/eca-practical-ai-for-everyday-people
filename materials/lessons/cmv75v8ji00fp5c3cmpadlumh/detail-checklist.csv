@@ -1,0 +1,10 @@
+detail,source_value,required_check
+class_date,Saturday 17 October 2026,Same day/date/year
+arrival_deadline,9:45 a.m.,"Latest arrival, distinct from start"
+start_time,10:00 a.m.,"Teaching start, distinct from arrival"
+bring,apron,Obligation retained
+wear,closed-toe shoes,Obligation retained
+allergy_action,tell organizer before class,Recipient and timing retained
+warning,nuts will be used,Warning and regional term uncertainty retained
+age_condition,under sixteen need an adult,Threshold and obligation retained
+cancellation,no later than Thursday 15 October 2026,Thursday retained; no invented exact hour

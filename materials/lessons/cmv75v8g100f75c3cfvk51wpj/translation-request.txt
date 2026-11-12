@@ -1,0 +1,5 @@
+Translate this fictional event notice into Spanish for adult community members. Use a clear, polite tone. Preserve names, date, time, address, contact method, numbers, obligations and exceptions. Flag ambiguous wording instead of guessing.
+
+Label the result GENERATED DRAFT. Keep questions for review separately. Use the clarified permission sentence “You have permission to bring one guest.” Record regional wording choices for review; no real target region has been specified.
+
+Paste the clarified notice from source-notice.md here. Do not upload private information.

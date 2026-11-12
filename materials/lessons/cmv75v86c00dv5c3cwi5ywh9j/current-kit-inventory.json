@@ -1,0 +1,52 @@
+{
+  "version": 1,
+  "projectId": "cmv75v86c00dv5c3cwi5ywh9j",
+  "scriptSha256": "c51ee8fd6fb09bddc1be89b5af8bc9d7f6adbb395c3a672c12ae197921b14d0a",
+  "files": [
+    {
+      "name": "README.md",
+      "sha256": "b1b74911d28a296cb8fe5178d6deaa1e8b31d39fa48cf7f77f0ba90d3b7300b5",
+      "bytes": 1719
+    },
+    {
+      "name": "learning-brief.md",
+      "sha256": "938cf2cd2a96f0c0906a8f8e1700fd7c8b9d19cf2c0c95aa79c8f50850c3d4bc",
+      "bytes": 790
+    },
+    {
+      "name": "prompt-practice.md",
+      "sha256": "e8b52185e4637bf15d282b16f760229e17b332c59ae0687a3b461c96f3ecf44b",
+      "bytes": 1218
+    },
+    {
+      "name": "understanding-check.md",
+      "sha256": "837282c062abe39222c246692e64c1387029471a4eacf10ec339570544219c04",
+      "bytes": 654
+    },
+    {
+      "name": "answer-key.md",
+      "sha256": "be50bd7e9363150b2147ede5cf335733d6495265eb8de82617747de4b615b774",
+      "bytes": 777
+    },
+    {
+      "name": "sources/percentage-notes.md",
+      "sha256": "a0849aeb5cbf514af7f0e49cd64c727eb441212da1d5688f4f6ebe923bab8cb2",
+      "bytes": 555
+    },
+    {
+      "name": "sources/study-method.md",
+      "sha256": "6ae2b40df6e731dd82a7c5c28fa94e8d002efd6af8491f0d206ee48eea3ecf56",
+      "bytes": 729
+    },
+    {
+      "name": "source-notebook-exercise.md",
+      "sha256": "3a7ed5ef118e063ebd46a6414aa9b773ac1552ecacf1e0a46794d146ce2d1d6c",
+      "bytes": 1103
+    },
+    {
+      "name": "check_percentages.py",
+      "sha256": "13d26a95556cb53b49f7b07007bd4caaf2036dcfc39664c2d0b1a1d4a6d2f74e",
+      "bytes": 487
+    }
+  ]
+}

@@ -1,0 +1,77 @@
+{
+  "version": 1,
+  "projectId": "cmv75v8ji00fp5c3cmpadlumh",
+  "scriptSha256": "f7b0b2fb9c2376770823d4718724809721c2e31113d6d080822462b2d03f8690",
+  "files": [
+    {
+      "name": "README.md",
+      "sha256": "01c8902bede2929dc87e42dd33f7df6bf791eb5416e87a328a2d633e60d23b7b",
+      "bytes": 1809
+    },
+    {
+      "name": "accessible-summary-es-draft.md",
+      "sha256": "ffa4e812c39b4c71e038119b747c2c4dce4dc8a64f1f1b3ffb890273ebf8d250",
+      "bytes": 748
+    },
+    {
+      "name": "answer-key.md",
+      "sha256": "21eadd68ab1aa42cba1334347fb75714f796147236a1c9ce5d3b497ddb787b81",
+      "bytes": 937
+    },
+    {
+      "name": "correction-log.md",
+      "sha256": "ba5d80479082410c65e9c230f3003b3bbb3519ef901229bc4eb5774e86fd6b39",
+      "bytes": 694
+    },
+    {
+      "name": "detail-checklist.csv",
+      "sha256": "4c424f94702e1b6fea7c692cfd2e6c00ba4538e9a9743a85a85929236ceeea49",
+      "bytes": 617
+    },
+    {
+      "name": "explanation-es-draft.md",
+      "sha256": "036d0efd22fcd30485b3f623ef7a19bcf054726d2d93cb972e90a297feb11147",
+      "bytes": 1145
+    },
+    {
+      "name": "glossary.csv",
+      "sha256": "5fbad636ed655d5a0bedcb7d06276ff414a5c3fcf336eb6d7a7c1f7f8d0b489f",
+      "bytes": 888
+    },
+    {
+      "name": "listening-record.csv",
+      "sha256": "a662d2ba199af56c90fd1c9207288996128569c97992ee875f924917677ef217",
+      "bytes": 344
+    },
+    {
+      "name": "practice-activity.md",
+      "sha256": "e0c8935ac261aa73baeea804291f8ed7c3871f2f201552d0a9cb3f81a680e360",
+      "bytes": 837
+    },
+    {
+      "name": "prompt-template.md",
+      "sha256": "6bd3f85037b98fdef21cadedbe01a9f21be9b7e219c5659e42ecc88b43cfdb17",
+      "bytes": 1435
+    },
+    {
+      "name": "review-record.csv",
+      "sha256": "bde2e90cd57b8e7a13c866efb3d666d21d4c624a74c24cf6679c31254de68b05",
+      "bytes": 306
+    },
+    {
+      "name": "source-notice.txt",
+      "sha256": "d80ed4f7e6061a909add7da5304aabba12dc9bc3192083f40d9a955c205a6fdd",
+      "bytes": 528
+    },
+    {
+      "name": "submission-checklist.md",
+      "sha256": "6a3831bcd13260b3fd224a3818ffcab78aa2eba03478fa8d31c8fe121df77288",
+      "bytes": 1112
+    },
+    {
+      "name": "verify_materials.py",
+      "sha256": "4d3cb6de112228f869860e680b6eade0331bad96b08d781bb93a416690c109bd",
+      "bytes": 1361
+    }
+  ]
+}

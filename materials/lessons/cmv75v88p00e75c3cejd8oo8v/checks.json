@@ -1,0 +1,37 @@
+{
+  "projectId": "cmv75v88p00e75c3cejd8oo8v",
+  "lesson": 87,
+  "fictional": true,
+  "arithmetic": [
+    {
+      "expression": "24 * 3",
+      "expected": 72,
+      "parts": [
+        60,
+        12
+      ]
+    },
+    {
+      "expression": "36 * 4",
+      "expected": 144,
+      "parts": [
+        120,
+        24
+      ]
+    }
+  ],
+  "sourceSupport": [
+    "unused courtyard",
+    "shared garden",
+    "Volunteers cleared rubbish",
+    "community meals"
+  ],
+  "unsupported": [
+    "budget",
+    "funding",
+    "named residents",
+    "yield"
+  ],
+  "answersInitiallyCollapsed": true,
+  "externalNetworkRequired": false
+}

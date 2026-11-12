@@ -1,0 +1,57 @@
+{
+  "version": 1,
+  "projectId": "cmv75v8dl00ev5c3c13ms3wwg",
+  "scriptSha256": "427fd1d6cd2fbd715fb1e33e15d760df3300b93f8d929876155ea2cc4c361fa7",
+  "files": [
+    {
+      "name": "README.md",
+      "sha256": "6ac98b98a8d3bc3362b48c4dae9dc47a7f7f0d4516a5b62068ca72e5ae9182f4",
+      "bytes": 1907
+    },
+    {
+      "name": "adult-email-draft.txt",
+      "sha256": "5b29a5797f5fcee31fd5a4b29857c65900250bb71fc71da321fa5d37bb3a2579",
+      "bytes": 363
+    },
+    {
+      "name": "answer-guide.md",
+      "sha256": "b2d9aada0ca08690fe621dfe40482f3c2e38d7ffb26b8f57445eaf18da25cf62",
+      "bytes": 2188
+    },
+    {
+      "name": "audience-brief-template.md",
+      "sha256": "0197f2ee9059452fdd3532b76347759ad2009c5e6de75e5ce2d1e61055865f9a",
+      "bytes": 631
+    },
+    {
+      "name": "check_examples.py",
+      "sha256": "67ea63724e7ac800725c8bd571f8bbff8f8431683348d569da3938be06926455",
+      "bytes": 980
+    },
+    {
+      "name": "phone-message-draft.txt",
+      "sha256": "f8bde044a9ca1f52cf530e45912df3b5470006ab6c317840a46e4b91c3b42eec",
+      "bytes": 279
+    },
+    {
+      "name": "review-notes-template.md",
+      "sha256": "23f9a918804137b317cacb5a739791eab32a2f51bbd728898aa91ce96a98c527",
+      "bytes": 610
+    },
+    {
+      "name": "source.txt",
+      "sha256": "50daea1d11d7a00d1cb08ab3b13506d3da4e6e7533b4be6d746c20afd2504fa3",
+      "bytes": 169
+    },
+    {
+      "name": "worked-briefs.md",
+      "sha256": "9fca2950c2669d3cb9668235272ca707fd6c6b9af15b2a07c7856866bf30cfb3",
+      "bytes": 1629
+    },
+    {
+      "name": "worksheet.md",
+      "sha256": "6eb078c55d58d6dfd82454a3c1870d9a6cb4778e82aa213fd7536ef0c23fb76c",
+      "bytes": 1772
+    }
+  ]
+}

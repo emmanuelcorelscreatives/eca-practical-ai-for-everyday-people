@@ -1,0 +1,47 @@
+{
+  "version": 1,
+  "projectId": "cmv75v8lt00g15c3cxfi8q8ev",
+  "scriptSha256": "32d936cbc9b8735f6666664faaf8ec2d0d69ab02fccb712ca986b6cccc8d5895",
+  "files": [
+    {
+      "name": "LICENSE.txt",
+      "sha256": "066b3f1d61970bca5dfc73818078bbf15fc48bc6008513210d0c83fb7bd41756",
+      "bytes": 194
+    },
+    {
+      "name": "answer-key.md",
+      "sha256": "bfe61dd71ea6ecefaae8a6101a0ebd899da28864a7cf4d4afaebf645495f9245",
+      "bytes": 1404
+    },
+    {
+      "name": "blank-search-plan.csv",
+      "sha256": "d963908b8e539ad2beb405341e3bfd90eea7b44be70a8716b463127df4d803aa",
+      "bytes": 93
+    },
+    {
+      "name": "prompt-and-review.md",
+      "sha256": "f3c2d85bab41372f19e8561151a1d76dfa24745ee2f797fa6aef919b4dba576f",
+      "bytes": 1249
+    },
+    {
+      "name": "question-and-gaps.md",
+      "sha256": "121712bb5e93637d09cf33c6810a6de72992ce254961076723162d01d4f221d7",
+      "bytes": 508
+    },
+    {
+      "name": "stopping-checklist.md",
+      "sha256": "cf41b1c373713156f3182b04594b41dce543d832f74aff98c10042bf6c3a1423",
+      "bytes": 724
+    },
+    {
+      "name": "worked-search-plan.csv",
+      "sha256": "dc8b873faf8beaacc2b9f43ff3ec3995478788607d2d21f9124f9dd221190074",
+      "bytes": 934
+    },
+    {
+      "name": "worksheet.md",
+      "sha256": "a79616b33bb3148c32e1029b8a638bf7e901d0927748fd60d4c23f1d22dceb4e",
+      "bytes": 3129
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "version": 1,
+  "projectId": "cmv75v6jm005v5c3c5mnntisp",
+  "scriptSha256": "27e01816449dab11befa3407049d5b4024a946a5b6bd72abf4bd462df7a747e3",
+  "files": [
+    {
+      "name": "comparison-answer-key.csv",
+      "sha256": "a9a068053f786469fc05f7d039a3698cd8b87d7baf1762e2f5d2ee7ac49b2b95",
+      "bytes": 1348
+    },
+    {
+      "name": "comparison-worksheet.csv",
+      "sha256": "867d0ed17f4afba4770efaa690eb20d0820cd0c7e2f91135071352ea1302e31b",
+      "bytes": 699
+    },
+    {
+      "name": "source-notes.md",
+      "sha256": "bb4daa45ac04c3c2c9fd745d57cecba7e45fe9109c0c95d1b2ca314ca1a14ffd",
+      "bytes": 719
+    },
+    {
+      "name": "worksheet.md",
+      "sha256": "837398bbbde08af99064a0ce6366c00cc609894d296b2370429b607e7c1633fb",
+      "bytes": 3375
+    }
+  ]
+}

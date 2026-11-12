@@ -1,0 +1,37 @@
+{
+  "version": 1,
+  "projectId": "cmv75v8kn00fv5c3ca6sa70du",
+  "scriptSha256": "640677556f53d67332fd77fd610b29a929612c42afb75c811779016c56064531",
+  "files": [
+    {
+      "name": "fictional-brief.md",
+      "sha256": "89b9583d3645a8dd4eae50d3693be3cd7d7698d35db60e339ae851979c16d406",
+      "bytes": 972
+    },
+    {
+      "name": "research-record.txt",
+      "sha256": "55ec3d7befeb87a1ad620a145cdb83c54f3779ebc9c7d44a3cc33076ec0068cb",
+      "bytes": 635
+    },
+    {
+      "name": "self-check.md",
+      "sha256": "1c1e136626b90481dab44edb0ae6a712125aec1d18fddbc747e9488f1b50e419",
+      "bytes": 936
+    },
+    {
+      "name": "source-cards.md",
+      "sha256": "5f33e50909abc04a013e0a00065cd583c6d61353d467a7a60c03be5e9a71e86c",
+      "bytes": 1653
+    },
+    {
+      "name": "worked-example.md",
+      "sha256": "a850de8ff64c15217ea9bd0ae5d92e2a6d497af26f2154e8bd56e11101c11747",
+      "bytes": 1485
+    },
+    {
+      "name": "worksheet.md",
+      "sha256": "34da2c27636db3626f5384d1e2f4aabee5eb21fce2fcc17fb9050eb46cc95221",
+      "bytes": 3329
+    }
+  ]
+}

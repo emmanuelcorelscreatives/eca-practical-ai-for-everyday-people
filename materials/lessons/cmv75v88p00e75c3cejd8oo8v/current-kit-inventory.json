@@ -1,0 +1,52 @@
+{
+  "version": 1,
+  "projectId": "cmv75v88p00e75c3cejd8oo8v",
+  "scriptSha256": "b38861a90ffc03bc2c39ec8b0e12a2fa09674313b9e6cc9936901e2da84a43ce",
+  "files": [
+    {
+      "name": "LICENSE.txt",
+      "sha256": "70cbc515429030521717f771786ecdc24e439d376ba9bf4aad99f9113b4b0056",
+      "bytes": 488
+    },
+    {
+      "name": "README.md",
+      "sha256": "8006de19c7a8d336ab3d2e27acaec37bbc803f462e87891cfa7f785791d6eb28",
+      "bytes": 2371
+    },
+    {
+      "name": "answer-guide.md",
+      "sha256": "cb751bf8d230665cd1d271f6c8311bc8ba8cdb93a5a262a0e01a4af8183efeab",
+      "bytes": 2760
+    },
+    {
+      "name": "checks.json",
+      "sha256": "20225b65084230cec90595f40187f486574c35a1500f26edee86fa0badfb8609",
+      "bytes": 621
+    },
+    {
+      "name": "practice.html",
+      "sha256": "61e19e8fdfa1313ba879dcc3a19340935738e06484c59016e229b53697dfff8f",
+      "bytes": 3629
+    },
+    {
+      "name": "prompts.txt",
+      "sha256": "47474344478ddc81a2afe1c38159a0dfa171827d8f4f7f7868ca67c3d66076ce",
+      "bytes": 1563
+    },
+    {
+      "name": "source-garden.txt",
+      "sha256": "eb8f9e0c3660226b1b661c776c62ed5f5d80d95baf2a106b5e961a34fc85adf8",
+      "bytes": 271
+    },
+    {
+      "name": "validate.py",
+      "sha256": "9dd5e3d5fc9e99e462d6bbe689cfa41f4576a8e19e2fbdfbcfc85d34cda45cb0",
+      "bytes": 1160
+    },
+    {
+      "name": "worksheet.md",
+      "sha256": "37531732697ccc262169c8b829014463ccea7604b0e173bbe6bb22cd8a320e3a",
+      "bytes": 2708
+    }
+  ]
+}
