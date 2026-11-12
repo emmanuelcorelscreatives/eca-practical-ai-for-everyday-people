@@ -1,0 +1,10 @@
+input,target,rule
+Request ID,log and document key,required stable exact match
+Event title,draft subject,required preserve source
+Approved source notes,draft body,required no invented facts
+Audience,draft body,required compare source
+Requested channel,review destination,Email draft or Document draft
+Requester,source record,required fictional practice name; log uses role Requester then Operations reviewer on failure and entered name on manual completion
+Permission confirmation,validation,must be checked
+Preferred tone,review reference,optional stored reference only; deterministic template does not change style
+Additional context,review context,optional displayed reference; no added evidence

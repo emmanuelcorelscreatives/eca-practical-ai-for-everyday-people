@@ -1,0 +1,42 @@
+[
+  {
+    "requestId": "EVT-042",
+    "eventTitle": "Riverside Reading Circle",
+    "sourceNotes": "Saturday, 7 November 2026; 14:00\u201315:30; Community Room B; bring one public-domain poem; registration method not supplied",
+    "audience": "Adults and older teenagers",
+    "channel": "Email draft",
+    "requester": "Mina Okafor",
+    "permission": true,
+    "case": "normal"
+  },
+  {
+    "requestId": "EVT-043",
+    "eventTitle": "Riverside Reading Circle",
+    "sourceNotes": "Saturday, 7 November 2026; 14:00\u201315:30; Community Room B; bring one public-domain poem; registration method not supplied",
+    "audience": "Adults and older teenagers",
+    "channel": "Email draft",
+    "requester": "Mina Okafor",
+    "permission": true,
+    "case": "rejection"
+  },
+  {
+    "requestId": "EVT-044",
+    "eventTitle": "Riverside Reading Circle",
+    "sourceNotes": "",
+    "audience": "Adults and older teenagers",
+    "channel": "Email draft",
+    "requester": "Mina Okafor",
+    "permission": false,
+    "case": "missing input"
+  },
+  {
+    "requestId": "EVT-045",
+    "eventTitle": "Riverside Reading Circle",
+    "sourceNotes": "Saturday, 7 November 2026; 14:00\u201315:30; Community Room B; bring one public-domain poem; registration method not supplied",
+    "audience": "Adults and older teenagers",
+    "channel": "Email draft",
+    "requester": "Mina Okafor",
+    "permission": true,
+    "case": "connection failure"
+  }
+]

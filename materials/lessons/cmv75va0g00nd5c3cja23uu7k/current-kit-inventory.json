@@ -1,0 +1,67 @@
+{
+  "version": 1,
+  "projectId": "cmv75va0g00nd5c3cja23uu7k",
+  "scriptSha256": "22c371a061daec81c4daf4cc5823904fe3ff08a61254a1f156b85a84fc4e314a",
+  "files": [
+    {
+      "name": "README.md",
+      "sha256": "fdcacdeba6fe4d7dd7d212ae8f226c5bca2a963901658a5fa22ced319f221586",
+      "bytes": 1833
+    },
+    {
+      "name": "coach-instruction.md",
+      "sha256": "1b8c8831dcd3db17cc24a96cf481436a0796e5f79285ef205834c2b5af96861b",
+      "bytes": 700
+    },
+    {
+      "name": "exercises.md",
+      "sha256": "881e03f9dfcece3ca2dbc500c81e4aebc977fc3a6a627109f2cbdef86705059a",
+      "bytes": 1082
+    },
+    {
+      "name": "expected-checks.md",
+      "sha256": "fcde2b23ba98cf2d4bff75097c07383fbe9b5d747896e882a58fa5719cea210c",
+      "bytes": 1190
+    },
+    {
+      "name": "fictional-answer-and-feedback.md",
+      "sha256": "8b7029e743872d5f08bc3b972aca08e89523149d6f2e95b73f94f886e6f1f2c8",
+      "bytes": 1084
+    },
+    {
+      "name": "fictional-role.md",
+      "sha256": "7c05d8b0b80e94aed28981cd9689b5f10f5fc8e0cfdff1d1529beda8fc88f68a",
+      "bytes": 762
+    },
+    {
+      "name": "interview-practice.html",
+      "sha256": "bf72a68ea956cb4ff9374e967d0a1cd1986caeb9510634e1cb26a57571ae52db",
+      "bytes": 10008
+    },
+    {
+      "name": "practice-log-blank.csv",
+      "sha256": "f5c82769069e46e7dceb90fda05b27b43971843c0a1cfaa3c5fb95673c28b1c8",
+      "bytes": 280
+    },
+    {
+      "name": "practice-log-worked-fictional.csv",
+      "sha256": "ebba6a4e627051d453f2a30bd36a769b358b30a82d00aa5fae211673d829a6e8",
+      "bytes": 1027
+    },
+    {
+      "name": "preparation-blank.csv",
+      "sha256": "ef578d7c9306aa23be66601d9878f9c686d8c696435db006479547e4ce76be66",
+      "bytes": 114
+    },
+    {
+      "name": "preparation-worked-fictional.csv",
+      "sha256": "879809309def223b8358b0db598331ceb5d1d33c15c15683e73d22a3db65ec0a",
+      "bytes": 429
+    },
+    {
+      "name": "star-template.md",
+      "sha256": "3299991affee1331ba702d4ede3294f4ea1412aaa5afe8a125b7f4f34215b677",
+      "bytes": 700
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+# Expected checks — exercise outcomes, not pre-existing external actions
+- EVT-042: Valid / Created / Approved / Prepared only. Exactly one in-memory reviewed document; missing registration method visible. External action OFF, zero sends.
+- EVT-043: source contains no price. The deliberate draft phrase “free entry” is unsupported. Reject → Skipped / Rejected — no action; no document saved for this ID.
+- EVT-044: approved source notes empty and permission unchecked. Needs information; Draft and Review Not run; no document or review request.
+- EVT-042 duplicate: exact match; stopped before draft/review/action; original approved row and document retained; separate attempt retained.
+- EVT-045: valid draft approved; connection deliberately unavailable. Save reviewed document fails, external action Not attempted; approved text retained. Recovery checks precede manual completion; exact approved version saved once and responsible person logged.
+- Needs correction: draft returns for revision, approval checklist resets; review must occur again. Reject cannot silently return to approved route.
+- Reset/reload clears this browser page’s simulated memory only. No private or external data is read, sent, changed or deleted.
+
+Additional edge checks: For an uncommitted correction, Approve is disabled. Commit a revised body, then verify all four checks reset before approval. After an EVT-045 failed save, resubmit EVT-045: the new attempt stops as duplicate, while manual fallback still resolves the earlier approved attempt and displays its source and exact approved content together. Complete manually once; a second attempt must refuse duplicate output. For another editable ID (for example EVT-047), leave source notes empty and permission unchecked: the displayed invalid record must be that actual ID, not EVT-044. Correct and resubmit under the same ID; the earlier invalid attempt is retained and the valid attempt reaches review. These extra IDs are learner-created fictional edge cases, not new narrated examples.
+
+Further evidence attribution: reject a valid learner-created ID (e.g. EVT-047 after corrected submission) and verify the rejection heading and action/output count belong to that actual attempt. After the duplicate EVT-045 attempt, inspect Connection failure and Run history: both must identify the preserved original failure attempt, not the later duplicate. Match attempt number as well as Request ID.

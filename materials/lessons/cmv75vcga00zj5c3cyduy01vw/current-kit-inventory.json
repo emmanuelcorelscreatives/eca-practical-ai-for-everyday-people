@@ -1,0 +1,47 @@
+{
+  "version": 1,
+  "projectId": "cmv75vcga00zj5c3cyduy01vw",
+  "scriptSha256": "e7675ab180d966c2e032e6b23a4a119d8e6bfabb825559d97a627a93f404f557",
+  "files": [
+    {
+      "name": "README.md",
+      "sha256": "e3c24942bf6e9691e9bd680cb21d0c5e7d7b40221457bbd97a517305863f1c86",
+      "bytes": 2517
+    },
+    {
+      "name": "automation-log-template.csv",
+      "sha256": "97aba44d85d2e2fd62ef83ad4c94599783942a146272bd0c11b8a206bbd1077c",
+      "bytes": 96
+    },
+    {
+      "name": "automation-practice.html",
+      "sha256": "0b1f8616a77d3ee57861779e3c65d41c157f20fe2395a63af5c9ad478a55c63a",
+      "bytes": 22997
+    },
+    {
+      "name": "draft-instruction.md",
+      "sha256": "eb3d6a3294c12503c86fe4acf76ff7cbcfc8ed7e7c9f033470975878e69d246d",
+      "bytes": 631
+    },
+    {
+      "name": "expected-results.md",
+      "sha256": "eda0dae5ac4dfc62f8339d914bbe9d008a3c532c60de347255b6cb53d4d30fdc",
+      "bytes": 2444
+    },
+    {
+      "name": "fictional-requests.json",
+      "sha256": "84411447140ed15ade2d166232d613925dbc54600a9b883b58392551f88e1bcf",
+      "bytes": 1437
+    },
+    {
+      "name": "field-mapping.csv",
+      "sha256": "65d6efd8aa78f6ab23b09970833feceebedf708b0616ba6e93ccf1a0115645b6",
+      "bytes": 698
+    },
+    {
+      "name": "worksheet.md",
+      "sha256": "914b68178c59c4bd44daf4aed7c5fc24cdd48e8c54d6aca0d5a16154e0fd8bcb",
+      "bytes": 2938
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+# Project 9: Deliver a Reviewed Automation
+Emmanuel Corels Academy — Practical AI for Everyday People, Lesson 215.
+
+Open `automation-practice.html` in a modern browser. No server, account, installation, external request, real AI service or credentials are needed. This is a working, self-created **documented training simulation**, not a vendor product or evidence of a live send. All data and people are fictional. Drafting is a deterministic training template, not a live AI claim; an intentionally unsupported “free entry” phrase is included only in the rejection case.
+
+Start with Reset session. Select EVT-042, Process request, compare source and draft, complete all four checks, then Approve. The reviewed document is saved only in page memory and external sending stays OFF. Then run EVT-043 and reject its unsupported claim; EVT-044 to inspect validation failures; submit EVT-042 again for the duplicate route; and EVT-045 to inspect the controlled document-connection failure. Use the manual fallback to finish only the preserved approved version after checking for an existing output. Reload/reset clears all in-memory practice state; it does not erase any external data because none is accessed.
+
+Use `worksheet.md`, `field-mapping.csv`, `draft-instruction.md`, `expected-results.md` and `automation-log-template.csv`. Keep screenshots of your own exercise with no private information. Export evidence produces a local JSON download only. Screens are actual running app views; preset navigation changes the selected instruction panel, while results and run history come from actual state transitions. Do not mistake a navigation panel for proof of an executed run.
+
+The saved course narration is unchanged. This kit supplies the missing self-created platform-neutral interface and reproducible evidence. Named product subscriptions and permissions are deliberately outside this offline simulation. Before any real platform deployment, independently verify current account capabilities and permissions, test rejection/failure/duplicates, and keep consequential actions under human control.
+
+Correction mode disables approval until the revised body is committed; committing clears all review checks. Manual recovery finds the preserved approved EVT-045 attempt even after a later duplicate submission. Preferred tone is stored and shown for reference only (the offline deterministic template does not adjust style); optional additional context is displayed for review and cannot supply invented facts.
