@@ -1,0 +1,47 @@
+{
+  "version": 1,
+  "projectId": "cmv75vcmf010d5c3cm4lpcdu8",
+  "scriptSha256": "a1f3b4ed34f92c3c86830239868dbc732514363bd76b5104e9956d526f54c973",
+  "files": [
+    {
+      "name": "app.py",
+      "sha256": "1fab935d22b33c7632876dc28b3509c148d4e8826c465e0bc7e990aa3b0ac707",
+      "bytes": 9172
+    },
+    {
+      "name": "approved-event-brief.pdf",
+      "sha256": "a22a849500fd8589515b55640655547f3a7a15515333d2d19cf28d5d0b654d72",
+      "bytes": 1168
+    },
+    {
+      "name": "boundary-card.md",
+      "sha256": "05af703355077c06ab2909dd3297b10a993ae706536997e01b37de050f0d1e1b",
+      "bytes": 2339
+    },
+    {
+      "name": "checklist-template.md",
+      "sha256": "03f0487564a20224233b75c2db5343448ec0e812df46c4bc6e7c0b6c0b3a98f1",
+      "bytes": 753
+    },
+    {
+      "name": "expected-results.md",
+      "sha256": "722390d081b7028eece424605af925a02bcb7241719b9311c415c30e85944ecf",
+      "bytes": 2202
+    },
+    {
+      "name": "index.html",
+      "sha256": "3e469ed850f33db39125ad59a05908cea5ec50d87106a3e83b425eda08f643bf",
+      "bytes": 8017
+    },
+    {
+      "name": "test_app.py",
+      "sha256": "40de62bf1f973ea342096bf4b304ad09c6bba7c76940f39ab9334b82fe1a063a",
+      "bytes": 4493
+    },
+    {
+      "name": "worksheet.md",
+      "sha256": "a399f94bc6e77cd43f7eecea7f27fc91e80c65462880d1d10f18ac3c821d54a3",
+      "bytes": 4657
+    }
+  ]
+}
