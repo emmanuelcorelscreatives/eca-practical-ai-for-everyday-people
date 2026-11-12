@@ -1,0 +1,47 @@
+{
+  "version": 1,
+  "projectId": "cmv75v7yw00cv5c3cf3krx70p",
+  "scriptSha256": "5110b278595b52a7ad3b25bfd8fa5d57a9341666325b341a0e7cbeea62a4dace",
+  "files": [
+    {
+      "name": "LICENSE.txt",
+      "sha256": "df782006e9ae437571ad2dc04061aa71fc84d30adc355d150204c66aa940bed4",
+      "bytes": 240
+    },
+    {
+      "name": "answers.md",
+      "sha256": "2ed59abc37dbbac764e1ff010abbbca8294d7482bf6fb89011b5a6df40bf935a",
+      "bytes": 2407
+    },
+    {
+      "name": "checked-summary.txt",
+      "sha256": "f5e6dc2c808138da3f85ba8e041bc54f00e66bc444647c67cedb2fe687698990",
+      "bytes": 799
+    },
+    {
+      "name": "manual-table.csv",
+      "sha256": "670bf236364dab639d41c613f9dcee8d26d05dcdfba0c8ae5aef8279f67abe27",
+      "bytes": 822
+    },
+    {
+      "name": "prompt.txt",
+      "sha256": "e1e5ef1e74242781dc413e673416b5f40fe1df970d15f31754aff1a81ad0fdc1",
+      "bytes": 526
+    },
+    {
+      "name": "thread-practice.html",
+      "sha256": "53cbfb5ff7f15fa35ec8fa392a47488421a6208f5a4b8fff501abd70a3465be4",
+      "bytes": 4493
+    },
+    {
+      "name": "thread.txt",
+      "sha256": "3cca04dc7e2dcd202e6a6d917f118ddbf1bb0465b040848ce996a14ba2619f95",
+      "bytes": 1446
+    },
+    {
+      "name": "worksheet.md",
+      "sha256": "1d9f08060c67d749e1d52dc13988e0db1d34c952234352b49e5d0e08dc1db642",
+      "bytes": 3113
+    }
+  ]
+}

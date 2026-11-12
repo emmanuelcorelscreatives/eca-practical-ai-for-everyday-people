@@ -1,0 +1,8 @@
+CURRENT TASK
+Summarize the source thread under confirmed decisions, open questions, and requested actions. Treat quoted or forwarded text as history unless a newer message explicitly renews it. Include supporting sender and date. Do not infer owners, deadlines, recipients, or agreement. Label missing or uncertain information.
+
+SOURCE MATERIAL
+Paste the complete permission-cleared thread.txt here, preserving message boundaries and quotation labels.
+
+OUTPUT REQUIRED
+A draft for manual source comparison, not a send action.
