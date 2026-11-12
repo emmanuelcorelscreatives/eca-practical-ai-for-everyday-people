@@ -1,0 +1,27 @@
+TASK
+Rewrite the notice in friendly plain language, under 90 words.
+
+SOURCE TEXT
+The Riverlight Reading Circle meeting led by Amina Okafor has been postponed from 18 November 2026 at 18:30 to 25 November 2026 at 18:30. The venue remains Cedar Room. Amina said, ‘Please bring the same book and your discussion notes.’ The meeting is postponed, not cancelled. Registered participants do not need to register again.
+
+PRESERVE EXACTLY
+Amina Okafor
+18 November 2026 at 18:30
+25 November 2026 at 18:30
+Cedar Room
+‘Please bring the same book and your discussion notes.’
+
+MEANING THAT MUST REMAIN
+Meeting postponed, not cancelled
+New date replaces old date
+Venue remains unchanged
+Existing participants need not register again
+
+ALLOWED CHANGES
+Simplify surrounding wording and reorder sentences. Do not invent reasons, contacts, links, instructions or claims.
+
+FLAG CONFLICTS
+If the word limit conflicts with protected content, report the conflict instead of dropping protected content.
+
+OUTPUT
+One announcement only.

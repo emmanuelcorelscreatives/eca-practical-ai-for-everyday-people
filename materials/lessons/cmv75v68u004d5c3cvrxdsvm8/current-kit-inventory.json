@@ -1,0 +1,67 @@
+{
+  "version": 1,
+  "projectId": "cmv75v68u004d5c3cvrxdsvm8",
+  "scriptSha256": "3cfdf32810c84389162e41e60214262f002f406e47b5d6a5de208336d78e6e2f",
+  "files": [
+    {
+      "name": "LICENSE.txt",
+      "sha256": "adba606a2fa1a63f90c79ef80b390491e5018db3dc3b552dceee30c9396c56db",
+      "bytes": 315
+    },
+    {
+      "name": "answer-key.md",
+      "sha256": "ce70db9ee1905ba45f81961505b975ebb94d168e07da81d479628b76d080e44b",
+      "bytes": 2585
+    },
+    {
+      "name": "check_exact_strings.py",
+      "sha256": "ed8862a827883bf30c35d6c95a6e8d46c63bfd4c60083733ab07d8ffe6e6a4a6",
+      "bytes": 738
+    },
+    {
+      "name": "comparison-template.csv",
+      "sha256": "9773ff72bf5b2efceb5eb328b777c54322964b6da74ba7d70a6adb05c5a642cc",
+      "bytes": 302
+    },
+    {
+      "name": "conflicting-prompt.txt",
+      "sha256": "be09c6d7159be8c00f3da921198e3ec70fe85128da00279c6258958f22bff039",
+      "bytes": 1028
+    },
+    {
+      "name": "faithful-draft.txt",
+      "sha256": "e2a7f3e34939dc439027597e7c311abf4a8ef899b59560fbd68d547a17e58385",
+      "bytes": 460
+    },
+    {
+      "name": "flawed-draft.txt",
+      "sha256": "03994ea3c60b3901e95fea7b29b53bcd14afb63047fee261e96f35d92fbba065",
+      "bytes": 290
+    },
+    {
+      "name": "protected-details.json",
+      "sha256": "ec37aeac66cad3968d27ddd723f36babc7d3e86945d5d82e4323f14c906eb141",
+      "bytes": 412
+    },
+    {
+      "name": "source-notice.txt",
+      "sha256": "fa3353f3f2cce958b1136d2d774436ab7627bd1fdf81fa2c8dbdf3393a1a6726",
+      "bytes": 348
+    },
+    {
+      "name": "strong-prompt.txt",
+      "sha256": "98048286394147bfdbbc9ebb5354183c328a0b5a2bed6eecbb8feacf7166e1a3",
+      "bytes": 1018
+    },
+    {
+      "name": "weak-prompt.txt",
+      "sha256": "b1f924a81a571438eff5f59f9ac5c0e6999af683509d3daadfb1945a5131d674",
+      "bytes": 417
+    },
+    {
+      "name": "worksheet.md",
+      "sha256": "cb250cd16f4b0f176381ac1785b4843a9617930d737feb473d21069a4d9c2b48",
+      "bytes": 3900
+    }
+  ]
+}
