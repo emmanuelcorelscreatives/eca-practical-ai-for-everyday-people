@@ -1,0 +1,47 @@
+{
+  "version": 1,
+  "projectId": "cmv75v9zc00n75c3clag5znn3",
+  "scriptSha256": "a3f25d3b63cb07e93e3b1ca4b37ac73ad4aa3ccf486283205ba82c324f7b51ef",
+  "files": [
+    {
+      "name": "applicant-evidence.csv",
+      "sha256": "22811deecc4a45c124aec2bc5518382e9b18c23d800be6f0e475d1dd7b078d6e",
+      "bytes": 483
+    },
+    {
+      "name": "application-template.md",
+      "sha256": "a90df5b67504f1cd087b98070e94032e8b0ed29928fe2a470c4ee8750c4342b4",
+      "bytes": 625
+    },
+    {
+      "name": "bounded-prompt.txt",
+      "sha256": "1652b574c19c15e916e6734def032d6f831d51733d155ffc6fbdc08395065a36",
+      "bytes": 1047
+    },
+    {
+      "name": "claim-review.csv",
+      "sha256": "7b3d1a63c86403df073c154d9151a4a557294194d75ed22d8bf31ad923e98049",
+      "bytes": 487
+    },
+    {
+      "name": "final-checklist.md",
+      "sha256": "da178b986e20dcaf6e07a730ea757e18f3a0a73e3200ce27afa506432ad2a827",
+      "bytes": 747
+    },
+    {
+      "name": "job-listing.md",
+      "sha256": "2779db35622649b208a2352ed763bad20416fee6a14f1047cfefab38f09aeb1f",
+      "bytes": 518
+    },
+    {
+      "name": "worked-example.md",
+      "sha256": "0e973be0bdc45ff40887eadb8cd34b9428f3b0bf568b6f21029d1a85a98bac1a",
+      "bytes": 1658
+    },
+    {
+      "name": "worksheet.md",
+      "sha256": "077b534c9761039a24889bf0ebadda1baaec4c01c629c2c1d71fdafb86ee2fb4",
+      "bytes": 2233
+    }
+  ]
+}

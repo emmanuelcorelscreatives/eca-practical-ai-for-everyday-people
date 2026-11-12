@@ -1,0 +1,6 @@
+Role: Help prepare a truthful application draft; do not assess eligibility.
+Job listing evidence: Community Programs Coordinator. Required: coordinate community events; write clear updates; work with volunteers. Desirable: strong leadership. Deadline, location, qualification details and submission format are not provided.
+Applicant evidence: In a fictional neighborhood reading project, the applicant scheduled four volunteer sessions and sent weekly plain-language updates. No other facts have been supplied.
+Task: Draft a short application paragraph and a cover-letter opening connecting only supported experience to the listing. Associate each important claim with the applicant evidence supporting it.
+Do not claim: Formal qualifications, staff management, attendee counts, measured outcomes, dates or complete eligibility unless supplied. Do not fill missing information or add generic praise.
+Output: Label the result “Generated draft — review required.” Mark unresolved information for human review. Do not send or submit anything.
