@@ -1,0 +1,52 @@
+{
+  "version": 1,
+  "projectId": "cmv75v9um00mj5c3coh06ybc4",
+  "scriptSha256": "bf4c785540ccefe56437e748691afd41e17b238410648dbce7c88bdd57801f71",
+  "files": [
+    {
+      "name": "Final-verification.fods",
+      "sha256": "09a90cdd4953613b639c4d6c8d3c4c223e19d3fd24d165fccda916ca2329ccc3",
+      "bytes": 14508
+    },
+    {
+      "name": "README.md",
+      "sha256": "3a80a233277ce2cecd822175fdcf23fb0da00e4cccbb9451828f998f17fbb940",
+      "bytes": 2383
+    },
+    {
+      "name": "exercises.md",
+      "sha256": "4fa4a23a2af1dd6d7f147f4d1df95552fdef45f00488f0e5835874276b49e37f",
+      "bytes": 1128
+    },
+    {
+      "name": "expected-results.md",
+      "sha256": "c610222a2f5f0905e0234f1cff449996ab1faeaaac3c0157b9a83898d3e277af",
+      "bytes": 1314
+    },
+    {
+      "name": "final-check-blank.csv",
+      "sha256": "36a2d77f04cd6f6680fbcbe5bd1e5268e1119617729f1e6087e3448f81005f6a",
+      "bytes": 391
+    },
+    {
+      "name": "harborlight-training.html",
+      "sha256": "135e09789a2ed0bf21dfc7fce73c0927821df5c72c21b5eb41bb16f1e7c80864",
+      "bytes": 10323
+    },
+    {
+      "name": "scenario.json",
+      "sha256": "e2aa3365d503af7edba398b884de9d6dc10a5f0031a822691ff6698ff57d9787",
+      "bytes": 1292
+    },
+    {
+      "name": "verification-blank.csv",
+      "sha256": "05ff20a360248d12bdfa8d96fecb29f1e232490a4c3a453ff6cca066f8aa33d0",
+      "bytes": 399
+    },
+    {
+      "name": "verification-worked.csv",
+      "sha256": "0c5186cfe03a710e30edf1e62e42c46ca98fe69f5753312ebef43562b4105491",
+      "bytes": 1914
+    }
+  ]
+}

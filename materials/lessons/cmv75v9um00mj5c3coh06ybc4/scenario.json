@@ -1,0 +1,46 @@
+{
+  "fictional": true,
+  "property": "Harborlight Guesthouse",
+  "location": "Port Aurora",
+  "guests": [
+    "Maya Okafor",
+    "Leo Chen"
+  ],
+  "checkIn": "2026-11-18",
+  "checkOut": "2026-11-20",
+  "nights": 2,
+  "rooms": 1,
+  "guestCount": 2,
+  "room": "Harbor Room",
+  "currency": "EUR",
+  "budget": 400,
+  "aiDraft": {
+    "roomHeadline": 288,
+    "claim": "with breakfast and free cancellation",
+    "status": "AI-GENERATED DRAFT \u2014 NOT VERIFIED"
+  },
+  "providerTrainingEvidence": {
+    "roomPerNight": 144,
+    "roomSubtotal": 288,
+    "cleaning": 24,
+    "service": 18,
+    "taxes": 30,
+    "mandatoryTotal": 360,
+    "optionalBreakfast": 36,
+    "breakfastCoverage": "2 guests, 2 mornings",
+    "selectedTotal": 396,
+    "remainingBudget": 4,
+    "rate": "Flexible",
+    "freeCancellationUntil": "18:00 local time on 15 November 2026",
+    "lateCancellationCharge": "first night",
+    "noShowCharge": "full stay",
+    "payment": "at property in EUR",
+    "lowerPrepaidRate": "non-refundable; payment due now",
+    "accessibility": {
+      "entranceToReception": "step-free",
+      "roomFloor": "lift access",
+      "doorClearWidth": null
+    }
+  },
+  "illustrativeTrainingCheckedAt": "2026-11-12T10:00:00Z (illustrative inspection timestamp; not current provider evidence)"
+}
