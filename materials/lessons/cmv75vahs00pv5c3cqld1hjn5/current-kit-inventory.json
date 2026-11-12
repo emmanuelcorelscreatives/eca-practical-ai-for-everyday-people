@@ -1,0 +1,72 @@
+{
+  "version": 1,
+  "projectId": "cmv75vahs00pv5c3cqld1hjn5",
+  "scriptSha256": "8cc626aea3b94d82533e006f26bd5384b0af6a83506c149c7a5cf219f4a5d169",
+  "files": [
+    {
+      "name": "LICENSE.txt",
+      "sha256": "26f5f001c57f1851d56617e9f60b9560682dbfdd6cd766568d16c8d4c7ab6270",
+      "bytes": 487
+    },
+    {
+      "name": "README.md",
+      "sha256": "d5e45fc2d4d9b85668c207dd2a7fcbac7afc81033ab269e58a20b85917f8756f",
+      "bytes": 2718
+    },
+    {
+      "name": "answer-key.md",
+      "sha256": "cc7b188c6c2ba1819280dff0a190694ce3a7953708533e80d588fd783bb9a612",
+      "bytes": 1451
+    },
+    {
+      "name": "camera-ocr-workflow.md",
+      "sha256": "a69fc0f9f9720740fa74c89a1d53fc62755584417f8314d297113add15f626dc",
+      "bytes": 1876
+    },
+    {
+      "name": "final-checklist.md",
+      "sha256": "0baef4f22fa0a04142c5dc845c92a618b4dce46d9a448eeb748157636937d630",
+      "bytes": 858
+    },
+    {
+      "name": "generation-brief.md",
+      "sha256": "e51dd9332810044520f24aacfa48700cc5a14aa2bfba5d5d8d5671581cb65684",
+      "bytes": 1028
+    },
+    {
+      "name": "method-choice.md",
+      "sha256": "f9d00a5a8bc16074c60632b60a6b1bcbab66d7ffe33c67d42f52eae73f22e71f",
+      "bytes": 802
+    },
+    {
+      "name": "method-decisions.csv",
+      "sha256": "96afc8a3912ea5a974054f682e8eb94d5255275113b1d80a9bf6f46cad60d746",
+      "bytes": 216
+    },
+    {
+      "name": "ocr-verification.csv",
+      "sha256": "23061cd30b20e37671a194a67061f4f1af34ff728eea9942f12e8dd65c76a8fb",
+      "bytes": 193
+    },
+    {
+      "name": "origin-change-record.csv",
+      "sha256": "52f75f641eb8239fecf355d106c39451ffc3e6dd666aeed0d1bfdcdc18ce4f46",
+      "bytes": 366
+    },
+    {
+      "name": "permission-cleared-notice.svg",
+      "sha256": "2af263515c88de735c6eddc499b8605c7392a7f4fb128235dce2b0b5be8d4736",
+      "bytes": 877
+    },
+    {
+      "name": "reading-day-edited.svg",
+      "sha256": "ccb69e1f54e70c942db209bda0e64bb89f1dea2d368ffa9b1ac5463ac3ac7c81",
+      "bytes": 1227
+    },
+    {
+      "name": "reading-day-original.svg",
+      "sha256": "60a939aa17a80dabb97f5c1d6138f72e64bc5a771ae781860d2bb809f6f8d60d",
+      "bytes": 1399
+    }
+  ]
+}

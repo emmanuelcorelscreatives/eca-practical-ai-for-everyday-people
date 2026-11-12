@@ -1,0 +1,4 @@
+item,origin_type,source_filename,original_retained,permission_basis,exact_prompt_or_edit,actual_tool,actual_change,inspection_result,uncertainties
+fictional concept,synthetic,,,,,,, ,
+narrow edit,edited,,,,"Remove the decorative balloon in the upper-right corner; preserve the people, books, table, lighting, and background.",,,,
+full-page photograph,camera,,,,,,,,
