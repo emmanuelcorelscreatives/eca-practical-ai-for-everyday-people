@@ -1,0 +1,6 @@
+id,raw,claim,supplied_evidence,task
+E1,12.5% of 64 units,800 units,12.5 percent of base 64 units,Find rate and correct result
+E2,30 USD + 20 EUR,50 USD,No conversion fields supplied,Record defensible subtotals
+E3,"2.500,75",250075,Decimal comma; grouping period,Normalize preserving original
+E4,07/08/2026,7 August 2026,No date order supplied,Record alternatives; ask for context
+E5,07/08/2026,7 August 2026,This record only: month/day/year,Correct date without changing raw text

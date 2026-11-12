@@ -1,0 +1,6 @@
+record_id,original_entry,imported_claim,initial_context
+P1,25%,25 percent of 80 units equals 2000 units,Stored value must be checked separately from display
+C1,$80.00 + €40.00,Combined total 120.00,Registration 80 USD; materials 40 EUR; no conversion details
+N1,"1.234,56",Value not confirmed,Source punctuation convention not yet opened
+N2,"1,234.56",Value not confirmed,Different source string; convention not yet opened
+D1,04/05/2026,Due date not confirmed,Date order not yet supplied

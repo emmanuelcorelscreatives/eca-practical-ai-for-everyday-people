@@ -1,0 +1,6 @@
+record_id,original_entry,issue_type,missing_context,source_note,verified_value,unit_or_currency,manual_check,status
+P1,25%,,,,,,,
+C1,$80.00 + €40.00,,,,,,,
+N1,"1.234,56",,,,,,,
+N2,"1,234.56",,,,,,,
+D1,04/05/2026,,,,,,,

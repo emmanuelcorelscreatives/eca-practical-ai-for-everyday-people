@@ -1,0 +1,52 @@
+{
+  "version": 1,
+  "projectId": "cmv75v78300915c3cbhjmgkam",
+  "scriptSha256": "45619f514d328f02926b970f444f92834e03161739469cf91f344b2c493470f4",
+  "files": [
+    {
+      "name": "README.md",
+      "sha256": "3f05685fd3d0b6223da0e7b2383df63ca16a27a88dacb4a5f61e7f51f7bb77ea",
+      "bytes": 1617
+    },
+    {
+      "name": "answers.md",
+      "sha256": "4359fbd41560df44acb3cdb496727a143e6c917640861372d8a5ca8f136dda12",
+      "bytes": 1953
+    },
+    {
+      "name": "audit-worksheet.csv",
+      "sha256": "17e3d73159843ab9c07e65b8941e4462960dfb59308faf578b35adda6c769c46",
+      "bytes": 226
+    },
+    {
+      "name": "extra-practice.csv",
+      "sha256": "9b98ce5c6eea7a9c839f035c5f7748aba4b516297e0fbcfaa1ac91172b103d86",
+      "bytes": 485
+    },
+    {
+      "name": "original-entries.csv",
+      "sha256": "6a2403cd400b154c74d494833528fac1892964a635c25b0f81b6f708274a5d7d",
+      "bytes": 495
+    },
+    {
+      "name": "prompt-card.md",
+      "sha256": "e559fe768a7d6863de127110346a2768b3b80fe096ba477d7f05f939139b5d2f",
+      "bytes": 1144
+    },
+    {
+      "name": "source-notes.md",
+      "sha256": "06774ee7d2e617af61d5c4c3518669a4fe143198d77a1b02f36a9f5da77ca9d1",
+      "bytes": 1610
+    },
+    {
+      "name": "worked-checks.md",
+      "sha256": "0c315894342a7634069fd2e82cccae2e5b13ff03a18d6270b5cacf83c0f370d8",
+      "bytes": 1777
+    },
+    {
+      "name": "worksheet.md",
+      "sha256": "730d71af32e99d7bcae0d8014902a53e741ab63b13a194b60dbdae35438e1823",
+      "bytes": 2556
+    }
+  ]
+}

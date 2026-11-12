@@ -1,0 +1,6 @@
+Claim,Importance,Opened evidence,Status,Correction,Next action
+Event date: 18 May 2027,High — attendance,sources/organizer.md: Open Day: 18 May 2027.,Supported,Keep as written,Retain passage and scope
+Time: 10:00–15:00,High — attendance,sources/organizer.md: Gates open at 10:00 and activities finish at 15:00.,Supported,Keep as written,Retain passage and scope
+Free seed packs for first 100 visitors,Medium — expectations,sources/seeds.md: Free seed packs will be available while supplies last.,Unsupported,Free seed packs will be available while supplies last.,Remove first 100 visitors; retain supply condition
+All areas are wheelchair accessible,High — ability to use venue,sources/access.md: entrance and main paths step-free; greenhouse threshold under review.,Unsupported,The entrance and main paths are step-free. The greenhouse threshold is under review.,Retain contact instruction; do not promise universal access
+Conflict-case event date,High — attendance,sources/organizer.md: 18 May 2027; sources/conflict-calendar.md: 19 May 2027.,Unresolved,Date not confirmed.,Ask organizer or venue to resolve; omit settled date until confirmed

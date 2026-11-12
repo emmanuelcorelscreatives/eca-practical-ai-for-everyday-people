@@ -1,0 +1,8 @@
+# Units, Currency and Date Formats — Academy practice kit
+Lesson 56, Stage 10. All examples are self-authored fictional training records, not actual expenses, exchange rates, assistant responses or source-account records. No accounts or network access are needed.
+
+Start with worksheet.md, keep original-entries.csv unchanged, and open source-notes.md only when instructed. Fill audit-worksheet.csv in a text editor, on paper, or in your own spreadsheet. Use worked-checks.md for the manual calculation method and answers.md after your attempt. extra-practice.csv provides a second independent practice round. prompt-card.md contains instructions to try with an available assistant; no response is claimed here.
+
+CSV is plain text: inspect it before importing. To preserve exact punctuation and dates, import all source columns as text or paste into cells already set to plain text. Automatic type detection can silently change a source. Keep raw strings beside any interpreted number. In your spreadsheet, compare the underlying numeric value, its format, formula and result; an exported CSV cannot preserve cell formatting or show a real formula bar. The formulas in worked-checks.md are instructions for manual entry, not executed spreadsheet output. A calculator and paper are a complete fallback.
+
+Evidence progresses in two rounds: initial ambiguity, then the explicitly supplied fictional clarification. Never let a later clarification make an earlier guessed date appear justified. Currency conversion remains unresolved throughout because no conversion rate, source, date, direction or fees were supplied.
