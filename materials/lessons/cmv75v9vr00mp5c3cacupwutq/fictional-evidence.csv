@@ -1,0 +1,7 @@
+evidence_id,fictional_subject,scenario_date,scenario_local_time,classroom_observation,not_established
+E-A,Venue A,2026-10-17,09:30,Confirmed closed in rehearsal,Actual venue identity; real-world availability
+E-B,Venue B,2026-10-17,unknown,Lesson completed example: date-specific hours checked; step-free main entrance; vegetarian option; reservation requirement checked,Numeric price; actual booking; exact return journey in starter
+E-C,Venue C,2026-10-17,unknown,Step-free access confirmation required,Access suitability; real availability
+E-R1,Route 1,2026-10-17,unknown,Interruption reported in rehearsal,Actual route or operator
+E-R2,Route 2,2026-10-17,unknown,Operating in rehearsal,Extra travel time; step-free status; actual departure and return; total cost
+E-S,Retail substitute,2026-10-17,unknown,"Match variant, location, quantity, current status and total before acting",Any real stock or purchase

@@ -1,0 +1,42 @@
+{
+  "version": 1,
+  "projectId": "cmv75v9vr00mp5c3cacupwutq",
+  "scriptSha256": "5903d721498e2b174ef9d64a72d40dae3297b332d2928de556b7461b6e9733e6",
+  "files": [
+    {
+      "name": "README.md",
+      "sha256": "2df8e22a10e749746e9b8638a571905a56607f5a3a7f51dbd7928b55bb983daa",
+      "bytes": 1773
+    },
+    {
+      "name": "answer-key.md",
+      "sha256": "f24a6525613cce934e80468ec011fc92a1ebcb3ea6057cf7f133cc5e68083e98",
+      "bytes": 1385
+    },
+    {
+      "name": "comparison-template.csv",
+      "sha256": "c00051b1058442a5bbaa2b092381ea53bdc9792027a8d56739cc5d3fa41410f3",
+      "bytes": 945
+    },
+    {
+      "name": "exercise.md",
+      "sha256": "b498d58e5404df215991e1bdd5fcc3abc8ec818dd52bae682bb97bdc27acda58",
+      "bytes": 2185
+    },
+    {
+      "name": "fictional-evidence.csv",
+      "sha256": "fa32f95fb7cfe71354e4b443d61a3f33c5f6897031b324e0f26e4d22ecec8e59",
+      "bytes": 916
+    },
+    {
+      "name": "generated-suggestions.md",
+      "sha256": "a952f2efef21d4a7d3d425ad6fdf2e6053d93ee359407d7745e9c3d7b6f16e32",
+      "bytes": 745
+    },
+    {
+      "name": "offline-card-template.md",
+      "sha256": "1faa329e2ac0c4f0e527a42609813ea0573781ae4d1d470f39b487f2015bf180",
+      "bytes": 972
+    }
+  ]
+}

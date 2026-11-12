@@ -1,0 +1,6 @@
+Option,Evidence required,Opened source reference,Last checked local time,Status,Switch trigger,Extra time,Extra cost,Unresolved constraints
+Primary A,Date/status/access/food/cost/return as relevant,,,Unresolved,Not applicable,unknown,unknown,Check every applicable fixed constraint
+Backup B,Date/status/access/food/cost/return as relevant,,,Unresolved,Venue A confirmed closed,unknown,unknown,Check every applicable fixed constraint
+Backup C,Date/status/access/food/cost/return as relevant,,,Unresolved,Only if all requirements independently confirmed,unknown,unknown,Check every applicable fixed constraint
+Route 2,Date/status/access/food/cost/return as relevant,,,Unresolved,Operator reports Route 1 interruption,unknown,unknown,Check every applicable fixed constraint
+Retail substitute,Date/status/access/food/cost/return as relevant,,,Unresolved,Exact requested item unavailable,unknown,unknown,Check every applicable fixed constraint
