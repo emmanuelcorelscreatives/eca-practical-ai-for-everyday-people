@@ -1,0 +1,12 @@
+section,check_id,observable_test,evidence,pass_criterion,owner,decision,notes
+Brief,brief,"Compare purpose, audience, fields, length, tone and file format",source-brief.md,Matches requested information sheet,Assigned human reviewer,NOT_REVIEWED,
+Evidence,facts,"Compare title, weekday, time, venue and public contact character by character",source-brief.md,All five match the opened brief,Assigned human reviewer,NOT_REVIEWED,
+Evidence,arithmetic,Recalculate any duration independently,Calculator and 16:00–17:30 source,90 minutes if mentioned,Assigned human reviewer,NOT_REVIEWED,
+Meaning,meaning,Compare booking condition and promises,source-brief.md,Limited places and confirmed booking retained,Assigned human reviewer,NOT_REVIEWED,
+Meaning,missing,Confirm absent details remain absent or labelled,source-brief.md,"No invented price, organizer, access or benefits",Assigned human reviewer,NOT_REVIEWED,
+Destination,permission,Compare public vs internal contact scope,source-brief.md permission boundary,Only public permitted details included,Assigned human reviewer,NOT_REVIEWED,
+Destination,final,Inspect actual export against every output-template field and full contact,Final HTML opened in browser,All template fields and draft version retained; no clipped required text; full contact usable,Assigned human reviewer,NOT_REVIEWED,
+Action,action,"Confirm exact recipient, destination, content, attachment and purpose",action-review.md plus reviewed final artifact,Exact action contextualized; HOLD until actual review,Assigned human reviewer,NOT_REVIEWED,
+Action,record,"Record reviewer, time, exact version, decision and corrections",review-log.csv,Traceable completed record for exact version,Assigned human reviewer,NOT_REVIEWED,
+Action,change,"Confirm no changed content, destination, recipient, date or attachment",Current files against reviewed version,Fresh review for every changed version,Assigned human reviewer,NOT_REVIEWED,
+Action,fallback,Confirm evidence and decision remain available offline,workflow.md manual fallback,Another reviewer can perform tests and STOP,Assigned human reviewer,NOT_REVIEWED,

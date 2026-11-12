@@ -1,0 +1,87 @@
+{
+  "version": 1,
+  "projectId": "cmv75vbke00v75c3ce2hnvuqx",
+  "scriptSha256": "08674dee826d6cf8daabbb1fc5bdc201f000762c29d243a2214651428e79867d",
+  "files": [
+    {
+      "name": "README.md",
+      "sha256": "96f3f5e3cc9b2b283d5036370da1ef170ad5451c051bb9a1ed67b85c93f50df2",
+      "bytes": 3409
+    },
+    {
+      "name": "action-review.md",
+      "sha256": "c445db253e0e03d77f17328eceba86a78d9c6c1ef4300df518fe9900759f314c",
+      "bytes": 1170
+    },
+    {
+      "name": "announcement-corrected.txt",
+      "sha256": "e519d18186ff4f22f435d4238bba46444a59ab6bed690dca71ff93c870d38469",
+      "bytes": 331
+    },
+    {
+      "name": "announcement-draft.txt",
+      "sha256": "b38d43b1faf9147a976721a2b972b3edf7bda0520149eb26637005e7dd01abd3",
+      "bytes": 262
+    },
+    {
+      "name": "answer-key.md",
+      "sha256": "a9f27b2b9abe53cd18a3a6260980fc6755b2de3806ea474e7613eb2a270ddb34",
+      "bytes": 2043
+    },
+    {
+      "name": "export-clipped.html",
+      "sha256": "10e9e77e32def5688e1cdfba01b7fbdd3514fd4b6e4f79235304e1fd481cb1f2",
+      "bytes": 762
+    },
+    {
+      "name": "export-corrected.html",
+      "sha256": "9f4606d206014e6979ea9e523d27018105d55d4b5a2aad79331f1e6e97e2f2cf",
+      "bytes": 755
+    },
+    {
+      "name": "garden-practice-answer.md",
+      "sha256": "e345a966d607aee2126fb375f52335afa63a68040fb5e18e8411bbe65d89c835",
+      "bytes": 483
+    },
+    {
+      "name": "garden-practice-draft.txt",
+      "sha256": "51326266f656bdc1967ca84198ab71ea7e06387a71473c28d9ef34c3381bb373",
+      "bytes": 155
+    },
+    {
+      "name": "garden-practice-source.txt",
+      "sha256": "bf883901cf7c59aee6c64ed600025165bea54d8bec08de76c57f07ca5681d463",
+      "bytes": 236
+    },
+    {
+      "name": "opening-placeholder-example.md",
+      "sha256": "f44bd3a804b56d53dfb359be12d5630f08fe69e90f673be03fac6a75b38687e9",
+      "bytes": 445
+    },
+    {
+      "name": "review-checklist.csv",
+      "sha256": "983c07f98285d364b82aab48cfef78278db73dce956b177bd11e088d6d633534",
+      "bytes": 2137
+    },
+    {
+      "name": "review-log.csv",
+      "sha256": "c8c8a9b8dce2c78a388a2eec30363bcce932745bcaae813286057cdc39da666d",
+      "bytes": 128
+    },
+    {
+      "name": "source-brief.md",
+      "sha256": "7eb8efaf96f8d72b38d5a8a65858e63c7c25908fcfe000b3c092218b17efe0db",
+      "bytes": 1301
+    },
+    {
+      "name": "verify-kit.py",
+      "sha256": "386c6242d291389e8b1cbaa83e8dc759bc8b84b6348a722066c4500add5aeecf",
+      "bytes": 1621
+    },
+    {
+      "name": "workflow.md",
+      "sha256": "36fc26cec2a12e0fc5767a4e2d6362ea33251e897441986d903adbe8f578642b",
+      "bytes": 2641
+    }
+  ]
+}
