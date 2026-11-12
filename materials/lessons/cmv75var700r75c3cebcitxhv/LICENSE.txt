@@ -1,0 +1,2 @@
+CC0 1.0 Universal — original Emmanuel Corels Academy lesson exercise text, source, fictional data and synthesized media. https://creativecommons.org/publicdomain/zero/1.0/
+Third-party tools espeak-ng, Python, FFmpeg and browsers remain under their own licenses and are not bundled here.

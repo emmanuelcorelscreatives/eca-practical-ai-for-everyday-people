@@ -1,0 +1,4 @@
+task,start_minute,end_minute,active_minutes,resource,requires
+Prepare food,0,10,10,organizer,
+Cooling,10,50,0,passive,Prepare food
+Print signs,10,25,15,organizer,Cooling started

@@ -1,0 +1,14 @@
+{
+  "active_minutes": 25,
+  "elapsed_minutes": 50,
+  "summed_row_durations": 65,
+  "printing_cooling_overlap_minutes": 15,
+  "complete_picnic_plan": false,
+  "unresolved": [
+    "route and transport timing",
+    "venue confirmation",
+    "transition allowance",
+    "recovery allowance",
+    "other task durations"
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "version": 1,
+  "projectId": "cmv75v9dp00k15c3cm0uzla02",
+  "scriptSha256": "ae70dec4f55883b7360e9d100772be36aaebf94dc7d4e27e0b9e4158c80f7767",
+  "files": [
+    {
+      "name": "assistant-prompt.txt",
+      "sha256": "2ba889d919f3bf7eeeaf10f69d40b3ff33f09f5a841fb7da5a277a9515b46208",
+      "bytes": 813
+    },
+    {
+      "name": "check-example.py",
+      "sha256": "27fa679978df9844b3ed90d63d4c1500a3929df24b4cfe79853292d5a1f376c6",
+      "bytes": 1465
+    },
+    {
+      "name": "example-timeline.csv",
+      "sha256": "3447212bf8a7bab33d0dda45032b4507cc9c8aacdf481c1486adbf735b84c98e",
+      "bytes": 178
+    },
+    {
+      "name": "expected-checks.json",
+      "sha256": "ee8b74b6d37d041f6322fc1057285e52b712a23d5fdb6e6634a2b048b64aed12",
+      "bytes": 321
+    },
+    {
+      "name": "picnic-planning-template.csv",
+      "sha256": "f686686b13b4240a9ece36927af8939c49511765f85548da6705be96756b94dd",
+      "bytes": 1049
+    },
+    {
+      "name": "verification-checklist.md",
+      "sha256": "73d157576f55767b067a74d2207aa07caa50fefb181c3d9bcb3a89fa554122ac",
+      "bytes": 1281
+    },
+    {
+      "name": "worksheet.md",
+      "sha256": "5a6d3736a3e1142235190b0dd6eecdf5c3d71a90638474e5888252ecf7a6b5da",
+      "bytes": 4416
+    }
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "engine": "qwen3-asr-cpu-v1",
+  "modelId": "Qwen/Qwen3-ASR-1.7B",
+  "modelRevision": "7278e1e70fe206f11671096ffdd38061171dd6e5",
+  "modelManifestSha256": "2f4cae445fa5fc79bd6e01f589104f2a50ff6c6bb4485f00b0841e89b597454a",
+  "text": "I'm in. We'll meet you at nine. Thank you. I will bring the notes. Please bring the notes. Check the room and let the group know if you will arrive late. The library opens at nine.",
+  "language": "English",
+  "device": "cpu",
+  "threads": 4,
+  "expectedTextSuppliedToDecoder": false,
+  "forcedAlignment": false,
+  "sourceUnchanged": true,
+  "recognitionSeconds": 33.227643829770386,
+  "sourceAudioSha256": "1b8c4be1163982346cce7d326e565aeb7d95e201088c1a86c5df94ad01eede3f",
+  "purpose": "Transcription of supplied original fictional lesson exercise recording, never a production narration approval gate",
+  "timing": "Recognition returned text only; all supplied exercise cue timings are separately authored, not ASR timestamps."
+}

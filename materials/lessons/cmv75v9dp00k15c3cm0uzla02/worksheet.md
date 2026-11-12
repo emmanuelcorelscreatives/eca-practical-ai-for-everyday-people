@@ -1,0 +1,22 @@
+# Estimate Time and Dependencies — Academy practice
+Emmanuel Corels Academy | Practical AI for Everyday People, Lesson 122
+
+This self-authored fictional community-picnic kit is practice data, not a real event, route, venue confirmation, food-safety recommendation, or an observed assistant response. It supplies the course exercise without private information. Keep your previous lesson's action list when applying the method to your own project; do not add tasks simply because software suggests them.
+
+## Learn and practise
+1. Read `picnic-planning-template.csv`. Complete each row's completion condition, hands-on effort, waiting, travel, transition, recovery, prerequisite, resource and earliest start. Blank means **unknown**, never zero. Keep route, opening times and recovery allowances unconfirmed until independently checked. Cooling here is a timing illustration, not safe-food guidance.
+2. Use `assistant-prompt.txt` with the fictional input. Retain its actual output as an **unverified generated proposal**. No assistant or paid account is required: fill the same table manually or in a spreadsheet.
+3. Reject shopping alongside food preparation when both need the same organizer. Explain the resource conflict. Printing can occupy passive cooling time only if its prerequisites, printer and organizer are available and attention requirements permit it. A wait continues even while hands are free.
+4. Run `python3 check-example.py` (standard Python 3 library only). The deliberately small, supplied worked example uses the lesson's ten-minute preparation and forty-minute waiting period. **Fifteen minutes of printing is an additional fictional practice assumption**, not a value stated by the instructor. Examine `example-timeline.csv` and compare the real command output with `expected-checks.json`.
+5. Trace every dependency arrow forward. Food preparation must finish before cooling starts; cooling must finish before chilled food is packed. Sum effort separately from final elapsed time. In the worked fragment effort totals25 minutes and elapsed time is50; the rows' durations sum65 because printing overlaps cooling. This fragment ends at cooling completion; it is NOT the entire picnic plan.
+6. In a calendar or task app you already have, create a new disposable fictional calendar or use a spreadsheet. Enter checked tasks with specific names, preserve prerequisite notes, show cooling and printing side by side, and keep transition separate from travel. Verify copied times against your checked table. Do not enter a real journey or final event schedule while blanks remain. Interfaces vary; no app-specific automatic dependency or travel feature is assumed.
+7. Complete `verification-checklist.md`. Explain which facts require a venue confirmation, route/mode check near departure, resource-owner confirmation or personal allowance. Health-related recovery concerns require qualified guidance. Software cannot certify these facts.
+
+## Manual alternative and expected reasoning
+Use the CSV headers as a screen/whiteboard table, draw arrows and put nonconflicting rows on parallel lines. The worked fragment begins at minute0: preparation0–10, cooling10–50, printing10–25. The organizer performs preparation and printing sequentially, while passive cooling runs. Earliest start requires **all** prerequisites, people, places and resources to be ready. A longest dependent chain often controls finish; summing every row is not the finish time. Unknown travel or recovery prevents claiming a complete final time.
+
+## Exercise challenge
+Move printing to minute5. Identify organizer overlap5–10 and the cooling prerequisite violation. Then restore printing to10. Change printing to45minutes: explain why completion of the fragment becomes55minutes if printing must also finish. Record the changed assumption, recalculate and check the longest chain. Do not change the authored lesson or present these extensions as original facts.
+
+## Transfer and submission
+Submit your completed template, actual assistant output if used (clearly unverified), corrected dependency/resource reasoning, command result or equivalent manual arithmetic, copied calendar comparison, and open-assumptions list. Use fictional details only. Success means transparent estimates and honest unresolved facts, not a confident invented end time. Next lesson122's successor is Lesson123, Build a Realistic Weekly Plan.

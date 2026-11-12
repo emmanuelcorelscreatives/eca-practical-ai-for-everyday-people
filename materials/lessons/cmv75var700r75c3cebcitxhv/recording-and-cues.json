@@ -1,0 +1,109 @@
+{
+  "duration": 26,
+  "speechEvents": [
+    {
+      "speaker": "Speaker 1",
+      "text": "Amina will meet you at nine.",
+      "start": 1.0,
+      "speechEnd": 2.875283446712018,
+      "voice": "en-gb",
+      "synthetic": true
+    },
+    {
+      "speaker": "Speaker 2",
+      "text": "Thank you. I will bring the notes.",
+      "start": 5.0,
+      "speechEnd": 7.576281179138322,
+      "voice": "en-us+m3",
+      "synthetic": true
+    },
+    {
+      "speaker": "Speaker 1",
+      "text": "Please bring the notes, check the room, and let the group know if you will arrive late.",
+      "start": 11.0,
+      "speechEnd": 16.410249433106575,
+      "voice": "en-gb",
+      "synthetic": true
+    },
+    {
+      "speaker": "Speaker 2",
+      "text": "The library opens at nine.",
+      "start": 20.0,
+      "speechEnd": 22.024625850340136,
+      "voice": "en-us+m3",
+      "synthetic": true
+    }
+  ],
+  "soundEvents": [
+    {
+      "start": 9,
+      "end": 10.5,
+      "description": "music begins",
+      "origin": "Original synthesized three-note chord"
+    }
+  ],
+  "correctedCues": [
+    {
+      "id": "1",
+      "start": 1.0,
+      "end": 4.0,
+      "text": "Speaker 1: Amina will meet you at nine."
+    },
+    {
+      "id": "2",
+      "start": 5.0,
+      "end": 8.0,
+      "text": "Speaker 2: Thank you. I will bring the notes."
+    },
+    {
+      "id": "3",
+      "start": 9.0,
+      "end": 10.5,
+      "text": "[music begins]"
+    },
+    {
+      "id": "4",
+      "start": 11.0,
+      "end": 14.0,
+      "text": "Speaker 1: Please bring the notes, check the room,"
+    },
+    {
+      "id": "5",
+      "start": 14.0,
+      "end": 18.5,
+      "text": "and let the group know if you will arrive late."
+    },
+    {
+      "id": "6",
+      "start": 20.0,
+      "end": 23.0,
+      "text": "Speaker 2: The library opens at nine."
+    }
+  ],
+  "draftCues": [
+    {
+      "id": "1",
+      "start": 0.0,
+      "end": 4.0,
+      "text": "A minor will meet you at nine."
+    },
+    {
+      "id": "2",
+      "start": 5.0,
+      "end": 8.0,
+      "text": "Speaker 1: Thank you. I will bring the notes."
+    },
+    {
+      "id": "4",
+      "start": 11.0,
+      "end": 13.0,
+      "text": "Speaker 1: Please bring the notes, check the room, and let the group know if you will arrive late."
+    },
+    {
+      "id": "6",
+      "start": 20.0,
+      "end": 20.8,
+      "text": "Speaker 2: The library opens at nine."
+    }
+  ]
+}

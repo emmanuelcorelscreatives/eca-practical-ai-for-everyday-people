@@ -1,0 +1,97 @@
+{
+  "version": 1,
+  "projectId": "cmv75var700r75c3cebcitxhv",
+  "scriptSha256": "d9e33e97356cc8613eb27ed5faa464fdd681a2b9c6a7fc32c231419052d0bab3",
+  "files": [
+    {
+      "name": "LICENSE.txt",
+      "sha256": "953176f91ce9b3c29594bd5c1699d9d012392d8d2c3473ea2c97a59c67978e0b",
+      "bytes": 289
+    },
+    {
+      "name": "README.md",
+      "sha256": "263272ff97581a403d7935fbf05be4f5012d1eb607c63c86edf0a358b6df68a7",
+      "bytes": 4261
+    },
+    {
+      "name": "actual-asr-provenance.json",
+      "sha256": "ebc9bf77c03a22f636df700b91428b63131b265ca16518dc9693ec977bccc781",
+      "bytes": 970
+    },
+    {
+      "name": "actual-asr-transcript.txt",
+      "sha256": "ed130f32359d351ac44ed34bbb04ade5978dcb17cc8ca6bcb6c991903be6b626",
+      "bytes": 181
+    },
+    {
+      "name": "answer-key.md",
+      "sha256": "afc2c34e406ac72c4e3a963dab07d91fa60cf66a176faf98a6e8703703bc3e03",
+      "bytes": 1473
+    },
+    {
+      "name": "caption-practice.html",
+      "sha256": "5b14d832e3fbf4d9aa2bfc12572273251206686d8bf89f9e18761bdd6b2feb81",
+      "bytes": 20394
+    },
+    {
+      "name": "caption-workbench.html",
+      "sha256": "883f65b465fd9e04c70e6381e815b1c29c2af10d6617e1637f85b4c7b06963ba",
+      "bytes": 16327
+    },
+    {
+      "name": "corrected-captions.vtt",
+      "sha256": "fe34d34ff231c3c2048d2b11e18ee5764182ad9f2808bd3ed6b5b53336e369b1",
+      "bytes": 443
+    },
+    {
+      "name": "correction-log.csv",
+      "sha256": "595b27c4ebf10a4002f57ba6c7810236da0b13bb4d9cb4406ca47b270fe5a0af",
+      "bytes": 137
+    },
+    {
+      "name": "draft-captions.vtt",
+      "sha256": "d6984c32428ae8b164540388fb205a42747ca35ee73018c12b8cefd44d9db28f",
+      "bytes": 353
+    },
+    {
+      "name": "generation-source.md",
+      "sha256": "2abb83f504b996db857ec6385d810deae3bd60a7e2e38b412847eb99d9046ee6",
+      "bytes": 2713
+    },
+    {
+      "name": "original-recording.wav",
+      "sha256": "1b8c4be1163982346cce7d326e565aeb7d95e201088c1a86c5df94ad01eede3f",
+      "bytes": 1146644
+    },
+    {
+      "name": "original-transcript.txt",
+      "sha256": "373e398ef12b3772ad52f43516a5de247718c5c9ceafa800765cb61605f7ff1f",
+      "bytes": 344
+    },
+    {
+      "name": "practice-video.mp4",
+      "sha256": "d2589226da0b6c36e98e1a35a470fd928eea00a332ed3d437934d883687952d2",
+      "bytes": 226827
+    },
+    {
+      "name": "practice-video.webm",
+      "sha256": "7a66d17552140660eb03ed35b9c8aeb5f461b3b95a1dc2c2abbbbea37867dca6",
+      "bytes": 240446
+    },
+    {
+      "name": "recording-and-cues.json",
+      "sha256": "135f1a57ee8ff4df4d3cf41ca8c0b2c133b41639f7eb730ef8d0f656319439a8",
+      "bytes": 2412
+    },
+    {
+      "name": "waveform.json",
+      "sha256": "c605d6c699391137607b98c95ac1a5604c857188e6ad33566e8a0366cd293902",
+      "bytes": 3257
+    },
+    {
+      "name": "worksheet.md",
+      "sha256": "064f3f4641a0765aa10aa260f285b1c14a9f096883324949c6a9e3a3699d0e15",
+      "bytes": 3175
+    }
+  ]
+}

@@ -1,0 +1,10 @@
+task,done_when,hands_on_minutes,waiting_minutes,travel_minutes,transition_minutes,recovery_minutes,needs_first,person_or_resource,earliest_start,evidence_or_unknown
+Confirm venue,Permission and access confirmed,,,,,,,,,venue confirmation pending
+Buy supplies,Supplies purchased,,,,,,Venue confirmed,organizer,,timing unknown
+Prepare food,Preparation complete,10,,,,,Supplies purchased,organizer,,illustrative lesson timing
+Cool food,Required cooling complete,,40,,,,Preparation complete,passive wait,,illustrative timing only; not food safety advice
+Print signs,Signs printed,,,,,,Materials and printer available,organizer and printer,,duration unknown in main template
+Pack chilled food,Chilled items packed,,,,,,Cooling complete,organizer,,timing unknown
+Transition,Ready to depart,,,,,,Packing complete,organizer and vehicle,,allowance not supplied
+Travel,Arrived at venue,,,,,,Transition complete,organizer and vehicle,,route mode and duration unconfirmed
+Setup,Ready for picnic,,,,,,Arrival and venue access,organizer,,timing unknown
