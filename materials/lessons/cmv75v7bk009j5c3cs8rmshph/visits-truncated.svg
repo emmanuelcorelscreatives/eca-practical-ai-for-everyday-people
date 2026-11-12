@@ -1,0 +1,30 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="700" viewBox="0 0 1000 700" role="img" aria-labelledby="title desc">
+<title id="title">Weekly website visits</title>
+<desc id="desc">Fictional Academy chart. Values [96, 100]; vertical axis 94 to 101 visits.</desc>
+<rect width="1000" height="700" fill="white"/>
+<text x="500" y="55" text-anchor="middle" font-size="32">Weekly website visits</text>
+<text x="500" y="95" text-anchor="middle" font-size="20">Fictional Academy practice • counts in visits</text>
+<path d="M150 560.0 H900" stroke="#cccccc"/>
+<text x="130" y="567.0" text-anchor="end" font-size="22">94</text>
+<path d="M150 502.8571428571429 H900" stroke="#cccccc"/>
+<text x="130" y="509.8571428571429" text-anchor="end" font-size="22">95</text>
+<path d="M150 445.7142857142857 H900" stroke="#cccccc"/>
+<text x="130" y="452.7142857142857" text-anchor="end" font-size="22">96</text>
+<path d="M150 388.57142857142856 H900" stroke="#cccccc"/>
+<text x="130" y="395.57142857142856" text-anchor="end" font-size="22">97</text>
+<path d="M150 331.42857142857144 H900" stroke="#cccccc"/>
+<text x="130" y="338.42857142857144" text-anchor="end" font-size="22">98</text>
+<path d="M150 274.2857142857143 H900" stroke="#cccccc"/>
+<text x="130" y="281.2857142857143" text-anchor="end" font-size="22">99</text>
+<path d="M150 217.14285714285717 H900" stroke="#cccccc"/>
+<text x="130" y="224.14285714285717" text-anchor="end" font-size="22">100</text>
+<path d="M150 160.0 H900" stroke="#cccccc"/>
+<text x="130" y="167.0" text-anchor="end" font-size="22">101</text>
+<rect x="200.0" y="445.7142857142857" width="90" height="114.28571428571428" fill="#2466a4"/>
+<text x="245.0" y="433.7142857142857" text-anchor="middle" font-size="24">96</text>
+<text x="245.0" y="600" text-anchor="middle" font-size="23">Week 1</text>
+<rect x="530.0" y="217.14285714285717" width="90" height="342.85714285714283" fill="#2466a4"/>
+<text x="575.0" y="205.14285714285717" text-anchor="middle" font-size="24">100</text>
+<text x="575.0" y="600" text-anchor="middle" font-size="23">Week 2</text>
+<text x="500" y="650" text-anchor="middle" font-size="22">Axis minimum 94; maximum 101. Read all labels.</text>
+</svg>

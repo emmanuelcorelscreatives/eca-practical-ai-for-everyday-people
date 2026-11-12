@@ -1,0 +1,62 @@
+{
+  "version": 1,
+  "projectId": "cmv75v7bk009j5c3cs8rmshph",
+  "scriptSha256": "f400fcf231733f72637046ec1fcf609d5f03ce7e4da3ee98bffa2a035a75576b",
+  "files": [
+    {
+      "name": "answers.md",
+      "sha256": "cef611a5009255a1202291c74ac47d3c5cfc8b4ba50d21e4143ae40c64c14620",
+      "bytes": 3421
+    },
+    {
+      "name": "attendance.csv",
+      "sha256": "745990332369aa851a4ff10f5cf9501b569ae27000e0fc38d4b272ca3f1b1a67",
+      "bytes": 58
+    },
+    {
+      "name": "attendance.svg",
+      "sha256": "3082de7ca9166615a5cd5ffb4d48436b96f1b3f1f891ddb594e3173e4ebf65e3",
+      "bytes": 2005
+    },
+    {
+      "name": "check.py",
+      "sha256": "2ccb0bbefa42a625b4126e884ea34e8dad7cd2c5619af7ddb81880ad725041fa",
+      "bytes": 1170
+    },
+    {
+      "name": "expected-checks.json",
+      "sha256": "b65d539866a08461f06a4e32a758316a89cad8c95122e374d79d793c9e66bbcd",
+      "bytes": 350
+    },
+    {
+      "name": "prompt.md",
+      "sha256": "efc9abe0d29578ad6380b8090955b5e5626c3065045528de4ac385a8f88a332f",
+      "bytes": 958
+    },
+    {
+      "name": "provenance.md",
+      "sha256": "2b760848bc48665f2fb441cbebee4e2df773a2350a89b9c656580fecb75ff07d",
+      "bytes": 1014
+    },
+    {
+      "name": "visits-complete.svg",
+      "sha256": "ccbe34fa4af1e1194a85aed6cac646e53e15771bfd7b2cef35d3f666f5f5895e",
+      "bytes": 2508
+    },
+    {
+      "name": "visits-truncated.svg",
+      "sha256": "3e3cf51d0abc4ec18bfdbe0afbf475290cf5ae802487d2139cc563e45c4683b7",
+      "bytes": 2195
+    },
+    {
+      "name": "visits.csv",
+      "sha256": "b98fe703acab5f413c17fd72f2ba07b46f5fe17a7dbd64904bdb7a91faf9b8c5",
+      "bytes": 53
+    },
+    {
+      "name": "worksheet.md",
+      "sha256": "eef5186026951207a508c3cc7467822010139a33e8e942382d45c23a33f183ef",
+      "bytes": 4308
+    }
+  ]
+}

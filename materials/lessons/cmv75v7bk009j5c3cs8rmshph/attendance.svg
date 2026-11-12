@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="700" viewBox="0 0 1000 700" role="img" aria-labelledby="title desc"><title id="title">Workshop attendance by session</title><desc id="desc">Fictional participants. June morning 90 evening 10 total 100; July morning 50 evening 50 total 100. Axis zero to 100.</desc><rect width="1000" height="700" fill="white"/><text x="500" y="55" text-anchor="middle" font-size="32">Workshop attendance by session</text><text x="500" y="95" text-anchor="middle" font-size="22">Fictional Academy practice • participants</text>
+<path d="M130 560 H920" stroke="#cccccc"/><text x="110" y="567" text-anchor="end" font-size="22">0</text>
+<path d="M130 480 H920" stroke="#cccccc"/><text x="110" y="487" text-anchor="end" font-size="22">20</text>
+<path d="M130 400 H920" stroke="#cccccc"/><text x="110" y="407" text-anchor="end" font-size="22">40</text>
+<path d="M130 320 H920" stroke="#cccccc"/><text x="110" y="327" text-anchor="end" font-size="22">60</text>
+<path d="M130 240 H920" stroke="#cccccc"/><text x="110" y="247" text-anchor="end" font-size="22">80</text>
+<path d="M130 160 H920" stroke="#cccccc"/><text x="110" y="167" text-anchor="end" font-size="22">100</text>
+<rect x="220" y="200" width="90" height="360" fill="#2466a4"/><text x="265" y="188" text-anchor="middle" font-size="24">90</text>
+<rect x="330" y="520" width="90" height="40" fill="#a64c12"/><text x="375" y="508" text-anchor="middle" font-size="24">10</text>
+<rect x="620" y="360" width="90" height="200" fill="#2466a4"/><text x="665" y="348" text-anchor="middle" font-size="24">50</text>
+<rect x="730" y="360" width="90" height="200" fill="#a64c12"/><text x="775" y="348" text-anchor="middle" font-size="24">50</text>
+<text x="320" y="600" text-anchor="middle" font-size="25">June • total 100</text><text x="720" y="600" text-anchor="middle" font-size="25">July • total 100</text><text x="500" y="650" text-anchor="middle" font-size="23">Blue: Morning • Orange: Evening</text></svg>

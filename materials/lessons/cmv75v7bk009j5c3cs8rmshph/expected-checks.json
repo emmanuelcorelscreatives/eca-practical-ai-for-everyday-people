@@ -1,0 +1,19 @@
+{
+  "visits": [
+    96,
+    100,
+    98,
+    73
+  ],
+  "week1_to_week2_difference": 4,
+  "week1_to_week2_percent_rounded": 4.17,
+  "week3_to_week4_difference": -25,
+  "week3_to_week4_percent_rounded": -25.51,
+  "monthly_totals": [
+    100,
+    100
+  ],
+  "morning_change": -40,
+  "evening_change": 40,
+  "evening_share_percentage_point_change": 40
+}
