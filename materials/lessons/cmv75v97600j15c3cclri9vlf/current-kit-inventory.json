@@ -1,0 +1,52 @@
+{
+  "version": 1,
+  "projectId": "cmv75v97600j15c3cclri9vlf",
+  "scriptSha256": "84feebe7280af0dfeb2621447c598c6762b71519cd6c6266c556d2fd362bd4d6",
+  "files": [
+    {
+      "name": "README.md",
+      "sha256": "c9a25bb035aa72e63d0236a3e9612faf5b664cb6e48937ba54342d60c4c8b0e2",
+      "bytes": 2388
+    },
+    {
+      "name": "criteria-template.csv",
+      "sha256": "2823c48e823da375b067fedcdedd5aeccbecaf3a07a6fb2ffa61ce2bee5fbd05",
+      "bytes": 139
+    },
+    {
+      "name": "criteria-worked-example.csv",
+      "sha256": "0a38488b9fd68c3716a23565b10e574a002c91119632ff18005bfcb23d62eb84",
+      "bytes": 2080
+    },
+    {
+      "name": "decision-criteria-worksheet.html",
+      "sha256": "571e3b62548bfabccef731db2b2baf98bd4e112158e5ca01c950c645f212a3eb",
+      "bytes": 11559
+    },
+    {
+      "name": "decision-data.json",
+      "sha256": "b48c2671c23ef05b2e7ee470c6f07ef2b90bb28512bfc8de690f3c064598061c",
+      "bytes": 4246
+    },
+    {
+      "name": "evidence-preview.csv",
+      "sha256": "d37caed9d0c75e5fcf1087b63a3e4657f2acb7416793d2c4428db971e6b81ed5",
+      "bytes": 324
+    },
+    {
+      "name": "expected-checks.md",
+      "sha256": "ca6c284e712c95f2e1aef77c38299ed1b3edfcf0690458d963c8342238c3043b",
+      "bytes": 2810
+    },
+    {
+      "name": "review-prompt.txt",
+      "sha256": "85879e32d070a796b63746dadc295f073da838a2144c84ef372976877ecf42bb",
+      "bytes": 252
+    },
+    {
+      "name": "worksheet.md",
+      "sha256": "1394ace662d9226f8a45c1070df4cf63c64d15d52fe6852a2fddab14bb634682",
+      "bytes": 4078
+    }
+  ]
+}

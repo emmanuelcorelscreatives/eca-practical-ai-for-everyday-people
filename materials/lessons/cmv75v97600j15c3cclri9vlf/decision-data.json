@@ -1,0 +1,86 @@
+{
+  "title": "Decision Criteria Worksheet version 1.0",
+  "decision": "Choose a suitable venue for a three-hour community workshop.",
+  "fictionalOptions": [
+    "Harbor Room",
+    "Cedar Hall",
+    "Junction Studio"
+  ],
+  "constraints": [
+    {
+      "requirement": "Available on the event date",
+      "status": "Unknown",
+      "evidence": "Not supplied"
+    },
+    {
+      "requirement": "Legally permitted capacity of at least 40 people",
+      "status": "Unknown",
+      "evidence": "Not supplied"
+    },
+    {
+      "requirement": "Step-free route to the workshop room",
+      "status": "Unknown",
+      "evidence": "Not supplied"
+    }
+  ],
+  "criteria": [
+    {
+      "Criterion": "Total cost",
+      "Why it matters": "Keep the same booking affordable",
+      "Definition": "All required venue charges for the same three-hour booking, including mandatory equipment, fees and applicable taxes; exclude unrequested optional extras",
+      "Unit or rating rule": "State one currency before collecting amounts",
+      "Evidence needed": "Opened itemised quotation for the same booking",
+      "Missing-value treatment": "Unknown"
+    },
+    {
+      "Criterion": "Travel time",
+      "Why it matters": "Know the duration of the journey",
+      "Definition": "Typical one-way journey from Central Library entrance using the same transport mode and comparable departure period",
+      "Unit or rating rule": "Minutes; record the chosen mode and period",
+      "Evidence needed": "Opened current journey information, origin and method recorded",
+      "Missing-value treatment": "Unknown"
+    },
+    {
+      "Criterion": "Accessibility beyond minimum",
+      "Why it matters": "Support attendees beyond the required route",
+      "Definition": "Confirmed relevant features beyond the step-free route to the workshop room: hearing support, accessible toilet, suitable seating space and access to all required areas",
+      "Unit or rating rule": "Record each confirmed feature separately; do not score the word accessible",
+      "Evidence needed": "Opened feature details or explicit venue confirmation",
+      "Missing-value treatment": "Unknown"
+    },
+    {
+      "Criterion": "Room suitability",
+      "Why it matters": "Fit the planned workshop activity",
+      "Definition": "Confirmed seating layout, presentation space and activity space",
+      "Unit or rating rule": "Before assessment, agree explicit requirements for seating layout, presentation space and planned activity space. Meets: all three requirements confirmed met. Partly meets: one or two confirmed met and the others confirmed not met. Does not meet: all three confirmed not met. Unknown: any requirement or its evidence is missing. Never override a failed pass-or-stop constraint.",
+      "Evidence needed": "Opened layout information and activity requirements",
+      "Missing-value treatment": "Unknown"
+    },
+    {
+      "Criterion": "Cancellation flexibility",
+      "Why it matters": "Understand consequences if plans change",
+      "Definition": "Booking change or cancellation conditions",
+      "Unit or rating rule": "Record deadline, fee, refund condition and exceptions separately",
+      "Evidence needed": "Opened applicable booking policy",
+      "Missing-value treatment": "Unknown"
+    },
+    {
+      "Criterion": "Public transport practicality",
+      "Why it matters": "Check whether arrival is practical",
+      "Definition": "Service frequency and final walking route during the agreed arrival period",
+      "Unit or rating rule": "Frequency and route details; keep separate from travel duration",
+      "Evidence needed": "Opened current journey information",
+      "Missing-value treatment": "Unknown"
+    }
+  ],
+  "sharedBasis": {
+    "bookingDuration": "Three hours",
+    "journeyOrigin": "Central Library entrance",
+    "transportMode": "Agree and record before research",
+    "arrivalPeriod": "Agree and record before research",
+    "eventDate": "Not specified; confirm before screening",
+    "currency": "Not specified; choose one before collecting costs",
+    "plannedActivities": "Agree and record before evaluating layout"
+  },
+  "evidenceStatus": "No venue evidence supplied; no venue has passed screening, been ranked or selected."
+}
