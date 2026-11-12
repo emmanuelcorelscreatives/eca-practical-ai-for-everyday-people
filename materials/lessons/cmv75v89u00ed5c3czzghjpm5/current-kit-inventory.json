@@ -1,0 +1,67 @@
+{
+  "version": 1,
+  "projectId": "cmv75v89u00ed5c3czzghjpm5",
+  "scriptSha256": "4449d28d1c49c5c1b608b4c3bf451eebfdff6a3dc41aea6431d5b21e1d35d136",
+  "files": [
+    {
+      "name": "LICENSE.txt",
+      "sha256": "43325f4f7f3c3fbe9077ff3de325a1aed7dd9593009983160775f05d5e59e6ea",
+      "bytes": 183
+    },
+    {
+      "name": "README.md",
+      "sha256": "97d0d0ae4dfe1ffb7a792643f1ad427e914a407a8c4f04ca3462c5cb35771f83",
+      "bytes": 3036
+    },
+    {
+      "name": "draft-review-history.csv",
+      "sha256": "6200c50d8f4437a310f4f469625da705dff2e91e0360eef6db33813a10261b74",
+      "bytes": 827
+    },
+    {
+      "name": "manual-study-set.html",
+      "sha256": "b9e5b248ab76ebfa958260be3bf142fa3be09368a4f0252a9b8ce16b13caf122",
+      "bytes": 2527
+    },
+    {
+      "name": "prompt-template.txt",
+      "sha256": "743ac0ffbfd2c9300a9425c81d31f40bd5bf40b0200df70552358ce160ac6497",
+      "bytes": 585
+    },
+    {
+      "name": "source-passage.txt",
+      "sha256": "34dbdcd78acaee15ec43e6ad728c140b0f148aa6b8dc741efecc176a71911c50",
+      "bytes": 491
+    },
+    {
+      "name": "source-study-demonstration.html",
+      "sha256": "a05b237b11da91d9a3dcb458376901808d71302f7f3f85a496f99bbd35920b9a",
+      "bytes": 9283
+    },
+    {
+      "name": "source-study-workspace.html",
+      "sha256": "e0a09fe63361249c5b7a3c52cf8ecad6db6714b1d87e8b0cc9611792940b3b28",
+      "bytes": 5509
+    },
+    {
+      "name": "unverified-draft-errors.json",
+      "sha256": "bf1a64715f45ade7ffbbada6ecd7b489275ca6d05bc52ab538366c157f1b920c",
+      "bytes": 1508
+    },
+    {
+      "name": "verification-table.csv",
+      "sha256": "90fc543e35f913d8a136224d2301d31246e7bdc81b66d4be3eb37144f76e5210",
+      "bytes": 1871
+    },
+    {
+      "name": "verified-study-set.json",
+      "sha256": "2e1ef6d5de8a8f0789b708deef8b5574e1cdd0c3ce886a15810f8d0851010e9e",
+      "bytes": 3065
+    },
+    {
+      "name": "verify.py",
+      "sha256": "f36083c26a99e1ca7ec415a5947b2339fadd0bfbbc5a58d5fc3e58bb050208ef",
+      "bytes": 1830
+    }
+  ]
+}

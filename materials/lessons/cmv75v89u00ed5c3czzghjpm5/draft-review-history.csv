@@ -1,0 +1,7 @@
+Item,Draft question,Draft answer,Decision,Reason
+SA2,On which days do volunteers water all garden plants?,Tuesday and Friday,Revise,Broadens seedlings to all garden plants; preserve morning scope.
+MC1,How does collected water become safe to drink?,By storage in covered barrels,Revise,False premise: S4 says the system does not make it safe to drink.
+FC2,Why are the barrels covered?,To keep them clean.,Revise,Vague answer omits specific source purposes debris and mosquitoes.
+FC4,The water comes from a shed ____.,roof,Remove,"Trivial fragment; remove, retain meaningful complete relationship FC3."
+DUP,What do covered barrels limit?,Debris and mosquitoes.,Remove,Duplicates FC2 without deliberate learning purpose; remove.
+MISSING,Who installed the barrels?,(missing),Unresolved,No supporting sentence; do not guess.

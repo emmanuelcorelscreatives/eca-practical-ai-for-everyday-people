@@ -1,0 +1,47 @@
+{
+  "label": "UNVERIFIED DRAFT \u2014 deliberate exercise errors, not a generated model response",
+  "items": [
+    {
+      "id": "SA2",
+      "question": "On which days do volunteers water all garden plants?",
+      "answer": "Tuesday and Friday",
+      "defect": "Broadens seedlings to all garden plants; preserve morning scope.",
+      "status": "Revise"
+    },
+    {
+      "id": "MC1",
+      "question": "How does collected water become safe to drink?",
+      "answer": "By storage in covered barrels",
+      "defect": "False premise: S4 says the system does not make it safe to drink.",
+      "status": "Revise"
+    },
+    {
+      "id": "FC2",
+      "question": "Why are the barrels covered?",
+      "answer": "To keep them clean.",
+      "defect": "Vague answer omits specific source purposes debris and mosquitoes.",
+      "status": "Revise"
+    },
+    {
+      "id": "FC4",
+      "question": "The water comes from a shed ____.",
+      "answer": "roof",
+      "defect": "Trivial fragment; remove, retain meaningful complete relationship FC3.",
+      "status": "Remove"
+    },
+    {
+      "id": "DUP",
+      "question": "What do covered barrels limit?",
+      "answer": "Debris and mosquitoes.",
+      "defect": "Duplicates FC2 without deliberate learning purpose; remove.",
+      "status": "Remove"
+    },
+    {
+      "id": "MISSING",
+      "question": "Who installed the barrels?",
+      "answer": null,
+      "defect": "No supporting sentence; do not guess.",
+      "status": "Unresolved"
+    }
+  ]
+}

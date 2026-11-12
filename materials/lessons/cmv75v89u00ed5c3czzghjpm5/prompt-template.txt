@@ -1,0 +1,3 @@
+Use only the supplied source. Do not add outside facts. If the source lacks an answer, label that information as missing. Create three short-answer questions, two multiple-choice questions, and four two-sided flashcards. Supply a separate answer key with one supporting source sentence per item. Label calculations, inferences, and uncertainty. Exclude repeated ideas, trivial wording, answer-revealing clues, and questions with several defensible answers. Label all output UNVERIFIED DRAFT. Keep answers hidden during practice.
+
+Paste the complete source-passage.txt below this line.

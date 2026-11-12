@@ -1,0 +1,9 @@
+Item,Question,Proposed answer,Supporting passage,Status,Correction
+SA1,"How many barrels does the garden use, and what is each barrel’s capacity?","Two barrels, each holding 200 liters.",S1: The garden has two 200-liter barrels.,Supported,
+SA2,On which mornings do volunteers water seedlings?,Tuesday and Friday mornings.,S2: Volunteers collect rainwater from a shed roof and water seedlings on Tuesday and Friday mornings.,Supported,Revise all garden plants to seedlings and retain Tuesday and Friday mornings.
+SA3,What is the total capacity of the two barrels?,400 liters.,S1: The garden has two 200-liter barrels.,Supported calculation,"2 × 200 liters = 400 liters; total is inferred by arithmetic, not directly stated."
+MC1,Which statement about drinking the collected water matches the source?,The system does not make the collected water safe to drink.,S4: The system reduces tap-water use without making the water safe to drink.,Supported,Replace false drinking-safety premise with the source drinking-safety distinction; use two contrasting options without padding or retesting tap-water use.
+MC2,Which statement about tap-water use matches the source?,The system reduces tap-water use.,S4: The system reduces tap-water use without making the water safe to drink.,Supported,
+FC1,What is collected rainwater reserved for during water restrictions?,Seedlings and newly planted beds.,"S3: During water restrictions, the rainwater is reserved for seedlings and newly planted beds.",Supported,
+FC2,Why are the barrels kept covered?,To limit debris and mosquitoes.,S5: Covered barrels limit debris and mosquitoes.,Supported,Replace vague clean with limiting debris and mosquitoes.
+FC3,Where does the collected rainwater come from?,A shed roof.,S2: Volunteers collect rainwater from a shed roof and water seedlings on Tuesday and Friday mornings.,Supported,

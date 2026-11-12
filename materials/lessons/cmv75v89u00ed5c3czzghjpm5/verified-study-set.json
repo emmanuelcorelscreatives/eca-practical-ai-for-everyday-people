@@ -1,0 +1,101 @@
+{
+  "source": "source-passage.txt",
+  "label": "Verified Academy exercise set; not live AI output",
+  "items": [
+    {
+      "id": "SA1",
+      "type": "short-answer",
+      "question": "How many barrels does the garden use, and what is each barrel’s capacity?",
+      "answer": "Two barrels, each holding 200 liters.",
+      "evidence": [
+        "S1"
+      ],
+      "status": "Supported"
+    },
+    {
+      "id": "SA2",
+      "type": "short-answer",
+      "question": "On which mornings do volunteers water seedlings?",
+      "answer": "Tuesday and Friday mornings.",
+      "evidence": [
+        "S2"
+      ],
+      "status": "Supported",
+      "correction": "Revise all garden plants to seedlings and retain Tuesday and Friday mornings."
+    },
+    {
+      "id": "SA3",
+      "type": "short-answer",
+      "question": "What is the total capacity of the two barrels?",
+      "answer": "400 liters.",
+      "evidence": [
+        "S1"
+      ],
+      "status": "Supported calculation",
+      "calculation": "2 × 200 liters = 400 liters; total is inferred by arithmetic, not directly stated."
+    },
+    {
+      "id": "MC1",
+      "type": "multiple-choice",
+      "question": "Which statement about drinking the collected water matches the source?",
+      "options": [
+        "The system does not make the collected water safe to drink.",
+        "The system makes the collected water safe to drink."
+      ],
+      "correct": 0,
+      "answer": "The system does not make the collected water safe to drink.",
+      "evidence": [
+        "S4"
+      ],
+      "status": "Supported",
+      "correction": "Replace false drinking-safety premise with the source drinking-safety distinction; use two contrasting options without padding or retesting tap-water use."
+    },
+    {
+      "id": "MC2",
+      "type": "multiple-choice",
+      "question": "Which statement about tap-water use matches the source?",
+      "options": [
+        "The system reduces tap-water use.",
+        "The system leaves tap-water use unchanged.",
+        "The system increases tap-water use instead of reducing it."
+      ],
+      "correct": 0,
+      "answer": "The system reduces tap-water use.",
+      "evidence": [
+        "S4"
+      ],
+      "status": "Supported"
+    },
+    {
+      "id": "FC1",
+      "type": "flashcard",
+      "question": "What is collected rainwater reserved for during water restrictions?",
+      "answer": "Seedlings and newly planted beds.",
+      "evidence": [
+        "S3"
+      ],
+      "status": "Supported"
+    },
+    {
+      "id": "FC2",
+      "type": "flashcard",
+      "question": "Why are the barrels kept covered?",
+      "answer": "To limit debris and mosquitoes.",
+      "evidence": [
+        "S5"
+      ],
+      "status": "Supported",
+      "correction": "Replace vague clean with limiting debris and mosquitoes."
+    },
+    {
+      "id": "FC3",
+      "type": "flashcard",
+      "question": "Where does the collected rainwater come from?",
+      "answer": "A shed roof.",
+      "evidence": [
+        "S2"
+      ],
+      "status": "Supported"
+    }
+  ]
+}
