@@ -1,0 +1,117 @@
+{
+  "version": 1,
+  "projectId": "cmv75v5jg000v5c3cwhowi5s0",
+  "scriptSha256": "a7fe8a3981723cc4fe8e933d9e77762411f8a882b7fb4b17814da48d57a278c3",
+  "files": [
+    {
+      "name": "LICENSE.txt",
+      "sha256": "3a1e490f1aa423bc2b3ce1a9d1c9016fc13882abbf8d227a8e8d795ab97fd9f8",
+      "bytes": 347
+    },
+    {
+      "name": "README.md",
+      "sha256": "0a85d1af14a4989a48ece334f97a344da9cd8e2c33ad5316304ae81595282c67",
+      "bytes": 2173
+    },
+    {
+      "name": "answer-guide.md",
+      "sha256": "b1716893559c655dd7761e3768b8142fc1f3b1be5c0c031970d39682dfe37127",
+      "bytes": 1663
+    },
+    {
+      "name": "audio-provenance.json",
+      "sha256": "3bf9874135cb4c163eafb68a13e42f69901db40f194060eff391550f1ab29af6",
+      "bytes": 423
+    },
+    {
+      "name": "caption-corrected.txt",
+      "sha256": "95966d57e1c5eac33e455b2025e17ce2f3cd51e7bb06b1b0b85dace7dd25dbf0",
+      "bytes": 47
+    },
+    {
+      "name": "caption-draft-deliberate-error.txt",
+      "sha256": "7614b8acedcb09c15f35e902242f3e5fd61c0b9654f6a882772df48455182783",
+      "bytes": 90
+    },
+    {
+      "name": "chat-draft.txt",
+      "sha256": "f126dcddb22df81442867a50ec0729085b43a89769068383340d303b3766b4b7",
+      "bytes": 534
+    },
+    {
+      "name": "chat-instruction.txt",
+      "sha256": "b3513494bc2b5506e13d1916cd9dd566d41323667cb4f4babc2e28289f966039",
+      "bytes": 113
+    },
+    {
+      "name": "check.py",
+      "sha256": "ed71c7bec26dcac711171bdd6a817451ca8b714a71d9234e80a9df55123809a0",
+      "bytes": 1724
+    },
+    {
+      "name": "event-notes.txt",
+      "sha256": "9eb04b9deb4d41f95129996899b10f74efd046cd3030c44eeb8d07a7a1bca02b",
+      "bytes": 131
+    },
+    {
+      "name": "exercises.md",
+      "sha256": "c506081c5fbc2dacd1b01e64354b40114b3902b0eb8eaa0cdcb1bed32fa06c04",
+      "bytes": 3151
+    },
+    {
+      "name": "handout-original.txt",
+      "sha256": "224032c93f997c25da87a240c45443b44244d06d95e87f5279ae015672989015",
+      "bytes": 117
+    },
+    {
+      "name": "handout-reviewed.html",
+      "sha256": "4013c7f72974b5d68f05b66c5dce6051486fa97c0d00692d2f875c4e8a154671",
+      "bytes": 542
+    },
+    {
+      "name": "media-edited-transcript.txt",
+      "sha256": "55ca70bb32c0705b6614350c58f5c8e38440412c72017b8bba40529273de3021",
+      "bytes": 130
+    },
+    {
+      "name": "media-source-transcript.txt",
+      "sha256": "0de51afa8373a79fbd620b073464543b31dae1bae94d9132d73f5d2701deda10",
+      "bytes": 168
+    },
+    {
+      "name": "practice-recording.wav",
+      "sha256": "9d3ab5daafe3453d99049bcf665622d5192a3294365825ca1cdc37d06be64ebc",
+      "bytes": 689604
+    },
+    {
+      "name": "source-pack/accessibility-note.html",
+      "sha256": "dacf850a5183263916253cc0ad3b47f3509c55d73e2b837e89aa37d8f96bce3c",
+      "bytes": 490
+    },
+    {
+      "name": "source-pack/event-brief.html",
+      "sha256": "6d4a3154477a9c4965fdf101018d6e78aaf7e53de07e2f67d786eefc0cd9b892",
+      "bytes": 714
+    },
+    {
+      "name": "source-pack/room-rules.html",
+      "sha256": "779321c8c04012304128390d59611f6cc0cf21a6c096e9a3c73183ed8047bc22",
+      "bytes": 422
+    },
+    {
+      "name": "task-tool-worksheet.csv",
+      "sha256": "364d11b736ad2ddea1ea1751fe8b3f8d7b79d2944bf45e134ab8ac48733b90ee",
+      "bytes": 188
+    },
+    {
+      "name": "transport-evidence-log.csv",
+      "sha256": "0ef6b97c9865431c9e1680b25c9d56dce11d8a1f8c0a46affe04a7478dbdcc00",
+      "bytes": 210
+    },
+    {
+      "name": "worksheet.md",
+      "sha256": "b5aac3ebae32a4481cd4515e11b6fc2d0ce62f84f2c347feac151563202420f1",
+      "bytes": 997
+    }
+  ]
+}

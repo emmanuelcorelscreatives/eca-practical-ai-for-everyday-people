@@ -1,0 +1,13 @@
+{
+  "kind": "self-created synthetic practice recording",
+  "engine": "espeak-ng",
+  "voice": "en-us",
+  "speed": 145,
+  "sourceText": "media-source-transcript.txt",
+  "permission": "Academy-authored text and synthetic voice; no person impersonated",
+  "frames": 344780,
+  "sampleRate": 22050,
+  "channels": 1,
+  "seconds": 15.636281179138322,
+  "sha256": "9d3ab5daafe3453d99049bcf665622d5192a3294365825ca1cdc37d06be64ebc"
+}

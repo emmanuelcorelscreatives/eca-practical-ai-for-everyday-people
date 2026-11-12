@@ -1,0 +1,1 @@
+Turn only these notes into a friendly 80-word announcement. Label missing information and do not invent details.
