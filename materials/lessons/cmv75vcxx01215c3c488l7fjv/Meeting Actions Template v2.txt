@@ -1,0 +1,8 @@
+PURPOSE: Extract actions from permission-cleared meeting notes.
+REQUIRED INPUTS: Supplied notes; intended audience; known omissions.
+INSTRUCTIONS: Use only notes. List task, owner and deadline; mark missing owner/deadline Not supplied. Do not invent decisions or commitments.
+OUTPUT FORMAT: Task | Owner | Deadline | Source line
+CHECKS: Compare every row with notes; preserve meaning and omissions; check permission before sharing.
+MANUAL FALLBACK: Read notes and fill the table manually, then compare line by line.
+VERSION: 2 (practice version label, not a claimed revision history)
+REVIEW DATE: [add date]

@@ -1,0 +1,15 @@
+PURPOSE
+One predictable home for instructions, sources, examples and checked work.
+Fictional completed example; example date is not a claim about your own file activity.
+QUICK LINKS (relative to AI Toolkit)
+00 Start Here
+01 Prompts and Templates
+02 Sources
+03 Examples
+04 Final Outputs
+CURRENT TEMPLATES
+Community Update Template v1; Meeting Actions Template v2; Plain-Language Rewrite Template v1
+RECENT FINAL OUTPUTS
+04 Final Outputs/2026/Community Updates/2026-10-24 Garden Update - Checked.txt
+Task | Template | Example | Source location | Latest final | Status | Last used
+Community update | 01 Prompts and Templates/Community Update Template v1.txt | 03 Examples/Garden Update Example - Checked.txt | 02 Sources/Garden Update Source.txt | 04 Final Outputs/2026/Community Updates/2026-10-24 Garden Update - Checked.txt | Active (fictional example) | 24 October 2026 (example date)

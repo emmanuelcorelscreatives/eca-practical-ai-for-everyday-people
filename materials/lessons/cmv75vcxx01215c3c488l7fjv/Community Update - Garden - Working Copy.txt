@@ -1,0 +1,17 @@
+AUDIENCE: Garden participants
+SOURCE: 02 Sources/Garden Update Source.txt
+PURPOSE: Draft a short update
+MISSING INFORMATION: Finish time
+INSTRUCTIONS
+Using only the supplied source, draft a community update. Preserve names and dates. Do not invent attendance, costs, quotations, or commitments. Label missing information. Output: heading, short paragraph, then action list.
+SOURCE MATERIAL
+SOURCE: Self-created practice note
+Garden work session: Saturday, 24 October 2026
+Start time: 09:00
+Bring: gloves and drinking water
+Missing: finish time
+Permission: created for course practice
+
+YOUR ACTUAL DRAFT: [paste actual generated result with AI-GENERATED DRAFT — NOT YET CHECKED label, or write manual draft and label it manually authored]
+YOUR ACTUAL REVIEW: [record findings and corrections; see Review Worksheet.txt]
+Template used: Community Update Template v1

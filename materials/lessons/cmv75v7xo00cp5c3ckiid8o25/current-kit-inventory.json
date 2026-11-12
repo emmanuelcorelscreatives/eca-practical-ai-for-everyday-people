@@ -1,0 +1,52 @@
+{
+  "version": 1,
+  "projectId": "cmv75v7xo00cp5c3ckiid8o25",
+  "scriptSha256": "663e91c380fbd3dc749ee00a7ef2625aefe10d40bfcc28754c5a60140975e0c9",
+  "files": [
+    {
+      "name": "Community-Phone-Skills-Workshop-DRAFT.md",
+      "sha256": "0c447fb81a3df2664938f5f5147879f9762869a2634a0e768d1d648b2550b5be",
+      "bytes": 535
+    },
+    {
+      "name": "LICENSE.txt",
+      "sha256": "73c19fe29166a8ec3b9042a66daff7af1dde60e7edfc23cff1aa2c88fd49383d",
+      "bytes": 373
+    },
+    {
+      "name": "answers.md",
+      "sha256": "904dd922b4ef5b049f6c70bc507da19bbe8ef0cc43d6c4ace72fe9a76b0de2a3",
+      "bytes": 2335
+    },
+    {
+      "name": "assistant-instruction.txt",
+      "sha256": "737578350e515baf0dca92ae092c9d1360b0dbc015bb380a6498f6b5344a2fa3",
+      "bytes": 645
+    },
+    {
+      "name": "destination-check-record.md",
+      "sha256": "d08cf61681044f05d75940575c689568ba16cd69f1afa1bac96449d728e52d33",
+      "bytes": 929
+    },
+    {
+      "name": "factual-checklist.csv",
+      "sha256": "71a9e01d472a4bdc7bdff2a32d4e72175d6a4aa4d140f1ab8d43c585d74a37a6",
+      "bytes": 518
+    },
+    {
+      "name": "generated-draft-study-fixture.md",
+      "sha256": "10279be98069fd8b2d8f2e51af8f69ea3ebfd13288728ce2618f21fd06d0970f",
+      "bytes": 614
+    },
+    {
+      "name": "source-notes.txt",
+      "sha256": "8cf66327100bdf41009101de728f17ffc343b6e9198a5e81cf3258d31d3c383c",
+      "bytes": 304
+    },
+    {
+      "name": "worksheet.md",
+      "sha256": "d9fbd5f41e07b0fd5c547cfb1445e614424adcd0ef7499ae4900f8a164722bc2",
+      "bytes": 3590
+    }
+  ]
+}

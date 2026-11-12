@@ -1,0 +1,6 @@
+Expected checks for supplied fictional garden task
+Date: Saturday, 24 October 2026. Start: 09:00. Bring: gloves AND drinking water. Finish time is missing/not provided; no guessed end time. The weekday/date pairing is correct. No supplied location, price, attendance number, quotation or commitment may be invented.
+A valid result has a heading, short paragraph and action list; source-only facts; missing information visible; no claim that generation is verification. Asking the organizer is a proposed next action, not an observed reply.
+The supplied checked worked examples satisfy these facts by direct comparison with Garden Update Source.txt. They are manually authored examples, not vendor/model output.
+Master remains unchanged; working copy is distinct. Save final under 04 Final Outputs/2026/Community Updates. Index links task, exact template version, example, source and dated final; replace example dates with actual use dates for your own task. Reopen all paths to verify they work locally.
+Transfer exercise: change only the start time in a COPY of the source to 10:30; draft and check again. Expected: new draft uses 10:30, original source/master stay unchanged, finish time remains missing. Do not overwrite the original garden checked example; save a distinct practice-variant filename and update its own index entry.

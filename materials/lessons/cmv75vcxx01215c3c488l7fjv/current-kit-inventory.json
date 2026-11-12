@@ -1,0 +1,77 @@
+{
+  "version": 1,
+  "projectId": "cmv75vcxx01215c3c488l7fjv",
+  "scriptSha256": "0816e7f4a0a634a161e00ba1ae60cb5c2e746a00b09b038e3ec1b58654d1d388",
+  "files": [
+    {
+      "name": "2026-10-24 Garden Update - Checked.txt",
+      "sha256": "f5a992e8d1e3ce6ee3255788a07fa8baf4d679d5ca2614120fc8050f7c770d9e",
+      "bytes": 557
+    },
+    {
+      "name": "Answer Key.txt",
+      "sha256": "2343dfc7ee42c03d2938cfdc8f470d20de970d45bc50cf5a7f419023d37abc82",
+      "bytes": 1336
+    },
+    {
+      "name": "Community Update - Garden - Working Copy.txt",
+      "sha256": "3891288d7a0064a5a7bcb7ac89db23f708124b909f3c8992d7d0e9b87ee0522b",
+      "bytes": 864
+    },
+    {
+      "name": "Community Update Template v1.txt",
+      "sha256": "2b137c30bd313472ddeec4c5dc856b98b4017357528d5ce3c9e96e3d58acae2b",
+      "bytes": 891
+    },
+    {
+      "name": "Garden Update Example - Checked.txt",
+      "sha256": "6d0ad585b11f83741616780903a09a71030e61996e39bd67d9cb017fc24d946f",
+      "bytes": 468
+    },
+    {
+      "name": "Garden Update Example Notes.txt",
+      "sha256": "f2817a61dbf37c5156829575382f8d337df7eba8b64c8275660874389ace2f92",
+      "bytes": 372
+    },
+    {
+      "name": "Garden Update Source.txt",
+      "sha256": "3db460f24488756786809e0bab40ac2eacb1d20725a3927ab714b720580cbc43",
+      "bytes": 267
+    },
+    {
+      "name": "Meeting Actions Template v2.txt",
+      "sha256": "39a0e3587bec3342781299a76f0d1a9a27791947f8f9f62c1239d07687d5a230",
+      "bytes": 608
+    },
+    {
+      "name": "Plain-Language Rewrite Template v1.txt",
+      "sha256": "56dcc7aa9bcde07d835e2f0a10db25c73a2b2f7dd3a149c53c7b85385a997812",
+      "bytes": 584
+    },
+    {
+      "name": "Review Worksheet.txt",
+      "sha256": "e59bf11309d4a27c2302ad2ed6ff07a3f27e476636d9ee56ffbe661faa17e71c",
+      "bytes": 604
+    },
+    {
+      "name": "Sharing and Recovery Checklist.txt",
+      "sha256": "38fe7fa56295335a19d5f66145f633ae8f708536a740e5efa81ba288fca1514e",
+      "bytes": 746
+    },
+    {
+      "name": "Source Register.txt",
+      "sha256": "170ab915626f5c193980b3901ba32eb9cbf5c1c11ec25fc673abccde760a5c59",
+      "bytes": 535
+    },
+    {
+      "name": "Toolkit Index.txt",
+      "sha256": "0eb3cfd1bf99e2a5797eec9697c517d05342c3a65e1ba1335c763a61c6405ede",
+      "bytes": 886
+    },
+    {
+      "name": "guide.md",
+      "sha256": "e238500f3f9eb1e3693e120255911f08e8dd72a9b143806a7ab7a94cee963b93",
+      "bytes": 2989
+    }
+  ]
+}

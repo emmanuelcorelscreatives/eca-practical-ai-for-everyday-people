@@ -1,0 +1,4 @@
+Why useful: concise; date and start time match the practice source; both items present; missing finish time remains explicit.
+Known weakness: requires manual source comparison; it cannot establish a real event's details or confirm an organizer reply.
+Template used: Community Update Template v1
+Reuse: Copy the structure and checks, not the garden facts, into a new task.

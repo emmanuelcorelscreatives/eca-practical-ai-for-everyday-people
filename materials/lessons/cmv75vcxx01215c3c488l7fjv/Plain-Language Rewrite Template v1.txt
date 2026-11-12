@@ -1,0 +1,8 @@
+PURPOSE: Make supplied prose easier to read.
+REQUIRED INPUTS: Original permission-cleared text; audience; words/numbers that must stay exact.
+INSTRUCTIONS: Rewrite plainly without adding facts. Preserve names, dates, quantities, obligations and uncertainty. Flag ambiguous meaning for human review.
+OUTPUT FORMAT: Revised text, then ambiguities and changes needing review.
+CHECKS: Compare original and rewrite for unchanged meaning, negations, numbers and permissions.
+MANUAL FALLBACK: Shorten sentences manually; retain the original; compare both.
+VERSION: 1
+REVIEW DATE: [add date]

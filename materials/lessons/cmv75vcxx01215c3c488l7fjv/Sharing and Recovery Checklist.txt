@@ -1,0 +1,8 @@
+Before real use record actual answers; no access or recovery was tested for you.
+Who can access this location, and what can each permission do?
+Does any file contain sensitive information? Remove/redact before sharing.
+Is a link merely a shortcut to the original?
+Is an additional independent copy needed for your risk level?
+Can you open that copy without this service/account/connection?
+Does this actual account/file/location offer version history and recovery? Test only on a harmless copy, record result/date, and do not assume another service behaves the same.
+Phone/offline fallback: one document with Start Here, Prompts, Sources, Examples and Final Outputs headings; keep source distinct from instructions and draft distinct from final.

@@ -1,0 +1,9 @@
+PURPOSE: Draft a short community update.
+REQUIRED INPUTS: Audience; purpose; source location and source text; known missing information; permission note.
+INSTRUCTIONS
+Using only the supplied source, draft a community update. Preserve names and dates. Do not invent attendance, costs, quotations, or commitments. Label missing information. Output: heading, short paragraph, then action list.
+OUTPUT FORMAT: Heading; short paragraph; action list. Label any generated output AI-GENERATED DRAFT — NOT YET CHECKED.
+CHECKS: Compare each fact against the open source; remove unsupported details; keep missing facts visible; preserve meaning; check permission and suitability. Record actual findings in the working copy.
+MANUAL FALLBACK: Write heading, paragraph and actions directly from the source, then perform the same checks without AI.
+VERSION: 1
+REVIEW DATE: [add date after actual review]
