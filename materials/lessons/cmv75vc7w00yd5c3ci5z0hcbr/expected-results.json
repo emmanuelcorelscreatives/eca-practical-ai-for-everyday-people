@@ -1,0 +1,25 @@
+[
+  {
+    "request_id": "R-001",
+    "decision": "continue",
+    "reasons": [],
+    "downstream": "Saved draft"
+  },
+  {
+    "request_id": "R-002",
+    "decision": "stop",
+    "reasons": [
+      "missing required field: due_date"
+    ],
+    "downstream": "Skipped"
+  },
+  {
+    "request_id": "R-003",
+    "decision": "stop",
+    "reasons": [
+      "date format not accepted: due_date",
+      "priority not in allowed values"
+    ],
+    "downstream": "Skipped"
+  }
+]

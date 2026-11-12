@@ -1,0 +1,17 @@
+Run ID,Step,Result,Counted usage units
+RUN-101,Trigger,Succeeded,0
+RUN-101,Create draft,Succeeded,1
+RUN-101,Save for review,Succeeded,1
+RUN-102,Trigger,Succeeded,0
+RUN-102,Create draft,Succeeded,1
+RUN-102,Save for review,Succeeded,1
+RUN-103,Trigger,Succeeded,0
+RUN-103,Prepare draft operation,Succeeded,1
+RUN-103,Create draft,Failed,1
+RUN-104,Trigger,Succeeded,0
+RUN-104,Create draft,Succeeded,1
+RUN-104,Save for review,Succeeded,1
+RUN-105,Trigger,Succeeded,0
+RUN-105,Create draft — first attempt,Failed,1
+RUN-105,Create draft — retry,Succeeded,1
+RUN-105,Save for review,Succeeded,1

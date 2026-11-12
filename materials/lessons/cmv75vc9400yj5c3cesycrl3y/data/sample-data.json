@@ -1,0 +1,196 @@
+{
+  "label": "FICTIONAL TRAINING DATA \u2014 NOT LIVE PROVIDER RECORDS",
+  "product": "Course Automation Monitor training simulation v1.0",
+  "workflow": "Community Workshop Reply Drafts",
+  "draftOnly": true,
+  "period": "15 October 2026",
+  "runs": [
+    {
+      "id": "RUN-101",
+      "request": "CW-101",
+      "started": "2026-10-15 08:00 UTC",
+      "status": "Completed",
+      "completedSteps": 3,
+      "units": 2,
+      "exception": false,
+      "steps": [
+        [
+          "Trigger",
+          "Succeeded",
+          0
+        ],
+        [
+          "Create draft",
+          "Succeeded",
+          1
+        ],
+        [
+          "Save for review",
+          "Succeeded",
+          1
+        ]
+      ]
+    },
+    {
+      "id": "RUN-102",
+      "request": "CW-102",
+      "started": "2026-10-15 08:20 UTC",
+      "status": "Completed",
+      "completedSteps": 3,
+      "units": 2,
+      "exception": false,
+      "steps": [
+        [
+          "Trigger",
+          "Succeeded",
+          0
+        ],
+        [
+          "Create draft",
+          "Succeeded",
+          1
+        ],
+        [
+          "Save for review",
+          "Succeeded",
+          1
+        ]
+      ]
+    },
+    {
+      "id": "RUN-103",
+      "request": "CW-103",
+      "started": "2026-10-15 08:40 UTC",
+      "status": "Failed",
+      "completedSteps": 2,
+      "units": 2,
+      "exception": true,
+      "steps": [
+        [
+          "Trigger",
+          "Succeeded",
+          0
+        ],
+        [
+          "Prepare draft operation",
+          "Succeeded",
+          1
+        ],
+        [
+          "Create draft",
+          "Failed",
+          1
+        ]
+      ]
+    },
+    {
+      "id": "RUN-104",
+      "request": "CW-104",
+      "topic": "Accessibility question",
+      "started": "2026-10-15 09:00 UTC",
+      "status": "Completed",
+      "completedSteps": 3,
+      "units": 2,
+      "exception": false,
+      "steps": [
+        [
+          "Trigger",
+          "Succeeded",
+          0
+        ],
+        [
+          "Create draft",
+          "Succeeded",
+          1
+        ],
+        [
+          "Save for review",
+          "Succeeded",
+          1
+        ]
+      ]
+    },
+    {
+      "id": "RUN-105",
+      "request": "CW-105",
+      "started": "2026-10-15 09:20 UTC",
+      "status": "Retried then completed",
+      "completedSteps": 3,
+      "units": 3,
+      "exception": true,
+      "steps": [
+        [
+          "Trigger",
+          "Succeeded",
+          0
+        ],
+        [
+          "Create draft \u2014 first attempt",
+          "Failed",
+          1
+        ],
+        [
+          "Create draft \u2014 retry",
+          "Succeeded",
+          1
+        ],
+        [
+          "Save for review",
+          "Succeeded",
+          1
+        ]
+      ]
+    }
+  ],
+  "account": {
+    "actualUsage": 146,
+    "limit": 500,
+    "unit": "training usage units",
+    "cost": null,
+    "billedAmount": null,
+    "checkedDate": "2026-10-15"
+  },
+  "estimate": {
+    "expectedRuns": 120,
+    "unitsPerNormalRun": 2,
+    "variationFraction": 0.2,
+    "estimatedUnits": 288
+  },
+  "pending": [
+    {
+      "requestId": "PENDING-01",
+      "topic": "Opening hours",
+      "status": "Preserved for manual review"
+    },
+    {
+      "requestId": "PENDING-02",
+      "topic": "Accessibility question",
+      "status": "Preserved for manual review"
+    },
+    {
+      "requestId": "PENDING-03",
+      "topic": "Workshop dates",
+      "status": "Preserved for manual review"
+    },
+    {
+      "requestId": "PENDING-04",
+      "topic": "Materials list",
+      "status": "Preserved for manual review"
+    },
+    {
+      "requestId": "PENDING-05",
+      "topic": "Venue directions",
+      "status": "Preserved for manual review"
+    },
+    {
+      "requestId": "PENDING-06",
+      "topic": "Booking deadline",
+      "status": "Preserved for manual review"
+    },
+    {
+      "requestId": "PENDING-07",
+      "topic": "Group size",
+      "status": "Preserved for manual review"
+    }
+  ]
+}
