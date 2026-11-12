@@ -1,0 +1,82 @@
+{
+  "version": 1,
+  "projectId": "cmv75v6ye007v5c3cf10it41e",
+  "scriptSha256": "088dbabe6724453934bdcfc6d17c7eb7a6f0dcdf02e940368680c880e9b7e99b",
+  "files": [
+    {
+      "name": "README.md",
+      "sha256": "549a08e1593b12bed71c21115ab945f79a8c4043680bba5f33aa77409d9ca349",
+      "bytes": 1306
+    },
+    {
+      "name": "answer-key.csv",
+      "sha256": "f4c65bc5ea35cacc7fa604d6cc9ab81e4c3cc44cd6681d10eaad2b40e5e6cdfb",
+      "bytes": 1001
+    },
+    {
+      "name": "generated-example.html",
+      "sha256": "d97562a47182da5dba9619fd4c562e68ef7caf0b4be1db28a4d35cab956b3ef9",
+      "bytes": 926
+    },
+    {
+      "name": "index.html",
+      "sha256": "b74215a672e88358054a3e3eb4bdec2074603d30416e779e3220450cbe066eaf",
+      "bytes": 1174
+    },
+    {
+      "name": "provenance.json",
+      "sha256": "de3a5ef63a8518dbc52cc30ef7b9a20bf356bd7d2546782a62b53fa51dbb6628",
+      "bytes": 469
+    },
+    {
+      "name": "sources/about-pilot.html",
+      "sha256": "ccf089e92ebe4518b080acbafabc1ce82d8d36721dee0a2cca6dd8c02c7a70a6",
+      "bytes": 598
+    },
+    {
+      "name": "sources/north-district-gardens.html",
+      "sha256": "67461b720421168c3740a56d254c4f77029e240601bff0ff7af2ebf5ad7f9f6d",
+      "bytes": 587
+    },
+    {
+      "name": "sources/season-review.html",
+      "sha256": "c5a311def55ac913830f8c32f69e0db50db372ddd789777c346f3163b5780bf5",
+      "bytes": 626
+    },
+    {
+      "name": "sources/unavailable-reference.html",
+      "sha256": "10838b8871518bb2f74eca41f44c43a552cbcbd8e74d4176d8ca29b6b7a5af82",
+      "bytes": 640
+    },
+    {
+      "name": "sources/urban-gardening-overview.html",
+      "sha256": "0bef62ecaa1de2e71c74b2ef0971f980262d2646307b59708246d98e5c1e84ac",
+      "bytes": 573
+    },
+    {
+      "name": "sources/volunteer-update.html",
+      "sha256": "3fed9d6a9ea1692cc2f20a6d7951461f01045f82ea89496dd1a29913fdfc6fce",
+      "bytes": 646
+    },
+    {
+      "name": "style.css",
+      "sha256": "46cbe307405cc7a3c9e781ce53f652c6853c9e3a7649a6a0f497bd65c632ee5c",
+      "bytes": 428
+    },
+    {
+      "name": "worksheet-blank.csv",
+      "sha256": "bf7528f524a21458bce78ba4ffefdd791cdc1675fd8593515ad5a926b36882e5",
+      "bytes": 286
+    },
+    {
+      "name": "worksheet.html",
+      "sha256": "dadde9f6f1bf01fa0d2d70d24aa716925bdd54dd5cb3a419cd3ffb40836cd334",
+      "bytes": 1891
+    },
+    {
+      "name": "worksheet.md",
+      "sha256": "19f2647a305e614a7f85847bf84ed85036f25051a8f6232fdbfe07ee384b0664",
+      "bytes": 2088
+    }
+  ]
+}
