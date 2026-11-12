@@ -1,0 +1,6 @@
+{
+  "command": "python3 -B checks.py",
+  "exitCode": 0,
+  "stdout": "PASS: partial failure, row 18, no draft, scoped manual recovery, unsent output, retained failure status, duplicate hazard and wrong-category success\n",
+  "scope": "Actual offline exercise code verification only; no vendor operation/capture/action proof"
+}

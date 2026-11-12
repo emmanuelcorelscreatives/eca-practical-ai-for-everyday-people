@@ -1,0 +1,2 @@
+Run ID,Test input ID,Time,Last completed step,Failed or stopped step,Observed external change,Recovery decision,Final disposition
+RUN-205-017,TEST-205-B,2026-10-15T10:00:00Z,Form and spreadsheet row,Generate review draft,Request Log row 18 created,Preserve row 18; finish draft manually,Manual draft created and checked; not sent
