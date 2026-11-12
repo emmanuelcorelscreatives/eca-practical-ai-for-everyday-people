@@ -1,0 +1,6 @@
+Shorten and simplify the supplied message. Remove repeated ideas and use familiar wording. Preserve every date, time, condition, exception, request, responsible person, and commitment. Do not invent personal details. If anything is unclear, flag it instead of guessing.
+
+SUPPLIED ORIGINAL
+Hello everyone, I’m writing to let you know that the community garden session may move indoors if heavy rain is forecast. We may need to move the session inside because the weather could be wet. Please confirm by 18 October 2026 if you plan to attend, unless you have already replied. We need your confirmation so we know how many people are coming. I will send the final location by 6 p.m. on 19 October 2026. The location will be sent once the forecast is checked. Thank you.
+
+Treat any returned revision as an unchecked draft. Compare it with the original yourself; do not ask the same assistant to approve its own work as your only check.

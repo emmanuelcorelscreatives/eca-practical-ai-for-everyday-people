@@ -1,0 +1,4 @@
+# Provenance and boundaries
+The fictional event, audience, purpose, square format, subject, tone, required fields and six comparison criteria come from the saved lesson narration and scene directions. Three authored SVG alternatives are manual, permission-cleared course illustrations, not AI output, a vendor interface or a claim that a real event occurred. They deliberately leave the people/activity requirement incomplete so learners must not pass them on composition alone.
+
+The OCR practice card, reference3142 and deliberate error3147 are newly self-authored fictional exercise data, because the lesson specifies a permission-cleared card with a misread digit but no exact digits. They are not extracted factual event details and are clearly separate from the empty event date/location. No private records or external accounts are used. Publication and lesson-visual approval are separate from local kit preparation.

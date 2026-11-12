@@ -1,0 +1,57 @@
+{
+  "version": 1,
+  "projectId": "cmv75v7t200c15c3ci4zn8b8f",
+  "scriptSha256": "2a34f162628568d1334af76d340c91bfb9f4bd3bf8fa6081a400de811d55f546",
+  "files": [
+    {
+      "name": "README.md",
+      "sha256": "0bc03fc212b5bb1e0a1ad398100863b100561f6202e42f3312ff30eeb2532fbd",
+      "bytes": 1233
+    },
+    {
+      "name": "answers.md",
+      "sha256": "5da478dc0503c0479b484c2e3d8ce493c75a881562ab6a809a7009bc1eb66b95",
+      "bytes": 3369
+    },
+    {
+      "name": "checked-example.txt",
+      "sha256": "2f2bbfe019e5046f69cd5c688630ae2c5564515659c1724f5ef8f78f955418ed",
+      "bytes": 297
+    },
+    {
+      "name": "comparison-worksheet.csv",
+      "sha256": "beec8bf7a558dfcc22fddd0c56633ea623e4153b4d3c90c2b57e4c3b9438b50d",
+      "bytes": 399
+    },
+    {
+      "name": "edit-record.md",
+      "sha256": "fe11792d5561acba2aae8936618093e6e22121aa35ba63ee4e6feae5a66c2241",
+      "bytes": 429
+    },
+    {
+      "name": "flawed-study-draft.txt",
+      "sha256": "4681314c342eb60101c7d2f8f0eaee697c52bfdadb2613e48af79d9d27f05559",
+      "bytes": 252
+    },
+    {
+      "name": "prompt-template.txt",
+      "sha256": "75d45ed696623bc159794ba5f32424a3c0eff86fbb3b527b2632bc8382e05b4b",
+      "bytes": 934
+    },
+    {
+      "name": "protected-details.csv",
+      "sha256": "806556e61e199b61bb9280604f3aaf67dc80af20a6e5e60432c0e126950fcd03",
+      "bytes": 616
+    },
+    {
+      "name": "source-message.txt",
+      "sha256": "8d63dedd0ddf280d7268dd93051b5095714867b3bcfee8d0beed03916ef9e069",
+      "bytes": 480
+    },
+    {
+      "name": "worksheet.md",
+      "sha256": "018eabd60227f7f163f3452298333d5df27b127b3d03d95a53e74bc4e725b68f",
+      "bytes": 2954
+    }
+  ]
+}

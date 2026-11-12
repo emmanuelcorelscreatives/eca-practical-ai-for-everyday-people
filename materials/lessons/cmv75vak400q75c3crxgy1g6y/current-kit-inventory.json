@@ -1,0 +1,82 @@
+{
+  "version": 1,
+  "projectId": "cmv75vak400q75c3crxgy1g6y",
+  "scriptSha256": "b03c5e6d307e8d7a4491a8588095ea97628abe8cb41532e006f6714339d67363",
+  "files": [
+    {
+      "name": "README.md",
+      "sha256": "6e4c9fa499b29f8cb584f3543531996d1dd0a12d288d8b18b5fe1decb585484b",
+      "bytes": 1301
+    },
+    {
+      "name": "answer-key.md",
+      "sha256": "b1fb97dfba5249c2d6c9e65c5aefef9a54d0396f5299390df7c1cc6f455067c7",
+      "bytes": 1594
+    },
+    {
+      "name": "brief.md",
+      "sha256": "814838dd05c5968baa9ab36fde12ccf8ec42183b72d962047aa1d23d315b00c2",
+      "bytes": 744
+    },
+    {
+      "name": "comparison-worksheet.csv",
+      "sha256": "86c25406a27911b238b6dcabd62cf894740cf0a9f17abfeeb219dc1f7d383d8e",
+      "bytes": 256
+    },
+    {
+      "name": "correction-log.csv",
+      "sha256": "24a8adc65d9266eee8e32a2f3d62f42572da5710c7f320d6574931668c67835d",
+      "bytes": 120
+    },
+    {
+      "name": "final-checklist.md",
+      "sha256": "0bb1b131d2931d1255984116d468f6188404de486804a989042b9025627d65d4",
+      "bytes": 887
+    },
+    {
+      "name": "generation-and-fallback.md",
+      "sha256": "3ab616974e6fc887edc34f1374a207b48e907e4a7f5fcb3b6859d2b337eac0e9",
+      "bytes": 1186
+    },
+    {
+      "name": "manual-option-a.svg",
+      "sha256": "dcefd6aec462ba04183cc0c0dd64c118d3c214787abe96b229a60d2cec83f82e",
+      "bytes": 984
+    },
+    {
+      "name": "manual-option-b.svg",
+      "sha256": "7745f532e7945f8b2563d11f4acbda6d305626c46887fd8d413221766e7450d8",
+      "bytes": 539
+    },
+    {
+      "name": "manual-option-c.svg",
+      "sha256": "a57b41da45b4c473e59875a36a08080f1605537c88bc5490ce658dc2e40552ed",
+      "bytes": 859
+    },
+    {
+      "name": "ocr-check.md",
+      "sha256": "582f6853698032229cee87ac74194bc349b659ac26fe89d1d59a2c18703a3133",
+      "bytes": 1102
+    },
+    {
+      "name": "ocr-source-card.svg",
+      "sha256": "5e7696b06394356367b11c4c1b8dc8ef6efea5f82089172477ca9ce55ce7e242",
+      "bytes": 406
+    },
+    {
+      "name": "provenance.md",
+      "sha256": "03fbb0dc198b7d194f2fe9624d1b8b7c6de0472b75dc96b35fc86ae9d7fdb530",
+      "bytes": 924
+    },
+    {
+      "name": "tool-merge-written-case.md",
+      "sha256": "6f1678ef2224acd9bcd9b02943245c5576312a81ac638a7b0ee513eb7d393edc",
+      "bytes": 2490
+    },
+    {
+      "name": "worksheet.md",
+      "sha256": "a29f8954845bdd65a8b3745e8dabbfa49472af2bf799fe646e4e90aa5cacb39f",
+      "bytes": 2257
+    }
+  ]
+}

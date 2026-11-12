@@ -1,0 +1,7 @@
+detail,original_evidence,flawed_draft_evidence,expected_judgment
+purpose,community garden session,community garden session,MATCH
+request,confirm attendance if planning to attend,confirm attendance,MATCH (check audience with exception)
+request deadline,18 October 2026,18 October 2026,MATCH
+condition,may move indoors if heavy rain is forecast,will move indoors if it rains,CHANGED: possibility and forecast
+exception,unless you have already replied,missing,MISSING
+commitment,I will send the final location by 6 p.m. on 19 October 2026,I’ll send the location on 19 October 2026,CHANGED: final and time lost
