@@ -1,0 +1,106 @@
+{
+  "projectId": "cmv75v91c00i75c3cycu7cdtk",
+  "kind": "self-authored-synthetic-Academy-practice-recording",
+  "synthetic": true,
+  "engine": "eSpeak NG text-to-speech: 1.51  Data at: /usr/lib/x86_64-linux-gnu/espeak-ng-data",
+  "voices": "Built-in synthetic eSpeak voices; no real-speaker recording or cloning.",
+  "permission": "Academy-authored fictional source; no real meeting or consent assertion.",
+  "sampleRate": 22050,
+  "channels": 1,
+  "sampleWidthBytes": 2,
+  "segments": [
+    {
+      "lineId": "T01",
+      "speaker": "Maya",
+      "text": "The library room is available Thursday, 18 June, from 6 to 8 p.m.",
+      "startSample": 0,
+      "endSample": 124569,
+      "sampleRate": 22050
+    },
+    {
+      "lineId": "T02",
+      "speaker": "Jon",
+      "text": "I’ll book the room today.",
+      "startSample": 134491,
+      "endSample": 175294,
+      "sampleRate": 22050
+    },
+    {
+      "lineId": "T03",
+      "speaker": "Maya",
+      "text": "Agreed.",
+      "startSample": 185216,
+      "endSample": 205560,
+      "sampleRate": 22050
+    },
+    {
+      "lineId": "T04",
+      "speaker": "Leila",
+      "text": "We could offer tea.",
+      "startSample": 215482,
+      "endSample": 249130,
+      "sampleRate": 22050
+    },
+    {
+      "lineId": "T05",
+      "speaker": "Jon",
+      "text": "That sounds good.",
+      "startSample": 259052,
+      "endSample": 292760,
+      "sampleRate": 22050
+    },
+    {
+      "lineId": "T06",
+      "speaker": "Maya",
+      "text": "Should we cap attendance at 30?",
+      "startSample": 302682,
+      "endSample": 358001,
+      "sampleRate": 22050
+    },
+    {
+      "lineId": "T07",
+      "speaker": "Leila",
+      "text": "I don’t know; we need the room layout.",
+      "startSample": 367923,
+      "endSample": 436421,
+      "sampleRate": 22050
+    },
+    {
+      "lineId": "T08",
+      "speaker": "Jon",
+      "text": "If the booking is confirmed, I’ll send the invitation on Friday.",
+      "startSample": 446343,
+      "endSample": 545530,
+      "sampleRate": 22050
+    },
+    {
+      "lineId": "T09",
+      "speaker": "Maya",
+      "text": "Let’s use paper sign-in sheets.",
+      "startSample": 555452,
+      "endSample": 609303,
+      "sampleRate": 22050
+    },
+    {
+      "lineId": "T10",
+      "speaker": "Leila",
+      "text": "Yes, agreed.",
+      "startSample": 619225,
+      "endSample": 655753,
+      "sampleRate": 22050
+    }
+  ],
+  "files": [
+    {
+      "name": "synthetic-workshop.wav",
+      "sha256": "fa6c9716b6195b16c575a74591f8b3f1efac5357c4fb2ed01f417c1c9781f129",
+      "bytes": 1331394
+    },
+    {
+      "name": "synthetic-booking.wav",
+      "sha256": "397f4d8dacaba983395d4b8cbbb2d48610119142f41d94faf1cc3c773e5e8e8b",
+      "bytes": 81650
+    }
+  ],
+  "noClaim": "Not model narration or an actual transcriber output. The book/look alternate is a deliberately seeded exercise error, not an observed ASR error."
+}

@@ -5,18 +5,33 @@
   "files": [
     {
       "name": "PROVENANCE.md",
-      "sha256": "f145ef77624bd98ece9f0bb3857c225e5bd24183b10c83de591d11fb1ec2318f",
-      "bytes": 829
+      "sha256": "c0c17289f85810a4a6c9922e4d09f66dda7015f9fab76314776a50b1c7206759",
+      "bytes": 790
     },
     {
       "name": "README.md",
-      "sha256": "5835c0ed158af7ac0d492c33bd8b754f75e523b362820cdb55b1d509a600224e",
-      "bytes": 1855
+      "sha256": "d8fb83ace0113b0a86d45215a7a37111325ea9edbf2e8d1cf3fa6e510075faf9",
+      "bytes": 2249
+    },
+    {
+      "name": "actual-recording-player.html",
+      "sha256": "9be7449a88161aed07b71e7f3cc853829fd64fbe642c25369f7700b58c088f4f",
+      "bytes": 3311
     },
     {
       "name": "expected-review.csv",
-      "sha256": "253ee155af6d9637582d443002b4c5509792f6e3073d4fe94f4a4d5f9ff4bb49",
-      "bytes": 1185
+      "sha256": "ca06c9640ac3162e13566797891df01f8596aed203cbc240330b8c0cbc752a23",
+      "bytes": 1160
+    },
+    {
+      "name": "fixture-provenance.json",
+      "sha256": "18cb20ce1b273618c1e0eaa1f8171eb4ac488371da11ded5c7d52b5710b65d5c",
+      "bytes": 2910
+    },
+    {
+      "name": "fixture-transcript.txt",
+      "sha256": "0fd248af1ff340c984403d712f7ac8d120b6628a189d9a8d49ed8bd8b20268c9",
+      "bytes": 563
     },
     {
       "name": "generated-draft.md",
@@ -30,13 +45,23 @@
     },
     {
       "name": "review-worksheet.csv",
-      "sha256": "9d6e5501bb4b29ba907de1aa634f891dc7336ad0efaf501df5c6b9c96683fcfe",
-      "bytes": 578
+      "sha256": "0cd4979deb5590e001a4cf27ae30eb8bafdb27137a65cff237f79b2032087e6a",
+      "bytes": 553
+    },
+    {
+      "name": "synthetic-booking.wav",
+      "sha256": "397f4d8dacaba983395d4b8cbbb2d48610119142f41d94faf1cc3c773e5e8e8b",
+      "bytes": 81650
+    },
+    {
+      "name": "synthetic-workshop.wav",
+      "sha256": "fa6c9716b6195b16c575a74591f8b3f1efac5357c4fb2ed01f417c1c9781f129",
+      "bytes": 1331394
     },
     {
       "name": "transcript.md",
-      "sha256": "ae7b21611f96521f26455d6af0fd4c2992ae3209d53ea471b4da15db2bdffda9",
-      "bytes": 1204
+      "sha256": "8d9e0e59fca075cc4f47e8ee1796a3e13f84b97e783a5a82daab47eee19ac4c5",
+      "bytes": 1195
     }
   ]
 }
