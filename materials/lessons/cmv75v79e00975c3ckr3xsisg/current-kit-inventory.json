@@ -1,0 +1,57 @@
+{
+  "version": 1,
+  "projectId": "cmv75v79e00975c3ckr3xsisg",
+  "scriptSha256": "55ea8b7f9f6569d87d8fe4cd8c54addefaa3ebbd01022917bc8a7c94823f438b",
+  "files": [
+    {
+      "name": "README.md",
+      "sha256": "131424b32019287ae274fb82ab2fdb40cb6a5746197bcb2c99f3116b9972705d",
+      "bytes": 691
+    },
+    {
+      "name": "answers.md",
+      "sha256": "fe4e001a0c94733a81df414a13e918015ee572ad13c5f192a14bab350b90dfd4",
+      "bytes": 2229
+    },
+    {
+      "name": "attendance.csv",
+      "sha256": "4ee5033543fd12792d949bdd51b32ad902f7a06aacb396920c57628ed23fcc13",
+      "bytes": 53
+    },
+    {
+      "name": "audit-template.csv",
+      "sha256": "be8160c1cd59bd358811c2181d0441010f6d247d776b3f7ff2e182adf092c30c",
+      "bytes": 359
+    },
+    {
+      "name": "comparison.csv",
+      "sha256": "5dd0bfca05e88f3f7704d51de3aed8f57765173423cba0147827d07d3d31ed19",
+      "bytes": 87
+    },
+    {
+      "name": "exercises.md",
+      "sha256": "f8f46b6870e85e449246e757e404d8237b02eede0ea94a4f56b55010c0dd5f4e",
+      "bytes": 1537
+    },
+    {
+      "name": "prompts.md",
+      "sha256": "c723f8a393adca9e7a2b7cdd6241f38224e43bdfb9d0ab2ecf52860e4a957b2a",
+      "bytes": 1280
+    },
+    {
+      "name": "provenance.md",
+      "sha256": "cc8790d5d5df33d35c8d42e20f46db1c16da0632315a1913d14f8c34dde91d3a",
+      "bytes": 1072
+    },
+    {
+      "name": "quantities.csv",
+      "sha256": "8ba5619b2323253784881f32039f1170f2614e672e5635a8a081197912a35a75",
+      "bytes": 249
+    },
+    {
+      "name": "worksheet.md",
+      "sha256": "3a83d4b87c74302683a1160a5c5f54fc86b8fe816c095fadd7d215b103ef0f51",
+      "bytes": 3425
+    }
+  ]
+}

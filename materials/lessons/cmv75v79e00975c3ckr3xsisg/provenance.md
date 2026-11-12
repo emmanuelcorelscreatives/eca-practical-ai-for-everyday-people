@@ -1,0 +1,5 @@
+# Provenance and scope
+This Academy practice kit is original self-authored fictional learning material aligned to Practical AI lesson 57, Percentages, Averages and Totals, project cmv75v79e00975c3ckr3xsisg. All workshop data are invented for arithmetic practice. No private information, real organization records, vendor screenshots or model responses are included. Tables of expected values are mathematical references, not claims of observed UI behavior.
+
+Narration SHA-256: 55ea8b7f9f6569d87d8fe4cd8c54addefaa3ebbd01022917bc8a7c94823f438b
+The kit preserves the lesson's values, distinction between missing and zero, independent checking workflow, denominator discipline, signed decrease and percentage-point versus relative-percent distinction. Transfer examples are labelled exercises. No executable or interactive feature is shipped. CSV files are ordinary data; spreadsheet steps are learner instructions. Local arithmetic validation is evidence of reference math only; actual spreadsheet/browser capture and independent content/current-pixel review remain pending.

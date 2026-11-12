@@ -1,0 +1,7 @@
+Case,Original,New,Part,Whole,Unit
+Participation rise,80,92,,,attendees
+Participation fall,92,80,,,attendees
+Places filled,,,18,60,places
+Response rate,0.20,0.25,,,fraction of responses
+Missing whole,,,18,,places
+Zero starting value,0,12,,,attendees
