@@ -1,0 +1,4 @@
+practice_source,event,year,field,value,unit,definition
+SELF-CREATED FICTIONAL,Riverside Community Garden Day,2025,Registered,480,registrations,Unique visitor registrations recorded before the event
+SELF-CREATED FICTIONAL,Riverside Community Garden Day,2025,Checked in,412,visitor check-ins,Unique registered visitors marked present at the entry point
+SELF-CREATED FICTIONAL,Riverside Community Garden Day,2025,Volunteer entries,36,volunteer entries,Entries recorded separately for volunteers; overlap with visitors not supplied

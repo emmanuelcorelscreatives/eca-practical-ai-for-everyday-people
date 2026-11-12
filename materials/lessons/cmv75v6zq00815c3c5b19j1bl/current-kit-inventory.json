@@ -1,0 +1,72 @@
+{
+  "version": 1,
+  "projectId": "cmv75v6zq00815c3c5b19j1bl",
+  "scriptSha256": "c8735f5fd59b77f450bfe3d187a1f3a4dc26ba4fedd955f9a05bc74cbedf3fa7",
+  "files": [
+    {
+      "name": "LICENSE.txt",
+      "sha256": "c39b1fad31af06d17f0278fc9f2e5d7334381f42f08421deb4b9063639255c91",
+      "bytes": 297
+    },
+    {
+      "name": "answer-to-audit.txt",
+      "sha256": "5164bf2fd4f1a1da3367deb05c364689208903f951e919fcc8a0ba01839d8862",
+      "bytes": 344
+    },
+    {
+      "name": "answers.md",
+      "sha256": "55b68c3b7d89fe5dbf979ac7aca871d22441ef0b7333c505434397027c5c4c69",
+      "bytes": 4244
+    },
+    {
+      "name": "blank-worksheet.csv",
+      "sha256": "257e8e937947e2ace673c28cedf4a67f266165efd01690f554d254b1b248ded7",
+      "bytes": 117
+    },
+    {
+      "name": "challenge-answer.txt",
+      "sha256": "be240787b7654ccb414ab8203da7e0acb511afb046e5ee9040d1d626c4f869b8",
+      "bytes": 302
+    },
+    {
+      "name": "index.html",
+      "sha256": "4be6e72699d9b2e2f079050ad853ca1dfc0c28044dc3bdea8734505f264eac86",
+      "bytes": 4525
+    },
+    {
+      "name": "sources/harbor-practice-records.md",
+      "sha256": "05830afeab2c6524516bc9b565905752bc1880e989cf7d5afcd6c42ed8c705c3",
+      "bytes": 1224
+    },
+    {
+      "name": "sources/riverside-feedback.md",
+      "sha256": "1f7caa710ffbd2ee1816310b123bffdf1217092773407fdad7c902936b30e6f4",
+      "bytes": 424
+    },
+    {
+      "name": "sources/riverside-notice.md",
+      "sha256": "23d5679a7c242e11e77308e66976a6f7a36af6b99fb4b838b27d1c8df7a4b257",
+      "bytes": 420
+    },
+    {
+      "name": "sources/riverside-register.csv",
+      "sha256": "69041f7947d1c976fc89264dec63ad755b6845d54e6b8bf9a0c80faee97d2e71",
+      "bytes": 528
+    },
+    {
+      "name": "sources/riverside-schedule.md",
+      "sha256": "594abc2b616d2af4776d75e06a3236ac21d4b670a874a06825ef0eb70dbe1df0",
+      "bytes": 311
+    },
+    {
+      "name": "sources/riverside-transcript.md",
+      "sha256": "318ca963dd34d558b679b0423e59921037bddc7585cd3287008164d667f55303",
+      "bytes": 419
+    },
+    {
+      "name": "worksheet.md",
+      "sha256": "914c19b4104337aea2fe582ec93f92aac1e9c15af2bdd45792da0b83236bebba",
+      "bytes": 3110
+    }
+  ]
+}
