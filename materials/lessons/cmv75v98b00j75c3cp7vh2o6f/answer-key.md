@@ -1,0 +1,8 @@
+# Expected answers and reasoning
+- Harbor price240 CU/four hours; capacity50 seated; entranceYes. Accessible toilet Unknown because Card A does not state it. Cancellation7 calendar days/full refund, updated 2 October 2026.
+- Maple 265 CU/four hours; capacity60 theatre versus36 at tables. Keep both; planned layout missing. EntranceYes, accessible toilet Yes. Cancellation50% refund with at least5 calendar days, updated 6 October 2026. No guaranteed suitability for 40 without layout confirmation.
+- Cedar priceUnknown: Contact us is no amount. Capacity45 seated without a layout guarantee. Lift available Yes; entrance and complete step-free route Unknown. Accessible toilet Yes. Cancellation10 calendar days/full refund in15 September leaflet versus14 calendar days/full refund in1 October card; both Conflict, seek clarification. Do not silently pick one.
+- Unknown is evidence of an unresolved gap, not No, zero, an estimate or an empty unchecked cell. Verified means compared with this fictional fixture, not independently certified real-world fact.
+- The deliberately faulty generated response's Harbor accessible-toilet Yes is unsupported despite its Card A citation. Correction: Value Unknown, Status Unknown, Notes Not stated in Source Card A.
+- The price-only filter yields240 CU,265 CU,Unknown; it cannot change evidence. Preferences remain blank and separate. No score, ranking or automatic winner is supplied.
+- Each row preserves source location/date; evidence-date rows record provenance. Alternative row wording is acceptable if every fact, qualification and unresolved disagreement remains intact. Extra layout and conflict rows are necessary, not accidental duplicates.

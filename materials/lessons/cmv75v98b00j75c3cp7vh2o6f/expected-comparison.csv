@@ -1,0 +1,23 @@
+Option,Criterion,Value,Unit or scope,Evidence location,Evidence date,Status,Notes
+Harbor Room,Total four-hour price,240 CU,four hours; CU,source-cards.md#source-card-a--harbor-room,2026-10-02,Verified,
+Harbor Room,Maximum seated capacity,50,seated; arrangement not specified,source-cards.md#source-card-a--harbor-room,2026-10-02,Verified,Confirm planned seating layout before deciding suitability
+Harbor Room,Step-free entrance,Yes,entrance only,source-cards.md#source-card-a--harbor-room,2026-10-02,Verified,Complete route not established by entrance alone
+Harbor Room,Accessible toilet information,Unknown,accessible toilet,source-cards.md#source-card-a--harbor-room,2026-10-02,Unknown,Not stated in Source Card A
+Harbor Room,Cancellation terms,Full refund; at least 7 calendar days,notice before booking,source-cards.md#source-card-a--harbor-room,2026-10-02,Verified,
+Harbor Room,Evidence date,2026-10-02,source updated,source-cards.md#source-card-a--harbor-room,2026-10-02,Verified,
+Maple Hall,Total four-hour price,265 CU,four hours; CU,source-cards.md#source-card-b--maple-hall,2026-10-06,Verified,
+Maple Hall,Maximum seated capacity,60,theatre layout,source-cards.md#source-card-b--maple-hall,2026-10-06,Verified,Planned layout not supplied
+Maple Hall,Maximum seated capacity,36,tables,source-cards.md#source-card-b--maple-hall,2026-10-06,Verified,Planned layout not supplied
+Maple Hall,Step-free entrance,Yes,entrance only,source-cards.md#source-card-b--maple-hall,2026-10-06,Verified,Complete route not established by entrance alone
+Maple Hall,Accessible toilet information,Yes,accessible toilet,source-cards.md#source-card-b--maple-hall,2026-10-06,Verified,
+Maple Hall,Cancellation terms,50% refund; at least 5 calendar days,notice before booking,source-cards.md#source-card-b--maple-hall,2026-10-06,Verified,
+Maple Hall,Evidence date,2026-10-06,source updated,source-cards.md#source-card-b--maple-hall,2026-10-06,Verified,
+Cedar Studio,Total four-hour price,Unknown,four hours; CU,source-cards.md#source-card-c--cedar-studio,2026-10-01,Unknown,Contact us; four-hour price not published
+Cedar Studio,Maximum seated capacity,45,seated; arrangement not specified,source-cards.md#source-card-c--cedar-studio,2026-10-01,Verified,Confirm planned seating layout before deciding suitability
+Cedar Studio,Step-free entrance,Unknown,entrance only,source-cards.md#source-card-c--cedar-studio,2026-10-01,Unknown,Lift does not establish entrance access
+Cedar Studio,Accessible toilet information,Yes,accessible toilet,source-cards.md#source-card-c--cedar-studio,2026-10-01,Verified,
+Cedar Studio,Cancellation terms,Full refund; at least 10 calendar days,notice before booking,source-cards.md#cedar-cancellation-leaflet,2026-09-15,Conflict,Seek clarification; preserve both terms
+Cedar Studio,Cancellation terms,Full refund; at least 14 calendar days,notice before booking,source-cards.md#source-card-c--cedar-studio,2026-10-01,Conflict,Seek clarification; preserve both terms
+Cedar Studio,Evidence date,2026-10-01,source updated,source-cards.md#source-card-c--cedar-studio,2026-10-01,Verified,
+Cedar Studio,Lift available,Yes,lift availability only,source-cards.md#source-card-c--cedar-studio,2026-10-01,Verified,
+Cedar Studio,Complete step-free route,Unknown,complete entrance-to-room route,source-cards.md#source-card-c--cedar-studio,2026-10-01,Unknown,"Entrances, thresholds and full route not described"

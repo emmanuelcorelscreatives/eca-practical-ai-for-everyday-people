@@ -1,0 +1,67 @@
+{
+  "version": 1,
+  "projectId": "cmv75v98b00j75c3cp7vh2o6f",
+  "scriptSha256": "3813cb94020aa2b614114403c0a9c8f7b317ff5e098e7ae77b1ae57229e4f579",
+  "files": [
+    {
+      "name": "LICENSE.txt",
+      "sha256": "ce4693f0dac3ce57a650c2a41461cf9fdc9d60d0a0edde6c47cef618816b3e71",
+      "bytes": 377
+    },
+    {
+      "name": "README.md",
+      "sha256": "a3ff2877032d41c75ac50d2c58fe597bff3c8abb42990611e861aee6b484959b",
+      "bytes": 919
+    },
+    {
+      "name": "answer-key.md",
+      "sha256": "54f5743323b2d144f0d599750729c014b185ee1d25634931bc9cd109fe279490",
+      "bytes": 1689
+    },
+    {
+      "name": "blank-comparison.csv",
+      "sha256": "e9912b06332f13e31f3a2c34c5b79c8c6dd1cc4a1a2fced75e010cd4f384e5c7",
+      "bytes": 92
+    },
+    {
+      "name": "expected-comparison.csv",
+      "sha256": "1e4685faec011490df1ebd184c07879825d893350f7335d0b921030c026c7b14",
+      "bytes": 3429
+    },
+    {
+      "name": "extraction-prompt.txt",
+      "sha256": "e271a94f3997567f037c7a7775ea684116153030417a31a94e658599be0d332f",
+      "bytes": 979
+    },
+    {
+      "name": "generated-extraction-unverified.csv",
+      "sha256": "a3fc41edbd3f65dcda3ba0c7c43b0baae003eca1413cf7c2121c8c06f864876c",
+      "bytes": 5295
+    },
+    {
+      "name": "preferences.csv",
+      "sha256": "57533872cc9f7ce8f49291ebd294ec7aa00cace4472b4673c5a6aa074cc1e2dd",
+      "bytes": 32
+    },
+    {
+      "name": "source-cards.html",
+      "sha256": "3f79173d53e89009fe3122ef8551da164de920e7f38bfc135373034c7b239acb",
+      "bytes": 2206
+    },
+    {
+      "name": "source-cards.md",
+      "sha256": "be88d4ecd5ba9fce4656c3d6045052ee2ae4e0c1b5eb4b3c2f1192e9d1e4d904",
+      "bytes": 1522
+    },
+    {
+      "name": "verify-kit.py",
+      "sha256": "fda69c3c436bf2adf4e8cb47b0f90256f3ae48a132e07ec12fb545231182aea3",
+      "bytes": 1417
+    },
+    {
+      "name": "worksheet.md",
+      "sha256": "7450491ea42f2b5917d96b1df833ebf7acf10ba15505b0dcc3c2b5596d55803b",
+      "bytes": 4448
+    }
+  ]
+}

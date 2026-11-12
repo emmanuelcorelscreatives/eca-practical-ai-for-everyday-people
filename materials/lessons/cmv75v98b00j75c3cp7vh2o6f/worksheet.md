@@ -1,0 +1,22 @@
+# Build a Fair Comparison Table — Lesson 117
+Emmanuel Corels Academy • Practical AI for Everyday People
+
+Use the included self-authored fictional venue evidence; do not research real venues or make a booking. This kit preserves the lesson's three rooms, dates, prices, layouts and unresolved gaps. CU is a fictional currency label, not a real quote.
+
+## Exercise: organize, check, then compare
+1. Open `source-cards.md`. Fix the scope first: 18 November 2026, four hours, 40 attendees, same CU currency. Planned room arrangement remains unspecified.
+2. Import `blank-comparison.csv` into a new spreadsheet, or use it as a plain text table. Name the sheet Evidence. Keep all eight headers. A separate blank Preferences sheet can use `preferences.csv`. Freeze the header if available; no particular paid tool is required.
+3. Choose six criteria before extracting: total four-hour price, maximum seated capacity, step-free entrance, accessible toilet information, cancellation terms, evidence date. Make one row per supported claim; additional rows preserve a second layout or conflicting term. Record the source location, evidence date and exact scope beside every value.
+4. Optionally paste `extraction-prompt.txt` and the complete source cards into a source-capable AI tool. Never upload private venue correspondence. Label its response not yet verified. Without such a tool, copy one source claim at a time manually; both routes require the same check.
+5. Inspect `generated-extraction-unverified.csv`. It is a deliberately seeded training response, not a live AI result or a completed verification. Find Harbor's unsupported accessible-toilet Yes, open Card A and replace it with Unknown. Explain why neither No, zero nor a blank is equivalent. Every one of the22 draft rows has Status=Not yet verified, including rows with a provisional Unknown or Conflict classification in Notes. Open each linked source and check its option, exact value, scope and date. Only after checking assign final Verified, Unknown or Conflict; a provisional classification is not a verification. Do this for all rows, not just the highlighted error.
+6. Preserve Maple's 60 theatre and 36 at tables on separate rows; write Planned layout not supplied. Do not claim it accommodates 40 in an unspecified arrangement. Keep Cedar price Unknown, lift availability Verified and complete route Unknown; no extrapolation from a lift.
+7. Keep Cedar cancellation10 days/15 September and14 days/1 October as separate Conflict rows. Do not choose the newer or more favorable term. Add Seek clarification; a real provider reply would be a new dated source, not something supplied here.
+8. After verification, use exactly Verified, Unknown and Conflict in the Status column. Add a spreadsheet dropdown/data validation list if available, otherwise type these labels consistently. The intentionally unverified response is a separate file, not a fourth final-status label. A dropdown standardizes spelling; it cannot verify facts.
+9. Filter Criterion to Total four-hour price. Expected display: Harbor 240 CU, Maple 265 CU, Cedar Unknown, all four-hour scope. Clear the filter afterward; do not delete rows. There is no automatic winner.
+10. Keep personal priorities in Preferences, separate from factual evidence. Do not assign invented scores or weights. Audit each row: exact option? matching criterion, conditions and units? source opened and matching value? evidence date and uncertainty visible?
+
+## Expected checks
+Compare with `expected-comparison.csv` only after your attempt. It contains22 rows: Harbor 6, Maple 7, Cedar 9. Two price values are known; Cedar's is not. One Harbor accessible-toilet gap and Cedar's unresolved entrance/route gaps remain Unknown. Two Cedar cancellation rows remain Conflict. Maple capacity remains layout-qualified. The worksheet must have no recommendation/rank/winner column. Read `answer-key.md` for explanations.
+
+## Manual fallback and reuse
+Any spreadsheet, plain text editor or printed copy of these actual practice files can organize the exercise; the course visuals themselves remain digital. Refresh volatile evidence before any real decision. Nothing in this kit is a current offer, accessibility certification or purchase instruction. Run `python3 verify-kit.py` in this directory to check the supplied answer structure and known invariants; this mechanical checker does not independently verify a future AI output or real venue.
