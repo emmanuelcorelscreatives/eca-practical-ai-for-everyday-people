@@ -1,0 +1,77 @@
+{
+  "version": 1,
+  "projectId": "cmv75v92i00id5c3cd5btf9ki",
+  "scriptSha256": "d87cb979006a5f1545293fab6c4060f8ceaf72c868b755c4228f35001f5c2eac",
+  "files": [
+    {
+      "name": "Community_Event_Planning.wav",
+      "sha256": "5c0484587c5be9c6ffadf4d1c07e45865d91abb6c90e07c34b939ca413ccd8a7",
+      "bytes": 10848644
+    },
+    {
+      "name": "build_audio.py",
+      "sha256": "c272593bc811f7bb3d0f2924e78ec193cd1c024670f2d595f812517c15c0ea45",
+      "bytes": 1407
+    },
+    {
+      "name": "confirmation.txt",
+      "sha256": "a6558c25d06a7572100c4d7e9ffadd1b68d621fd0ec73fa644427679b339ad1a",
+      "bytes": 272
+    },
+    {
+      "name": "corrected-transcript.json",
+      "sha256": "4be9df6280fb05502795a707850bcb1a0ff9800ef32a9ef3d6de91480ade3d2b",
+      "bytes": 1339
+    },
+    {
+      "name": "corrected-transcript.txt",
+      "sha256": "c8eaaf3244338c624be7b5488d433e634023330fed556984916222c5b6b4fa2a",
+      "bytes": 582
+    },
+    {
+      "name": "demo.html",
+      "sha256": "329ebf3f13fce0317e392576d72933820a0bbeca459940643968a54994b494d6",
+      "bytes": 19846
+    },
+    {
+      "name": "exercise-actions.csv",
+      "sha256": "612fe1214d002f43c3f1ea7f881e2573a9ec09518310c629dde6bf030dc9d3c2",
+      "bytes": 741
+    },
+    {
+      "name": "extraction-instruction.txt",
+      "sha256": "7ef16a981bac3d5a9e563a6c4bbed85a69b705e4c91c59fe1d481807217f69b1",
+      "bytes": 299
+    },
+    {
+      "name": "generated-extraction.json",
+      "sha256": "13fab3c298afdcda2cf0f36f1356d9140125ea065f2550ef5d08120ebf5c4979",
+      "bytes": 2073
+    },
+    {
+      "name": "reviewed-actions.csv",
+      "sha256": "7c673ab3de8e10a3c789c532a718469ed3c2cb0863a507cf06cb07681d9881f6",
+      "bytes": 1033
+    },
+    {
+      "name": "verification.json",
+      "sha256": "d500876e0f46c3e103fd7ec7e2df783194fdafa57bc5fed2be84ab62f6d51078",
+      "bytes": 166
+    },
+    {
+      "name": "verify.py",
+      "sha256": "b4233137c732f275fd7b2095e88168ee0e0a61927a3e2c01c673fe31a6356bc9",
+      "bytes": 881
+    },
+    {
+      "name": "waveform.svg",
+      "sha256": "267cd85afbd5a3d887e6cd1a16e4bd074270222a9e6d2f26a188143494e76d9c",
+      "bytes": 90435
+    },
+    {
+      "name": "worksheet.md",
+      "sha256": "9d7289e9ace01abe522373b9febebec6aeeb3aaf6614080b0f9c4e68352abd77",
+      "bytes": 5041
+    }
+  ]
+}

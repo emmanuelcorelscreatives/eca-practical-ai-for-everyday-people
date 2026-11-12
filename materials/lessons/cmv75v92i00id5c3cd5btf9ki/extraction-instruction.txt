@@ -1,0 +1,1 @@
+Extract confirmed actions, proposals, and unresolved questions. Create columns for action, evidence, owner, due date, and status. Copy only information supported by the transcript. If an owner or due date is absent, write “Not stated — confirm.” Preserve conditions. Do not infer assignments.

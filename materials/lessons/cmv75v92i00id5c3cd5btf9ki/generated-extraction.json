@@ -1,0 +1,49 @@
+{
+  "disclosure": "Actual model-generated extraction of the supplied fictional transcript; requires human checking. Generated once for offline practice; the demo does not call a model.",
+  "model": "codex/gpt-6.1-sol",
+  "at": "2026-11-12T08:41:08.874Z",
+  "rows": [
+    {
+      "action": "Send the revised venue map to the group.",
+      "evidence": "00:42 Leila: I’ll send the revised venue map to the group by Friday, 16 October 2026.",
+      "owner": "Leila",
+      "dueDate": "Friday, 16 October 2026",
+      "status": "Confirmed action"
+    },
+    {
+      "action": "Ask the printer about recycled paper.",
+      "evidence": "01:18 Omar: We should ask the printer about recycled paper.",
+      "owner": "Not stated — confirm",
+      "dueDate": "Not stated — confirm",
+      "status": "Proposal"
+    },
+    {
+      "action": "Update the volunteer checklist before orientation.",
+      "evidence": "01:46 Sofia: The volunteer checklist needs updating before orientation.",
+      "owner": "Not stated — confirm",
+      "dueDate": "Before orientation; date not stated — confirm",
+      "status": "Unresolved need; assignment not confirmed"
+    },
+    {
+      "action": "Confirm the room booking.",
+      "evidence": "02:20 Mateo: I can confirm the room booking.",
+      "owner": "Mateo",
+      "dueDate": "Not stated — confirm",
+      "status": "Confirmed action"
+    },
+    {
+      "action": "Order the name badges if the budget is approved.",
+      "evidence": "02:52 Leila: If the budget is approved, I’ll order the name badges on Monday, 19 October 2026.",
+      "owner": "Leila",
+      "dueDate": "Monday, 19 October 2026, if the budget is approved",
+      "status": "Confirmed conditional action"
+    },
+    {
+      "action": "Review the accessibility note.",
+      "evidence": "03:20 Omar: Can Sofia review the accessibility note? 03:48 Sofia: Yes, I’ll review it by Tuesday, 20 October 2026.",
+      "owner": "Sofia",
+      "dueDate": "Tuesday, 20 October 2026",
+      "status": "Confirmed action; Sofia accepted the preceding request"
+    }
+  ]
+}

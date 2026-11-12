@@ -1,0 +1,47 @@
+{
+  "disclosure": "Self-authored fictional community-event meeting. Synthetic practice audio; not a real meeting or independent ASR result. Silent gaps deliberately preserve authored timestamps.",
+  "segments": [
+    {
+      "seconds": 42,
+      "timestamp": "00:42",
+      "speaker": "Leila",
+      "text": "I’ll send the revised venue map to the group by Friday, 16 October 2026."
+    },
+    {
+      "seconds": 78,
+      "timestamp": "01:18",
+      "speaker": "Omar",
+      "text": "We should ask the printer about recycled paper."
+    },
+    {
+      "seconds": 106,
+      "timestamp": "01:46",
+      "speaker": "Sofia",
+      "text": "The volunteer checklist needs updating before orientation."
+    },
+    {
+      "seconds": 140,
+      "timestamp": "02:20",
+      "speaker": "Mateo",
+      "text": "I can confirm the room booking."
+    },
+    {
+      "seconds": 172,
+      "timestamp": "02:52",
+      "speaker": "Leila",
+      "text": "If the budget is approved, I’ll order the name badges on Monday, 19 October 2026."
+    },
+    {
+      "seconds": 200,
+      "timestamp": "03:20",
+      "speaker": "Omar",
+      "text": "Can Sofia review the accessibility note?"
+    },
+    {
+      "seconds": 228,
+      "timestamp": "03:48",
+      "speaker": "Sofia",
+      "text": "Yes, I’ll review it by Tuesday, 20 October 2026."
+    }
+  ]
+}
