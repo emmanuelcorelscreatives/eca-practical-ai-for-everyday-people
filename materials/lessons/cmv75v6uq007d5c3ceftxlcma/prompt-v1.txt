@@ -1,0 +1,1 @@
+Using only SUPPLIED NOTES, write a friendly reminder of 30 to 60 words. Include the event, date, time, location, audience, and what to bring. If a required detail is absent, write 'Missing information:' and name the missing field. Do not invent names, contact details, promises, or extra event facts. Format: short heading, one paragraph, then a Bring list.

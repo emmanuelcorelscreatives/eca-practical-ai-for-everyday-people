@@ -1,0 +1,62 @@
+{
+  "version": 1,
+  "projectId": "cmv75v6uq007d5c3ceftxlcma",
+  "scriptSha256": "450695ebd5f49e4e5803708dfdb79429b185256047493ccac3cdf69f73a3bf52",
+  "files": [
+    {
+      "name": "CHANGELOG.txt",
+      "sha256": "7438042e3ead39fd3c1c9dfb299d3d711178adb6e4ded503b0b5f00dc5c8a7e4",
+      "bytes": 519
+    },
+    {
+      "name": "Event Reminder v1 CURRENT 2026-10-13.txt",
+      "sha256": "cbb005869e2e27b80df6f0f4bc14e12f306bf86eaa52a1ed66bc961f9f053cd8",
+      "bytes": 1436
+    },
+    {
+      "name": "Event Reminder v2 DRAFT 2026-10-13.txt",
+      "sha256": "2f7cce601a07d18ff5b3daac839e3f6f00845ad6ca61efe9bd766f79ada4afe9",
+      "bytes": 1129
+    },
+    {
+      "name": "PROVENANCE.md",
+      "sha256": "aa70d2026b6091d97e5403cef10a0b41c12c55d3702e225244f4c86dc3c4a6f3",
+      "bytes": 338
+    },
+    {
+      "name": "answer-key.md",
+      "sha256": "e56f1adc83594a26c44ad4eb698bb5f06eeb371d0f788f4ddb8aa9f07dae8f6d",
+      "bytes": 1713
+    },
+    {
+      "name": "blank-revision-record.txt",
+      "sha256": "a9eb242cbfd8bae1e71d294af8ed71362bfb3e2a216c332f3474a4150dd3c7c7",
+      "bytes": 301
+    },
+    {
+      "name": "prompt-v1.txt",
+      "sha256": "b3e4fd7c78ffc125e0e90b5ba43f461a101a54a64d983eac80f4fb6c5a42c11c",
+      "bytes": 358
+    },
+    {
+      "name": "prompt-v2-draft.txt",
+      "sha256": "3f07201e0eb0d99df8301246211b30036f1fac11e26adc4bcb6ab7ed2fc9bd6f",
+      "bytes": 430
+    },
+    {
+      "name": "supplied-notes.txt",
+      "sha256": "9459b0dcb0ff64bb76a96f166f4e216e301c089d8cca3961d1de6148369fea67",
+      "bytes": 194
+    },
+    {
+      "name": "supplied-output-v1.txt",
+      "sha256": "a2c8fb56002d41f568ef1919540a6d771d9d118ccfac216869d1caf5ec24c167",
+      "bytes": 230
+    },
+    {
+      "name": "worksheet.md",
+      "sha256": "584f621f4448cf57640c6b523c8df2cf4edacc1646d512b679f09db74ebcd977",
+      "bytes": 2741
+    }
+  ]
+}

@@ -1,0 +1,17 @@
+Template title:
+Purpose:
+Required inputs:
+Instruction:
+Quality check:
+
+Status: Draft
+Version:
+Revised (YYYY-MM-DD):
+Exact checked input:
+Exact checked output:
+Acceptance findings:
+Successful for this input (only after checking):
+Known weakness:
+Change made:
+Next test:
+Previous checked copy location:

@@ -1,0 +1,21 @@
+Event Reminder Template
+Status: Draft
+Version: v2
+Revised: 2026-10-13
+Purpose: Turn supplied event notes into a friendly reminder.
+Required inputs: Event; Date; Time; Location; Audience; What to bring.
+
+INSTRUCTION
+Using only SUPPLIED NOTES, write a friendly reminder of 30 to 60 words. Include the event, date, time, location, audience, and what to bring. If a required detail is absent, write 'Missing information:' and name the missing field. Do not invent names, contact details, promises, or extra event facts. Format: short heading, one paragraph, then a Bring list. State each logistical detail once unless repetition prevents confusion.
+
+QUALITY CHECK
+[ ] Every fact matches the supplied notes.
+[ ] Every required item appears.
+[ ] No unsupported detail was added.
+[ ] Length is 30 to 60 words.
+
+CHECKED EXAMPLE
+Pending. Do not treat v1 example as a successful v2 test.
+Known weakness carried forward: Repeated date in the saved v1 result; not yet retested for v2.
+Change made: Reduced unnecessary repetition, with only one added sentence.
+Next test: Check this revision; do not replace v1 until a checked result exists.
