@@ -1,0 +1,4 @@
+case,intended_use,possible_error,chosen_depth,reason,matching_checks,decision
+Theme list,Private discussion only,Unsuitable idea,,,,
+Internal meeting notice,Share with planning group,Wrong date or room,,,,
+Venue recommendation,Commit funds for 40 people,Insufficient seats or cost error,,,,

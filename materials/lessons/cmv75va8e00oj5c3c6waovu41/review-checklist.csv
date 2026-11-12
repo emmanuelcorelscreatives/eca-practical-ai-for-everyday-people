@@ -1,0 +1,13 @@
+Check,Expected evidence,Your observation,Pass or repair
+Clear question,Which refreshment table served the most cups?,,
+Chart type,Horizontal bar or clear column chart for separate categories,,
+Range,Refreshments!A1:B5 including headers and all four records,,
+Categories,Water station; Tea table; Coffee table; Juice table,,
+Values,84; 61; 47; 72,,
+Units,Cups served not litres percent or currency,,
+Scale,Zero baseline for lengths,,
+Title,Cups served by refreshment table,,
+Number axis,Cups served,,
+Category axis,Refreshment table,,
+Readability,All labels and values readable at final destination size,,
+Independent comparison,84 greater than 72 greater than 61 greater than 47,,

@@ -1,0 +1,82 @@
+{
+  "version": 1,
+  "projectId": "cmv75vcs901175c3cvv5ry0u8",
+  "scriptSha256": "be37521037c3e4023902dc9e2be4f3890ac83fe5a84e99bcc6311d4ee9450471",
+  "files": [
+    {
+      "name": "answer-guide.md",
+      "sha256": "4845aa105588e8961f25ab9a5071ff40e398d5526277f03c78a24c2ca31ad000",
+      "bytes": 2558
+    },
+    {
+      "name": "cases.csv",
+      "sha256": "46cd4bfa5dba031ef6cb2500ba7f0fa6656ab78f80333c91881e7674366b010a",
+      "bytes": 647
+    },
+    {
+      "name": "correction-log.csv",
+      "sha256": "6ef84679ea7d2df0fe26a82a99e2a9abac6f79025c30025a6a04aa37a64a0878",
+      "bytes": 130
+    },
+    {
+      "name": "decision-record.md",
+      "sha256": "f3d6b0c16b8b7b1f49ab74dc055c271290bddc7d6e974d30f86ad8ef01909f3d",
+      "bytes": 545
+    },
+    {
+      "name": "feature-record.csv",
+      "sha256": "763000c67aa2f333fe48e960a665bec43ba5ff42ff9ee77b7791d15bde6c470a",
+      "bytes": 252
+    },
+    {
+      "name": "final-acceptance.csv",
+      "sha256": "8253851be9cb548296249b02c3bf94b3ff23142dd9256e7ae493f9f71a5b2960",
+      "bytes": 497
+    },
+    {
+      "name": "manual-notice-template.txt",
+      "sha256": "493cf783276cc758b7ac50a1984210d2916c14be53a2806ad0a05464fad13ef6",
+      "bytes": 622
+    },
+    {
+      "name": "rubric.csv",
+      "sha256": "3b06235e812e6028512afc660e61e4073e31a2fc328ff3bb83c30e00f25b75a8",
+      "bytes": 1552
+    },
+    {
+      "name": "run-record.csv",
+      "sha256": "9b442173b53b3bae5c7b8a47230d929f5fa0d7ad137449f102eec206f58b5c1c",
+      "bytes": 326
+    },
+    {
+      "name": "source-conflicting-venue.txt",
+      "sha256": "74599437093d726ca46b21108ad6afc9b3140dfa91b2d689958d12deb7239d10",
+      "bytes": 410
+    },
+    {
+      "name": "source-missing-time.txt",
+      "sha256": "a9c6ab2e1b623a5c7417a4b34c5d095b4a9cce2d255f7ec5fc56591e7f56a4a0",
+      "bytes": 314
+    },
+    {
+      "name": "source-typical.txt",
+      "sha256": "e425c601929f5f439ff067fa8bbc9875397d68c49540eaf7aa87f6df8a262e82",
+      "bytes": 376
+    },
+    {
+      "name": "task-brief.txt",
+      "sha256": "ced15c8dafab8c0e6e79c9f731c421d405dff4630b13a982fd820b6391452309",
+      "bytes": 184
+    },
+    {
+      "name": "time-record.csv",
+      "sha256": "93b92ba84466bc668e7fbb53577b76a6a993c2fc0b6ad007e059dd1e5579c32f",
+      "bytes": 394
+    },
+    {
+      "name": "worksheet.md",
+      "sha256": "c3fa1fbef30bf79bc5b2d9a77baebe5ed98d9aae69ba3da3e1f2eeaee54329c4",
+      "bytes": 4372
+    }
+  ]
+}

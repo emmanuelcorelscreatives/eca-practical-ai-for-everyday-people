@@ -1,0 +1,57 @@
+{
+  "version": 1,
+  "projectId": "cmv75va8e00oj5c3c6waovu41",
+  "scriptSha256": "d71188dc131c1e77d71e7d54fb750f191cfe4ad8442749db2c51d7c58f113b09",
+  "files": [
+    {
+      "name": "Community Event Refreshments.xlsx",
+      "sha256": "1d66ed7f1df16d461faa37a3ddbd4a576d664c2be64cacd693427ffc14b8d9d4",
+      "bytes": 2225
+    },
+    {
+      "name": "LICENSE.txt",
+      "sha256": "1cc2a36627fbcec461cceeeeb06a94d407d9365f1d6c951e0c56bb1754f817ee",
+      "bytes": 210
+    },
+    {
+      "name": "answer-key.json",
+      "sha256": "9bb7aa83070237fddac4b12110343ef879022c58b831435b1eaaff2e57deddaf",
+      "bytes": 839
+    },
+    {
+      "name": "chart-source.svg",
+      "sha256": "54388a6f00019d7d8e2df5d38b2333951a331b2526ce5c0da21bc02d122c0f9a",
+      "bytes": 1186
+    },
+    {
+      "name": "error-example-total-row.csv",
+      "sha256": "32f96e315bbbc389af491adea240e456dc68de72a2e57bd4a78a33056b3d7c6f",
+      "bytes": 107
+    },
+    {
+      "name": "question-and-prompt.txt",
+      "sha256": "53b52bb253ac7b590e3a4481f190e9c6e25e00d257a87b63f962968910eb1d1c",
+      "bytes": 386
+    },
+    {
+      "name": "refreshments.csv",
+      "sha256": "50af6eba6caa72a79c4b7553750ddaf311b4e040f5420cb552bd1cbda7aab769",
+      "bytes": 96
+    },
+    {
+      "name": "review-checklist.csv",
+      "sha256": "b8435b2bad4016b717d9a08339f0a21cf68d50d5226bede10f5f5a04d83fc825",
+      "bytes": 681
+    },
+    {
+      "name": "verify.py",
+      "sha256": "55edb59f1b9145b9aeb39273822615a34c11f3d71186acef59e08899dcc59aef",
+      "bytes": 1657
+    },
+    {
+      "name": "worksheet.md",
+      "sha256": "e9b8dae6ebef741bd25c4f2ba1cc33f74a13130426049e06794e8aee5e81efdd",
+      "bytes": 4619
+    }
+  ]
+}

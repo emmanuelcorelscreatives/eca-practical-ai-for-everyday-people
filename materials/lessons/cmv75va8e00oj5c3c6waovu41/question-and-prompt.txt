@@ -1,0 +1,5 @@
+Question: Which refreshment table served the most cups?
+
+Using only this fictional table, recommend one chart type to answer: Which refreshment table served the most cups? Do not change any value. State the units, assumptions, selected range, and checks I should perform.
+
+Any answer is a generated suggestion, not verified analysis. No assistant execution is claimed in this exercise.

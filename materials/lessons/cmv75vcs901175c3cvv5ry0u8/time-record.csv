@@ -1,0 +1,10 @@
+Case,Tool,Run,Setup seconds,Generation seconds,Source checking seconds,Correction seconds,Formatting seconds,Total seconds,Timing convention/limitations
+Typical,A,1,,,,,,,
+Typical,B,1,,,,,,,
+Typical,Manual,1,,,,,,,
+Missing time,A,1,,,,,,,
+Missing time,B,1,,,,,,,
+Missing time,Manual,1,,,,,,,
+Conflicting venue,A,1,,,,,,,
+Conflicting venue,B,1,,,,,,,
+Conflicting venue,Manual,1,,,,,,,

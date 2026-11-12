@@ -1,0 +1,57 @@
+{
+  "version": 1,
+  "projectId": "cmv75v7kp00av5c3csbmjq67k",
+  "scriptSha256": "760d5d2e1865c3ee85107ccacd6a13878dc6938829b9ad43a7ee781fb7c70ab8",
+  "files": [
+    {
+      "name": "answers.md",
+      "sha256": "c37a05ca7aff61872129f7bbde60f5a67d4558ac367c828c0344a1cc614b1a1e",
+      "bytes": 2272
+    },
+    {
+      "name": "calculate.py",
+      "sha256": "df6a175f1bf719559e22714619b8964373da0abc00afd19122fb1b41544a34b0",
+      "bytes": 833
+    },
+    {
+      "name": "decision-record.md",
+      "sha256": "f100060638ec03995eb185242244c1214dc7d0d4797719fb870a73f690634a5e",
+      "bytes": 590
+    },
+    {
+      "name": "depth-practice.csv",
+      "sha256": "85bafe3823553b9b12b37ac3124c3c28077929ce042cf2c36d1a8f3a11a435ee",
+      "bytes": 291
+    },
+    {
+      "name": "expected-checks.md",
+      "sha256": "1e1389291aaece3b8d31d4de56590ea4586e43366b000db0baa0307f67da930a",
+      "bytes": 834
+    },
+    {
+      "name": "input.md",
+      "sha256": "30d42f02cc8deb5cd87f05b0b95d24089a949b472f86f2b22d773e2123e2e95e",
+      "bytes": 586
+    },
+    {
+      "name": "sources.md",
+      "sha256": "0d23fd365b6e87f86046dbdb2ac00421ef0736a05312db66b9aa77e5842fcef9",
+      "bytes": 1550
+    },
+    {
+      "name": "standard-draft.md",
+      "sha256": "418cade87ca59c98dc08325d964dde75ff0b7e0437e5936c8a871190cad5c4f2",
+      "bytes": 759
+    },
+    {
+      "name": "teaching-output.md",
+      "sha256": "a87c910595a6258292e6651c6b839b33beed251a2196f5240286cb56f626986d",
+      "bytes": 537
+    },
+    {
+      "name": "worksheet.md",
+      "sha256": "6ed3c55ae01477c678576ca68c3dd30f578cecd1886264b830d073eabe6aae0c",
+      "bytes": 3378
+    }
+  ]
+}

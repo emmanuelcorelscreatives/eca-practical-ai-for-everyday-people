@@ -1,0 +1,4 @@
+Case,Intended use,Source input,Acceptance criteria,Tool A,Tool B,Features available,Editing effort,Notes
+Typical case,Public-information draft,source-typical.txt,Preserve supplied details; no invented details;90–120words,,,,,Complete practice variation
+Missing-information case,Public-information draft,source-missing-time.txt,Flag missing time; preserve confirmed details; no guessing;90–120words,,,,,Do not borrow14:00from typical case
+Conflicting-input case,Public-information draft,source-conflicting-venue.txt,Flag BOTH venue names unresolved and missing time; no silent selection;90–120words,,,,,Later line is not verified current

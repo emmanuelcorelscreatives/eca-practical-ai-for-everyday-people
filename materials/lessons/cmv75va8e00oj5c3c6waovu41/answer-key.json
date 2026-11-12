@@ -1,0 +1,39 @@
+{
+  "fictional": true,
+  "question": "Which refreshment table served the most cups?",
+  "sourceRange": "Refreshments!A1:B5",
+  "headers": [
+    "Refreshment table",
+    "Cups served"
+  ],
+  "records": [
+    {
+      "category": "Water station",
+      "cups": 84
+    },
+    {
+      "category": "Tea table",
+      "cups": 61
+    },
+    {
+      "category": "Coffee table",
+      "cups": 47
+    },
+    {
+      "category": "Juice table",
+      "cups": 72
+    }
+  ],
+  "largest": {
+    "category": "Water station",
+    "cups": 84
+  },
+  "total": 264,
+  "totalInCategoryChart": false,
+  "threeRowError": "Refreshments!A1:B4 omits Juice table (72)",
+  "chartTitle": "Cups served by refreshment table",
+  "numericAxisTitle": "Cups served",
+  "categoryAxisTitle": "Refreshment table",
+  "baseline": 0,
+  "formulaResultsAreExpectedNotExecuted": true
+}

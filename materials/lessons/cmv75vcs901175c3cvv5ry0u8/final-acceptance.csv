@@ -1,0 +1,10 @@
+Case,Tool/manual,Run,Final artifact filename,Actual destination,Names/date checked,Venue/time status checked,Admission checked,Observed word count,Formatting checked,Human review result/hold,Reviewer/date,Evidence/remaining gaps
+Typical,A,1,,,,,,,,,,
+Typical,B,1,,,,,,,,,,
+Typical,Manual,1,,,,,,,,,,
+Missing time,A,1,,,,,,,,,,
+Missing time,B,1,,,,,,,,,,
+Missing time,Manual,1,,,,,,,,,,
+Conflicting venue,A,1,,,,,,,,,,
+Conflicting venue,B,1,,,,,,,,,,
+Conflicting venue,Manual,1,,,,,,,,,,

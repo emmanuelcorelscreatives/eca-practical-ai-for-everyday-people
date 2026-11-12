@@ -1,0 +1,9 @@
+Case,Tool,Run,Exact input artifact,Original output artifact,Corrected output artifact,Settings evidence,Outcome evidence,Limitations
+Typical,A,1,,,,,,
+Typical,B,1,,,,,,
+Missing time,A,1,,,,,,
+Missing time,A,2,,,,,,
+Missing time,B,1,,,,,,
+Missing time,B,2,,,,,,
+Conflicting venue,A,1,,,,,,
+Conflicting venue,B,1,,,,,,
