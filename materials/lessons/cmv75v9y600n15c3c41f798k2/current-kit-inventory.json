@@ -4,9 +4,39 @@
   "scriptSha256": "c4116277c54cd62be71e359b940095e83532e88570ae65a5086889612e89a083",
   "files": [
     {
+      "name": "CV.docx",
+      "sha256": "831158f6a17aeab5f2ffc56444f0376e8bb717cfc5470463395f8acbf96f04b1",
+      "bytes": 5572
+    },
+    {
+      "name": "CV.odt",
+      "sha256": "141469b56cf3f48355efdda81c80a4e815203efe05176972148eced351904786",
+      "bytes": 15650
+    },
+    {
+      "name": "CV.pdf",
+      "sha256": "7b2f5dc7e66c7e5c89aa9179c788371ca9ca9b0f4614e2c66144f6056ac15caf",
+      "bytes": 32040
+    },
+    {
       "name": "README.md",
-      "sha256": "01a4514253a48ae3efbfbe95db4cedcb06b49afff1ea2fa598f160b2ef2426a6",
-      "bytes": 1253
+      "sha256": "ecde4373cad341d7e283934fd38ae4d6a945707318342d6a97a0b147f06f54ad",
+      "bytes": 2882
+    },
+    {
+      "name": "Supporting statement.docx",
+      "sha256": "ac0d1127a991c777c7d6f6070ac87105ebd632ea6f31081d57b4e980b8c43802",
+      "bytes": 5508
+    },
+    {
+      "name": "Supporting statement.odt",
+      "sha256": "48b65a0ae83bb10a8764133f208606ca2e087dbb9af301236d52ef469a607a01",
+      "bytes": 18079
+    },
+    {
+      "name": "Supporting statement.pdf",
+      "sha256": "ea7afa832c13d8b066412401152209a49c7be3ae3fcfa21e86b3abf4faee8f85",
+      "bytes": 27893
     },
     {
       "name": "answer-key.md",
@@ -35,8 +65,13 @@
     },
     {
       "name": "export-and-submission-checklist.md",
-      "sha256": "c30ab5c3f1e799ba17b3cba63700b8786eb1f9bc29b4d3caba81232b999d992e",
-      "bytes": 2360
+      "sha256": "396c7f75c5cc8a9aad1e410ee43839601bfbe25cc5097591077ecd1b63b1c8e8",
+      "bytes": 2554
+    },
+    {
+      "name": "practice-application.html",
+      "sha256": "5e58526cb51a9c954f40283c567f49d908cc5187ea78f54ea9c118087d2be773",
+      "bytes": 5050
     },
     {
       "name": "requirement-table.csv",
@@ -45,8 +80,8 @@
     },
     {
       "name": "role-description.md",
-      "sha256": "e28961d2af6ebda1e88b8c6d63b76ba182a60d748490b1042e831ec100fc4b1a",
-      "bytes": 841
+      "sha256": "d6e5ab9ac88d3671635c9f35d2c6eb5df2c88f0491843587279d8423e6d12e35",
+      "bytes": 1066
     },
     {
       "name": "sentence-review.csv",

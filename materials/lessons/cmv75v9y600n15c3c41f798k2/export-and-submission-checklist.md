@@ -11,5 +11,5 @@ All steps refer to fictional practice files. No automatic upload or external sub
 6. Save final checked PDFs as `CV.pdf` and `Supporting statement.pdf`. Confirm file type is PDF and select the final export rather than an earlier draft.
 7. In a fictional local practice portal, attach `CV.pdf` to CV. Verify its displayed filename while Supporting statement is still empty; Submit should be disabled.
 8. Attach `Supporting statement.pdf` to the matching field. Confirm both filenames and compare practice form details with the checked documents.
-9. Complete the application form separately. Match each delivery requirement to its action.
+9. Review the application form as a separate delivery requirement. In this fictional exercise, name and contact details remain `[not supplied]`; record them as unresolved, leave form completion unchecked and match each delivery requirement to its action. Do not invent missing details.
 10. Stop before Submit. This lesson does not claim a real application was sent. Unknown factual details must be resolved by the actual applicant before a real submission.
