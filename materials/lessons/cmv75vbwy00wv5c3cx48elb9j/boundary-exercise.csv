@@ -1,0 +1,7 @@
+Case,Step A,Step B,Learner: first external action,Learner: required review point
+Email,Save private unsent draft,Send to mailing list,,
+Post,Save proposed announcement,Publish to public page,,
+Purchase,Prepare recommendation or basket,Confirm order,,
+Deletion,Prepare removal proposal,Delete shared files,,
+Shared record,Edit separate private review copy,Update live shared record,,
+Notification,Save draft and notify reviewer,Automatically publish immediately afterward,,

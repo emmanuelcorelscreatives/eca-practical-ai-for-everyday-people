@@ -1,0 +1,57 @@
+{
+  "version": 1,
+  "projectId": "cmv75vbwy00wv5c3cx48elb9j",
+  "scriptSha256": "f1e39af2ed504112ee9a94c2f1503c0eac098a7af216239e8e0cb8326ab4efea",
+  "files": [
+    {
+      "name": "README.md",
+      "sha256": "ff92d777ce56dc9ee8c20ba92a7f57f08b1889f279a3cf36a3af20303f94628f",
+      "bytes": 1519
+    },
+    {
+      "name": "answer-key.md",
+      "sha256": "da2728422821e075e66c583c46c4403245176be661f7b2946b30ad2bb9a1a3b6",
+      "bytes": 1458
+    },
+    {
+      "name": "boundary-exercise.csv",
+      "sha256": "ca512eb66a9064b885c010633e27ab56be3316a01f1e15fb82321dd47d6b55ad",
+      "bytes": 480
+    },
+    {
+      "name": "decision-log.csv",
+      "sha256": "fa2d7b801b8821b32b6c8c3028f89176fd1341fd26b62dc4e83d093d64a31ed2",
+      "bytes": 193
+    },
+    {
+      "name": "draft-announcement.md",
+      "sha256": "0354326df89d3eba85a13dd9aa19ea2f61f0b5cf8e4e3018c401eac04c0bb529",
+      "bytes": 495
+    },
+    {
+      "name": "event-notes.md",
+      "sha256": "795f5f86fe7f1622f715700a6afdde97c4365511d96016bbf0f1740982091eaf",
+      "bytes": 883
+    },
+    {
+      "name": "review-checklist.md",
+      "sha256": "ef8d14d1f067601923d9d29b7225e7da14b9fde844e653e5739da10b7a1c94e3",
+      "bytes": 1269
+    },
+    {
+      "name": "review-queue.csv",
+      "sha256": "2dc6ed92732dd6960f099803abb831cb2cb2d4787c98d09363f9adf1e20275e9",
+      "bytes": 524
+    },
+    {
+      "name": "test-input.csv",
+      "sha256": "95fa628dd669f3831ae75d8034d39cf50f4a6df51d9bc5b6f0611a0718ca6c2c",
+      "bytes": 363
+    },
+    {
+      "name": "worksheet.md",
+      "sha256": "4e64f82c801ac0e3a6c8cb57c75f58d4f7b9fe6da7e113adff6075845ce43f26",
+      "bytes": 2685
+    }
+  ]
+}
