@@ -1,0 +1,7 @@
+Case,Request ID,Contact,Activity,Date,Attendance Estimate,Accessibility Notes,Permission Confirmed
+Normal A,WR-101,alex@example.org,Community craft workshop,2026-12-01,12,Step-free entrance requested,Yes
+Normal B,WR-102,bina@example.org,Beginner gardening workshop,2026-12-02,10,Large-print handout requested,Yes
+Normal C,WR-103,chen@example.org,Community storytelling workshop,2026-12-03,15,None,Yes
+Missing Contact,WR-105,,Community music workshop,2026-12-04,8,None,Yes
+Duplicate ID,WR-104,dara@example.org,Community reading workshop,2026-12-05,9,None,Yes
+Ambiguous Safety Note,WR-106,eli@example.org,Community art workshop,2026-12-06,11,Quiet space may be needed; safety arrangement unclear,Yes

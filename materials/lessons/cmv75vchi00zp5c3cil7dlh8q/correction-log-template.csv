@@ -1,0 +1,6 @@
+Case,Route,Type,Original evidence,Observed wrong output,Correction,Retest evidence,Active seconds already included?
+Normal A,Manual,Typing,requests.csv Activity,,,,
+Normal B,Automated,Mapping,requests.csv Accessibility Notes,Intentionally wrong study fixture: mapping-fixture.csv,,,
+,Automated,Formatting,,,,,
+,Automated,Formatting,,,,,
+,Manual,,,,,,

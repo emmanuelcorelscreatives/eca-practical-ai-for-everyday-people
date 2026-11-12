@@ -1,0 +1,5 @@
+Case,Route,Elapsed seconds,Active work seconds,Waiting seconds,Corrections,Provenance
+Normal A,Manual,340,340,0,,Authored fictional demonstration
+Normal A,Automated,230,95,135,0,Authored fictional demonstration
+Duplicate ID,Manual,,230,,,Authored fictional demonstration: active only
+Duplicate ID,Automated,,80,,,Authored fictional demonstration: active only

@@ -1,0 +1,13 @@
+Case,Route,Start,Finish,Elapsed seconds,Active work seconds,Waiting seconds,Review included?,Correction count,Recovery included?,Outcome,Evidence note
+Normal A,Manual,,,,,,,,,,
+Normal A,Automated,,,,,,,,,,
+Normal B,Manual,,,,,,,,,,
+Normal B,Automated,,,,,,,,,,
+Normal C,Manual,,,,,,,,,,
+Normal C,Automated,,,,,,,,,,
+Missing Contact,Manual,,,,,,,,,,
+Missing Contact,Automated,,,,,,,,,,
+Duplicate ID,Manual,,,,,,,,,,
+Duplicate ID,Automated,,,,,,,,,,
+Ambiguous Safety Note,Manual,,,,,,,,,,
+Ambiguous Safety Note,Automated,,,,,,,,,,

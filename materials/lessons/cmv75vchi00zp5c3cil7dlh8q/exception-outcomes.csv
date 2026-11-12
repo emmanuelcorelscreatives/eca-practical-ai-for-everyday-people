@@ -1,0 +1,4 @@
+Case,Required safe outcome,Task card permitted?,Human check,External action
+Missing Contact,Clarification required,No,Obtain missing contact without guessing,None
+Duplicate ID,Duplicate confirmed,No new duplicate card,Compare WR-104 against existing log,None
+Ambiguous Safety Note,Manual assessment required,No approval,Responsible people obtain missing context,None

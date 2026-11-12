@@ -1,0 +1,4 @@
+# Provenance and boundaries
+All request records, contacts, task examples and log entries in this kit are Academy-authored fictional practice data. They describe no real participants or event. Dates are synthetic. Contacts use example.org. No private learner, instructor, account, purchase, message, external action or vendor result is included.
+
+Exact demonstration aggregates and explicitly known timings are taken from Lesson 216's unchanged authored narration. Unknown per-case timings remain blank. The paired empty timing template is for learners' genuine practice observations; it is not filled with invented stopwatch results. The correction fixture is intentionally wrong and visibly labelled. This kit is platform-neutral; it neither includes nor claims screenshots of any named vendor application.

@@ -1,0 +1,9 @@
+Metric,Unit,Value,Provenance
+Manual batch elapsed,seconds,2280,Authored fictional six-case demonstration
+Automated batch elapsed,seconds,1440,Authored fictional six-case demonstration
+Manual batch active,seconds,2280,Authored fictional six-case demonstration
+Automated batch active,seconds,870,Authored fictional six-case demonstration
+Initial setup,seconds,3120,Authored fictional demonstration
+Maintenance and required retest,seconds,660,Authored fictional demonstration
+Manual corrections,count,2,Authored fictional demonstration
+Automated corrections,count,3,Authored fictional demonstration
