@@ -1,0 +1,32 @@
+{
+  "version": 1,
+  "projectId": "cmv75v5i6000p5c3c4fhvqwgd",
+  "files": [
+    {
+      "name": "README.md",
+      "sha256": "27d0332d983575e1e01fbfc4c39b5b8edb463861f5caafec2f68ea558676af12",
+      "bytes": 2446
+    },
+    {
+      "name": "baseline-record.csv",
+      "sha256": "e326c7982ace124825b792969988c217307b9f3cdd9625d42b2d9fc4f49dd408",
+      "bytes": 404
+    },
+    {
+      "name": "baseline-worksheet.html",
+      "sha256": "ac80d26742980bd0d01ed647fd9b666f2602ecc3f3ce091a33be0e31e9a194ad",
+      "bytes": 2996
+    },
+    {
+      "name": "expected-checklist.md",
+      "sha256": "6fbea6e642f8c8adf8ef1227d7227c8fc95d50c331c885927e0c521b13ea45b6",
+      "bytes": 308
+    },
+    {
+      "name": "source-notes.txt",
+      "sha256": "11481ec02230213d6d98866ec9df7c6e07c36086cb316b749bec76e2b7c469ca",
+      "bytes": 156
+    }
+  ],
+  "scriptSha256": "bc394c024c656de166466e31a3e63572f8cadccc3d0471910555717f3e6b74fa"
+}
