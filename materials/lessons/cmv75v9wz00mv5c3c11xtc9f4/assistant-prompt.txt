@@ -1,0 +1,31 @@
+Extract each separate criterion from the supplied fictional job listing. Quote the exact supporting phrase. Classify each item as required, preferred, responsibility, or unclear. Do not infer missing requirements. Leave unknown details blank. Label your result AI-generated draft — verify against listing. Keep each criterion separate, retain the original words and do not add credentials, amounts, locations, application instructions or assumptions.
+
+Operations Coordinator — Sample Organization
+Fictional Academy practice listing. Not an actual vacancy or employer.
+
+Role overview
+Support project coordination and routine team administration.
+
+Responsibilities
+coordinate weekly schedules
+maintain accurate records
+communicate with internal teams
+Experience with spreadsheets
+
+Qualifications
+Required
+Minimum two years of experience coordinating projects
+Strong written communication
+
+Clarification needed
+A diploma or equivalent experience
+
+Preferred
+Not stated
+
+Work details
+Occasional travel
+Location: Not stated
+Schedule: Not stated
+Work authorization: Not stated
+Application instructions: Not stated
