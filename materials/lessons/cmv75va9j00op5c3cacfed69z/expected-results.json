@@ -1,0 +1,40 @@
+{
+  "disclosure": "Fictional self-authored event expenses. Three explicitly separate fixtures preserve distinct authored five-row, six-row range-check and seven-row comparison examples. Do not combine their ranges or call730 the five-row total. No real purchase/person/account data. Dollar notation only in authored730comparison, no jurisdiction or monetary advice.",
+  "five": {
+    "count": 5,
+    "range": "D2:D6",
+    "formula": "=SUM(D2:D6)",
+    "total": "615.00"
+  },
+  "six": {
+    "count": 6,
+    "wrongRange": "D2:D6",
+    "correctRange": "D2:D7",
+    "lastRow": 7,
+    "total": "650.00",
+    "unassignedAmount": "35.00"
+  },
+  "seven": {
+    "count": 7,
+    "range": "D3:D9",
+    "formula": "=SUM(D3:D9)",
+    "amounts": [
+      "185.50",
+      "96.00",
+      "210.00",
+      "75.00",
+      "48.50",
+      "35.00",
+      "80.00"
+    ],
+    "total": "730.00",
+    "groups": {
+      "Food": "260.50",
+      "Transport": "96.00",
+      "Supplies": "128.50",
+      "Venue": "210.00",
+      "Unassigned": "35.00"
+    }
+  },
+  "copyRule": "Original file remains unchanged; modify only a copied working file. Formula-result cached values are deterministic fixture calculations, not an observed named spreadsheet run."
+}

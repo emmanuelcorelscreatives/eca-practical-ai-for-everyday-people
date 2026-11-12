@@ -1,0 +1,72 @@
+{
+  "version": 1,
+  "projectId": "cmv75va9j00op5c3cacfed69z",
+  "scriptSha256": "2be80aa2066d56208801ea76cc047631398aeaeb4931c92ad395b0c865ed3b2d",
+  "files": [
+    {
+      "name": "EXERCISES.md",
+      "sha256": "3d6429385ee90b84f6b479597bd0870ffc701572d34b5aadedc0cbb4eca85f3c",
+      "bytes": 1233
+    },
+    {
+      "name": "Independent-comparison-seven.xlsx",
+      "sha256": "b7c503e1debab2f344ac91942815ac75f0c9940c269651885aa40790d0990d1b",
+      "bytes": 1732
+    },
+    {
+      "name": "Original-do-not-edit.xlsx",
+      "sha256": "fe7de6b7be091c262a257c7e3dedb011aaefdc60e161af0b95d4b6a3f4b788fe",
+      "bytes": 1601
+    },
+    {
+      "name": "README.md",
+      "sha256": "51411804ab41a2b07c18f91c08fa6d9a99e49eff44a4b50f3acbb32588f26974",
+      "bytes": 4073
+    },
+    {
+      "name": "Range-check-six.xlsx",
+      "sha256": "44e60df27ae7bedbd66aec9bb532f5693c6d2b467716e3c18cf0c36fd302a8b3",
+      "bytes": 1674
+    },
+    {
+      "name": "VERIFICATION.md",
+      "sha256": "e86b8d5369370cfe3e78c51ee8d1d0b1d47b1691a15258654de130f52dcb4a0a",
+      "bytes": 871
+    },
+    {
+      "name": "Working-Copy-practice.xlsx",
+      "sha256": "2c1ed20bb5acabfb13c5b3078d9a6b4cb768c962a6f13d40abcf4d43ac0c1cd1",
+      "bytes": 1638
+    },
+    {
+      "name": "comparison-seven.csv",
+      "sha256": "27b708f61c9e4e006a9d86110243d38794307aed10dddcd95ed7cabe4d4cfd01",
+      "bytes": 239
+    },
+    {
+      "name": "expected-results.json",
+      "sha256": "10a506436c03367399cd4699e72cb32010fd4b4e545e598217b640b44fb8723f",
+      "bytes": 1223
+    },
+    {
+      "name": "index.html",
+      "sha256": "aee14a06cac7cc3eb6c09bdee194258b314014254aa864cf592dae3875978812",
+      "bytes": 10777
+    },
+    {
+      "name": "original-five.csv",
+      "sha256": "39aab2c44d74565ce9f89e8041634c637900786671047efb9c836341024338ed",
+      "bytes": 174
+    },
+    {
+      "name": "range-check-six.csv",
+      "sha256": "0f5d594efa64377f22fa16409f0731ee0a89ebe729f2bf4106b6421cefde5b29",
+      "bytes": 206
+    },
+    {
+      "name": "verify-kit.py",
+      "sha256": "53ffcfb1fa85c50de28d50b3952ee632c092b13af089b0961d3f43baff89775d",
+      "bytes": 3468
+    }
+  ]
+}
