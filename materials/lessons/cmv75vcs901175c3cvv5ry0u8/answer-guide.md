@@ -11,6 +11,6 @@ Word count: use one actual editor's count for both tools and record the conventi
 
 Timing: total is the sum of the five observed categories using non-overlapping intervals and the same unit. Blank means not measured, never zero. Record interrupted/waiting time and unavailable features. Keep repeated observations separately; no invented averages.
 
-Decision example format (not a finding): “For [tested task] in [recorded conditions], [tool/manual] met [requirements] and needed [observed corrections/effort]. Limitations are [actual limits]. I would [Keep/Revise/Reserve/Stop for this task] because [artifact evidence].” Tool A/B lecture outcomes are a teaching scenario, not an answer your real tools must reproduce.
+Decision example format (not a finding): “For [tested task] in [recorded conditions], [tool/manual] met [requirements] and needed [observed corrections/effort]. Limitations are [actual limits]. I would [Keep/Revise/Reserve/Stop for this task] because [artifact evidence].” The actual eight-response course example met the checked requirements for both configurations. It is a small observed case set, not an answer your own tools must reproduce or evidence of a universal winner.
 
 Final acceptance: open the corrected artifact in its real intended destination, recheck every confirmed name/date, unresolved venue/time, free admission, actual90–120word count and final formatting; record evidence in final-acceptance.csv. Apply equally to manual drafts. Human acceptance is separate from publication; unresolved facts keep publication held.

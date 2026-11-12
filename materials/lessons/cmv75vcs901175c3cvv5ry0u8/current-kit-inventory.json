@@ -1,12 +1,72 @@
 {
   "version": 1,
   "projectId": "cmv75vcs901175c3cvv5ry0u8",
-  "scriptSha256": "be37521037c3e4023902dc9e2be4f3890ac83fe5a84e99bcc6311d4ee9450471",
+  "scriptSha256": "2fac06a38706544495dc37ad5e7fea1539a47ac6ccb6b38fe78beb3e6c903116",
   "files": [
     {
+      "name": "A-conflict-1-original.txt",
+      "sha256": "04d8a90f58a9e651b3e3afb205cd8bb5d1734d8e9b9417b87de97d9972784173",
+      "bytes": 664
+    },
+    {
+      "name": "A-missing-1-original.txt",
+      "sha256": "c3c903e62de5447ffb130696e50523c6122cb4307cea443153df3300e04a3122",
+      "bytes": 687
+    },
+    {
+      "name": "A-missing-2-original.txt",
+      "sha256": "9d1b5a5c2f87050773b12ad3bafae50299f25bad1135c8f90308616d19854feb",
+      "bytes": 622
+    },
+    {
+      "name": "A-typical-1-original.txt",
+      "sha256": "68e0618e87686e72e84c0ccf9ffa1f9e6d076711b05116cf0fbef6a00b957958",
+      "bytes": 681
+    },
+    {
+      "name": "B-conflict-1-original.txt",
+      "sha256": "394c75e5584cbb2b93db41cb6361aae3dbc7ef32b001f69bf3806445fea8ec95",
+      "bytes": 645
+    },
+    {
+      "name": "B-missing-1-original.txt",
+      "sha256": "284a3f65c0228897b2dfc93440db04178b9725766d784504d772b42ec65a5ca9",
+      "bytes": 589
+    },
+    {
+      "name": "B-missing-2-original.txt",
+      "sha256": "e855504254ba6252373c83776ce524d5acccfea47527d0d53a3a5d0988856e35",
+      "bytes": 630
+    },
+    {
+      "name": "B-typical-1-original.txt",
+      "sha256": "729d1df8875f5617c56b0006047d7ff38c9b963557ec518897d88557923dd4cc",
+      "bytes": 640
+    },
+    {
+      "name": "Fair_Comparison.ods",
+      "sha256": "34c3c1eaad17aacaa87b04ff3f31ddd093fc4de3c07a9095adeca6aeac20641c",
+      "bytes": 30396
+    },
+    {
+      "name": "actual-body-wordcounts.csv",
+      "sha256": "d078aa0dfbb21371a244a6394470695038718e9627d695164679c6faff8448e2",
+      "bytes": 765
+    },
+    {
+      "name": "actual-eight-response-ledger.csv",
+      "sha256": "164930bf0b48b9e2f1d5364eaa3214adb65eb27781910276d0054765c98af3db",
+      "bytes": 2808
+    },
+    {
+      "name": "actual-example-readme.md",
+      "sha256": "e6cb97641d3156a83a6120dc1e235a06e83b5069a957e147449a5fee9988885c",
+      "bytes": 2067
+    },
+    {
       "name": "answer-guide.md",
-      "sha256": "4845aa105588e8961f25ab9a5071ff40e398d5526277f03c78a24c2ca31ad000",
-      "bytes": 2558
+      "sha256": "1ef00782ba662bc936cc9d91521fd2450324e60a0070e666dbe9ba940d888585",
+      "bytes": 2668
     },
     {
       "name": "cases.csv",
@@ -35,8 +95,8 @@
     },
     {
       "name": "manual-notice-template.txt",
-      "sha256": "493cf783276cc758b7ac50a1984210d2916c14be53a2806ad0a05464fad13ef6",
-      "bytes": 622
+      "sha256": "5d781d89945912390401119278fc0e3ba848888fcebc13de9587ca1dee7d91fc",
+      "bytes": 624
     },
     {
       "name": "rubric.csv",
@@ -75,8 +135,8 @@
     },
     {
       "name": "worksheet.md",
-      "sha256": "c3fa1fbef30bf79bc5b2d9a77baebe5ed98d9aae69ba3da3e1f2eeaee54329c4",
-      "bytes": 4372
+      "sha256": "56d7ab464b9daa2ef20051da25a1aec84f54a9752ebef42abe733109fb81526d",
+      "bytes": 5517
     }
   ]
 }

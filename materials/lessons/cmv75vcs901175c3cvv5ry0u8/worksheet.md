@@ -1,7 +1,7 @@
 # Lesson 225 — Compare Two Tools Fairly
 Emmanuel Corels Academy · Practical AI for Everyday People
 
-Use the same source notes and brief to compare two available assistants for a public-information drafting task. This kit is self-created fictional course material, not a real event or a report of tested product performance. Tool A and Tool B are evaluation labels; no brand or account is implied.
+Use the same source notes and brief to compare two available assistants for a public-information drafting task. The event notes are self-created fictional practice material. The included course example contains actual recorded model responses to those notes; it is a small task-specific observation, not a general product benchmark. Tool A is the GPT-6 Sol configuration and Tool B is GPT-6 Astra, both through the same Codex provider. Your own learner comparison can use two available assistants.
 
 ## Files and preparation
 Open `cases.csv` and the matching `source-*.txt` files. Open CSV files with UTF-8 encoding and a comma separator in LibreOffice Calc; widen columns and enable text wrapping. Save your working copy as Fair_Comparison.ods if desired. Use Writer or a plain document editor for notices. No special spreadsheet formulas, macros, downloads or paid account are required.
@@ -22,5 +22,9 @@ The complete case is an Academy practice variation. Its 14:00 start time is expl
 ## Check and manual fallback
 Use `answer-guide.md` for source-grounded checks, not as a desired tool response. If either assistant is unavailable, copy confirmed fields into `manual-notice-template.txt`, mark unresolved fields explicitly, and edit for readability. Leave publication on hold until a human confirms missing/conflicting fields. Nothing in this kit sends or publishes a notice. Record manual-route effort too.
 
-## Teaching examples and provenance
-The saved lecture describes Tool A adding an unsupported time and choosing a venue, and Tool B flagging uncertainty but needing length/readability edits. These are the authored teaching scenario, not measured results from current tools. This kit deliberately leaves all actual run outcomes, ratings, scores, timings and account features blank. Your real observations may differ; preserve them honestly. Never edit a tool's output to force the narrated pattern.
+## Actual course example and learner observations
+The separate actual course example preserves eight genuine responses: four for the GPT-6 Sol configuration and four for GPT-6 Astra through the same Codex provider. Both received the same three fictional case inputs and a separate missing-time repeat. All eight preserved the checked confirmed facts, flagged relevant missing or conflicting information, and met the recorded 90–120-word requirement. No factual winner or necessary factual/length correction was observed in this small set. Never force a tool to reproduce an expected mistake.
+
+The actual example is a comparison of named model configurations through one provider, with differences in request defaults and test times retained. Upload capabilities, outside retrieval and human full-task effort were not tested. Recorded API request elapsed times are separate from setup, checking, editing and formatting; the original B workflow times were not measured. A returned alias label was reconciled to separately retained native model evidence; no physical deployment or applied-effort parity is claimed.
+
+Keep the learner run sheets blank until you perform your own work. Preserve every original and repeat, including failures. Your outcomes can differ. A hypothetical feature-input exercise is separate from actual account capability evidence. Human publication approval remains separate, and unresolved event facts stay on hold.

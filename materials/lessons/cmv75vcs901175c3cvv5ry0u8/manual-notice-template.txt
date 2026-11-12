@@ -6,7 +6,7 @@ Start time: [copy confirmed time OR mark not provided—confirmation required]
 Activities: [copy confirmed activities]
 Audience: [copy confirmed audience]
 Admission: [copy confirmed admission]
-Draft text: [write90–120words using only this case's source; mark gaps clearly]
+Draft text: [write 90–120 words using only this case's source; mark gaps clearly]
 Unresolved fields:
 Human reviewer and review date:
 Publication status: ON HOLD until unresolved fields are confirmed.
