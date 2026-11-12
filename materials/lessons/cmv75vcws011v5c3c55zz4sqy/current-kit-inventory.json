@@ -1,8 +1,8 @@
 {
-  "version": 1,
+  "version": 2,
   "projectId": "cmv75vcws011v5c3c55zz4sqy",
   "lesson": 229,
-  "scriptSha256": "9668ceffd061075a2f6bac7e1ef2f86fd18e07a1daa6a2fe30fcf30333ae38cf",
+  "scriptSha256": "e3631898ddc8bcd8d419b82ae255835e5679894e8f3998f186195c33b0bf4e5a",
   "baselineSha256": "e1ba6684059fe886afa80dccd6ec9d9d5637276b55cf0adccd4a7902c2f2e87b",
   "files": [
     {
@@ -110,5 +110,13 @@
       "bytes": 977,
       "sha256": "c4fe25afd021eda0113adce40911cb504421249607b6f240d74954dd5ded9f50"
     }
-  ]
+  ],
+  "stageState": "REVERSIBLE_CANONICAL_REVISION_V2_PENDING_REGISTRAR",
+  "originalInventory": {
+    "path": "/var/lib/trejj-studio/maintenance/practical-ai-pocket-production-20261112/lesson-cmv75vcws011v5c3c55zz4sqy/kit/current-kit-inventory.json",
+    "sha256": "782f912c853ab11f74e457515be219a82b26b3a4edde566753a0b2e9aa1514c7"
+  },
+  "sourceSha256": "88269702817bd76fa4a7aeddfa304d28a60549ff85277f7ab8fbc2cded8a5d8a",
+  "historicalProvenancePreserved": "PROVENANCE.md retains original narrationSHA and original visual vendor caveat as historical authorship evidence. Not asserted current approval. Registrar must explicitly adjudicate this old metadata rather than assume unchangedbytes prove currentness.",
+  "kitDirectory": "/var/lib/trejj-studio/maintenance/practical-ai-pocket-production-20261112/lesson-cmv75vcws011v5c3c55zz4sqy/revision-v2/kit"
 }
