@@ -1,0 +1,97 @@
+{
+  "version": 1,
+  "projectId": "cmv75v5cj00015c3cy7w3z7ax",
+  "scriptSha256": "b0028ea93329f51bd7787a0e9b0562755bd3ffb89e42d2c9242c41c230412cee",
+  "files": [
+    {
+      "name": "LICENSE.txt",
+      "sha256": "c7f2aa4faace06b1e5f95d09523d2d5650e71418f453a8c2cb5b5970ced2856d",
+      "bytes": 269
+    },
+    {
+      "name": "README.md",
+      "sha256": "23a60a55223234dd5cdfd6c573d9b1cf430fc8c0341b8f5c3d87f29aff85d81e",
+      "bytes": 2531
+    },
+    {
+      "name": "answer-key.md",
+      "sha256": "61bfad068568313e0b32efdabacc337e3296ac2e11d7de2249465ae1c1a7221f",
+      "bytes": 2254
+    },
+    {
+      "name": "community-garden-afternoon.wav",
+      "sha256": "39f37b6ba4bce61403d41bace6e2889ea1f4280f3bf9dc62bdfee94570ab953b",
+      "bytes": 1497198
+    },
+    {
+      "name": "community-garden-source.txt",
+      "sha256": "8a1126ed8f546ff68b9c37f2b2487660d78510461894171e8e360403ab2fe60e",
+      "bytes": 474
+    },
+    {
+      "name": "event-brief.md",
+      "sha256": "71716ce94fe9869dc36e57526a20272e66fb093e105d7c0a40aa0e46c64237df",
+      "bytes": 529
+    },
+    {
+      "name": "event-costs.csv",
+      "sha256": "26dce510d2c4226d7bb6e4352c686f335ef9774198ee7e543f590338642a16c1",
+      "bytes": 78
+    },
+    {
+      "name": "learner-worksheet.csv",
+      "sha256": "a464105a4bf535ee9301638669c989e4e001631b6232ff26208ffcf110d75ead",
+      "bytes": 237
+    },
+    {
+      "name": "poster-copy.txt",
+      "sha256": "75e8ced601b4d66bec9d8b3758408ef7802599b313cfcb7a551999ad3c7b8ff1",
+      "bytes": 259
+    },
+    {
+      "name": "poster-draft-typo.txt",
+      "sha256": "bf1fed5be43a19ca810986162afab85066df1afac092a350262a40f8967fa9a6",
+      "bytes": 170
+    },
+    {
+      "name": "poster-layout.svg",
+      "sha256": "d5e9c2d061cc83ffb3398d26df9f8ebbbc1148749feddb804105d4ae27c5610c",
+      "bytes": 1223
+    },
+    {
+      "name": "seven-route-lab.md",
+      "sha256": "c80f382213c465d0019e9f1f90ded52fc27dcd868d0c81aee3f882c1b63ee165",
+      "bytes": 4856
+    },
+    {
+      "name": "source-page.html",
+      "sha256": "3bffc20492a78b0421d28b8f5f80c456d4a0a340a35c9aa0f7f9da404369bea2",
+      "bytes": 839
+    },
+    {
+      "name": "transcript-before.txt",
+      "sha256": "a01acb730632c47af72d38789261d7b7e83895aa346b69629e999cda95d4f858",
+      "bytes": 473
+    },
+    {
+      "name": "transcript-corrected.txt",
+      "sha256": "8a1126ed8f546ff68b9c37f2b2487660d78510461894171e8e360403ab2fe60e",
+      "bytes": 474
+    },
+    {
+      "name": "translation-draft-es.txt",
+      "sha256": "4c6571ebbcd1621e5774d55fcc759ff4797793b1cb642c9e57cc6b7ade83e8a6",
+      "bytes": 465
+    },
+    {
+      "name": "verify-kit.py",
+      "sha256": "c4bec56deb440ac74fdc3712f51fea2579e94089acd5be10b3c72bc30148408a",
+      "bytes": 1404
+    },
+    {
+      "name": "workflow-review.py",
+      "sha256": "d2fd612893d6a6780bff34c676564479449c15a5b47ca66ffb2ac64ea797e378",
+      "bytes": 840
+    }
+  ]
+}

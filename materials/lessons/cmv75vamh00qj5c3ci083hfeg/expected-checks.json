@@ -1,0 +1,23 @@
+{
+  "draftRequired": [
+    "Riversde Reading Day",
+    "Saturday, 24 Octobor",
+    "Fully accessible"
+  ],
+  "checkedRequired": [
+    "Riverside Reading Day",
+    "Saturday, 24 October",
+    "10:00\u201314:00",
+    "Community Hall",
+    "Free entry"
+  ],
+  "checkedForbidden": [
+    "Riversde",
+    "Octobor",
+    "Fully accessible"
+  ],
+  "draftBookBottom": 660,
+  "tableTop": 700,
+  "checkedBookBottom": 700,
+  "origin": "SYNTHETIC PRACTICE ILLUSTRATION \u2014 NOT EVENT EVIDENCE"
+}

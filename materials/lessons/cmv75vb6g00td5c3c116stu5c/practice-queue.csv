@@ -1,0 +1,5 @@
+Request number,Original message path,Category,Attention flag,Evidence phrase,Missing information,Source checked,Reviewer decision,Correction,Status,Safe handling
+R-001,messages/R-001.txt,,,,,,,,,
+R-002,messages/R-002.txt,,,,,,,,,
+R-003,messages/R-003.txt,,,,,,,,,
+R-004,messages/R-004.txt,,,,,,,,,

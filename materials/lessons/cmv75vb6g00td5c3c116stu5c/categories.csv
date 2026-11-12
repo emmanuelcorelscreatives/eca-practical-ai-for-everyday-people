@@ -1,0 +1,6 @@
+Category,Use when,Do not assume,Human attention
+Information,A request for approved facts,Do not invent organization facts,If facts are unavailable or consequential
+Booking or administration,A request to change an arrangement or record,Do not change any record or infer authority,Authorization and identity review before change
+Volunteer availability,"Offers, cancellations or scheduling",Do not confirm staffing or bookings,Missing or conflicting availability
+Safety or service issue,Possible harm or service disruption,A classification does not resolve danger,Possible harm requires prompt authorized review
+Unclear,Words do not support a dependable category,Do not force a category or guess missing fields,Seek human clarification

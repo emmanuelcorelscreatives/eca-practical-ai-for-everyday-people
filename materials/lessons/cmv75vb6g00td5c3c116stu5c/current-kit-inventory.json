@@ -1,0 +1,72 @@
+{
+  "version": 1,
+  "projectId": "cmv75vb6g00td5c3c116stu5c",
+  "scriptSha256": "8b0a68cc9ef2190796c2ba9560b3928d0b392658b2ba0a0e1e1b2d60b8b245f3",
+  "files": [
+    {
+      "name": "README.md",
+      "sha256": "05e96f5d71dfe82ac0a2a05863f1b5971ea3bc793c5e0353fb70ce8f391660d9",
+      "bytes": 2853
+    },
+    {
+      "name": "attention-rules.csv",
+      "sha256": "1ad09a4b1eec57608a38e720e3b20a70c135cfa3b2d9fe11a18520d69533c680",
+      "bytes": 276
+    },
+    {
+      "name": "categories.csv",
+      "sha256": "4af1b01b97f768a5288f84e33119085155f6964f87a45ca250c17e5af214b9a8",
+      "bytes": 739
+    },
+    {
+      "name": "correction-log.csv",
+      "sha256": "9dd0594b46b82874a932395a48b664f69c9548305be973af0208073fdbb0a61f",
+      "bytes": 134
+    },
+    {
+      "name": "messages/R-001.txt",
+      "sha256": "fae44b38aeba2088340f5ad38872f7b5b365c6533f3ed99a89e897a59a796bd2",
+      "bytes": 196
+    },
+    {
+      "name": "messages/R-002.txt",
+      "sha256": "ce94b155e630fe5fef9c3bfc824534e7701f69c108d1b7f4d4b98c5bdd8c94e2",
+      "bytes": 213
+    },
+    {
+      "name": "messages/R-003.txt",
+      "sha256": "0e8a9eff284512044c1c2a9e13878f9b18ec27e39f6c3d4fcbecdafd77c33f0d",
+      "bytes": 242
+    },
+    {
+      "name": "messages/R-004.txt",
+      "sha256": "bb61e90d8e1425ed5901840e09fd6ec1591f8cedd10812a9304babf2cb38a4a7",
+      "bytes": 118
+    },
+    {
+      "name": "practice-queue.csv",
+      "sha256": "6c05cccc20f2595a73bb0413cd150ab3baa3f199b78d15dd1d7d375bd85546f4",
+      "bytes": 303
+    },
+    {
+      "name": "request-triage.ods",
+      "sha256": "6c9cece3b145e65ebf5f2e989b91bf235d11432ee748decf8838371f08da76ee",
+      "bytes": 20677
+    },
+    {
+      "name": "reusable-instruction.txt",
+      "sha256": "4e4820cdbfcaa0712d6e394fb8fc79240006a1bd2ca95ff799343ac17374e303",
+      "bytes": 519
+    },
+    {
+      "name": "reviewed-queue.csv",
+      "sha256": "575f61acada8616de67d9a91bf5e2461731224073fd09863ce69294beccec6a0",
+      "bytes": 1246
+    },
+    {
+      "name": "verify-kit.py",
+      "sha256": "039231c3e782d2d27a5da4a8a22d38b05999c708b1c64acdba0562fd94e256f0",
+      "bytes": 1278
+    }
+  ]
+}

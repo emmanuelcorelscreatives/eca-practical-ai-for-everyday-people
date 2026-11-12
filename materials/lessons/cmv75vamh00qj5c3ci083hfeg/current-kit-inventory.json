@@ -1,0 +1,57 @@
+{
+  "version": 1,
+  "projectId": "cmv75vamh00qj5c3ci083hfeg",
+  "scriptSha256": "fe26e382498f5cd4160828c4bf9b82d269b1aa8529d3b76152c01d098beb07f3",
+  "files": [
+    {
+      "name": "README.md",
+      "sha256": "6c40b0117ae8c484ab4a7bb5953c306f6cd1a5726ef12cc4e9f3d976cd27bf76",
+      "bytes": 1966
+    },
+    {
+      "name": "answer-key.md",
+      "sha256": "68595a768e14de4d506b6090cf05ff13143d60a90a014354e9330082742ee6ed",
+      "bytes": 1923
+    },
+    {
+      "name": "approved-brief.md",
+      "sha256": "3deeed01fb4f84bea908e40570edc367cd3f705736918225656790ab0c06a85f",
+      "bytes": 591
+    },
+    {
+      "name": "expected-checks.json",
+      "sha256": "991fb7c9786ddf4b48282e6772a7889966acd811911c50ce293f2bafc0145972",
+      "bytes": 484
+    },
+    {
+      "name": "export-checklist.md",
+      "sha256": "e8cb1013bd55aac28849f4c7e4a3e4f98f4b9e338be900966da04caecb4f7e64",
+      "bytes": 1136
+    },
+    {
+      "name": "ocr-comparison-example.txt",
+      "sha256": "8d8f87bb473a055a8d9197a8d0844165ca2c06ab46cf60a290500b19eeecd1d5",
+      "bytes": 359
+    },
+    {
+      "name": "poster-checked.svg",
+      "sha256": "f2f4bb7f17e1345a16a33f202a907d1e1a0b1c57c86c81e25a16e3c30a5282d3",
+      "bytes": 1016
+    },
+    {
+      "name": "poster-draft.svg",
+      "sha256": "ff5210b287183f6aefd9671fe113121b8eff06c7969401a53fbab70c02401ccd",
+      "bytes": 1076
+    },
+    {
+      "name": "review-worksheet.csv",
+      "sha256": "d429ba9f7da5cdc876bf6c5ca0448474ecfdc9e9d7ae8034e96ac59033983d3d",
+      "bytes": 400
+    },
+    {
+      "name": "verify_kit.py",
+      "sha256": "030bea2a06ebe873e333a40411096787149e5f10d2876d773f550070749b6a22",
+      "bytes": 927
+    }
+  ]
+}

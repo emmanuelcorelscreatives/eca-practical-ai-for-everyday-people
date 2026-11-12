@@ -1,0 +1,4 @@
+Flag,Rule,Human review
+Urgent,Possible immediate harm or time-critical service failure,Required
+Suspicious,"Unexpected link, attachment, payment, credential or identity request",Required; verify independently
+Unclear,Essential context missing,Required; seek clarification
