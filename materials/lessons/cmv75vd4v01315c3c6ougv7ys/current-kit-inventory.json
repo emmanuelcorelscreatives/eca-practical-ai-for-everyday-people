@@ -1,7 +1,8 @@
 {
-  "version": 1,
+  "version": 2,
   "projectId": "cmv75vd4v01315c3c6ougv7ys",
-  "scriptSha256": "9cc49dd85e03ca24840d7b7c9a706ae319418843b176d2aefc673591a77fc8d4",
+  "scriptSha256": "cb0b287ab3373a8de78c4747fe3bf6679102de924b296d4ca80d4098c71b834d",
+  "sourceNarrationSha256": "cb0b287ab3373a8de78c4747fe3bf6679102de924b296d4ca80d4098c71b834d",
   "files": [
     {
       "name": "LICENSE.txt",
@@ -93,5 +94,10 @@
       "sha256": "5826027699af788d02dd72f9b727a1a1fd237b4cd94763904c36e971c820a3b3",
       "bytes": 997
     }
-  ]
+  ],
+  "priorInventory": {
+    "path": "/var/lib/trejj-studio/maintenance/practical-ai-pocket-production-20261112/lesson-cmv75vd4v01315c3c6ougv7ys/kit/current-kit-inventory.json",
+    "sha256": "1d73082aade7cdba1aaa97513e8c804808f3552264d17409804cdf0ee6eafedc"
+  },
+  "payloadBytesUnchanged": true
 }
