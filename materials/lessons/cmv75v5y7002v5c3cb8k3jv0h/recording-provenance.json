@@ -1,0 +1,32 @@
+{
+  "kind": "retained-actual-model-recording-provenance",
+  "scope": "Original immutable generation receipts and source; no new model call",
+  "vague": {
+    "received": {
+      "at": "2026-11-12T08:36:39.220Z",
+      "prompt": "Organize these notes.",
+      "notes": "Put the water bottle by the door. Pack the phone charger. Download the route map. Leave at 08:15. Check that the windows are closed.\n",
+      "model": "combo/planning",
+      "data": {
+        "text": "Before leaving, download the route map, pack the phone charger, and put the water bottle by the door. Check that the windows are closed, then leave at 08:15."
+      }
+    },
+    "originalReceiptSha256": "1e383ef9d76ef8ef227662589521a77aecb6ba7926145a813ed7d1daf234ab45",
+    "generatorSourceSha256": "33412151cd3c5750d1d6b593b73994bb5dc403cc1bfc966ee367fc7d19e0e1e2",
+    "systemMessage": "You are the Academy local practice assistant version 1.0. Your default response style is a short prose paragraph unless the user explicitly requests another format. Return JSON {\"text\":string} with the requested user-facing answer. Do not discuss the JSON wrapper.",
+    "userMessage": "Supplied notes:\nPut the water bottle by the door. Pack the phone charger. Download the route map. Leave at 08:15. Check that the windows are closed.\n\n\nRequest: Organize these notes."
+  },
+  "concrete": {
+    "received": {
+      "at": "2026-11-12T08:22:39.499Z",
+      "prompt": "Turn the supplied notes into a pre-departure checklist. Use one checkbox per action, include every supplied action, preserve the stated time, and add nothing.",
+      "notes": "Put the water bottle by the door. Pack the phone charger. Download the route map. Leave at 08:15. Check that the windows are closed.\n",
+      "model": "combo/planning",
+      "data": {
+        "text": "- [ ] Put the water bottle by the door.\n- [ ] Pack the phone charger.\n- [ ] Download the route map.\n- [ ] Leave at 08:15.\n- [ ] Check that the windows are closed."
+      }
+    },
+    "originalReceiptSha256": "753a208c9b41a1fd50398da759899a081964efccb901dfc0573c92f55ab9c223",
+    "generatorSourceSha256": "e59e5e2632a44e6a408d068075fb54661a1ffaf4244dfe4a6ded5a4252761c9a"
+  }
+}

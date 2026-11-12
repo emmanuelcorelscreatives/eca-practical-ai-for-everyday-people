@@ -1,0 +1,21 @@
+{
+  "notes": "Put the water bottle by the door. Pack the phone charger. Download the route map. Leave at 08:15. Check that the windows are closed.",
+  "vague": {
+    "at": "2026-11-12T08:36:39.220Z",
+    "prompt": "Organize these notes.",
+    "notes": "Put the water bottle by the door. Pack the phone charger. Download the route map. Leave at 08:15. Check that the windows are closed.\n",
+    "model": "combo/planning",
+    "data": {
+      "text": "Before leaving, download the route map, pack the phone charger, and put the water bottle by the door. Check that the windows are closed, then leave at 08:15."
+    }
+  },
+  "concrete": {
+    "at": "2026-11-12T08:22:39.499Z",
+    "prompt": "Turn the supplied notes into a pre-departure checklist. Use one checkbox per action, include every supplied action, preserve the stated time, and add nothing.",
+    "notes": "Put the water bottle by the door. Pack the phone charger. Download the route map. Leave at 08:15. Check that the windows are closed.\n",
+    "model": "combo/planning",
+    "data": {
+      "text": "- [ ] Put the water bottle by the door.\n- [ ] Pack the phone charger.\n- [ ] Download the route map.\n- [ ] Leave at 08:15.\n- [ ] Check that the windows are closed."
+    }
+  }
+}
