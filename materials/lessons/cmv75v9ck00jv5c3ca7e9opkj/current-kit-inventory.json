@@ -1,0 +1,77 @@
+{
+  "version": 1,
+  "projectId": "cmv75v9ck00jv5c3ca7e9opkj",
+  "scriptSha256": "4ee47738bb88330b9c40f3995da3965c08948698ce74b33be4d338c33ce660df",
+  "files": [
+    {
+      "name": "README.md",
+      "sha256": "3ff84fc3b688e73b0dab4feb3b46707e8bfe37ececfb77458564fbdb665465f7",
+      "bytes": 449
+    },
+    {
+      "name": "answer-key.md",
+      "sha256": "2c236a73a0ca28f98ee39062a4d838957cd07e8410c11b082bddf202005011ca",
+      "bytes": 1629
+    },
+    {
+      "name": "checklist-plain.txt",
+      "sha256": "84b0eeaf2ddde1fa309dd4ab4bec612663b60afaa34235bf25d9228993ff9055",
+      "bytes": 1528
+    },
+    {
+      "name": "checklist-template.csv",
+      "sha256": "0e6917bf81624f28dff79c86902006b0479d76fd2f2ecdaa872b6e3485193719",
+      "bytes": 84
+    },
+    {
+      "name": "checklist.csv",
+      "sha256": "b69d979593cf82339804c24db47fe1ee575260a0db149577481e2d0e491d0f68",
+      "bytes": 1266
+    },
+    {
+      "name": "final-review.md",
+      "sha256": "36b9b9b9b2f3ab2952a2d74561bbc739fb778e531c85b533f8b7a6c484ddb5e5",
+      "bytes": 637
+    },
+    {
+      "name": "flawed-draft.csv",
+      "sha256": "3c71ce6d49eb3f331998c86e1db2f51b95138c7cc18b08c4fdd48c8455c874cf",
+      "bytes": 185
+    },
+    {
+      "name": "observation-log.csv",
+      "sha256": "d37d8fa33c030587530df5c47375273d741c2086a6e8b3b1c588e3cdf39375fc",
+      "bytes": 395
+    },
+    {
+      "name": "prompt.txt",
+      "sha256": "0ed4cd49bf009adb2af5996bf8ef1a13bb49d8381c719ee00545e2b4510cb952",
+      "bytes": 725
+    },
+    {
+      "name": "revision-request.txt",
+      "sha256": "ed3e00d7fe9633724e3ff044a1aa693b743e5a6a376b23f286f8814d9a340459",
+      "bytes": 256
+    },
+    {
+      "name": "source-brief.md",
+      "sha256": "545c0f69840a2667335e408edbd03a240dc619b0aa9c79304dd681c2fa56a413",
+      "bytes": 953
+    },
+    {
+      "name": "transfer-worksheet.md",
+      "sha256": "161fbaf66a117fbb752b58ad75581f560d5c33aef02d028991569b1313d7c82d",
+      "bytes": 879
+    },
+    {
+      "name": "verify-kit.py",
+      "sha256": "efbeefaede9f3cfbbf70b4824eb7e09a5b8207ed2104fe3d447ea132b5537c6c",
+      "bytes": 797
+    },
+    {
+      "name": "worksheet.md",
+      "sha256": "fb5b2bcac2740555c789e91dca2ad9937a2563632d07931f3a1d75e717946b4d",
+      "bytes": 4226
+    }
+  ]
+}

@@ -1,0 +1,7 @@
+Goal: Set up a usable home study corner.
+Result: room for a laptop and open notebook.
+Situation: papers and cables cover the desktop.
+Constraints: buy nothing; protect every paper; discard none.
+Materials: lamp, notebook, pen cup, laptop stand, cloth, reusable ties, File folder, Review folder, existing laptop and charger.
+Unknown: whether the charger reaches without tension.
+Break this goal into small tasks in a practical order. Give each task one observable action and a Done when condition. Label assumptions and missing information. Use only supplied materials. Do not add purchases, times, dates or calendar events. Processing the Review folder is outside this project. Draft only: do not claim any task is complete.

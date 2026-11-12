@@ -1,0 +1,2 @@
+# Academy lesson 121 practice materials
+Start with worksheet.md. Everything is self-authored fictional teaching material; no private records, fabricated application output, or live results are supplied. No third-party dependencies. The optional checker uses Python 3 standard library. Reference list entries are unchecked. Actual assistant outputs vary and require manual comparison. Keep the full original project content; this kit supplements it.

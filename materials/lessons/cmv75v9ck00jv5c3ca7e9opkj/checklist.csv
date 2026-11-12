@@ -1,0 +1,10 @@
+id,action,done_when,unknown_or_condition,completed,final_review
+1,Remove everything from the desktop,The surface is empty,Keep all objects and papers safe,false,
+2,Wipe the empty desktop with the cloth,Surface is dry and has no visible dust,Use the available cloth,false,
+3,Put every loose paper into File or Review,Every loose paper is inside one folder,Discard none; processing Review is outside scope,false,
+4,Place the laptop stand,Stand is in its intended position,Charger reach is still unknown,false,
+5,Test whether the existing charger reaches without tension,Actual reach result has been observed and recorded,"If it does not reach, leave unresolved; buy nothing",false,
+6,Coil the loose cable with existing reusable ties,No cable crosses the writing area,After confirming cable position; unresolved reach is not solved by assumption,false,
+7,Return the notebook,Notebook is in place with usable writing room,One of four approved objects,false,
+8,Place the lamp,Open notebook page is evenly visible and laptop area stays clear,Existing lamp only,false,
+9,Return the pen cup,Pen cup is in place,One of four approved objects,false,"All four approved objects (lamp, notebook, pen cup, laptop stand) are in place, and nothing else is on the desktop."
