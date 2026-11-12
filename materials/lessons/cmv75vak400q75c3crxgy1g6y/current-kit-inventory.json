@@ -1,17 +1,17 @@
 {
   "version": 1,
   "projectId": "cmv75vak400q75c3crxgy1g6y",
-  "scriptSha256": "b03c5e6d307e8d7a4491a8588095ea97628abe8cb41532e006f6714339d67363",
+  "scriptSha256": "85e67ad0d3203cb4348120b54de6ebac57f52facecad6e8054824244f7d53eee",
   "files": [
     {
-      "name": "README.md",
-      "sha256": "6e4c9fa499b29f8cb584f3543531996d1dd0a12d288d8b18b5fe1decb585484b",
-      "bytes": 1301
+      "name": "actual-ocr-output.txt",
+      "sha256": "8997151624106f166e736b029e13d0e1376ef1311e71a92ed9287d22449e4a8b",
+      "bytes": 69
     },
     {
       "name": "answer-key.md",
-      "sha256": "b1fb97dfba5249c2d6c9e65c5aefef9a54d0396f5299390df7c1cc6f455067c7",
-      "bytes": 1594
+      "sha256": "020473efbb596294d7c4f4e7b11ae39e4f9d7fda44494bd5ba90016eadd863d8",
+      "bytes": 1747
     },
     {
       "name": "brief.md",
@@ -29,14 +29,19 @@
       "bytes": 120
     },
     {
+      "name": "digital-source.png",
+      "sha256": "83e694fb76b75c00563ed3776e3e1d9fe73baac5891c022679bb3681ebf08de2",
+      "bytes": 43937
+    },
+    {
       "name": "final-checklist.md",
-      "sha256": "0bb1b131d2931d1255984116d468f6188404de486804a989042b9025627d65d4",
-      "bytes": 887
+      "sha256": "9c3486944275bf646354a784cc97afda816cee907fb44206c3c027e38925a146",
+      "bytes": 970
     },
     {
       "name": "generation-and-fallback.md",
-      "sha256": "3ab616974e6fc887edc34f1374a207b48e907e4a7f5fcb3b6859d2b337eac0e9",
-      "bytes": 1186
+      "sha256": "79eedcf51f6d6fd589ffa24f0919871313bee7669e31038f2c422f8311da367d",
+      "bytes": 1767
     },
     {
       "name": "manual-option-a.svg",
@@ -59,24 +64,54 @@
       "bytes": 1102
     },
     {
+      "name": "ocr-practice.html",
+      "sha256": "061c8e61dd248a61653f5c455e05f74174fa3e74fdd6c726f63077554ecf6cb6",
+      "bytes": 3589
+    },
+    {
       "name": "ocr-source-card.svg",
       "sha256": "5e7696b06394356367b11c4c1b8dc8ef6efea5f82089172477ca9ce55ce7e242",
       "bytes": 406
     },
     {
+      "name": "option-a.png",
+      "sha256": "23cebecbead1bb57255cbe71f7d3fcb9a2d528def39106b1b7554d14831b0b33",
+      "bytes": 406691
+    },
+    {
+      "name": "option-b.png",
+      "sha256": "11463f2603981e6fc6c68bfa459d2b243bceb2faf3e8a72fd3551848455e272a",
+      "bytes": 255631
+    },
+    {
+      "name": "option-c.png",
+      "sha256": "6b5a9a1bc32fbd2ae8b571c9ec8d31111589556878de03206b3e1f29f386d238",
+      "bytes": 390773
+    },
+    {
+      "name": "practice-editor.html",
+      "sha256": "37aecbab94af20fe125eb098a56bf4202e6dff639621dcb321d3916cbda6754c",
+      "bytes": 7501
+    },
+    {
       "name": "provenance.md",
-      "sha256": "03fbb0dc198b7d194f2fe9624d1b8b7c6de0472b75dc96b35fc86ae9d7fdb530",
-      "bytes": 924
+      "sha256": "7e149154f93759b49bbfddf60baabfc2ba8094c19c1b27d7efd10ac733604e8c",
+      "bytes": 2055
+    },
+    {
+      "name": "README.md",
+      "sha256": "de5fce96dccc9bb38e3a7c6c574d0108a9414e400792c937c45be0f270797403",
+      "bytes": 1926
     },
     {
       "name": "tool-merge-written-case.md",
-      "sha256": "6f1678ef2224acd9bcd9b02943245c5576312a81ac638a7b0ee513eb7d393edc",
-      "bytes": 2490
+      "sha256": "3cbd0f0b780f4b490c64a76df6867c4f664e9c0a0f7f9af3cf165bc149af7731",
+      "bytes": 1714
     },
     {
       "name": "worksheet.md",
-      "sha256": "a29f8954845bdd65a8b3745e8dabbfa49472af2bf799fe646e4e90aa5cacb39f",
-      "bytes": 2257
+      "sha256": "ff6fc0a8bbb76bb6c0aafc91886f2a76caead8ae79bccdf9bbf37f4e20bf6120",
+      "bytes": 2372
     }
   ]
 }

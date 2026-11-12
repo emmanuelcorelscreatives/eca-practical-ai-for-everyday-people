@@ -1,8 +1,12 @@
 # Create Several Useful Variations
-Emmanuel Corels Academy · Practical AI for Everyday People · Lesson 159
+Emmanuel Corels Academy · Practical AI for Everyday People · Lesson159
 
-This is a fictional Community Repair Afternoon practice pack. It does not document a real event or invent a date/location. Follow `worksheet.md`, use the brief, and inspect the exact deliverable rather than picking the most dramatic thumbnail.
+This self-created fictional Community Repair Afternoon pack supports a real comparison and manual-editing exercise. No real event, attendance, date or location is claimed. Read `brief.md`, then follow `worksheet.md`.
 
-The three supplied SVGs are SELF-AUTHORED MANUAL FALLBACK EXAMPLES, not claimed AI outputs or app screenshots. They support comparing composition, readability and destination fit when generation is unavailable. The lesson's generated candidates, tool/hand defect and its actual correction must be shown from independently reviewed lesson visuals, not falsely inferred from these examples. A self-contained written defect exercise with expected preservation/reinspection answers is in `tool-merge-written-case.md`. No editor button, camera screen, OCR execution or external publishing is claimed here.
+Open `practice-editor.html` in an actual browser. The supplied `option-a.png`, `option-b.png` and `option-c.png` are unchanged artwork crops from a retained course-generated teaching image. They depict fictional generated repair activity; they are not real photographs, three separately logged model calls, or screenshots of a live generator. The outer generated mock interface is not presented as actual software. Keep the original artwork unchanged.
 
-All SVG source is editable text. Open it in an actual browser or capable editor; SVG text remains editable in the source. These are conceptual repair-object illustrations rather than photographs of an actual community activity. Keep date/location blank. Exact original-source claims and the fictional OCR test are separated in `provenance.md`.
+The working editor contains a separately authored practice screwdriver overlay, an actual editable layer checkbox, Remove/Restore controls, editable title and phone-size view. The overlay is explicitly an authored exercise, not a discovered model error or an observed hand/tool merge. Removing that layer preserves the people and table in the original artwork.
+
+Open `ocr-practice.html` to compare the digital source card with the exact retained unmodified Tesseract output, also supplied in `actual-ocr-output.txt`. Reference3142 is the authored source value. Reference3147 is a separate labelled error exercise, not a claim that the actual OCR engine made that error. The source is digital and self-created, not a photograph or private record.
+
+The three `manual-option-*.svg` files remain self-authored composition/wireframe examples, not model outputs or completed brief-compliant designs: they omit people. Use them to identify that deficiency; do not mark them as fully meeting the people/activity requirement. All final human-review boxes stay incomplete until you actually inspect the result. Do not publish this fictional event as real.
