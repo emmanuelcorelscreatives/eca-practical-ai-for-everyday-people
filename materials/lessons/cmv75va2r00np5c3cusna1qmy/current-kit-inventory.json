@@ -1,0 +1,127 @@
+{
+  "version": 1,
+  "projectId": "cmv75va2r00np5c3cusna1qmy",
+  "scriptSha256": "763a44fec1db2f2e68680052ff7572db4e14a497345a4e9f043d1062d68717d7",
+  "files": [
+    {
+      "name": "Maya_Okafor_Admin_Checklist.docx",
+      "sha256": "475367775c4b61c5d9343582daeccebf4a66432f94b118c18363bf091bca3576",
+      "bytes": 1512
+    },
+    {
+      "name": "Maya_Okafor_Admin_Checklist.pdf",
+      "sha256": "50ea8b33ccf054fdc357d3255e18abb1b9d4886b9b384b976950a9b579b3e33f",
+      "bytes": 21130
+    },
+    {
+      "name": "Maya_Okafor_Correction_Log.docx",
+      "sha256": "1eecf96d58841cc3658bf7507bf07ffe280d80f75f6e62f3d6a8b1697097b10f",
+      "bytes": 1288
+    },
+    {
+      "name": "Maya_Okafor_Correction_Log.pdf",
+      "sha256": "179dde7eab94cc6575dbd15677a2723a3988e8da5e96ac1c163654fb851bd08f",
+      "bytes": 18033
+    },
+    {
+      "name": "Maya_Okafor_Preparation_Plan.csv",
+      "sha256": "5cb5b57d626a8430c7b438746d8ab4324c77c14456b809c8d780ebd3b1b502b3",
+      "bytes": 692
+    },
+    {
+      "name": "Maya_Okafor_Preparation_Plan.pdf",
+      "sha256": "929abb39119cdcbc21033b54141c46ef305fa698ca6e5cc66522d3e1c3e87d00",
+      "bytes": 28128
+    },
+    {
+      "name": "Maya_Okafor_Preparation_Plan.pptx",
+      "sha256": "585668782187efecb7c7d2bca87ce4437018e88c79ef187213b43f5a92c9a7a6",
+      "bytes": 8653
+    },
+    {
+      "name": "Maya_Okafor_Professional_Profile.docx",
+      "sha256": "a3745a7b7886aaac00c274833a3428540fcd44bb5bc8726a5b15045213a89aef",
+      "bytes": 1342
+    },
+    {
+      "name": "Maya_Okafor_Professional_Profile.pdf",
+      "sha256": "2c81d3884ee716649358c66211bdf019f785cb85a8f80d8f655cb48248502e45",
+      "bytes": 18579
+    },
+    {
+      "name": "Originals/01_Job_Listing.pdf",
+      "sha256": "03e426443366db6287f9635b9154380498e898c41ede39292174b491e3a7e007",
+      "bytes": 15143
+    },
+    {
+      "name": "Originals/01_Job_Listing.txt",
+      "sha256": "aca1cde7d5095bf13694d61738cf9b88349827b116437e361a3c29a8d23bc91f",
+      "bytes": 513
+    },
+    {
+      "name": "Originals/02_Maya_Background.docx",
+      "sha256": "071b3ca1a51e4c37616bc7104a4338c8fbec8a146f83fea17f89c40d90ad852e",
+      "bytes": 1259
+    },
+    {
+      "name": "Originals/02_Maya_Background.txt",
+      "sha256": "9a9ea329eac89bbdc2246e15ab984fe20f84b44c5a8947fa11384e8a77348c07",
+      "bytes": 536
+    },
+    {
+      "name": "Originals/03_Availability.txt",
+      "sha256": "20f0787ad0a9001b03849c36aebf4568a59b9fccc34e0ef4a307a99038e9048b",
+      "bytes": 257
+    },
+    {
+      "name": "Originals/04_Project_Checklist.docx",
+      "sha256": "475367775c4b61c5d9343582daeccebf4a66432f94b118c18363bf091bca3576",
+      "bytes": 1512
+    },
+    {
+      "name": "PROVENANCE.md",
+      "sha256": "2f45405a6f4d48fd8cef3282250dc865465f29a52778cfd1d76d3c55f0a934c3",
+      "bytes": 970
+    },
+    {
+      "name": "administration-checklist.txt",
+      "sha256": "35ee8cc73bfbac6723a90a4393354586f425e361fa67f18103715c0266136efe",
+      "bytes": 1065
+    },
+    {
+      "name": "assistant-instruction-or-manual-brief.txt",
+      "sha256": "f60ee184e9656b2ff4954b976bf89065fe8684216392f56bd6f4b1498be93ce6",
+      "bytes": 809
+    },
+    {
+      "name": "claim-verification.csv",
+      "sha256": "b8209c1b6168af555fe05e3f504bca87ea4084a9ac2d02d5afd1b55f763079e4",
+      "bytes": 359
+    },
+    {
+      "name": "correction-log.txt",
+      "sha256": "ab384322d7cf4c5f978fef4663e2a745b55ea315f2f699edf55d3b627289e2a8",
+      "bytes": 679
+    },
+    {
+      "name": "profile-source-checked.txt",
+      "sha256": "fccd01dae70c802b286a34627627b46aa9741afafdd7d693ec5c38d6d42fc886",
+      "bytes": 821
+    },
+    {
+      "name": "worked-claim-verification.csv",
+      "sha256": "45b34b298f065fd6c1b3f7ca6ee7d21eef827086a7e257bf97d32a429800388b",
+      "bytes": 1744
+    },
+    {
+      "name": "worked-output-and-checks.md",
+      "sha256": "0e3d6b60917c79acab80c2751bea27962f994f5c5058b9945b5ea0fabfa694d5",
+      "bytes": 2870
+    },
+    {
+      "name": "worksheet.md",
+      "sha256": "04d0f25871cc236ff89e2797279977397dda14e14e938a8fecbfafb41910cf69",
+      "bytes": 4283
+    }
+  ]
+}

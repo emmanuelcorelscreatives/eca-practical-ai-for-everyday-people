@@ -1,0 +1,7 @@
+Day,Suggested date (assumption),Task,Minutes,Dependency,State
+1,2026-10-23 evening,Review evidence,30,Open Originals,"Planned, not completed"
+2,2026-10-26 evening,Draft profile,45,Checked source facts,"Planned, not completed"
+3,2026-10-27 evening,Check document and claims,45,Profile draft,"Planned, not completed"
+4,2026-10-28 evening,Interview examples and administration,45,Checked notes,"Planned, not completed"
+5,2026-10-29 evening,Final human review before deadline,45,Claim and export checks,"Planned, not completed"
+Recovery,2026-10-24 morning,"Available recovery reserve, only if needed",90,Do not exceed availability or invent completion,"Reserved, not scheduled externally"

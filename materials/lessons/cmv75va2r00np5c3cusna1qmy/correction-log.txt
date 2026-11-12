@@ -1,0 +1,7 @@
+Correction Log — Fictional practice
+Issue | Evidence | Correction | Status
+Event coordinator claim | Volunteer room bookings, not paid event role | Volunteer with recurring room-booking experience | Corrected
+Unsupported major events | Notes confirm quarterly meeting slides only | Supported quarterly meetings as a volunteer | Corrected
+Contact details absent | No source details | Leave fields blank | Awaiting Maya
+Final plan task of 60 minutes | Weekday limit of 45 minutes | Use 45 minutes and finish on 29 October before the deadline | Corrected in practice plan
+Permission to name volunteer organization | Not confirmed | Retain unnamed community centre | Awaiting Maya
