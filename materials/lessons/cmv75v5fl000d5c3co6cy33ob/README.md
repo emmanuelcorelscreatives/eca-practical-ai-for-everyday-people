@@ -6,7 +6,7 @@ Choose a useful first AI experiment from five recurring tasks. Repetition is a c
 ## Files and sequence
 1. Open opportunity-list-blank.csv in a spreadsheet or text editor. List five tasks and their friction and possible result. opportunity-list-example.csv follows the five examples in the lecture.
 2. Use six-quality-check.md to choose a low-consequence, reversible draft you can compare directly with safe source material. These are qualitative prompts, not a scientific score.
-3. Copy fictional-household-notes.txt and assistant-instruction.txt into an available general assistant. The course demonstration uses ChatGPT; interface and access may differ. Do not enable tools that send, publish, buy, delete or change shared records.
+3. Copy fictional-household-notes.txt and assistant-instruction.txt into an available general assistant. The course demonstration uses the Academy Practice Assistant, a functioning generic course assistant; interface and access may differ. Do not enable tools that send, publish, buy, delete or change shared records.
 4. Compare each output item against the original notes. expected-checklist.md is a human-authored reference answer, not a transcript of a real assistant session. Actual output can vary.
 5. Keep the missing timing explicitly visible. Reject invented dates or deadlines. Edit or discard the draft freely.
 6. Complete chosen-first-goal.md. Save the list, goal, source notes and checked draft together for later activities.
