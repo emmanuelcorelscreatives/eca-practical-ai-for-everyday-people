@@ -1,0 +1,7 @@
+Group the supplied notes into confirmed details and missing details. Then draft a short announcement. Do not invent information. Keep optional conditions and exact dates and times. Separate suggested questions from confirmed facts.
+
+INPUT
+Riverside Community Garden open day, Saturday 24 October 2026, 10:00–13:00.
+Free seed swap. Visitors may bring labelled seeds if possible. Tools provided.
+Rain decision at 08:00 that morning.
+Accessibility, parking, refreshments, family suitability and the update channel are not supplied.

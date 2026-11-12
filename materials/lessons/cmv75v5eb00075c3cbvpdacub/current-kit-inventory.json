@@ -1,0 +1,57 @@
+{
+  "version": 1,
+  "projectId": "cmv75v5eb00075c3cbvpdacub",
+  "scriptSha256": "4ae621f6ca354b2f0821f4c665e554931b6ea01e146ccfe9c6fed904e736ff2d",
+  "files": [
+    {
+      "name": "README.md",
+      "sha256": "6c767ca825562c89b25977b93e02556b608ae13eb9d9235bd96694667955b3c3",
+      "bytes": 2488
+    },
+    {
+      "name": "answer-key.md",
+      "sha256": "b2d30477706af97a5f9a7f84c726ab5a06c3b0e6ed3ed75b83477da841f3a0fd",
+      "bytes": 1817
+    },
+    {
+      "name": "assistant-instruction.txt",
+      "sha256": "13aa3d6180bedbd34f8f019811e1e8acef248d32d9971ad517985dfd1c92c48a",
+      "bytes": 531
+    },
+    {
+      "name": "changing-information-check.md",
+      "sha256": "57eb925a9f832778e51c8d4629157fac691154f7676d2f9e7d76b2bb48126ef2",
+      "bytes": 1064
+    },
+    {
+      "name": "claim-audit-blank.csv",
+      "sha256": "a4c7f42687c8581c011b5d00b8de888ba8df0b6675460e0fd107940896ff69c7",
+      "bytes": 313
+    },
+    {
+      "name": "deliberately-flawed-draft.md",
+      "sha256": "17421525c2de7efd8f0911cd99142b3fe60857be97f6c707a2a81d665445a660",
+      "bytes": 519
+    },
+    {
+      "name": "garden-source-notes.md",
+      "sha256": "ea669f502ef59593000c2da058f4d12f39554a9254752066a27f53ba04fcb1dc",
+      "bytes": 597
+    },
+    {
+      "name": "manual-fallback-blank.csv",
+      "sha256": "3bef05e0d1caea996e43f1f38651bc2c3c70ed283d71f57bb5a95badf25f53fd",
+      "bytes": 54
+    },
+    {
+      "name": "provenance-and-demonstration.md",
+      "sha256": "db0d28d2357d23d7b3ebbae3c55bbb734167ce1135c4638415fb78aef50c714c",
+      "bytes": 1593
+    },
+    {
+      "name": "reflection.md",
+      "sha256": "05c4141e81d306934ebdb0ca5b2c7331577501649a7d6a7bfcae3cc3706b8828",
+      "bytes": 572
+    }
+  ]
+}
