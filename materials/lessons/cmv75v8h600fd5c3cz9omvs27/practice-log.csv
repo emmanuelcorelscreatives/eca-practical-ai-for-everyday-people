@@ -1,0 +1,2 @@
+scenario,language_variety,checked_phrase,intended_meaning,actual_transcript,one_correction,retry_observation,critical_detail_check,question_for_teacher
+fictional bakery,Spanish; choose relevant local variety,"Quisiera una barra de pan, por favor.","I would like one loaf of bread, please.",,,,,

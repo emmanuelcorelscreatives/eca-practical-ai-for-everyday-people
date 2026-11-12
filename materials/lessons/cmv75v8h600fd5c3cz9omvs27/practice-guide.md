@@ -1,0 +1,9 @@
+# A five-minute bakery rehearsal
+Goal: politely request one loaf of bread. Target language: Spanish. Level: beginner. Name a local variety if it matters; do not treat one synthetic voice as uniquely correct.
+
+1. Prepare (one minute). Confirm language and voice support, microphone permission and connection. In a quiet place test one short phrase. If no transcript appears, resolve access or connection before continuing. Read the intended meaning alongside the checked phrase: “Quisiera una barra de pan, por favor.” This is a polite example; local bread terms can differ. Check important local wording with a capable speaker.
+2. Converse (two minutes). Use the role-play prompt. Listen to the worker's short question, then say your one-sentence request at a comfortable pace. Keep the microphone steady. Inspect the actual transcript and copy it exactly to the log. A match establishes recognition of words, not pronunciation quality, stress or fluency.
+3. Retry (one minute). If needed, remove noise and confirm input language before changing your speech. Ask for one specific correction. Listen to the isolated focus word and then the whole phrase. Try once or twice. Ask for a different explanation rather than looping blindly. Stop uncomfortable mouth movements; a teacher can help.
+4. Note (one minute). Record the actual transcript, one correction, retry observation and next question. Verify that “one loaf” and politeness survive. Stop after the planned task, even if invited to continue.
+
+A useful success is an understood message and an identifiable next step, not an unexplained fluency percentage. Generated praise is encouragement; compare it with what you can actually understand and reproduce. For consequential travel, employment, safety, rights or commitments, ask a capable speaker or qualified language professional to review critical wording.

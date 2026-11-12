@@ -1,0 +1,47 @@
+{
+  "version": 1,
+  "projectId": "cmv75v8h600fd5c3cz9omvs27",
+  "scriptSha256": "f87e9ce24516bbf2611d1905240f91ad484562071871969aa3511563d2ad1658",
+  "files": [
+    {
+      "name": "README.md",
+      "sha256": "dd65239371a9c8c0eebf1f4cca0f497e61095f792016999de19cf677acd7072b",
+      "bytes": 1088
+    },
+    {
+      "name": "accessibility-and-privacy.md",
+      "sha256": "4a5c704bf02b83317c89e2e8f6feccf6220bc27250b5210e917d8430896826dc",
+      "bytes": 1164
+    },
+    {
+      "name": "checked-phrases.csv",
+      "sha256": "619aa356218a7fb9b15dc8189fd3891621a0f6a7da1d1da01eeee2666e4a9820",
+      "bytes": 488
+    },
+    {
+      "name": "completion-checklist.md",
+      "sha256": "d0beeed09ed95b286e99ef0ed371b2aac888944d4b3f28a31d9f761393faeee2",
+      "bytes": 1023
+    },
+    {
+      "name": "example-review.md",
+      "sha256": "e46010701e8295ff53a1c9f7cb50a5586f99a422ed7802a7275185b8d6cc65f1",
+      "bytes": 1397
+    },
+    {
+      "name": "practice-guide.md",
+      "sha256": "4e4533400b24d71df5eb0b56ddd9416cf8a4ad18cb0898d1e4ccd3010ade10d5",
+      "bytes": 1873
+    },
+    {
+      "name": "practice-log.csv",
+      "sha256": "176693cbeeeffd18768174f50c608a4b1ab5bf56b2fe548e6ce904159aad6041",
+      "bytes": 297
+    },
+    {
+      "name": "prompt-library.md",
+      "sha256": "e72f09a78665b5ef693f03bd8ad6b51f77500336d049c4615ecf893943d94cff",
+      "bytes": 1193
+    }
+  ]
+}
