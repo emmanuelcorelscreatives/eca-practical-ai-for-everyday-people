@@ -1,0 +1,87 @@
+{
+  "version": 1,
+  "projectId": "cmv75vd75013d5c3cnccongzx",
+  "scriptSha256": "2aa6ffd20ae602792b6fd2a0db3b87d53f0b91180e4f4b65791ab1aed59da182",
+  "files": [
+    {
+      "name": "00 Workflow Guide.md",
+      "sha256": "e0cd64ba14509a59bd60d2d14984470df28720f7c2cb8883bb7b97333e59a25b",
+      "bytes": 4701
+    },
+    {
+      "name": "01 Source Brief.txt",
+      "sha256": "0f37f88f358f895139d2fe2e319ecdd9b5afbe649543ec6d68b961df023525c4",
+      "bytes": 710
+    },
+    {
+      "name": "02 Reusable Instructions.txt",
+      "sha256": "361d0d48e2a95ceb0859f518a7164ca98db3c0b58771445195a481157d12a52a",
+      "bytes": 1518
+    },
+    {
+      "name": "03 Generated Draft.txt",
+      "sha256": "3f569ac68cc249028227282cb7d9447be3f367368bd2e1f55b8e7f8c0d311c83",
+      "bytes": 980
+    },
+    {
+      "name": "04 Review Record.csv",
+      "sha256": "a2498a580ca2799d91a80a32dab0a944f8dd5e78f1f8f26bff3f5716b3225994",
+      "bytes": 791
+    },
+    {
+      "name": "05 Final Information Sheet.html",
+      "sha256": "61fbb2ac8088314826a45d4cf079e24479f177053c8c0da6ebe06a4848ef4c10",
+      "bytes": 1647
+    },
+    {
+      "name": "06 Reuse Guide.txt",
+      "sha256": "d21fe5d681c3aa121dc30f2f3fb3592e4aeb8bc4dbf4ff71d2c37b0cbfcb3c65",
+      "bytes": 2669
+    },
+    {
+      "name": "Blank Claim Review.csv",
+      "sha256": "9a8f1bb54766e91c8868056afa8ae024707a75c1d637cad1096bc1de6ff470e6",
+      "bytes": 146
+    },
+    {
+      "name": "Calculation Check.fods",
+      "sha256": "fea5043cbcb27901a69631fdee9a4357223bbe317e60a285dfbc3966c5823295",
+      "bytes": 1643
+    },
+    {
+      "name": "Correction Log.csv",
+      "sha256": "9bb3fde7cedfaa9ce3d194f4fc45ed81ed51b99d911612d6c6f533e5a771b693",
+      "bytes": 271
+    },
+    {
+      "name": "Delivery Checklist.csv",
+      "sha256": "0ff6096539f6052dddc15c54f4b0c8b3aad8f5849101ad7e9f8f572212b976b8",
+      "bytes": 454
+    },
+    {
+      "name": "Export Inspection.csv",
+      "sha256": "12f05389b74ed07a46adf7aff38a29502e8c81f953c349361041b19a64cc3e29",
+      "bytes": 369
+    },
+    {
+      "name": "Final Template.txt",
+      "sha256": "d8c51be49752fdd1d456476e1ed4fe266158edb42cd6bc00e40f978e953f58c4",
+      "bytes": 575
+    },
+    {
+      "name": "Manual Draft Workspace.txt",
+      "sha256": "89979539b284bb716494cb5ba28f53ddaf6cd74bc118a54ecbc9cd85a9f61e72",
+      "bytes": 376
+    },
+    {
+      "name": "Meaning and Permissions.md",
+      "sha256": "cb858a7bf7d5150afce8841b31d89ddebf93963ada24696c9f312abd869b0d6f",
+      "bytes": 1005
+    },
+    {
+      "name": "Review Summary.txt",
+      "sha256": "cc2cbf585a68518dca9cefd515d00e46f81d307f72c65f03ea835086294d82e0",
+      "bytes": 1128
+    }
+  ]
+}

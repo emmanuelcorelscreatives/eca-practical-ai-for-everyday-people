@@ -1,0 +1,13 @@
+SELF-AUTHORED FLAWED PRACTICE FIXTURE — not output observed from ChatGPT or another provider.
+In the demonstrated workflow an actual assistant response would be saved untouched. This substitute supplies the two narrated error types for offline checking; do not describe it as a real AI response.
+AI-GENERATED DRAFT — REVIEW REQUIRED (example label for practice)
+Riverside Skills Exchange
+Saturday, 7 November 2026
+10:00 to 14:00 | Riverside Community Hall | Free entry
+Doors open at 9:30.
+Please bring a reusable cup. Step-free entrance available.
+Booking details coming soon.
+Public transport details: not supplied.
+DRAFT ANNOUNCEMENT
+Riverside Skills Exchange is at Riverside Community Hall on Saturday, 7 November 2026, 10:00 to 14:00. Entry is free. Doors open at 9:30. Please bring a reusable cup. Step-free entrance available. Booking details coming soon.
+Statements needing review: All facts, the opening-time claim, booking statement, meaning, permissions and layout.

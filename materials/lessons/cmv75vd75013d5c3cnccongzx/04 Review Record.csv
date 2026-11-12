@@ -1,0 +1,7 @@
+Draft Claim,Evidence Opened,Result,Correction,Reviewer Note
+"Event date: Saturday, 7 November 2026",01 Source Brief.txt S2,supported,Keep exact date,"Opened source, not draft"
+Event time: 10:00 to 14:00,01 Source Brief.txt S3,supported,Keep,No doors-opening time supplied
+Doors open at 9:30,01 Source Brief.txt S3 and S10,unsupported,Remove invented opening time from sheet and announcement,Do not replace with another guess
+Free entry,01 Source Brief.txt S5,supported,Keep,Do not add price or offer
+Booking details coming soon,01 Source Brief.txt S8 and S10,unsupported,Replace with Booking contact: not supplied,No promise of update or booking requirement
+Step-free entrance available,01 Source Brief.txt S7,supported,Keep exact limited meaning,Not an all-facility accessibility guarantee

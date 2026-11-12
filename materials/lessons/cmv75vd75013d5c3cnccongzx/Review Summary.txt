@@ -1,0 +1,18 @@
+REVIEW SUMMARY — learner record (blank; no inspection claimed)
+Run date/tool or manual route:
+Exact source / input / untouched draft version:
+Checks completed with evidence links:
+Facts:
+Calculation and units:
+Meaning:
+Permissions:
+Actual exported layout and destination:
+Failed checks:
+Corrections made and reasons:
+Unresolved fields:
+External action performed: [normally none; explain any separately approved action]
+Decision and named reviewer:
+Human approval still required:
+
+EXPECTED FIXTURE FINDINGS (answer key, not your completed record):
+Two unsupported statements: “Doors open at 9:30” and “Booking details coming soon”. Two corrections: remove the invented time from both sheet and announcement; replace the promised booking update with “Booking contact: not supplied.” No guess is substituted. Source time difference is four hours. Booking contact/process remain unresolved, and transport details are not supplied. Accept only as reviewed draft pending booking confirmation and publication approval, conditional on your actual export passing inspection. No external action is performed by these files.
