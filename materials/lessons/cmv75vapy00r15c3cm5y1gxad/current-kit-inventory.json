@@ -1,0 +1,132 @@
+{
+  "version": 1,
+  "projectId": "cmv75vapy00r15c3cm5y1gxad",
+  "scriptSha256": "ed4868dbc3ac48cdb0c9d29a5fad3426340b7ce5f2db3b47c95bd25b8c30efa1",
+  "files": [
+    {
+      "name": "LICENSE.md",
+      "sha256": "cc169bb556ec0c9ccaaef00e74cf97864e9e2399232c7cc15fceb0bf9079b35f",
+      "bytes": 1202
+    },
+    {
+      "name": "README.md",
+      "sha256": "a7c41074b1211493eb351f463031a715ee8f237ffd3e63da3fe9698de52db2ca",
+      "bytes": 5564
+    },
+    {
+      "name": "alignment.json",
+      "sha256": "87ea531f71d5c4c68fe1388858cc5a1bcc768d929181170dc52a91c224e07683",
+      "bytes": 1038
+    },
+    {
+      "name": "answers.md",
+      "sha256": "7bbec4b80308ca53807e443088f4ad4e5fc7a904c949bfc863544ff7393dc76a",
+      "bytes": 1923
+    },
+    {
+      "name": "audio/community_update_edited_review.wav",
+      "sha256": "9ea912485280c5ae4d99286754e48e33a4b58690317367799ac2219547f484c3",
+      "bytes": 495644
+    },
+    {
+      "name": "audio/community_update_practice.wav",
+      "sha256": "20674111d176578319991f68d2179b2384eb20d871e92cf8b977032ee8accf7c",
+      "bytes": 624284
+    },
+    {
+      "name": "audio/segment-1.txt",
+      "sha256": "d694db88f933ac43307bf2998a4cd65b7bf62cdf72115da9fc9f459ea19d037d",
+      "bytes": 27
+    },
+    {
+      "name": "audio/segment-1.wav",
+      "sha256": "694a5610ea3adae8e970cc0eae2db47c3a199708b507d930eb0878e4022976b1",
+      "bytes": 101358
+    },
+    {
+      "name": "audio/segment-2.txt",
+      "sha256": "dc7e1af7ebe15c2a544ff10bb5d1e1131164d78c79bc42a5f41d43ec3ddbf9bd",
+      "bytes": 27
+    },
+    {
+      "name": "audio/segment-2.wav",
+      "sha256": "908a53e130194025b4183afdde558f0035d4f6732477f1f26dc0f56eae8e5df4",
+      "bytes": 86238
+    },
+    {
+      "name": "audio/segment-3.txt",
+      "sha256": "b1343a98d367325941dad761e3d985ce96f03cc13c5dca9d6609f637f25111c2",
+      "bytes": 30
+    },
+    {
+      "name": "audio/segment-3.wav",
+      "sha256": "2db31a412b1affb731bd45c298bb9979b347f492422d9f6f261ee0474835e470",
+      "bytes": 116718
+    },
+    {
+      "name": "audio/segment-4.txt",
+      "sha256": "1fb52d31fb0cee9819e6d2498f75afd5b1edda84cd1367750f7da7d90059fb37",
+      "bytes": 35
+    },
+    {
+      "name": "audio/segment-4.wav",
+      "sha256": "ca82303cfbb84abf64671b3b32752a6bdfad4305b75f160aad25d846f6719209",
+      "bytes": 114558
+    },
+    {
+      "name": "audio/segment-5.txt",
+      "sha256": "d8028218d00b277efafb06afaf0448c9b7a778b39d8a61e1aa54734f1ee23533",
+      "bytes": 48
+    },
+    {
+      "name": "audio/segment-5.wav",
+      "sha256": "343ad4058d44cc5de1b02daaae1d10c97a3174352af5ef9615be39149a5b1ce2",
+      "bytes": 145758
+    },
+    {
+      "name": "demo-data.js",
+      "sha256": "88b9eda82efec349783bbed4263c7850a4d5b4ea9c12ce1b958ee34b87565186",
+      "bytes": 833238
+    },
+    {
+      "name": "editor.html",
+      "sha256": "525cb502100328742ad8aa1257433adb654e77772baae13c1a20f9cae2796c2d",
+      "bytes": 12475
+    },
+    {
+      "name": "execution-proof.json",
+      "sha256": "2ddc8170757e9bc47509f0e1adfa0a278c1ed13cf59254b6daed43b4d3d533cd",
+      "bytes": 451
+    },
+    {
+      "name": "rebuild-practice-audio.py",
+      "sha256": "145781a4a9c5dc735a89c0bfb93748c74991102d99697fcc223a97c4b3a08ce8",
+      "bytes": 2471
+    },
+    {
+      "name": "review-note-template.md",
+      "sha256": "54cd5112f95e3e0e3cfbff31bd047724622c0e9146e6cd40a1cccf1fe0c10ca2",
+      "bytes": 707
+    },
+    {
+      "name": "transcript-edited.txt",
+      "sha256": "eda5c33cc81b5bc7f4a548fd2796d65a62e774968a6bfafd402c449c6758151a",
+      "bytes": 141
+    },
+    {
+      "name": "transcript-original.txt",
+      "sha256": "a91f118268380c62086c498b83c7caecbf4ebc42e28418bf80308f7a16878244",
+      "bytes": 172
+    },
+    {
+      "name": "verify-kit.py",
+      "sha256": "08b605a6a310947d58377a16ad57c05c40182c3f7a81771e124e7b78b5865b7d",
+      "bytes": 1333
+    },
+    {
+      "name": "worksheet.md",
+      "sha256": "c7ee331cb39f9493fbd2fbc7ab6b9d30568bd42cb104f81074b4ce8abb36fb4d",
+      "bytes": 1891
+    }
+  ]
+}

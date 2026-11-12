@@ -1,0 +1,67 @@
+{
+  "version": 1,
+  "projectId": "cmv75v9h000kj5c3cm8m1gbbe",
+  "scriptSha256": "4ac130205bdca449e0722d2a431bd97cc5f63dbd7032cbdd9db0af56fe70d681",
+  "files": [
+    {
+      "name": "README.md",
+      "bytes": 932,
+      "sha256": "07fae59e75d3635fd64048ee308ce43f377e98ae92dec6c05ab11f598b718769"
+    },
+    {
+      "name": "assistant-prompt.txt",
+      "bytes": 1192,
+      "sha256": "4660deb205c0f9415e6dcdb8cbbf4c6004eade7869fb9d854f5446b8c80d4f49"
+    },
+    {
+      "name": "blank-replanning-table.csv",
+      "bytes": 107,
+      "sha256": "2811f5f7ae25a9df648b79b259b9d3d1545aef0ec560ab5480f58219d81b3967"
+    },
+    {
+      "name": "change-log.md",
+      "bytes": 645,
+      "sha256": "f4cd048d978d0fa03a713cd6f6f8c2570ede811f1cecfc6c45f7c29cc64e0dce"
+    },
+    {
+      "name": "check_example.py",
+      "bytes": 1354,
+      "sha256": "ea85825ff9e65bb840678e06b0004b8edba59cfe022b8acf144326efcf9b288b"
+    },
+    {
+      "name": "checker-execution-receipt.json",
+      "bytes": 872,
+      "sha256": "d54551dd25a2a15f1f157b48831b550df2a1b2735d709b27a7cfffb69b549e4c"
+    },
+    {
+      "name": "checker-output.txt",
+      "bytes": 167,
+      "sha256": "e171d7fe38718ed8db9f8804e90679df53f63400e63d8572a55e0ba4ed16298a"
+    },
+    {
+      "name": "expected-checks.md",
+      "bytes": 1265,
+      "sha256": "73eee98f2b78350d1ce5e112d4688f498b4aa5b12d3312c483fb5ffa5cbd629a"
+    },
+    {
+      "name": "message-draft.txt",
+      "bytes": 277,
+      "sha256": "1ce7b4de928640acd3018deabafe7fe4cfa683f0e46aef5b4618d45c9952d276"
+    },
+    {
+      "name": "original-plan.csv",
+      "bytes": 310,
+      "sha256": "3ac418046e08ff29dc69a43293b112377f378b5a8cc27d4343e11b432ac6705f"
+    },
+    {
+      "name": "revision-example.csv",
+      "bytes": 600,
+      "sha256": "78ce2d75dfa1c9ee8852ef97567dcd1a2f343f55499dcb9662600ff22b5e9ebc"
+    },
+    {
+      "name": "worksheet.md",
+      "bytes": 3338,
+      "sha256": "dba5edf8f0e5a48b93dca7c27ea1d8d64fd716486a2a53e3dc43ac20032e4a3b"
+    }
+  ]
+}

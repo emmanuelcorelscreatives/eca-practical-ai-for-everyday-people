@@ -1,0 +1,12 @@
+Propose a revision, not a confirmed schedule, for this fictional Community Photo Display.
+ORIGINAL PLAN
+Mon19Oct2026: Select18photos — Complete.
+Tue20Oct2026: Write captions — Complete.
+Wed21Oct2026: Resume print test — In progress, interrupted.
+Thu22Oct2026: Final printing — Not started.
+Fri23Oct2026: Mount photos — Not started.
+Sat24Oct2026,10:00–12:00: Room setup with Maya — Not started, fixed commitment.
+CHANGE AND CONSTRAINTS
+Printer unavailable since Wednesday; expected Friday23Oct15:00 but UNCONFIRMED. Friday availability15:00–21:00 must be checked by me. Saturday commitment cannot move without Maya’s agreement. Test30minutes, printing2hours, mounting3hours, setup2hours. Dependencies: test→printing→mounting→setup.
+PROTECT THE ORIGINAL
+Keep completed work complete and unchanged. Recalculate only affected unfinished tasks. Show every change in a side-by-side table with original date, status, proposed time, reason and person to notify. Flag missing information instead of guessing. Include conditional branches for confirmed or still-unavailable printer. Do not claim calendar access, printer confirmation, sent communications or Maya’s agreement.

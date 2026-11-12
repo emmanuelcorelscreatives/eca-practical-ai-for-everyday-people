@@ -1,0 +1,7 @@
+Task ID,Task,Original date,Current status,Revised start,Revised end,Reason,Person to notify
+P01,Select 18 photos,2026-10-19,Complete,,,No change,
+P02,Write captions,2026-10-20,Complete,,,No change,
+P03,Resume print test,2026-10-21,In progress,2026-10-23 15:00,2026-10-23 15:30,Printer delay,
+P04,Final printing,2026-10-22,Not started,2026-10-23 15:30,2026-10-23 17:30,Printer delay,
+P05,Mount photos,2026-10-23,Not started,2026-10-23 18:00,2026-10-23 21:00,Printer delay,
+P06,Room setup with Maya,2026-10-24 10:00,Not started,2026-10-24 10:00,2026-10-24 12:00,No change; fixed commitment,Maya

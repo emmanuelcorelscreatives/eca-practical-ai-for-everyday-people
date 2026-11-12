@@ -1,0 +1,42 @@
+{
+  "version": 1,
+  "projectId": "cmv75v99f00jd5c3cjag2ev6r",
+  "scriptSha256": "b22f0222285784d63e025f2e436979c61cac7599e165df101ca662ccc101786b",
+  "files": [
+    {
+      "name": "ai-organization-exercise.md",
+      "sha256": "2158a6bc2e4a54bfbdc593b44af224cf756a3ca706aef7d1f7f28fb7817872d3",
+      "bytes": 1932
+    },
+    {
+      "name": "calculate.py",
+      "sha256": "b4f77419cacba14f6fe9ea50acb65c40a7049a44fedb17162d117d9ec5ea4833",
+      "bytes": 1225
+    },
+    {
+      "name": "decision-record.md",
+      "sha256": "ed153a96b2886421890dca6aece85c2b9db4b89b422efc279099f8a9416deb89",
+      "bytes": 444
+    },
+    {
+      "name": "expected-results.csv",
+      "sha256": "b33902fc187776b60e044d1d0bfca0971a116b8dbe767008779f97e3e9903e67",
+      "bytes": 166
+    },
+    {
+      "name": "scores.csv",
+      "sha256": "471633cd42418567bcd3fd14c037f1ccd98893b3646ec06202be3a7e071d5fc4",
+      "bytes": 168
+    },
+    {
+      "name": "weights.csv",
+      "sha256": "22057f4673aab46aca5cc50183e5740f8257cc3cce8b1bb2e91a18dff9942ffa",
+      "bytes": 138
+    },
+    {
+      "name": "worksheet.md",
+      "sha256": "ae782d4e608a4ab985d151574ad72ae9ff8b30e5b7c939b2c321b4eecca153a6",
+      "bytes": 2716
+    }
+  ]
+}

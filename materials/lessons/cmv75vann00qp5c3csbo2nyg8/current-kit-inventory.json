@@ -1,0 +1,57 @@
+{
+  "version": 1,
+  "projectId": "cmv75vann00qp5c3csbo2nyg8",
+  "scriptSha256": "922df11703424789f5dab6353d1dd933023d86bf3c49b5a9f12fb7b984a3602d",
+  "files": [
+    {
+      "name": "01_originals/self-created-pattern.svg",
+      "sha256": "aa796a92e6bf9eb6f2d5d05b881c13e493888c5e15de0da537f553aa8e369cd1",
+      "bytes": 418
+    },
+    {
+      "name": "LICENSE.txt",
+      "sha256": "6de942c51205fd74105bfd3baf304e77e6ce05a3ecf8bf7699bb2dd3e8bcabed",
+      "bytes": 503
+    },
+    {
+      "name": "README.md",
+      "sha256": "619b5859e7eedf30671a642f5ecf437a0051df397d9543c88f104f804e5e1825",
+      "bytes": 1660
+    },
+    {
+      "name": "event-brief.md",
+      "sha256": "e0fbd66406a2ec534bb0baaa4f94a6a155b11e9a598a4f21129c6e7bca38e0a3",
+      "bytes": 981
+    },
+    {
+      "name": "exercise.md",
+      "sha256": "058c6b76c0c5a4a9d056b4007bd3205a3fe1a6781a9d6b558594bd40bcbc97c8",
+      "bytes": 1851
+    },
+    {
+      "name": "expected-checks.md",
+      "sha256": "a01cec225030071f4d1c8454412e782911c315db38462a948e5c3df76d9a9b25",
+      "bytes": 1530
+    },
+    {
+      "name": "image-brief.txt",
+      "sha256": "1a2fda72d36a0a5f5a24e04cbfc24f57146d54194c298719cde1829dd0fbc2c4",
+      "bytes": 499
+    },
+    {
+      "name": "ocr-source-card.txt",
+      "sha256": "9d7bc2bccef368559cba74b0cb1c7ad9419c5d174c4074333a3080b45d0097e4",
+      "bytes": 335
+    },
+    {
+      "name": "review-checklist.md",
+      "sha256": "013109b40ce24da451968d18592532aaf0775b60dbe8ac6d5c31263752315265",
+      "bytes": 1262
+    },
+    {
+      "name": "source-and-permission-record.csv",
+      "sha256": "e5a0cec8a346d5023b2850db00b83231db38234da4f98a6e952b4aa5f435f4eb",
+      "bytes": 524
+    }
+  ]
+}

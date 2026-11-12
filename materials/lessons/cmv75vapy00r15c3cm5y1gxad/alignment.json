@@ -1,0 +1,41 @@
+{
+  "sampleRate": 24000,
+  "segments": [
+    {
+      "id": 1,
+      "text": "The workshop begins at ten.",
+      "startFrame": 0,
+      "endFrame": 56640,
+      "removable": false
+    },
+    {
+      "id": 2,
+      "text": "Bring a reusable container.",
+      "startFrame": 56640,
+      "endFrame": 105720,
+      "removable": false
+    },
+    {
+      "id": 3,
+      "text": "Um, I was just thinking aloud.",
+      "startFrame": 105720,
+      "endFrame": 170040,
+      "removable": true
+    },
+    {
+      "id": 4,
+      "text": "The entrance is beside the library.",
+      "startFrame": 170040,
+      "endFrame": 233280,
+      "removable": false
+    },
+    {
+      "id": 5,
+      "text": "If the weather changes, check the posted update.",
+      "startFrame": 233280,
+      "endFrame": 312120,
+      "removable": false
+    }
+  ],
+  "provenance": "Academy-authored fictional workshop message. Synthetic demonstration voice generated locally by FFmpeg/libflite slt. Not an instructor recording, ASR result, or real community announcement."
+}

@@ -1,0 +1,13 @@
+{
+  "sourceSha256": "20674111d176578319991f68d2179b2384eb20d871e92cf8b977032ee8accf7c",
+  "removedOnlyFrames": [
+    105720,
+    170040
+  ],
+  "originalFrames": 312120,
+  "editedFrames": 247800,
+  "retainedPcmExact": true,
+  "originalUntouched": true,
+  "generation": "FFmpeg/libflite synthetic course practice, not EC cloned voice",
+  "commands": "ffmpeg -f lavfi -i flite=text=<exact phrase>:voice=slt -ar 24000 -ac 1 -c:a pcm_s16le segment-N.wav"
+}

@@ -1,0 +1,4 @@
+option,ease,reliability,cost,support,offline_required_pass,support_cost
+Option A,4,5,3,4,yes,not supplied
+Option B,5,3,5,3,yes,not supplied
+Option C,3,4,4,5,no,unknown

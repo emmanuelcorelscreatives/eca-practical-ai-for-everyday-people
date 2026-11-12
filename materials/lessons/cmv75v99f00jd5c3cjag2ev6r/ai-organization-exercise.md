@@ -1,0 +1,9 @@
+# Optional AI organization exercise — fictional practice only
+Copy scores.csv and weights.csv into your chosen assistant, with this instruction:
+
+> Organize only my supplied fictional comparison data into Evidence, Preferences, Constraints and Unknowns. Preserve each score and scenario weight exactly. Offline use is a hard requirement: exclude Option C from eligible recommendations. Support score means quality, not support cost. Keep unknown support cost unknown. Do not browse, invent product facts, fill gaps or change scores. Compute the supplied scenario totals, label your result conditional, and show a manual Option B check. I choose the priorities and final decision. Also distinguish a named scenario changing normalized weight shares from an isolated one-priority sensitivity test.
+
+Expected organization (illustrative reference, not a claim of an executed AI response): fictional scores belong under exercise evidence; weights under preferences; offline requirement under constraints; missing support cost under unknowns. Equal totals are 4.00 each. Convenience scenario totals are A 4.15, B 4.20, C 3.65; C excluded. Compare every AI-returned score and weight against the CSV, recalculate using calculate.py, reject invented evidence or a neutral replacement for unknowns, and retain unresolved differences rather than accepting fluent text.
+
+## Separate isolated-priority extension
+The lecture's 40/35/20/5 named scenario changes the relative allocation among non-target criteria too. It demonstrates dependence on chosen priorities; it cannot isolate ease alone. For a stricter one-priority experiment starting from equal shares, set ease to 40% and preserve equal ratios of the other priorities at 20% each. Result: A 4.00, B 4.20, C 3.80 (ineligible). This is a separately labelled additional exercise, never substituted for the authored lecture's numbers. Explain why these two tests ask different questions.

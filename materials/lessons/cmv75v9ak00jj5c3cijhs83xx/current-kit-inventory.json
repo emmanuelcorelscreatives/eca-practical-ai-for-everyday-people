@@ -1,0 +1,42 @@
+{
+  "version": 1,
+  "projectId": "cmv75v9ak00jj5c3cijhs83xx",
+  "scriptSha256": "4e0e0bb943e0ce0d2ec0317def13571a7902e97af5cb1a7160400feb3a8d4537",
+  "files": [
+    {
+      "name": "check-arithmetic.py",
+      "sha256": "55f6763bafe70f33f87d42cacc08d26a5c9bd005ee81ee6c49dadfb0963b8a09",
+      "bytes": 690
+    },
+    {
+      "name": "comparison-template.csv",
+      "sha256": "01bea4b7f4e6567b7face7d41cfec2fbc50d059c8db530af3d99dbd6f360f73e",
+      "bytes": 179
+    },
+    {
+      "name": "expected-checks.md",
+      "sha256": "511b21ef1ae7d16736a4e0ee8bf960ca7912cfeb842f52d25b07f35b6262589b",
+      "bytes": 1257
+    },
+    {
+      "name": "illustrative-scores.csv",
+      "sha256": "2042183b10d13ddb84c07cbd8fbe1e6ce38836a7e6269413e2cd1434bdee3caa",
+      "bytes": 152
+    },
+    {
+      "name": "manual-fallback.md",
+      "sha256": "03c09a037dcbfd33413d345771f731cc705fa9ae1fd38d7a8c21e6baaa8780df",
+      "bytes": 1486
+    },
+    {
+      "name": "source-notes.md",
+      "sha256": "52921aa8fc507de2fd2dbbd1d382fe5023bc7a4467deef81ebbeb509e8fbfb6b",
+      "bytes": 1485
+    },
+    {
+      "name": "worksheet.md",
+      "sha256": "b90a7453d94f15b2b6853ebc1d8e652c36655700d1e03bb965b4e1b597b4ef00",
+      "bytes": 2597
+    }
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "at": "2026-11-12T08:42:05.370863+00:00",
+  "command": [
+    "python3",
+    "check_example.py"
+  ],
+  "cwd": "/var/lib/trejj-studio/maintenance/practical-ai-pocket-production-20261112/lesson-cmv75v9h000kj5c3cm8m1gbbe/kit",
+  "actualExitCode": 0,
+  "stdout": "PASS: six preserved records; completed work untouched; conditional Friday arithmetic/dependencies; Saturday unchanged. No external availability or agreement verified.\n",
+  "stderr": "",
+  "files": {
+    "check_example.py": "ea85825ff9e65bb840678e06b0004b8edba59cfe022b8acf144326efcf9b288b",
+    "original-plan.csv": "3ac418046e08ff29dc69a43293b112377f378b5a8cc27d4343e11b432ac6705f",
+    "revision-example.csv": "78ce2d75dfa1c9ee8852ef97567dcd1a2f343f55499dcb9662600ff22b5e9ebc"
+  },
+  "scope": "Actual local subprocess execution; validates supplied data only; no external account or observed availability"
+}

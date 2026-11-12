@@ -1,0 +1,62 @@
+{
+  "version": 1,
+  "projectId": "cmv75vasc00rd5c3ceuja3wbw",
+  "scriptSha256": "a9f250be55fff0b0cd937f96dc101c5c5b79a76cf5206290a8d7818e00244a85",
+  "files": [
+    {
+      "name": "LICENSE.txt",
+      "sha256": "4e65446785c3dc844573e85e9e8047a02e8a9bc44c2698daefe84f5372417ba7",
+      "bytes": 268
+    },
+    {
+      "name": "README.md",
+      "sha256": "8e1270af8460cd49fdbf56338a5d34176f8646dcb76f55ca486c642bd359927e",
+      "bytes": 2744
+    },
+    {
+      "name": "acceptance-checklist.md",
+      "sha256": "ce7038ae52a4e9a95bb051f33b8fe4156b51fd0e35352241e844ff276cf64d33",
+      "bytes": 1213
+    },
+    {
+      "name": "announcement.txt",
+      "sha256": "ec8aa7a392ec53c426a109b1135037c0508932d163a85e0f61c22432ddd786df",
+      "bytes": 112
+    },
+    {
+      "name": "check_kit.py",
+      "sha256": "7a0590588c372bc1ec8007309dac1942b98602beab6a5a4289c77ea61f857d2f",
+      "bytes": 1124
+    },
+    {
+      "name": "disclosure.txt",
+      "sha256": "af21e7a16f73ca0c740a333ad1fa0bcedb5c059efc62949e695011d7ee37a80f",
+      "bytes": 56
+    },
+    {
+      "name": "exercise.md",
+      "sha256": "4d0e0e68560d380d66b3331e3a66728b602abcb1eef19cf8f655ade493f6ccbc",
+      "bytes": 2245
+    },
+    {
+      "name": "listener-review.md",
+      "sha256": "bcb65fbb1288fc60df8b4da11ae6a88ce6bbc254cb580dec632fe8ac46acef2f",
+      "bytes": 567
+    },
+    {
+      "name": "listening-review.csv",
+      "sha256": "5d41b582784211d6319aa6584e8386a9ee4669f48302bd1424897c93ef9b7755",
+      "bytes": 153
+    },
+    {
+      "name": "permission-record-template.md",
+      "sha256": "953018b3a04b1cab2b93eec1360f715f8cf6a9324158be078c8688e7c830b780",
+      "bytes": 679
+    },
+    {
+      "name": "rights-register.csv",
+      "sha256": "29cf662b2b79102059b1e539533205dbadff4972b49f9af3fdc2efd45dc042d9",
+      "bytes": 364
+    }
+  ]
+}
