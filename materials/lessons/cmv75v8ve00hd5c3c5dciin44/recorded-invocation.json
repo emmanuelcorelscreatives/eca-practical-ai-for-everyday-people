@@ -1,0 +1,42 @@
+{
+  "kind": "retained-executed-model-invocation",
+  "projectId": "cmv75v8ve00hd5c3c5dciin44",
+  "modelRoute": "combo/planning",
+  "admittedAt": "2026-11-12T11:31:39.904Z",
+  "responseCheckpointFileModifiedUTC": "2026-11-12T11:32:19.870051+00:00",
+  "messages": [
+    {
+      "role": "system",
+      "content": "Perform actual extraction from attached document text, preserving exact wording and uncertainty. Return JSON {rows:[{\"Type\":\"List|Date|Action\",\"Exact wording\":\"verbatim\",\"Original date\":\"verbatim date or empty\",\"Normalized date\":\"Not normalized: reason, or empty\",\"Owner\":\"source-supported owner or Not stated\",\"Deadline\":\"source-supported deadline or Not stated\",\"Source\":\"page and section\",\"Review\":\"Unverified\"}]}. This is fictional Academy practice. Do not invent a year, date ordering, owner or deadline. Combine only the explicitly repeated same-event reminder and retain both page locations. No commentary outside JSON."
+    },
+    {
+      "role": "user",
+      "content": "Using only the supplied document, extract every list item, date, and action item. For each row, include type, exact wording, source page or section, owner, deadline, and review status. If the document does not state an owner or deadline, write \u201cNot stated.\u201d Do not infer relationships. Preserve original dates; any normalized date belongs in a separate field. Do not invent missing years or date ordering. Mark generated rows unverified until compared with the source.\n\n\nActual document text extracted from the supplied two-page PDF:\nFICTIONAL ACADEMY PRACTICE PACKET - PAGE 1\nCommunity Garden Planning Notes\nDates\nSaturday, 14 November\nThe year is not stated. This date names the garden event, not a task deadline.\nMaterials\nBring gloves and labels\nActions\nSend volunteer reminder\nThis is the same event reminder mentioned again on page 2.\nSmall-print note\nReview meeting: 03/04. Date order and year are not stated.\n\n--- PAGE BREAK ---\n\nFICTIONAL ACADEMY PRACTICE PACKET - PAGE 2\nCommunity Garden Planning Notes\nActions\nMina will bring labels. Please confirm table delivery.\nSend volunteer reminder\nThis repeats the page 1 reminder for the same event. It is not a second task.\nDates\nFollow-up: 18 November. The year is not stated.\nClarification note\nNo owner or deadline is supplied for confirming table delivery.\nNo deadline is supplied for bringing labels or sending the reminder.\n"
+    }
+  ],
+  "sourceFiles": [
+    {
+      "name": "source-pages.txt",
+      "sha256": "8b4c34768270fe22a569ec7c4e02abdb4735c5a970e187a026ab29fad83f05ab"
+    },
+    {
+      "name": "prompt.txt",
+      "sha256": "509c6c7dba454bcea70861a1d2a39719b9baf7ad8b0e40087f38ac4aa1f0a583"
+    },
+    {
+      "name": "community-garden-planning-notes.pdf",
+      "sha256": "0a141e8099b0f7f0bf4a7f6ff5fc7645bf5c6a903809560051ecc31628ed3099"
+    }
+  ],
+  "receivedOutput": {
+    "name": "actual-assistant-response.json",
+    "sha256": "70a34dde22d34fc584374bab083728dbf738408f11c94653b2e30baf54932ee3"
+  },
+  "evidenceBasis": "Correlated retained executed coordinator source, prepared source/prompt SHA, admission and received response checkpoints. No provider request ID was available; no new request was issued to construct this record. Input is the accessible source copy of the same fictional two-page PDF; actual source-page PNGs support comparison.",
+  "retainedEvidenceSHA256": {
+    "source-and-capture-v1.mts": "1b13955ce799df307373136927257f183a1b31fea46fc150684f468091372322",
+    "generation-request-prepared.json": "0d6cc3938daf304cec5d43b6d4819644ec3a2767e13b453647d1d8c5d085b1ff",
+    "generation-request-admitted.json": "876493ff7fee7a3add64e67b9c183b5914f909e0ebfe84f20614fab1ae522820",
+    "actual-assistant-response.json": "70a34dde22d34fc584374bab083728dbf738408f11c94653b2e30baf54932ee3"
+  }
+}

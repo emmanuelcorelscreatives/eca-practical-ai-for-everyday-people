@@ -1,0 +1,77 @@
+{
+  "data": {
+    "rows": [
+      {
+        "Type": "Date",
+        "Exact wording": "Saturday, 14 November\nThe year is not stated. This date names the garden event, not a task deadline.",
+        "Original date": "Saturday, 14 November",
+        "Normalized date": "Not normalized: year is not stated.",
+        "Owner": "Not stated",
+        "Deadline": "Not stated",
+        "Source": "Page 1, Dates",
+        "Review": "Unverified"
+      },
+      {
+        "Type": "List",
+        "Exact wording": "Bring gloves and labels",
+        "Original date": "",
+        "Normalized date": "",
+        "Owner": "Not stated",
+        "Deadline": "Not stated",
+        "Source": "Page 1, Materials",
+        "Review": "Unverified"
+      },
+      {
+        "Type": "Action",
+        "Exact wording": "Send volunteer reminder",
+        "Original date": "",
+        "Normalized date": "",
+        "Owner": "Not stated",
+        "Deadline": "Not stated",
+        "Source": "Page 1, Actions; Page 2, Actions",
+        "Review": "Unverified"
+      },
+      {
+        "Type": "Date",
+        "Exact wording": "Review meeting: 03/04. Date order and year are not stated.",
+        "Original date": "03/04",
+        "Normalized date": "Not normalized: date order and year are not stated.",
+        "Owner": "Not stated",
+        "Deadline": "Not stated",
+        "Source": "Page 1, Small-print note",
+        "Review": "Unverified"
+      },
+      {
+        "Type": "Action",
+        "Exact wording": "Mina will bring labels.",
+        "Original date": "",
+        "Normalized date": "",
+        "Owner": "Mina",
+        "Deadline": "Not stated",
+        "Source": "Page 2, Actions",
+        "Review": "Unverified"
+      },
+      {
+        "Type": "Action",
+        "Exact wording": "Please confirm table delivery.",
+        "Original date": "",
+        "Normalized date": "",
+        "Owner": "Not stated",
+        "Deadline": "Not stated",
+        "Source": "Page 2, Actions; Page 2, Clarification note",
+        "Review": "Unverified"
+      },
+      {
+        "Type": "Date",
+        "Exact wording": "Follow-up: 18 November. The year is not stated.",
+        "Original date": "18 November",
+        "Normalized date": "Not normalized: year is not stated.",
+        "Owner": "Not stated",
+        "Deadline": "Not stated",
+        "Source": "Page 2, Dates",
+        "Review": "Unverified"
+      }
+    ]
+  },
+  "model": "combo/planning"
+}

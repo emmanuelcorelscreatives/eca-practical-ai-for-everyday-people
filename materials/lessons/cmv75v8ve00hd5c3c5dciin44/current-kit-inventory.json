@@ -1,0 +1,82 @@
+{
+  "version": 1,
+  "projectId": "cmv75v8ve00hd5c3c5dciin44",
+  "scriptSha256": "f985a6dbd2916a345b657960d4b0ba19f5e50a36cd2c02b0d9e6fabf9a4b4c64",
+  "files": [
+    {
+      "name": "Academy-Source-Notebook.html",
+      "sha256": "f1a9be61f7fc635a38535da9362666f1fb397a1d8e0b4fc29b97b7fdb0e9388a",
+      "bytes": 16004
+    },
+    {
+      "name": "LICENSE.txt",
+      "sha256": "41b2b6929bcd28fc3e5d3718df224b4b06dbbb1e56d7366d811999a16b5c5c62",
+      "bytes": 331
+    },
+    {
+      "name": "actual-assistant-response.json",
+      "sha256": "70a34dde22d34fc584374bab083728dbf738408f11c94653b2e30baf54932ee3",
+      "bytes": 2423
+    },
+    {
+      "name": "blank-extraction.csv",
+      "sha256": "6bec3167d19d3bd5d437da71ea3beeec018eedaa930593c43a86073659a2d754",
+      "bytes": 79
+    },
+    {
+      "name": "community-garden-planning-notes.pdf",
+      "sha256": "0a141e8099b0f7f0bf4a7f6ff5fc7645bf5c6a903809560051ecc31628ed3099",
+      "bytes": 2272
+    },
+    {
+      "name": "deliberately-faulty-output.csv",
+      "sha256": "ecd5942e6c771084ad1eecf8799a27312db19cc7eb5497f3d863d51236a5925b",
+      "bytes": 275
+    },
+    {
+      "name": "expected-extraction.csv",
+      "sha256": "ce3174850d05cf2a462560312c8116f9265f54a41d84f933651a2ca80c84a4d7",
+      "bytes": 839
+    },
+    {
+      "name": "ocr-error-example.txt",
+      "sha256": "8933b111c91b2e30666326cc0752de461c08530077d04105013fa2de2920ffff",
+      "bytes": 235
+    },
+    {
+      "name": "prompt.txt",
+      "sha256": "509c6c7dba454bcea70861a1d2a39719b9baf7ad8b0e40087f38ac4aa1f0a583",
+      "bytes": 473
+    },
+    {
+      "name": "recorded-invocation.json",
+      "sha256": "08b6b6734578d0f433c3a4eb691cdaf6971347e48c17a9f427f022974b18a02a",
+      "bytes": 3849
+    },
+    {
+      "name": "source-page-1.png",
+      "sha256": "9cc1aae622b2dea459fa9925f12c7571adfa71bcd0948b500a1daa2b5ecd8158",
+      "bytes": 52041
+    },
+    {
+      "name": "source-page-2.png",
+      "sha256": "03e06501b220898a778ab4977a77d6af22a0da0e9c305fbe3b4b2912f0ecb485",
+      "bytes": 56767
+    },
+    {
+      "name": "source-pages.txt",
+      "sha256": "8b4c34768270fe22a569ec7c4e02abdb4735c5a970e187a026ab29fad83f05ab",
+      "bytes": 850
+    },
+    {
+      "name": "worksheet.md",
+      "sha256": "9930c02be807344464625734aa2b00adb2de41fadedcd90f6632444fbe136445",
+      "bytes": 3560
+    },
+    {
+      "name": "workspace-guide.md",
+      "sha256": "f8701a2f48fb3f37172b84c9eb7112ac9e3adb2b1deafc96589370320fa8ce43",
+      "bytes": 2868
+    }
+  ]
+}
