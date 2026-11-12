@@ -1,0 +1,18 @@
+REQUEST PROMPT
+Draft a concise email request using only the supplied notes. State the purpose, needed response, and deadline. Do not invent names, reasons, promises, attachments, or other details. Label missing information separately. Keep the recipient placeholder visible. Provide proposed wording only; do not send anything.
+SUPPLIED NOTES
+[Paste the initial notes from source-notes.txt here.]
+
+TARGETED CORRECTION
+Remove the unsupported catering sentence. Keep every remaining fact unchanged. Do not add a reason for the deadline. Keep the recipient placeholder and list missing information separately.
+
+FOLLOW-UP PROMPT
+Draft a brief neutral follow-up using only the supplied facts. Refer to the initial request sent on Monday, 12 October 2026. Repeat the needed response and the exact deadline. Preserve workshop timing. Do not infer reading, receipt, ignoring, agreement or a new commitment. Provide proposed wording only.
+SUPPLIED NOTES
+[Paste both blocks from source-notes.txt here.]
+
+SHORTER MESSAGE
+Shorten the checked follow-up for a messaging draft. Preserve purpose, question, both quantities, all supplied dates and times. Do not add blame, urgency, commitments or a guessed recipient. Do not send.
+
+SECOND CORRECTION
+Remove “as previously agreed.” The notes show an earlier request, not an agreement. Keep the other supplied facts unchanged.

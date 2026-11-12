@@ -1,0 +1,27 @@
+AUTHORED PRACTICE EXAMPLES — NOT OBSERVED AI OUTPUTS
+
+FLAWED REQUEST — intentionally incorrect study fixture
+Subject: Urgent catering confirmation
+Hi Maya,
+As agreed, we have reserved the room for the community skills workshop. Please arrange 24 chairs and 8 tables for Tuesday, 20 October 2026 at 10:00. We need your confirmation to finalize catering. Please reply soon. The details are attached.
+
+FLAWED FOLLOW-UP — intentionally incorrect study fixture
+Hi Maya,
+You ignored my request sent on Tuesday, 13 October 2026. As previously agreed, the room is booked. Please confirm the chairs and tables by 15:00 on Friday, 16 October 2026 so we can pay the caterer.
+
+CHECKED REQUEST — authored example
+To: [leave actual recipient field blank]
+Subject: Room setup confirmation for 20 October workshop
+Hello [Recipient name],
+I am writing to confirm room setup for the community skills workshop on Tuesday, 20 October 2026 at 10:00. Can 24 chairs and 6 tables be arranged? Please reply by 12:00 on Friday, 16 October 2026.
+Thank you.
+Missing information for the writer: recipient name and reason for deadline are not supplied. This note is separate from the message body.
+
+CHECKED FOLLOW-UP — authored example
+Hello [Recipient name],
+I am following up on my request sent on Monday, 12 October 2026 about room setup for the community skills workshop on Tuesday, 20 October 2026 at 10:00. Can 24 chairs and 6 tables be arranged? Please reply by 12:00 on Friday, 16 October 2026.
+Thank you.
+Missing information for the writer: recipient name and reason for deadline are not supplied.
+
+SHORTER MESSAGE — authored example; address field remains blank
+Hello [Recipient name], following up on my request sent on Monday, 12 October 2026: can 24 chairs and 6 tables be arranged for the community skills workshop on Tuesday, 20 October 2026 at 10:00? Please reply by 12:00 on Friday, 16 October 2026. Thank you.

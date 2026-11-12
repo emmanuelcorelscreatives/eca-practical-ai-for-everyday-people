@@ -1,0 +1,20 @@
+MANUAL DRAFT — work in any text editor
+Purpose:
+Needed response:
+Deadline, if supplied:
+Event timing, if supplied:
+Prior request date, for follow-up only:
+Missing information:
+
+Subject:
+Hello [Recipient name],
+[State purpose. Ask the exact question. State supplied deadline.]
+
+Separate writer checks:
+[ ] Purpose clear
+[ ] Needed response explicit
+[ ] Supplied deadline exact; no invented deadline
+[ ] Every unsupported detail removed
+[ ] Quantities and dates checked against notes
+[ ] Recipient and commitments remain a human decision
+Do not send as part of this exercise.
