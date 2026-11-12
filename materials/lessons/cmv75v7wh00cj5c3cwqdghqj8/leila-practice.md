@@ -24,3 +24,5 @@ Author-prepared deliberately flawed study specimen — not observed assistant ou
 > Alex
 
 Use blank-review.csv to record each change and all unchanged important facts. Write your own checked draft; explain decisions before opening answers.md. Check name, event date, quantity, promise owner/action/deadline, unsupported addition and sign-off. No answer needs an assistant, account, external command or sent message.
+
+Adapt the copied review table before using it here: rename Coordinator to Recipient; rename Venue and workshop date to Session date; rename Chair quantity to Session quantity; and add a Second body sentence wording row. Use the Opening row for the first body sentence. Keep separate rows for promise owner and deadline, unsupported addition, and greeting/sign-off; add a row for any other proposed change. The accurate second body sentence may remain unchanged.
