@@ -1,0 +1,15 @@
+{
+  "projectId": "cmv75v90500i15c3clkqzkjun",
+  "lesson": 110,
+  "fictional": true,
+  "contentOrigin": "Self-authored Academy practice fixture aligned to saved lesson narration",
+  "recordingStatus": "ACTUAL_SYNTHETIC_AUDIO_CREATED",
+  "actualTranscriptionClaimed": true,
+  "privateDataIncluded": false,
+  "remainingRequirements": [
+    "independent complete material review; learners must listen and document their own observations"
+  ],
+  "actualTranscriptionScope": "Only actual-source-asr-observations.md; deliberately-flawed-transcript.md remains an authored seed fixture, never claimed as Word/ASR output.",
+  "sourceAudioInspection": "Actual unconditioned offline Qwen3-ASR-1.7B observations, all source audio hashes/native frames preserved; no expected text, forced alignment, diarization or human listening claim.",
+  "sourceAudioSha256": "a96550b8aeb64ea47cff5d06ad0a30b8ff4d17bdf8c5386b959b717e6dc89888"
+}

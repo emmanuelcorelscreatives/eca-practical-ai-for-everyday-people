@@ -1,0 +1,8 @@
+passage,category,exercise_error,expected_text_check,audio_timestamp,verification_status
+introduction1,name,Amarra,Amara Nwosu,,requires listening
+introduction2,name,Ruis,Diego Ruiz,,requires listening
+beds,quantity,fourteen,forty,,requires listening
+visit,date,no seeded error,16 October 2026,,requires listening
+estimate,missing unit,inference risk,1500 with unit/currency unresolved,,requires listening
+storage,speaker and homophone,Speaker1 and gait,Diego Ruiz and eastern gate,,requires listening
+overlap,unclear and unsupported claim,tomorrow claim,unclear overlapping speech,,requires listening

@@ -1,0 +1,62 @@
+{
+  "version": 1,
+  "projectId": "cmv75v90500i15c3clkqzkjun",
+  "scriptSha256": "c23f2f7ba3a27079c8a98e6a402b6c1498c334d644ce8e69a023593a9a49a439",
+  "files": [
+    {
+      "name": "Community Garden Planning.wav",
+      "sha256": "a96550b8aeb64ea47cff5d06ad0a30b8ff4d17bdf8c5386b959b717e6dc89888",
+      "bytes": 1051564
+    },
+    {
+      "name": "README.md",
+      "sha256": "6add54d438fea93ef6def9fb47a31ae93fbdf6b7a93a40360c7c27fabc814c82",
+      "bytes": 1659
+    },
+    {
+      "name": "actual-source-asr-observations.md",
+      "sha256": "e3321106cc05daf91aee43896a531a4f65785c79035cfdaabb5c6509a63bf72a",
+      "bytes": 2359
+    },
+    {
+      "name": "deliberately-flawed-transcript.md",
+      "sha256": "0f8f6b96df5864c975e355bf5ed124e9cc8a27ea7412b4e0b1fefc81809c20b8",
+      "bytes": 843
+    },
+    {
+      "name": "participants.csv",
+      "sha256": "5b5fceda8eafc02fd883c457a935297fb76be45ffebfcffc44738682c0cdd7cd",
+      "bytes": 215
+    },
+    {
+      "name": "provenance.json",
+      "sha256": "80deafd399a3066edb9392a8c50c48996b5c9928ecaa0f0e2f9eff90c4196c2a",
+      "bytes": 917
+    },
+    {
+      "name": "recording-script.md",
+      "sha256": "f79e815f01589f7110417815d7f769d28ef827af2fb1862932a9dbfc3da14ecc",
+      "bytes": 1096
+    },
+    {
+      "name": "recording-timing-and-provenance.json",
+      "sha256": "6b14299d7f55a5f0506e24d2983b37f53e29c42d7f385eaf5053b50f6fb667f1",
+      "bytes": 2161
+    },
+    {
+      "name": "review-log.csv",
+      "sha256": "21a2b16028759650235f5c337f9482d6ee53e5919d6a7c5802d80bcd0bb246d3",
+      "bytes": 601
+    },
+    {
+      "name": "reviewed-example.md",
+      "sha256": "d856b5cbedfe6aaeb058fb8ed07b900e22e4b9fc752f815a3ad8ac8ba5a3085c",
+      "bytes": 1670
+    },
+    {
+      "name": "worksheet.md",
+      "sha256": "a35c4a7133a826ec2105c22f2e046fd3021c1a3188bedf6cac34b7cdc2b3044c",
+      "bytes": 2119
+    }
+  ]
+}
