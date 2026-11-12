@@ -6,7 +6,7 @@ Turn the checked source into an editable, concise five-slide first draft for loc
 
 ## Practice
 1. Open checked-source-brief.md. Treat it as the supplied evidence boundary, not an assistant's recollection.
-2. Open output-brief.md. In Google Slides, create a blank file titled “Riverside Repair Afternoon — Draft.” If unavailable, the authored lesson permits PowerPoint, LibreOffice Impress, Canva or another editor with equivalent controls. Check actual account access; no particular AI feature is required.
+2. Open output-brief.md. In LibreOffice Impress, create a blank file titled “Riverside Repair Afternoon — Draft.” The demonstrated route uses Impress; the authored lesson also permits PowerPoint, Google Slides, Canva or another editor with equivalent controls. Check actual account access; no particular AI feature is required.
 3. Add exactly five slides using five-slide-skeleton.md. Build the structure before detailed wording. Label the file as drafted material, not an approved announcement.
 4. Copy the exact source facts into the appropriate slides. Use corrected-draft.md as a reference after trying your own draft. Mark “with you” as an assumption if retained; remove the unsupported removable-parts suggestion. Keep registration and contact gaps visible.
 5. Audit deliberately-faulty-draft.md against the opened evidence. This is a human-authored error exercise, not a captured AI result. Use expected-checks.md to verify every correction.

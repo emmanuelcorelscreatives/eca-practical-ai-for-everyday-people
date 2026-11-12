@@ -1,7 +1,7 @@
 {
   "version": 1,
   "projectId": "cmv75vad000p75c3cm4vd3iy5",
-  "scriptSha256": "dc2e1cd9848de5b36637827b3d12894a183eb60ff635586aa3bc8daa79bfb395",
+  "scriptSha256": "ea7c216d2dd4b03152373583ce7e1fd3c06b4e136473d6db04669663858d1ef8",
   "files": [
     {
       "name": "checked-source-brief.md",
@@ -45,8 +45,8 @@
     },
     {
       "name": "worksheet.md",
-      "sha256": "3d0db0bd7bf261f72c48d646172313a1e0e9122def637da816ee6a27de5c13be",
-      "bytes": 2488
+      "sha256": "85046f6a3efb7428789904d347ee519e363cbaa61c78e9cafdb77971f4e99492",
+      "bytes": 2514
     }
   ]
 }
