@@ -1,0 +1,10 @@
+source_line,source_fact,final_section,reason
+1,event place date and time,Event information,reference information; no invented task
+2,Priya 3 tables by 13:30,Open actions,unfinished named action
+3,Mateo printed 20 signs already,Completed,no new printing checkbox
+4,Noor rota Wednesday 21 October,Open actions,unfinished named action
+5,40 blank labels and 2 black markers,Open actions and Questions to confirm,owner missing
+6,DO NOT buy refreshments; venue water,Important constraint,prohibition preserved
+7,Friday rain forecast conditional table move,Open actions and Questions to confirm,condition and owner gap preserved
+8,ask Lina whether projector needed,Open actions and Questions to confirm,question not booking; owner missing
+9,confirm step-free entrance open,Open actions and Questions to confirm,exact requirement and owner gap preserved

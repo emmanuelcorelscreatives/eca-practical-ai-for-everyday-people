@@ -1,0 +1,47 @@
+{
+  "version": 1,
+  "projectId": "cmv75v6a3004j5c3cvftjlon3",
+  "scriptSha256": "77764589c5f234a8faad5cbb2e4dbd7595987efb014a099bd6895c9678a91f3e",
+  "files": [
+    {
+      "name": "README.md",
+      "sha256": "53a3a9361282100931a2658ba6ae867ae18c32f17293be2ab1c991956aff29f9",
+      "bytes": 1066
+    },
+    {
+      "name": "answer-key.md",
+      "sha256": "94d927d51c6d1cbfc140d82bbc903ad73cc38d3e1441f832d3f18adfa480e43c",
+      "bytes": 1691
+    },
+    {
+      "name": "manual-comparison.txt",
+      "sha256": "352ed866a62b2f5e2551dbb4fcbf9ad9411b3f98fd50111cd44da620e7e0447b",
+      "bytes": 1858
+    },
+    {
+      "name": "practice-template.txt",
+      "sha256": "52948ef908bcaae764c93d029803131eb60fec786f93ed3b53371494b1c3afa9",
+      "bytes": 413
+    },
+    {
+      "name": "prompt.txt",
+      "sha256": "b7b4953817fd3f9492f6b536206b8499eaa2a51345a6894afb647e9e1c9f824d",
+      "bytes": 1009
+    },
+    {
+      "name": "repair-prompt.txt",
+      "sha256": "cc73d76ba37811a0bd2d128cb783f088fde2b78694166e48734283aac62fad72",
+      "bytes": 360
+    },
+    {
+      "name": "supplied-facts.csv",
+      "sha256": "a8d4c78f7b2f6a4e67eb927f790e39d4ff8bc4a4651f8aa4a90fce807949ae57",
+      "bytes": 263
+    },
+    {
+      "name": "worksheet.md",
+      "sha256": "a8b42a2d9f052650b6ba164fdf86068ee3a629af53bccada24f6bd765314686c",
+      "bytes": 2409
+    }
+  ]
+}

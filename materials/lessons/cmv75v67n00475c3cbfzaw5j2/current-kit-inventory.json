@@ -1,0 +1,37 @@
+{
+  "version": 1,
+  "projectId": "cmv75v67n00475c3cbfzaw5j2",
+  "scriptSha256": "01ea572edf4012d6ecf46296757558bbb4d17a46dd8e65b68641c2121982d329",
+  "files": [
+    {
+      "name": "README.md",
+      "sha256": "b7bf0a2bdc599252b8b6543d1e11e3a13c3676903f622e2865d6fa231ec4f956",
+      "bytes": 1286
+    },
+    {
+      "name": "check_answers.py",
+      "sha256": "db2fd339031de122ae3932061a2a237e21b532567007ec1c2f84beb77ed6ba34",
+      "bytes": 1139
+    },
+    {
+      "name": "practice-data.json",
+      "sha256": "16cc2051af0c7e69c67172840a6be5af442cfcfbb1ff1a99ca88f8a244c1690c",
+      "bytes": 1278
+    },
+    {
+      "name": "prompts.md",
+      "sha256": "a0f55d6b29fed7d86d21efb028140e9b7feb2292ea523a4e9d094151cf2288d8",
+      "bytes": 2434
+    },
+    {
+      "name": "reference-answers.md",
+      "sha256": "fb0fe5a0b55bac46062c21e94cff6cfced4b8da56aa5f4fe0ac169c050ee7a28",
+      "bytes": 2128
+    },
+    {
+      "name": "worksheet.md",
+      "sha256": "c7962261b28a8d9294f7b09acfe749aa0bbb8d8cdb4773a1dc454a55e1edc0d2",
+      "bytes": 3177
+    }
+  ]
+}

@@ -1,0 +1,56 @@
+{
+  "fictional": true,
+  "garden": {
+    "event": "Community garden morning",
+    "date": "Saturday, 18 October",
+    "time": "09:00",
+    "bring": "gloves if available",
+    "meeting_point": "east gate"
+  },
+  "book_swap_example": {
+    "date": "Tuesday, 14 October",
+    "time": "16:00",
+    "bring": "one labelled book",
+    "meeting_point": "library entrance"
+  },
+  "clean_up_practice": {
+    "event": "Neighbourhood clean-up",
+    "date": "Sunday, 26 October",
+    "time": null,
+    "bring": "a reusable bag",
+    "meeting_point": "north gate"
+  },
+  "classification": [
+    {
+      "message": "I can attend on Saturday.",
+      "label": "Confirmation"
+    },
+    {
+      "message": "The meeting point is now the east gate.",
+      "label": "Information"
+    },
+    {
+      "message": "Please bring a reusable bag.",
+      "label": "Request"
+    },
+    {
+      "message": "I accept the invitation.",
+      "label": "Confirmation"
+    }
+  ],
+  "structured_response": {
+    "garden": {
+      "date": "Saturday, 18 October",
+      "time": "09:00",
+      "bring": "gloves if available",
+      "meeting_point": "east gate"
+    },
+    "clean_up_time": "Not provided.",
+    "labels": [
+      "Confirmation",
+      "Information",
+      "Request",
+      "Confirmation"
+    ]
+  }
+}

@@ -1,0 +1,15 @@
+TASK
+Propose exactly three meaningfully different structures for a fictional Green Street Volunteer Club one-page update, for volunteers reading on a phone.
+SOURCE FACTS
+Event 1: Saturday 24 October 2026, 09:00–11:00.
+Event 2: Wednesday 28 October 2026, 18:30.
+Event 3: Friday 30 October 2026, 16:00–18:00.
+Locations, contact person and response method are unknown. No event names or other facts have been supplied.
+NON-NEGOTIABLE CONSTRAINTS
+One page. Preserve every supplied date and time exactly. Add no facts.
+RANKED PRIORITIES
+1. Quick phone scanning.
+2. Obvious actions.
+3. Warm community tone.
+OUTPUT
+Exactly three meaningfully different options. Use the same fields for each: structure, phone scanning, obvious actions, warm tone, main benefit, main sacrifice, missing information. No numeric scores or invented percentages. Label assumptions. Give a provisional recommendation tied to these priorities, not an objectively best choice. Keep unknown details unknown and the final decision with me.

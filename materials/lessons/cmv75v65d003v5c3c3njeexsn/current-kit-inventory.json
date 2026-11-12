@@ -1,0 +1,32 @@
+{
+  "version": 1,
+  "projectId": "cmv75v65d003v5c3c3njeexsn",
+  "scriptSha256": "e36a570228a2f057ff0fd1b644233016bf5ff466cc57f9253216a54b52a6c632",
+  "files": [
+    {
+      "name": "checking-sheet.md",
+      "sha256": "bfa195bf37ce31d5152f2d0df614cd683bcc4406a99afec20f58e4f3ba87d053",
+      "bytes": 1530
+    },
+    {
+      "name": "example-drafts.md",
+      "sha256": "7d3eddc0b226e5ceb926a5fbf9bc4277f233548b1d66fff2038601d5bcb4be1b",
+      "bytes": 1811
+    },
+    {
+      "name": "requests.md",
+      "sha256": "1969deae2bf83c393056cf93f0dc0a962a05e423128ff06356fcd757122034fa",
+      "bytes": 1118
+    },
+    {
+      "name": "source-notes.txt",
+      "sha256": "3c7fb509ec3070f5e0f30ebafe81b5aa3358e1b0a45971df77d45246c48a39df",
+      "bytes": 317
+    },
+    {
+      "name": "worksheet.md",
+      "sha256": "6492d408e96126aa9ee2cf7bba19a121512449e859ee51849a787850b209515a",
+      "bytes": 2302
+    }
+  ]
+}

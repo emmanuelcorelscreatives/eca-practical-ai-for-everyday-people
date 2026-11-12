@@ -1,0 +1,12 @@
+claim,allowed_source,evidence,status
+Riverside Reading Picnic,Riverside brief,Riverside Reading Picnic,supported
+18 October 2026,Riverside brief,Date: 18 October 2026,supported
+10:00–12:00,Riverside brief,Time: 10:00–12:00,supported
+Maple Community Garden,Riverside brief,Place: Maple Community Garden,supported
+Free admission,Riverside brief,Free; registration required,supported
+Registration required,Riverside brief,Free; registration required,supported
+Own cup and picnic mat,Riverside brief,Bring your own cup and picnic mat,supported
+Step-free East Gate,Riverside brief,Step-free entrance via East Gate,supported
+Contact details [NOT SUPPLIED],Riverside brief,Contact details: not supplied,unresolved field marked
+Bring a lantern,format-only example,not in Riverside brief,reject
+riverside@example.org,none,not supplied,reject

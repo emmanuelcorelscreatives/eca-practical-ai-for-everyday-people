@@ -1,0 +1,67 @@
+{
+  "version": 1,
+  "projectId": "cmv75v632003j5c3cuovslxue",
+  "scriptSha256": "00f1b1ea08589b0f9c7b5fd6d814b5fee2b4c3e7c7d4cb5749fe26477bdd71ae",
+  "files": [
+    {
+      "name": "Focused Revision Note.md",
+      "sha256": "927cdc7d506abb2cb1d18435acf3858aef77a5c945a52ab23db23df836ee12f6",
+      "bytes": 354
+    },
+    {
+      "name": "LICENSE.txt",
+      "sha256": "22d1e4dce083d999d7e457e6151a12984032d30340a7b4b659927b72d1bc062c",
+      "bytes": 122
+    },
+    {
+      "name": "README.md",
+      "sha256": "f7096105db27305aca12316f751825f402bdd80091678a89a01e08e24f1bd0a9",
+      "bytes": 1318
+    },
+    {
+      "name": "Volunteer Welcome Brief.md",
+      "sha256": "9b3e13c3f03f2d3425ad386832a8d092bf02c470b1e900be2050ce86cd126d99",
+      "bytes": 567
+    },
+    {
+      "name": "Volunteer Welcome \u2014 Draft 1.md",
+      "sha256": "0acb09c885a09d6e9d2cf566602396d81e5b5cbd2d7afc23bb2dead92151fa42",
+      "bytes": 923
+    },
+    {
+      "name": "Volunteer Welcome \u2014 Draft 1.odt",
+      "sha256": "2fc33b228cdaf860c54d96d577fa4548746d7bbf426edb499d2c01e35cf5ecfe",
+      "bytes": 2599
+    },
+    {
+      "name": "Volunteer Welcome \u2014 Draft 2 \u2014 Tone Revision.md",
+      "sha256": "b3432388954c4073685f21812309cd29ebc42cf21d1f555ab043c902e2f28e22",
+      "bytes": 825
+    },
+    {
+      "name": "Volunteer Welcome \u2014 Draft 2 \u2014 Tone Revision.odt",
+      "sha256": "ac07bb6cf95820681be3364402024f91de294704cdd4ed5debb2eb4f9227a15e",
+      "bytes": 2501
+    },
+    {
+      "name": "check_materials.py",
+      "sha256": "97da2f9cbe5f73dcadf1bd9d92769a3c38e3e26a60aff6652f927a07e980ee62",
+      "bytes": 1142
+    },
+    {
+      "name": "draft-paragraphs.json",
+      "sha256": "3b5511cf0dce05b0fb857d7a10bfdb582a5cf77b4e9ef00761d0c348566b889c",
+      "bytes": 1824
+    },
+    {
+      "name": "feedback-and-comparison.md",
+      "sha256": "dcd01b8613a2840bee3a5fc29bf9835b73ca387ed5ea76a80e4904281da05ce1",
+      "bytes": 2161
+    },
+    {
+      "name": "sha256-manifest.json",
+      "sha256": "65a59bd5c013de85691222df241fbd7900bbf2f6c6c6c1565e733dbf698103d3",
+      "bytes": 1136
+    }
+  ]
+}

@@ -1,0 +1,14 @@
+TASK
+[What should happen?]
+
+SOURCE MATERIAL
+[Insert relevant permission-cleared factual source. Save the original separately.]
+
+EXAMPLE — FORMAT ONLY
+[Optional example. Explicitly name allowed features; exclude its facts.]
+
+OUTPUT RULES
+[Length, format, necessary conditions and exact missing-information marker.]
+
+CHECK AFTERWARD
+[Trace each consequential claim to the source. Remove unsupported details.]

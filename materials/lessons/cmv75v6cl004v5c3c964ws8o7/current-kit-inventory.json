@@ -1,0 +1,67 @@
+{
+  "version": 1,
+  "projectId": "cmv75v6cl004v5c3c964ws8o7",
+  "scriptSha256": "9fe9f9f9dca0a8bc8cd3c99d657c3bbbe97c184975912f72cb876ac6b44265c3",
+  "files": [
+    {
+      "name": "Example_Announcement.docx",
+      "sha256": "18d7aeec551d5df32207f846026655f1710a10daf76cdc609b5c584e172c5dcb",
+      "bytes": 1051
+    },
+    {
+      "name": "Example_Announcement.txt",
+      "sha256": "03bde19ab2d7d53c85f85ff2b54f1e0a20aa03f9c04dd951778083a1efcc478f",
+      "bytes": 266
+    },
+    {
+      "name": "Riverside_Reading_Picnic_Brief.docx",
+      "sha256": "3c513e8e53419e2a134078c790de55c349adc06d6469f06673bf3bea1b854075",
+      "bytes": 1103
+    },
+    {
+      "name": "Riverside_Reading_Picnic_Brief.txt",
+      "sha256": "979e28ccaba4cf4916a4bf5c6b4dbf6af7fd7691da20d75d893ccc13a9d53aa8",
+      "bytes": 320
+    },
+    {
+      "name": "answer-key.md",
+      "sha256": "7f0649a628fba832e224e2359f45eda12e4ca2a7999d27cc6c2c6a1316caf873",
+      "bytes": 1288
+    },
+    {
+      "name": "blank-template.txt",
+      "sha256": "fd56573db112844d2eaad392a804fb9ed6aa8d9b59f2899f4f54e6e9f1e12b27",
+      "bytes": 409
+    },
+    {
+      "name": "claim-check.csv",
+      "sha256": "c5f7f46c2fe2c3866581f0a2a0b923b52f4aa2fc60d1982f1e79dc9822c86293",
+      "bytes": 837
+    },
+    {
+      "name": "deliberately-flawed-output.txt",
+      "sha256": "bd0fae3417be77afc7f57f7819942a1d9fa4ce96ae3a4f3bcec98f770d2db3b9",
+      "bytes": 228
+    },
+    {
+      "name": "labeled-request.txt",
+      "sha256": "57cb45e063c0eed16edb118a66e5c9a8b34dec92617fde5e9a076103af76bb4f",
+      "bytes": 939
+    },
+    {
+      "name": "provenance.md",
+      "sha256": "37d1c93b900b04d6d3346db2aa58dcb468121d1f63c046d09f9e8408b177c53f",
+      "bytes": 610
+    },
+    {
+      "name": "verify_materials.py",
+      "sha256": "519d964aa3b8358500bc379f9fa12e719a9de42e64b32131ebe0284f4402f9c2",
+      "bytes": 1086
+    },
+    {
+      "name": "worksheet.md",
+      "sha256": "eccd240237860677a959b2f9ee56f8680efaeca98d62eb7de2fc92f94963939c",
+      "bytes": 3204
+    }
+  ]
+}

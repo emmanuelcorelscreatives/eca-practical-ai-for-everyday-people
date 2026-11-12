@@ -1,0 +1,52 @@
+{
+  "version": 1,
+  "projectId": "cmv75v66i00415c3c2seqxrrf",
+  "scriptSha256": "2071520245e1c5f54e92a164ce9f9c0208cef5f100390f383fe6269b724db003",
+  "files": [
+    {
+      "name": "LICENSE.txt",
+      "sha256": "1e9a08810ff09a6a6c1e040c383176840c52834da85a874c8065b9b235595639",
+      "bytes": 403
+    },
+    {
+      "name": "answer-key.md",
+      "sha256": "58604bafeed534b75c3b0f3a09e75457acc5150a01020f901db4fa2ee2e2acf8",
+      "bytes": 1849
+    },
+    {
+      "name": "check_reference.py",
+      "sha256": "812af33c934a333070f639ef73b1075a307a20d08b30700beed1e616284628aa",
+      "bytes": 660
+    },
+    {
+      "name": "checked-notice.txt",
+      "sha256": "e567dc5ee2555152cc8b99a5163ce508f45144f65a324b5b4696d5806fcf7693",
+      "bytes": 531
+    },
+    {
+      "name": "improved-prompt.txt",
+      "sha256": "cd1e958abc7a5cc2e57692871ad99f9e5b21805b07765872f5016d2a60f94a9a",
+      "bytes": 589
+    },
+    {
+      "name": "source-notes.txt",
+      "sha256": "4aa8a723bf47eae0733ad6dccb5a9c9e79170657e4aa1118ded79eef921f37cc",
+      "bytes": 404
+    },
+    {
+      "name": "weak-draft-example.txt",
+      "sha256": "7129ca66daaaab7740db3848bc3ae2dc0e021d3c0e2df870ff2e2ff0e32b02b9",
+      "bytes": 568
+    },
+    {
+      "name": "weak-prompt.txt",
+      "sha256": "13f5ef5e9dd3ba743648ef58ece0e867db05ec6e69e0f81582cf2d6c07261d1d",
+      "bytes": 344
+    },
+    {
+      "name": "worksheet.md",
+      "sha256": "617d3e1b92c16efce111754a945b3e4e8e02abaa163bf1cc158e40c9f15a25d6",
+      "bytes": 4070
+    }
+  ]
+}

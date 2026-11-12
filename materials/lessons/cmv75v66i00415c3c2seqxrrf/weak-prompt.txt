@@ -1,0 +1,3 @@
+Act as the world’s greatest communications expert. Write an amazing announcement from these notes.
+
+Paste the seven event facts from source-notes.txt below NOTES. Do not paste the explanatory missing-information list when reproducing the weak demonstration. This is an intentionally underspecified teaching example, not a recommended prompt.

@@ -1,0 +1,12 @@
+Decision or task:
+Source information:
+Non-negotiable constraints:
+Ranked priorities (two or three):
+Number of meaningfully different options:
+Comparison fields (same for every option):
+Main benefit and main sacrifice:
+Assumptions and unknowns to flag:
+Provisional recommendation tied to priorities:
+Independent factual checks needed:
+My final choice and reason:
+Sensitivity test (change only one priority order):

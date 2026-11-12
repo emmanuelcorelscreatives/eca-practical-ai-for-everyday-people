@@ -1,0 +1,52 @@
+{
+  "version": 1,
+  "projectId": "cmv75v648003p5c3cdfax568f",
+  "scriptSha256": "6f228a96096e297dff94f0431fa9a72a84ab11f81de1dcd27229e1877ff2063a",
+  "files": [
+    {
+      "name": "README.md",
+      "sha256": "67ff261f9e9bac27b0357eb5520ff84448ce9c21e5cbf46e5ca516bfd06b7ecb",
+      "bytes": 528
+    },
+    {
+      "name": "check_answer.py",
+      "sha256": "49ded43cc83635576316a0ef3e080b62282b02a39ddcc38b5966cb3b21c99c6d",
+      "bytes": 1047
+    },
+    {
+      "name": "corrected-checklist.md",
+      "sha256": "afd71ffbf55124ff8c5425ebe4aacb79b794184712c089be47b3a894c60a8e80",
+      "bytes": 1064
+    },
+    {
+      "name": "correction-record.csv",
+      "sha256": "35669d79daca8d840d163028f535d881360d54195dee20209121f1ad0d62ebfc",
+      "bytes": 908
+    },
+    {
+      "name": "exact-prompt.txt",
+      "sha256": "fdcde26fcbecb3b256e75b2d20115b3b1e82f561731d01f8132495c19e0c657c",
+      "bytes": 686
+    },
+    {
+      "name": "original-notes.txt",
+      "sha256": "5221981573b15c576e645fe48ba739573cf6c21cf7b31d9c611fb6d1567c4401",
+      "bytes": 449
+    },
+    {
+      "name": "two-way-audit.csv",
+      "sha256": "2ccecf4be7079604af7adf4e01e8c3e3408a40b3fa56d5d57d13fc9e114a769b",
+      "bytes": 846
+    },
+    {
+      "name": "unverified-draft.md",
+      "sha256": "0a4b85faf14007841bab27d12ac858a7fb9f6ecf6b9cab9be41e74dabf249c5c",
+      "bytes": 464
+    },
+    {
+      "name": "worksheet.md",
+      "sha256": "c888f33f5917695e7d62a87f726c3a41cf0a93841b3665a1d2d3cfeb470cc964",
+      "bytes": 3044
+    }
+  ]
+}
