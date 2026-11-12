@@ -1,0 +1,47 @@
+{
+  "version": 1,
+  "projectId": "cmv75va1m00nj5c3csommbdgx",
+  "scriptSha256": "901297f02c0426a3ed5909846dd9b251fe74e7e001663b477ecaf51410ede00e",
+  "files": [
+    {
+      "name": "README.md",
+      "sha256": "6c3bfa8d031e93d3ec15d6cd13903be9b1e7ff4d0382b15a0b9ab2bdb50282b2",
+      "bytes": 1080
+    },
+    {
+      "name": "answer-key.md",
+      "sha256": "76d937a027745101a5941ad723a804df8cebfa4713c875eebbf4c3e2964585bb",
+      "bytes": 1893
+    },
+    {
+      "name": "current-template.md",
+      "sha256": "b44a73613f7b9b4c66496f2201857c7768e7e78ac378061f4138f4507eae5351",
+      "bytes": 742
+    },
+    {
+      "name": "exercise.md",
+      "sha256": "aca740aedcf605ebfd1fcd8122bfacfb9a05c86c75638d3137fc2ca798dae3be",
+      "bytes": 2049
+    },
+    {
+      "name": "procedure-template.md",
+      "sha256": "3530b17462b279cb9bc565af974f415cc313e79bf18d9263b9fc7182771abeef",
+      "bytes": 1058
+    },
+    {
+      "name": "review-checklists.md",
+      "sha256": "4165e23672bcc8a75236c4f075464a43cc285538f5f04bf341a76c8b24a5844c",
+      "bytes": 999
+    },
+    {
+      "name": "source-notes.md",
+      "sha256": "5db5cc0c42ae26d0ca2905cba21855327729a660b323b104e9811e7e06d55dec",
+      "bytes": 1137
+    },
+    {
+      "name": "worked-procedure.md",
+      "sha256": "b008f897816537ea01b764c3e63f4b961cb0c4c9c8624883bda4ac20afcb110d",
+      "bytes": 2815
+    }
+  ]
+}
