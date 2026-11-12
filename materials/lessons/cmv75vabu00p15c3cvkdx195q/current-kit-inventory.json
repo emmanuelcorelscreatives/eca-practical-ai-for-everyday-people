@@ -1,0 +1,72 @@
+{
+  "version": 1,
+  "projectId": "cmv75vabu00p15c3cvkdx195q",
+  "scriptSha256": "1e6495143bbf3b35a64c1fe076d31fbebf49435223926d57e911c7affe5ed2a1",
+  "files": [
+    {
+      "name": "ANSWER-KEY.md",
+      "sha256": "a8e4122fc3a2af77d5619ad37474b37790fd5cea8cef0c9720f19f73b629f10b",
+      "bytes": 2079
+    },
+    {
+      "name": "EXERCISE.md",
+      "sha256": "85b03634c7217420dde1b5ac79a24329c65dd7e81b1ee1c6cfe2abfc65646247",
+      "bytes": 1278
+    },
+    {
+      "name": "README.md",
+      "sha256": "fed15eb8225b64e99d5af0b310982140deed7af894c119ae1d58b2df1da252a4",
+      "bytes": 2905
+    },
+    {
+      "name": "assistant-prompt.md",
+      "sha256": "2aba2a06970ec620d316c8cb9872d098a01baf474f9ec93a5a98d0fc7b9a0c87",
+      "bytes": 1183
+    },
+    {
+      "name": "audience-and-message.md",
+      "sha256": "46fd8b435fcb2978d48b0cd1d5336cfd80319079aa7e2194dbe4e30f5de17b05",
+      "bytes": 372
+    },
+    {
+      "name": "checked-outline.md",
+      "sha256": "9be0e7561d78352a09d1a649b2ad34e7756b644fc05298a96a42e0e75cb0497e",
+      "bytes": 1499
+    },
+    {
+      "name": "claim-to-source-blank.csv",
+      "sha256": "2f11f7679b926d84f56df1b670251281813a0559609489d7687639dd552762c2",
+      "bytes": 111
+    },
+    {
+      "name": "claim-to-source-expected.csv",
+      "sha256": "ff8605e1ee918f77ec03a3b7525c11b1368957b21ae1ea62cc354f1738aa3d37",
+      "bytes": 1705
+    },
+    {
+      "name": "flawed-outline-study.md",
+      "sha256": "2657e3dde404a092fc3ea68b2a452c640adcba44913de90531dd1877dafdbec7",
+      "bytes": 1146
+    },
+    {
+      "name": "outline-workbook.html",
+      "sha256": "b3ba4cc74ba441a33a98621cee1ffcce548395c11261476cca1a043fbc57c6d3",
+      "bytes": 5227
+    },
+    {
+      "name": "source-A.txt",
+      "sha256": "671d244e4bac3ec2bca1c3b2ec83536e42610ca5cd5bb2095116f3ab8ef5f70e",
+      "bytes": 119
+    },
+    {
+      "name": "source-B.txt",
+      "sha256": "c6b0980e6ba4c2e37c031d6138b1198249fbbf21cbde4c2e672e4e95e91fb909",
+      "bytes": 146
+    },
+    {
+      "name": "source-C.txt",
+      "sha256": "84cec91b67847f87a1291195068481dae779e6175cc16e2ab4c9ae73ecf8b78f",
+      "bytes": 145
+    }
+  ]
+}
