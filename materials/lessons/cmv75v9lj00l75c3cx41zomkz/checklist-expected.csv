@@ -1,0 +1,8 @@
+Form section,Exact field or document requested,Source location,Status,Value or file found,Format or date rule,Question for applicant,Requirement or condition,Verification notes
+Applicant details,Full name,"Page 1, Applicant details",AVAILABLE,From applicant record — verify spelling,,,REQUIRED,
+Applicant details,Date of birth,"Page 1, Applicant details",AVAILABLE,Applicant record — compare with source,DD/MM/YYYY,,REQUIRED; DD/MM/YYYY,
+Contact details,Email address,"Page 1, Contact details",AVAILABLE,From applicant record — verify characters,,,REQUIRED,
+Contact details,Preferred contact method,"Page 1, Contact details",UNCLEAR,Email address available; preference not stated,,Which contact method do you prefer: email or telephone?,REQUIRED; applicant must choose email or telephone,
+Supporting documents,Proof of address,"Page 3, Supporting documents",MISSING,,Current utility bill or current address notice,Which accepted proof-of-address document can you provide?,REQUIRED; current utility bill or current address notice,
+Application history,Previous application reference,"Page 2, Application history",MISSING,,If you applied before,"Have you applied before? If yes, what is your reference?",If you applied before,
+Access requirements,Accessibility arrangements,"Page 2, Access requirements",UNCLEAR,,Do not assume not applicable,"What arrangements, if any, do you require?",Ask applicant; do not assume not applicable,

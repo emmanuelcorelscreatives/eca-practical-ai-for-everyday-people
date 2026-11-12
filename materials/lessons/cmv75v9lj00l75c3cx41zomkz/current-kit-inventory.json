@@ -1,0 +1,47 @@
+{
+  "version": 1,
+  "projectId": "cmv75v9lj00l75c3cx41zomkz",
+  "scriptSha256": "22c16da347ab51c801657a6cd61e51d887779586bc15756866860ebf708bd6e6",
+  "files": [
+    {
+      "name": "checklist-expected.csv",
+      "sha256": "ce9a89365e8d2ae690bc6d1e75dff1995d9c13d65b625ab3a37705065592384e",
+      "bytes": 1443
+    },
+    {
+      "name": "ocr-error-exercise.txt",
+      "sha256": "f1a856ddc7f57a61aa5120927d77bb0d4a43d51716c2626e026fae2afb8d3f52",
+      "bytes": 314
+    },
+    {
+      "name": "prompt.txt",
+      "sha256": "9ad1040b9ee48a67bf70d957ac421aada714972a809507a7212adf96f5d223b8",
+      "bytes": 415
+    },
+    {
+      "name": "checklist-starter.csv",
+      "sha256": "876fab45c7b9db119a7d9b343a9956ba5bbaf54106ea8d1db8f063d02b188637",
+      "bytes": 693
+    },
+    {
+      "name": "Community_Learning_Grant_Application_SAMPLE.html",
+      "sha256": "3ff867c35b889ef0fda1fababd3f41fae4f5cc6e1460d1e0d8968dea375d5e1a",
+      "bytes": 2208
+    },
+    {
+      "name": "applicant-actions-expected.csv",
+      "sha256": "b9de121eab79cf4aa0d552fc096ffa4fb411299391f3991f5279c2246389b28d",
+      "bytes": 269
+    },
+    {
+      "name": "README.md",
+      "sha256": "638ad4bace8d72a56749790f5ed2aa1433ccba54acf5bd40b53fda4bd16709c8",
+      "bytes": 3226
+    },
+    {
+      "name": "applicant-record-SAMPLE.txt",
+      "sha256": "55f20b51d752a2084b67f8446b21fe0dd2210af684407c11d150ac188b627bf1",
+      "bytes": 356
+    }
+  ]
+}
