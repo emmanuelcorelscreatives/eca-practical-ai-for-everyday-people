@@ -1,0 +1,47 @@
+{
+  "version": 1,
+  "projectId": "cmv75v9i100kp5c3copjwxsuk",
+  "scriptSha256": "90561179e1c31b581f51f58aed045a7504493149b9a3c3293e406a104d000876",
+  "files": [
+    {
+      "name": "answer-key.md",
+      "sha256": "3171788047667bff3a3082a51dfcdeed2e83245063e790785694b6731691ba11",
+      "bytes": 1295
+    },
+    {
+      "name": "calendar-practice.html",
+      "sha256": "a7fdd09142c051a5c59ed43b7aca29ab25e467a044219433bb66982106330064",
+      "bytes": 16422
+    },
+    {
+      "name": "expected-occurrences.csv",
+      "sha256": "cd8be03e923bad1df12f66e24e086dba4de419cadceb3dcbe84d3e125a8a2735",
+      "bytes": 536
+    },
+    {
+      "name": "organizer-confirmations.md",
+      "sha256": "d299831ac6c3a17e773cf9219bce1a02a1b5e86309a616f1520b81c836a0bf50",
+      "bytes": 1072
+    },
+    {
+      "name": "original-note.txt",
+      "sha256": "22559bd712f9b1a0bc8055ce8736a26561a66bb3a20a0a11a65d242298cf567d",
+      "bytes": 308
+    },
+    {
+      "name": "review-checklist.csv",
+      "sha256": "ef3a9ad33c580ed2a97d665cdc339347f86b49061f87a7d2c020589d6d93386c",
+      "bytes": 784
+    },
+    {
+      "name": "validate_fixture.py",
+      "sha256": "181ed43fa03378142c83424bb2c63a72a4828f1e1a0a698f4c8be6ef4ecc4ab1",
+      "bytes": 847
+    },
+    {
+      "name": "worksheet.md",
+      "sha256": "041874619646a55891b9a8e3dcbfccdacfcd65a5b535de9286fa731d7aea33f1",
+      "bytes": 4952
+    }
+  ]
+}
