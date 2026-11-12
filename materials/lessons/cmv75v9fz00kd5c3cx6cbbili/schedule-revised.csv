@@ -1,0 +1,13 @@
+day,start,end,action,status,check
+Monday,17:35,18:10,Chickpea carrot spinach rice,draft,active time requires confirmation
+Monday,18:15,18:20,Start laundry,draft,machine duration and drying/put-away unresolved
+Tuesday,16:45,17:20,Quick chickpea-spinach rice,conditional draft,assumption ingredients ready to use
+Tuesday,17:20,17:35,Eat or pack meal,draft,15 minutes within supplied fictional availability ending17:35;5-minute gap before departure; no task approval implied
+Tuesday,17:40,18:00,Outbound travel,fixed,school event
+Tuesday,18:00,19:30,School event,fixed,preserve
+Tuesday,19:30,19:50,Return travel,fixed,preserve
+Tuesday,20:05,20:10,Put recycling outside,provisional,proposed placement before Wednesday08:00; confirm responsible adult and access
+Wednesday,,,Leftovers before birthday tea,provisional unscheduled,confirm safe available leftovers quantity and reheating duration; must fit before kitchen cleaning; no feasibility approval
+Wednesday,17:20,17:50,Clean kitchen,draft,finish before setup
+Wednesday,18:00,18:45,Tea setup,provisional,location and guest requirements unresolved
+Wednesday,19:00,19:00,Birthday tea starts,fixed start,duration unknown; location unresolved

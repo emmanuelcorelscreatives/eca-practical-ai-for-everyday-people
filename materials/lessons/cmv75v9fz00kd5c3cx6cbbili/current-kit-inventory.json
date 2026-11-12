@@ -1,0 +1,72 @@
+{
+  "version": 1,
+  "projectId": "cmv75v9fz00kd5c3cx6cbbili",
+  "scriptSha256": "18aa48549023d82b96ef6b19e89037d7bad93372fb3d8081c1f5a96cc799a3ca",
+  "files": [
+    {
+      "name": "LICENSE.txt",
+      "sha256": "07e2a584e175855ed6a1cbf95db2a99af9ef731e2e9504461e4807d84ad83566",
+      "bytes": 412
+    },
+    {
+      "name": "answer-key.md",
+      "sha256": "57fcbe9b28d3eed0c7b0f4340f79e045bd4d233817342318294d638df28858a2",
+      "bytes": 3104
+    },
+    {
+      "name": "assistant-prompts.md",
+      "sha256": "1a18205e6cb98f9dedd9103f587097c6d9dbb03099f99620278288bca46f9747",
+      "bytes": 1723
+    },
+    {
+      "name": "check-run.txt",
+      "sha256": "a88d83169b0f60f7e93cea8a9b623c85845a450d28ff7b38288b694dbc233464",
+      "bytes": 174
+    },
+    {
+      "name": "check_schedule.py",
+      "sha256": "852494e1b8e3cad1571fd327fa3bf9523e0fd8bb02ea0203080eabaf5d475361",
+      "bytes": 1348
+    },
+    {
+      "name": "confirmation-register.csv",
+      "sha256": "37d28efdbe543644f2c1d82fd8b2dc3a93c668afcc7fde2df1f45afeff5d62b7",
+      "bytes": 1249
+    },
+    {
+      "name": "household-brief.md",
+      "sha256": "ee61231ee2dc8effb4b11a5764011a797bd30b20db444710926effc9f43f2603",
+      "bytes": 2034
+    },
+    {
+      "name": "index.html",
+      "sha256": "7940cfe5597ee55a661c9f01be669762b7848277ede220d95b787dcdab7391a7",
+      "bytes": 21058
+    },
+    {
+      "name": "planning-template.csv",
+      "sha256": "96fc69c41e7df2b2345ede329083c7b9c0122663c4261e48820c2d5f87c35661",
+      "bytes": 77
+    },
+    {
+      "name": "resource-and-dependency-check.md",
+      "sha256": "6d47807a08af115985a6d06423cabd161daadb0413f1bc8b4cf98115f27bcffe",
+      "bytes": 2290
+    },
+    {
+      "name": "schedule-original.csv",
+      "sha256": "df2c6603520ad29930e357862235cb1e500650f604421bf14ff7d3185953496b",
+      "bytes": 1024
+    },
+    {
+      "name": "schedule-revised.csv",
+      "sha256": "3999c7dfea14611ed4857e993363693a5f2fc7b89138fc468f17ac0820f06a16",
+      "bytes": 1201
+    },
+    {
+      "name": "worksheet.md",
+      "sha256": "e103af049873881dcafc25361256715eddfad701a2c2ead67dfac44c579dc879",
+      "bytes": 5612
+    }
+  ]
+}

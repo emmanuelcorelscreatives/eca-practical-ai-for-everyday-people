@@ -1,0 +1,7 @@
+original_overlap_minutes=30
+travel_only_overlap_minutes=20
+revised_cooking_minutes=35
+eat_or_pack_minutes=15
+monday_wednesday_unchanged=True
+fixed_blocks_preserved=True
+PASS
