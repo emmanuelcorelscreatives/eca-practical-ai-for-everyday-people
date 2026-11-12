@@ -1,0 +1,6 @@
+TITLE: Riverlight Community Day — approved information handoff
+PURPOSE: Create a public information draft
+VERSION: 1.0
+Prepared from: two opened fictional source documents
+Generated interpretation: none
+Keep this wrapper with either CSV file; it is not a ninth CSV column.

@@ -1,0 +1,49 @@
+{
+  "title": "Riverlight Community Day — approved information handoff",
+  "purpose": "Create a public information draft",
+  "handoffVersion": "1.0",
+  "preparedFrom": "two opened fictional source documents",
+  "generatedInterpretation": "none",
+  "records": [
+    {
+      "Item ID": "EVT-001",
+      "Field": "Event schedule",
+      "Verified value": "2026-11-14, 10:00–15:00",
+      "Source title": "Riverlight Community Day — Approved Event Brief",
+      "Source location": "Schedule",
+      "Source date": "2026-10-10",
+      "Status": "VERIFIED",
+      "Notes": "Local time; time zone not stated."
+    },
+    {
+      "Item ID": "EVT-002",
+      "Field": "Venue",
+      "Verified value": "Harbor Hall, 18 Cedar Lane",
+      "Source title": "Riverlight Community Day — Approved Event Brief",
+      "Source location": "Venue",
+      "Source date": "2026-10-10",
+      "Status": "VERIFIED",
+      "Notes": ""
+    },
+    {
+      "Item ID": "EVT-003",
+      "Field": "Step-free access",
+      "Verified value": "East entrance",
+      "Source title": "Riverlight Community Day — Venue Access Note",
+      "Source location": "Access",
+      "Source date": "2026-10-11",
+      "Status": "VERIFIED",
+      "Notes": "Accessible parking information not supplied."
+    },
+    {
+      "Item ID": "EVT-004",
+      "Field": "Admission price",
+      "Verified value": "[MISSING]",
+      "Source title": "Riverlight Community Day — Approved Event Brief",
+      "Source location": "Admission",
+      "Source date": "2026-10-10",
+      "Status": "MISSING",
+      "Notes": "Price not yet approved; do not estimate."
+    }
+  ]
+}

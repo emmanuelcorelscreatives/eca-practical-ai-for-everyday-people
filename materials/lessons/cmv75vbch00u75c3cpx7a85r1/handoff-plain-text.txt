@@ -1,0 +1,44 @@
+TITLE: Riverlight Community Day — approved information handoff
+PURPOSE: Create a public information draft
+VERSION: 1.0
+
+RECORD EVT-001
+ITEM ID: EVT-001
+FIELD: Event schedule
+VALUE: 2026-11-14, 10:00–15:00
+SOURCE: Riverlight Community Day — Approved Event Brief
+SOURCE LOCATION: Schedule
+SOURCE DATE: 2026-10-10
+STATUS: VERIFIED
+NOTES: Local time; time zone not stated.
+
+RECORD EVT-002
+ITEM ID: EVT-002
+FIELD: Venue
+VALUE: Harbor Hall, 18 Cedar Lane
+SOURCE: Riverlight Community Day — Approved Event Brief
+SOURCE LOCATION: Venue
+SOURCE DATE: 2026-10-10
+STATUS: VERIFIED
+NOTES: 
+
+RECORD EVT-003
+ITEM ID: EVT-003
+FIELD: Step-free access
+VALUE: East entrance
+SOURCE: Riverlight Community Day — Venue Access Note
+SOURCE LOCATION: Access
+SOURCE DATE: 2026-10-11
+STATUS: VERIFIED
+NOTES: Accessible parking information not supplied.
+
+RECORD EVT-004
+ITEM ID: EVT-004
+FIELD: Admission price
+VALUE: [MISSING]
+SOURCE: Riverlight Community Day — Approved Event Brief
+SOURCE LOCATION: Admission
+SOURCE DATE: 2026-10-10
+STATUS: MISSING
+NOTES: Price not yet approved; do not estimate.
+

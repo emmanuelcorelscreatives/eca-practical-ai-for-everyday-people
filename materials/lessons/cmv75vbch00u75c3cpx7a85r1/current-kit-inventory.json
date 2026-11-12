@@ -1,0 +1,92 @@
+{
+  "version": 1,
+  "projectId": "cmv75vbch00u75c3cpx7a85r1",
+  "scriptSha256": "dd524049e635cddeff11caad6bc19f0e4ee6db5c97d58aa9d7a57744d86c80a7",
+  "files": [
+    {
+      "name": "README.md",
+      "sha256": "384fdbb854d285773aeb650baf979abf536e390528af669f0c9bf8d99fa9bb18",
+      "bytes": 3057
+    },
+    {
+      "name": "answer-key.md",
+      "sha256": "c49dc9d2888e5b676b590a0beeb7750d1494c86934045e94790c04ff47ab0de4",
+      "bytes": 633
+    },
+    {
+      "name": "approved-event-brief-v1.2.txt",
+      "sha256": "cfcefb79a041e0844eb05deb362aba6c7d3772b757e897497fcb155478a2f51e",
+      "bytes": 254
+    },
+    {
+      "name": "assistant-instructions.txt",
+      "sha256": "e38825676d4b4b8f57807dcfc8bcd1d8570a53cbfdd78c06cc01d239c9fe3f57",
+      "bytes": 1884
+    },
+    {
+      "name": "damaged-transfer-example.txt",
+      "sha256": "5e79e2180e4d232f5b2ed6aee254ae4e5f7e76ad2931c5c0f8fbc1f81571e684",
+      "bytes": 262
+    },
+    {
+      "name": "destination-human-review.txt",
+      "sha256": "ff993803f70c156b7658c096b0b1684be6407e2d5e513a06598c41a05de4497f",
+      "bytes": 679
+    },
+    {
+      "name": "handoff-completed.csv",
+      "sha256": "ebf5c80fa5005ca492164651988f36d906d9587cdd0ba731b7c9f95850c76e33",
+      "bytes": 684
+    },
+    {
+      "name": "handoff-completed.json",
+      "sha256": "7ed0e0e342f8a0bc38ba0967e255da80e89197c375e28ac75f8e89e698ce3221",
+      "bytes": 1623
+    },
+    {
+      "name": "handoff-context.txt",
+      "sha256": "c13c7e047f28ce290a4d0c858bfd7045acc09ff43bb5ec27f039184fce02a94c",
+      "bytes": 275
+    },
+    {
+      "name": "handoff-exercise.csv",
+      "sha256": "3b263bc1fbdd38ba5a607b09e07a3f2706272f82eb716fc6971b16e1245543dd",
+      "bytes": 148
+    },
+    {
+      "name": "handoff-plain-text.txt",
+      "sha256": "5f3ed973e9203b9c44cfc5ba82c0b6ff7bd08ca75974b2f64b56127ff6109f29",
+      "bytes": 1082
+    },
+    {
+      "name": "handoff-practice.html",
+      "sha256": "4ec3c0c0fb1230cfc9b0b9968395a705e2e7e15659dc921a4d3b2ca1552fe0fc",
+      "bytes": 13622
+    },
+    {
+      "name": "illustrative-draft-to-check.txt",
+      "sha256": "b56b8220ff83fe93e36463e9db0a798e9936190ac14f8478a8f926abe5821bf0",
+      "bytes": 698
+    },
+    {
+      "name": "recorded-ai-draft.json",
+      "sha256": "9929f7db9bc29fceebe27fcb801a8066e7fc781fb3e099bc5c42f4625f196b4e",
+      "bytes": 948
+    },
+    {
+      "name": "venue-access-note-v1.0.txt",
+      "sha256": "6e8ce150097140b4bf3a8613780c83e3a51ce38f0192bb36a9cb6de9686a62d6",
+      "bytes": 200
+    },
+    {
+      "name": "verification-checklist.csv",
+      "sha256": "8e7a296298fdefd9fcd5b0e65509c1032ef907f13896fadbf89f2126b97620f3",
+      "bytes": 400
+    },
+    {
+      "name": "verify.py",
+      "sha256": "35db8b07dae832b939c21c6869ac994e56e595e28b6c1e1571c6584ee5a07190",
+      "bytes": 1076
+    }
+  ]
+}
