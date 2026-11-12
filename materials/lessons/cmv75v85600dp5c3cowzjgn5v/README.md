@@ -1,0 +1,8 @@
+# Keep Drafting Separate from Sending
+Emmanuel Corels Academy — Practical AI for Everyday People, Stage 14, Lesson 84.
+
+This self-authored fictional practice kit matches the lesson's community-room request. Every person, organization and address is fictional. facilities@example.org is a reserved example-domain address, not a destination to contact. The date is a fixed teaching example, not a current booking. No message has been sent, no attachment has been delivered and no room has been booked.
+
+Open source-notes.txt first, then follow exercise.md. Keep all work in local text files. The mail-app steps can be completed by inspection against the worksheet if you cannot safely create an isolated draft. Do not send this practice message. No mailbox connection or special permissions are required for the offline exercise. If using your own mail app for a draft-only practice, use a new blank draft with no real recipients; never grant an assistant access merely for this exercise. Delete the unsent draft when finished.
+
+Files: source-notes.txt contains supplied facts and deliberate gaps; draft-prompt.txt is the exact lesson prompt; unsent-working-draft.txt is one possible teaching example, not a claimed recorded AI response; approved-contact-record.txt is a fictional contact card revealed only at the transfer step; revised-room-layout.pdf is the self-created practice attachment, with source in revised-room-layout.txt; review-worksheet.md is blank; answer-guide.md gives expected checks and the incorrect-confirmation repair; permission-review.md explains provider-neutral access questions; exercise.md gives the full workflow.

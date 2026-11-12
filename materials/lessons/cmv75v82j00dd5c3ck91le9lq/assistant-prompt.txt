@@ -1,0 +1,13 @@
+TASK
+Create a 30-minute draft agenda for the fictional Community Garden Open Day planning meeting.
+
+SOURCE NOTES
+Meeting length: 30 minutes. Purpose: prepare the Open Day plan.
+Expected participant roles: event coordinator, volunteer coordinator, site coordinator; attendance is unconfirmed.
+Choose wet-weather location; decide whether refreshments are included; ask how many volunteers are available; accessibility route needs checking; poster draft exists; setup may need two hours; site coordinator may know gate-opening time; budget amount not supplied; possible activity: seed swap; meeting date not supplied.
+
+CONSTRAINTS
+Use only supplied notes. Do not invent attendees, names, owners, deadlines, decisions, budgets or commitments. Flag missing information. May know does not mean will provide. Do not send anything or create invitations/calendar events. The desired outcomes are choosing a wet-weather location, deciding refreshments and confirming questions about volunteers and access. Mark every lead To confirm. Date, start time and time zone remain Not supplied.
+
+OUTPUT FORMAT
+Create a 30-minute draft agenda. For each item include time, topic, intended outcome and key question. Also include a Lead column. Reserve time for opening and next steps. Make assumptions and missing information explicit. Keep total time at exactly 30 minutes. Setup and seed swap may be removed or parked if they do not help achieve the stated outcomes. Clearly label the output Generated draft — organizer review required.

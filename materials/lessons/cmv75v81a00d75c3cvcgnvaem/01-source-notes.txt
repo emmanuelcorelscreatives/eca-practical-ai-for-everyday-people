@@ -1,0 +1,10 @@
+FICTIONAL COMMUNITY-ROOM BOOKING EXERCISE — NO REAL PERSON OR EVENT
+Observed event: The community-room booking was changed from Tuesday to Thursday.
+Notice received: Monday afternoon.
+Impact: Two volunteers cannot attend Thursday.
+Requested outcome: Ask whether Tuesday can be restored or another evening offered.
+Missing: Exact time notice arrived.
+Interpretation, not confirmed: They changed it because they do not respect our group.
+Placeholders: [VENUE CONTACT], [COMMUNITY GROUP], [BOOKING REFERENCE], [NAME].
+Unknown: Recipient name, sender name, response deadline, supporting attachment.
+No message has been sent. No deadline, promise, threat or consequence is authorized.

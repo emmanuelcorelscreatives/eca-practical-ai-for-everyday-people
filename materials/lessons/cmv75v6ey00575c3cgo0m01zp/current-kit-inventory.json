@@ -1,0 +1,47 @@
+{
+  "version": 1,
+  "projectId": "cmv75v6ey00575c3cgo0m01zp",
+  "scriptSha256": "3f7324b23ce97bbb3f754adef1ddd4c1624f980baccc0af04aae810880daf91c",
+  "files": [
+    {
+      "name": "Attachment-Checklist.txt",
+      "sha256": "9a597fcebd0511e81e815eaf424bbd5c4fd51a67b44f1f8c15c9053c7cebcafb",
+      "bytes": 143
+    },
+    {
+      "name": "Entrance-Map.png",
+      "sha256": "6bb89d0fd3e718a23493a9b2ef9cca68f85a613120c35e685dafbeb2c8a55e63",
+      "bytes": 29412
+    },
+    {
+      "name": "Event-Workbook.xlsx",
+      "sha256": "8f8b4ee3ea0926b61f6936c17971c8bc754ab0573a866625c95c7ae3689fdf7b",
+      "bytes": 6481
+    },
+    {
+      "name": "Inspection-Pack.pdf",
+      "sha256": "e275a157f1aed1191f1001286e40b9ff9ccf71fd385de910a8817ec438fcf187",
+      "bytes": 123981
+    },
+    {
+      "name": "answer-key.md",
+      "sha256": "c01527a78d023b06acda09603ab4b3b3d3c611cc25ab48d4dc9c3322f7f783d2",
+      "bytes": 1095
+    },
+    {
+      "name": "fixture-manifest.json",
+      "sha256": "1bd281b6a5e446295a35eec46a0d6179e53ed465e1ce6391db10db5730b15f0f",
+      "bytes": 377
+    },
+    {
+      "name": "verify_fixture.py",
+      "sha256": "03e5359eeac45d5bb5648d12c43431710e5dfb4881f79aa938f32f8ec424810c",
+      "bytes": 905
+    },
+    {
+      "name": "worksheet.md",
+      "sha256": "2fab32d6a05dd567d72cea10ae850f46fa65a4d4cc1b4442b06e4fb65d51b6cb",
+      "bytes": 4499
+    }
+  ]
+}

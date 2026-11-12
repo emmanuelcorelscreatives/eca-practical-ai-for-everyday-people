@@ -1,0 +1,14 @@
+UNSENT DRAFT — review exercise only
+To: Priya Shah <priya.shah@example.org>
+Cc:
+Bcc:
+Subject: Room setup review for 22 October 2026
+Hello Priya,
+Please review the attached Room-Setup-v3.pdf for the community-room setup on 22 October 2026 at 14:00.
+Could you confirm whether the revised layout is acceptable and whether receiving the print-ready signs by 18 October 2026 would work?
+Kind regards,
+[Your name]
+
+Before using the attachment statement, actually attach and reopen the checked PDF in your own unsent practice draft. Confirm the time zone if the recipient needs one. This text file does not attach files or grant permissions.
+
+The receiving-date question is a new clarification request, not an equivalent restatement of the proposed sending deadline. No receiving deadline or delivery is confirmed.

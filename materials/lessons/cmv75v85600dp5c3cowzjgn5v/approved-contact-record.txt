@@ -1,0 +1,5 @@
+FICTIONAL PRACTICE CONTACT RECORD
+Role: Facilities coordinator
+Full email address: facilities@example.org
+Usage: classroom comparison only; do not send to this address.
+This is self-authored fictional contact evidence supplied later in the exercise, not a lookup of a real contact. Never infer this address while it is deliberately missing in source-notes.txt.

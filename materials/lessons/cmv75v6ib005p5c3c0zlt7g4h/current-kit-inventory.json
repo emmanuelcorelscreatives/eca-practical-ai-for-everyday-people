@@ -1,0 +1,62 @@
+{
+  "version": 1,
+  "projectId": "cmv75v6ib005p5c3c0zlt7g4h",
+  "scriptSha256": "737e4f11cb4063e5077b6b6bbfe1cca3112040219f22c05c26f584193a4b8268",
+  "files": [
+    {
+      "name": "Garden Volunteer Summary Checked.docx",
+      "sha256": "c43c9558074e76dfa129684eaee349e2f684d65c864a7dc75c4263984aa5c3fe",
+      "bytes": 1173
+    },
+    {
+      "name": "Garden Volunteer Summary.docx",
+      "sha256": "c423c1a0b6e8c261c0b1d247f2ed39e8e8f374f4b24ea553e7815b4e6c4c08d4",
+      "bytes": 1138
+    },
+    {
+      "name": "Riverside Community Garden Weekend Plan.docx",
+      "sha256": "e1177db0191be62bdc1b9de9414037038cd2a0fe007a46878c851da256b0483a",
+      "bytes": 1299
+    },
+    {
+      "name": "audit-answer-key.csv",
+      "sha256": "7f9dd43dbadeb8468cea5f942b89c54546c1bde570ba3e7da0978d015c988f82",
+      "bytes": 879
+    },
+    {
+      "name": "audit-template.csv",
+      "sha256": "89fd49d58c051d391a4835f05f3ae7ec953eac8d2966ff6a4a19eeead1b42a0a",
+      "bytes": 170
+    },
+    {
+      "name": "checked-summary.md",
+      "sha256": "fcd0647e3083694bdaae08c49fcc1e4670cc6973a4621a8cb89d0469afced841",
+      "bytes": 623
+    },
+    {
+      "name": "flawed-summary.md",
+      "sha256": "01767a03064d429d2f60187307538cbfb0ca66d9786d8e33f20685c0274dc475",
+      "bytes": 532
+    },
+    {
+      "name": "prompts.md",
+      "sha256": "1e0f3eda481653a2912d89b633cd77bc357d5f92e4e046034d127ad0ce8bcb75",
+      "bytes": 1557
+    },
+    {
+      "name": "source-plan.md",
+      "sha256": "e653838d79e20c6dd293cb7958830427fd8f5af6e40b5d891b0090d028e73422",
+      "bytes": 863
+    },
+    {
+      "name": "validation.json",
+      "sha256": "6f031d2d8ab6ba84d95616afca46ea28f552d798157f5da2abbaef463f91e2d7",
+      "bytes": 282
+    },
+    {
+      "name": "worksheet.md",
+      "sha256": "c5245788a645a595315d235c4ffc0c33ef4aae6557eab27108bc3ec4ef358564",
+      "bytes": 3569
+    }
+  ]
+}

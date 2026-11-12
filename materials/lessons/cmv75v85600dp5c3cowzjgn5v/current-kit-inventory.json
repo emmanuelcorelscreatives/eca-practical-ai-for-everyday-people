@@ -1,0 +1,62 @@
+{
+  "version": 1,
+  "projectId": "cmv75v85600dp5c3cowzjgn5v",
+  "scriptSha256": "fb7c30da92b83117ca6f076305ebe544d28ba3fadd5ffb1f23bb4218251eaaf7",
+  "files": [
+    {
+      "name": "README.md",
+      "sha256": "36b5bfe5c1df1c3b56b2ebeb45997a88c309f78ab25fd4626fc1c2a2371588fa",
+      "bytes": 1644
+    },
+    {
+      "name": "answer-guide.md",
+      "sha256": "e2e602a8271c9ccc30021942b4847135a30b0f38a44baed2a3aeb817cd4035cc",
+      "bytes": 2381
+    },
+    {
+      "name": "approved-contact-record.txt",
+      "sha256": "e21c1cb925de897c3cb2fd7bceb0cd61cb66b1ebb98b46d4cdc5761ca8ed16e6",
+      "bytes": 361
+    },
+    {
+      "name": "draft-prompt.txt",
+      "sha256": "40c67d16e2b870e61f2d51ac3430b2db516d3388b3df0f9d43e0498a371a294f",
+      "bytes": 425
+    },
+    {
+      "name": "exercise.md",
+      "sha256": "d5e970b6c39ab41702f3b130a6ea921f05d139169d26cc1ad56d2b289d0abf7d",
+      "bytes": 2830
+    },
+    {
+      "name": "permission-review.md",
+      "sha256": "1f9e80a81536e3de275d6a26ee24a35062771a7acf4fd1d264e00f986841631a",
+      "bytes": 1084
+    },
+    {
+      "name": "review-worksheet.md",
+      "sha256": "36a7b99f15876220d0a98b9b999e353efeca382729f6cdd14be46ccfd9a88bb8",
+      "bytes": 1210
+    },
+    {
+      "name": "revised-room-layout.pdf",
+      "sha256": "39a559cf5896639170dc3b343a9f9be9d6648b06a4f3d003ede6597c74e22ecf",
+      "bytes": 1248
+    },
+    {
+      "name": "revised-room-layout.txt",
+      "sha256": "27087e2eca857f7bb32846677c7e92e2bff271a2ab246aae0a68d17586a7668c",
+      "bytes": 587
+    },
+    {
+      "name": "source-notes.txt",
+      "sha256": "a0bda21fc76fda9caee82d40c308ec08d44e545435daa36c7c1e91a16536f6b4",
+      "bytes": 305
+    },
+    {
+      "name": "unsent-working-draft.txt",
+      "sha256": "b9455a4c03de39d59752023ce853f27d7fbb6c472fb115ae6a538ed7961f8b29",
+      "bytes": 604
+    }
+  ]
+}

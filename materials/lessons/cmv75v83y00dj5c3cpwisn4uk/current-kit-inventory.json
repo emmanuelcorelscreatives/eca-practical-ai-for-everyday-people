@@ -1,0 +1,72 @@
+{
+  "version": 1,
+  "projectId": "cmv75v83y00dj5c3cpwisn4uk",
+  "scriptSha256": "ea33b93dbbaf78666ac18a79c89e2b5f6c081c60da5095fa4c0c4d278ab629e8",
+  "files": [
+    {
+      "name": "README.md",
+      "sha256": "a6c29a93409eca0f88659130578dbfb1975be14e0bd38a3d0c439ccbbb779395",
+      "bytes": 2028
+    },
+    {
+      "name": "Room-Setup-v2.pdf",
+      "sha256": "601fa28eb8a7327dc330486661139d87abf4deec7d2761f17abf71fd404c0ac8",
+      "bytes": 2421
+    },
+    {
+      "name": "Room-Setup-v3-notes.txt",
+      "sha256": "0c76701f6dbda668f164696051a4b6849c92650a4752bd630cf988bb31b7636a",
+      "bytes": 120
+    },
+    {
+      "name": "Room-Setup-v3.pdf",
+      "sha256": "449308413f50a1c99d37b24259d2296830da2eeae485d6974c34a246a9717995",
+      "bytes": 2408
+    },
+    {
+      "name": "answer-key.md",
+      "sha256": "dfdef92e534f8c07275396f8ffad0ca39e982bf6b4ed94d157d08ecb0b60d8e6",
+      "bytes": 2064
+    },
+    {
+      "name": "check_materials.py",
+      "sha256": "b60d928f47107a783384149b5640a7effd5d8b89947687489257b1982be326f4",
+      "bytes": 833
+    },
+    {
+      "name": "corrected-draft.txt",
+      "sha256": "47228df50e5cb69816c49e0d6e68956a62cb35eb0cf37d839409c81ed35d2c2f",
+      "bytes": 810
+    },
+    {
+      "name": "exercise.md",
+      "sha256": "9908ba66159c9655142c0266846dd63a9dc3527bf750b6444ee5a057b6cf6c36",
+      "bytes": 2307
+    },
+    {
+      "name": "generated-draft-to-check.txt",
+      "sha256": "a2e3e26d1b8826a78bef7432fb976720d335ec4700ae4c9896a02aabee108999",
+      "bytes": 348
+    },
+    {
+      "name": "practice-session-plan.md",
+      "sha256": "6c9d0a3c8d76eb4bf499ab1cdb678ddb79199736379693ceac2622b2849ce1ce",
+      "bytes": 953
+    },
+    {
+      "name": "recipient-directory.csv",
+      "sha256": "7d2c4af68f5d28e8d197090e901bcd5d4029c4ab0d7f7be0c479256fd4bfae38",
+      "bytes": 141
+    },
+    {
+      "name": "supplied-notes.txt",
+      "sha256": "29028afcef2e4481b92f4da34f0df05a38bf8d2e416d7806f8ad7f7f191f3cf2",
+      "bytes": 412
+    },
+    {
+      "name": "worksheet.csv",
+      "sha256": "c8e2585a577dee7a70c87e0511b9f4668361163b23e76ae6ab8e9ef6c9690159",
+      "bytes": 215
+    }
+  ]
+}

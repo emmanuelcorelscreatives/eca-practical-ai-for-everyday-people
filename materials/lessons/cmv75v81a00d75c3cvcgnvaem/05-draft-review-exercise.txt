@@ -1,0 +1,6 @@
+FICTIONAL DELIBERATELY FLAWED DRAFTS — DO NOT SEND
+A: Hello [VENUE CONTACT], our community-room booking changed from Tuesday to Thursday, and we were notified late on Monday. Two volunteers cannot attend Thursday. Could Tuesday be restored or another evening offered? Thank you, [NAME].
+
+B: Hello [VENUE CONTACT], our booking changed from Tuesday to Thursday. We received notice Monday afternoon, and two volunteers cannot attend Thursday. Restore Tuesday immediately. Regards, [NAME].
+
+TASK: Compare every clause with the source notes. Identify timing drift in A and changed urgency/flexibility in B. Correct only unsupported changes; do not invent a date, deadline, motive, attachment, promise or threat.

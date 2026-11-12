@@ -1,0 +1,6 @@
+{
+  "command": "python3 verify-agenda.py illustrative-agenda.csv",
+  "exitCode": 0,
+  "stdout": "{\n  \"rows\": 7,\n  \"minutes\": [\n    3,\n    7,\n    5,\n    4,\n    4,\n    4,\n    3\n  ],\n  \"totalMinutes\": 30,\n  \"limitMinutes\": 30,\n  \"differenceMinutes\": 0,\n  \"allLeadsUnconfirmed\": true,\n  \"scope\": \"Arithmetic and structure only; organizer review still required\"\n}\n",
+  "stderr": ""
+}

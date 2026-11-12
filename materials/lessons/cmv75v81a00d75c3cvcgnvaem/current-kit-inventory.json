@@ -1,0 +1,62 @@
+{
+  "version": 1,
+  "projectId": "cmv75v81a00d75c3cvcgnvaem",
+  "scriptSha256": "915d68618a6742889f9cb4cc078fce73423db657a3718d4330742dc066e55432",
+  "files": [
+    {
+      "name": "01-source-notes.txt",
+      "sha256": "f9b17be4ca941517dda9364dc0582bf8e393268896bf4590de72b75b4f5c0616",
+      "bytes": 682
+    },
+    {
+      "name": "02-workbook.md",
+      "sha256": "69c5a7dac863b38f911a8c7afcfaa64f20ec2f01d7c8b7c655944032a036762d",
+      "bytes": 1365
+    },
+    {
+      "name": "03-drafting-prompt.txt",
+      "sha256": "06053bee95f6dd27262a74453e088d61e8d01f933269cdf78c5efadd7ab83fb9",
+      "bytes": 938
+    },
+    {
+      "name": "04-review-checklist.md",
+      "sha256": "8c354566f809c98f57cdb38c032cd76f8e89e8b5c41cdccf3397c5b229a1f36e",
+      "bytes": 1161
+    },
+    {
+      "name": "05-draft-review-exercise.txt",
+      "sha256": "062da5ddcc2af2607b8545f49567e48fa2390b542c5209433bf501ca56cca399",
+      "bytes": 709
+    },
+    {
+      "name": "06-targeted-correction-prompt.txt",
+      "sha256": "0696073e464be2174242c94ca914ecf17b91baec3f4cb41e8bf60a701e9e680c",
+      "bytes": 604
+    },
+    {
+      "name": "07-answer-guide.md",
+      "sha256": "b82b5ccf76ffb2111023c561c72fd711f143f26d9c0368b392f1eed2ba6bead3",
+      "bytes": 1849
+    },
+    {
+      "name": "08-reviewed-example.txt",
+      "sha256": "419983a367a1c271c3fe44160653f3cad23db11594591aecd88a315b1b06f1a6",
+      "bytes": 537
+    },
+    {
+      "name": "LICENSE.txt",
+      "sha256": "3c1d1bd1fd831d3e1db19f1664b94245a513600a1cea0b90213d2755b28c5452",
+      "bytes": 265
+    },
+    {
+      "name": "README.md",
+      "sha256": "69557b7e6c71908e1a85313fdc4cf216a2f8e7295fccea150248d2446f2da855",
+      "bytes": 2491
+    },
+    {
+      "name": "provenance.json",
+      "sha256": "8378b25d7c1c3f3326d7c26bf2de1ad78d06ac31d6a1735090bdafc5de055cf9",
+      "bytes": 490
+    }
+  ]
+}

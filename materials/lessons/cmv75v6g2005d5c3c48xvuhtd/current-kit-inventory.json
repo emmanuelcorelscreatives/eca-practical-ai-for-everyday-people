@@ -1,0 +1,122 @@
+{
+  "version": 1,
+  "projectId": "cmv75v6g2005d5c3c48xvuhtd",
+  "scriptSha256": "67c378d47ac69c8bded9cd0f6c7d56ce6eb7b1203464827576c87c654062c34b",
+  "files": [
+    {
+      "name": "Handoff_Note.odt",
+      "sha256": "e9c1d6a0a7905fcd6bea9954d3e2e1ccf8aebb3db944a5ff86a650311e0b4620",
+      "bytes": 887
+    },
+    {
+      "name": "LICENSE.txt",
+      "sha256": "7b880d2daed5693c20621d2ecb653d5b9c048b5bfeab40a94eccad5957c4ad52",
+      "bytes": 327
+    },
+    {
+      "name": "Original_Do_Not_Edit.odt",
+      "sha256": "859d50b6911928a636745c7d31b804c1922abf9d0ef3ad4d7bb866ab6dd24ff4",
+      "bytes": 3687
+    },
+    {
+      "name": "S01_Purpose_and_Audience.odt",
+      "sha256": "44badc5a1332123bea9186ec1d858c45383ab885ed38da384b1a0cad8fc352a9",
+      "bytes": 1458
+    },
+    {
+      "name": "S02_Venue_and_Access.odt",
+      "sha256": "b5fcf6b554fe7532abd6c18c72b8c21f43c3430c266767825631441d1461b389",
+      "bytes": 1435
+    },
+    {
+      "name": "S03_Programme.odt",
+      "sha256": "0a09c3e4197eea611b59a22b24ae4d97ec460140be1ded807d649fea43737e9c",
+      "bytes": 1409
+    },
+    {
+      "name": "S04_Volunteers.odt",
+      "sha256": "5726fcdd8b593dd843e1a7f1f430f125fe2ac92d80d0f69611392df998be8de3",
+      "bytes": 1303
+    },
+    {
+      "name": "S05_Communications.odt",
+      "sha256": "2e14a1b9ab1dd295267f102bb578f09c3f54d1efff94ab25bb9f77c45625e252",
+      "bytes": 1381
+    },
+    {
+      "name": "S06_Open_Questions.odt",
+      "sha256": "d0462e849d4027dbe99cafe28c7d04860a7587b2383469a160dedf0220b2e7e4",
+      "bytes": 1448
+    },
+    {
+      "name": "checked-public-information-sheet.md",
+      "sha256": "34ea7445143fcad893f3af65dfbac7acaeac2d80481eaaf0ec2bd5d2590ef7a3",
+      "bytes": 1054
+    },
+    {
+      "name": "handoff-note-checked.md",
+      "sha256": "a1a079f060c8ae2c09bafc0ae5096b4caed51088d0f89d269b1cfc1ac2a3f1e7",
+      "bytes": 950
+    },
+    {
+      "name": "handoff-note-template.md",
+      "sha256": "b3551e93637e133b7b9a8050d585ab1babc4b7263e6e0d613a9d3223f9d808b9",
+      "bytes": 207
+    },
+    {
+      "name": "section-desk.html",
+      "sha256": "704240ec03c94cda5d5d4d4d7570a1009e5ff24e6d87805c3e8163af09c7f712",
+      "bytes": 1714
+    },
+    {
+      "name": "sections/S01_Purpose_and_Audience.md",
+      "sha256": "abb552b582ef3693d7c0f615a98fbb4c0a91ae9e3a473d543c076c4ed9cb2c31",
+      "bytes": 405
+    },
+    {
+      "name": "sections/S02_Venue_and_Access.md",
+      "sha256": "97a39fa6a6aac0aa7d105825484170dc07858c4c3e72ffde3178eda7ccda7937",
+      "bytes": 382
+    },
+    {
+      "name": "sections/S03_Programme.md",
+      "sha256": "f8bf643d8c9833b7b5facaded5228010f187e48c1c49e49dc5e08571477e351f",
+      "bytes": 356
+    },
+    {
+      "name": "sections/S04_Volunteers.md",
+      "sha256": "0b0f421acad6d8b7bfa840987371f606af6adc7c72074d9a099dc425f2d53b19",
+      "bytes": 250
+    },
+    {
+      "name": "sections/S05_Communications.md",
+      "sha256": "d5ad8ae0eb727a2199423a2264d350a62cb563eaa789c83cb88a654956c2a48a",
+      "bytes": 328
+    },
+    {
+      "name": "sections/S06_Open_Questions.md",
+      "sha256": "77bea97da2ede54704a35454f7b5d1ef74bc7bc37446fea60f6d807065b75488",
+      "bytes": 395
+    },
+    {
+      "name": "shared-instruction.txt",
+      "sha256": "c4bb6affba50cbe52d3b14398134c985c610f0e7935106cf3c632989c40fdccd",
+      "bytes": 453
+    },
+    {
+      "name": "source-pack.md",
+      "sha256": "fbaad916bbe29c6b42dd5f673be78a1db5cef1354fbadc3e0aed5e1aa9cec95a",
+      "bytes": 2304
+    },
+    {
+      "name": "validate_kit.py",
+      "sha256": "f81db5c94d055a7a5ecc3fa24955f9a552ba259fca2365080a649471cc14f50e",
+      "bytes": 711
+    },
+    {
+      "name": "worksheet.md",
+      "sha256": "e2332ded9862b548a25cc0fe9977a934b60dc91760e520f4cb530f1830b9740b",
+      "bytes": 3451
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+MEETING PURPOSE
+Prepare the Open Day plan (30-minute meeting).
+
+DECISIONS NEEDED
+Choose wet-weather location.
+Decide whether refreshments are included.
+
+QUESTIONS TO ANSWER
+Ask how many volunteers are available.
+Accessibility route needs checking.
+Site coordinator may know gate-opening time.
+
+INFORMATION ONLY
+Poster draft exists.
+Setup may need two hours (tentative estimate, not an approved commitment).
+Possible activity: seed swap (proposal, not an agreed activity).
+
+MISSING OR UNCONFIRMED
+Budget amount not supplied.
+Meeting date not supplied.
+Decision owner: not supplied.
+Expected participant roles require confirmation; meeting start time and time zone are not supplied.
+
+Each of the ten source-note lines appears once in its appropriate category. The meeting date also appears in the source header; this is the same missing detail, not an extra event. Extra missing-field reminders above are checks, not invented source notes.

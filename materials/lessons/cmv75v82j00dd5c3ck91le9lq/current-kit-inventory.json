@@ -1,0 +1,67 @@
+{
+  "files": [
+    {
+      "name": "README.md",
+      "bytes": 1713,
+      "sha256": "3cb9d5258ab1f57af917625a3105ddec5ff4133106cc817a967392842f51be54"
+    },
+    {
+      "name": "actual-validation.json",
+      "bytes": 411,
+      "sha256": "0f180c606dd201120189b09d98a842c06e6f88c49bfe476f5a54feca8bb05f73"
+    },
+    {
+      "name": "agenda-template.csv",
+      "bytes": 89,
+      "sha256": "367e7562324d92fc250c0600a279423ef3b9394961134764f335a9376276096f"
+    },
+    {
+      "name": "answer-guide.md",
+      "bytes": 2351,
+      "sha256": "f78392c37a1d2d0da0e1969e8c2c04e8dafb8dac9a309cc56899b1c7574085e0"
+    },
+    {
+      "name": "assistant-prompt.txt",
+      "bytes": 1519,
+      "sha256": "20040cbd11f984dc30a70ef741429b2439a7dc64fe1def8d19c18f71a7870006"
+    },
+    {
+      "name": "illustrative-agenda.csv",
+      "bytes": 1045,
+      "sha256": "82dabc753e3c3d8b054850fa3ba4544ba5370ae7005bbf50da87e6e61185bef3"
+    },
+    {
+      "name": "planning-brief.txt",
+      "bytes": 432,
+      "sha256": "b14b4119bc1d25cd2c83e6b25cb069fb6b274cfcb309704a0af89cad76d4c05e"
+    },
+    {
+      "name": "pre-use-checklist.txt",
+      "bytes": 868,
+      "sha256": "483d303acd62fd97fbd3eb06bfbd89f0ac28066f03d55837f18a0a43b205f12b"
+    },
+    {
+      "name": "sorted-notes.txt",
+      "bytes": 938,
+      "sha256": "e92137b361efe4d2a7ce7ade5ab3c357a25b3a9be0c0da080f37f2b848968b8b"
+    },
+    {
+      "name": "source-notes.txt",
+      "bytes": 820,
+      "sha256": "1aa691a3efe930886b25116a28eaccbf7e015221be105b0202eb654cbf389b41"
+    },
+    {
+      "name": "verify-agenda.py",
+      "bytes": 973,
+      "sha256": "41a1e1b9bca2d595f7e76f455bbb38450d3fc7d95f29b717aa87aea5844fb1d1"
+    },
+    {
+      "name": "worksheet.md",
+      "bytes": 1520,
+      "sha256": "adefac0f2b636bacd9bb48f170dd66db7bdf2c62cde3e3558bddfa2f2d548e24"
+    }
+  ],
+  "version": 1,
+  "projectId": "cmv75v82j00dd5c3ck91le9lq",
+  "scriptSha256": "2e8990cf6bbb1c6ef4627f45798663d477349d37ca2a5dc8a60661da28f5aad2"
+}
