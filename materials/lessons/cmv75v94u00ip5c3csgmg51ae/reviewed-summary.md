@@ -1,0 +1,19 @@
+# Reviewed summary — fictional worked answer
+Exercise-only content review; no real communication has been sent.
+
+## Confirmed decision
+Cleanup: Saturday, 24 October 2026, 9:00.
+
+## Supported actions
+Diego will check the tool inventory by 20 October 2026.
+Mei offered to draft a note for registered volunteers; deadline unconfirmed. This is not a commitment to contact all residents.
+
+## Proposals and unresolved questions
+Inviting the neighboring group was proposed, not accepted.
+Diego suggested buying tools; Amina preferred checking existing stock first. Tool purchase remains unresolved.
+Supply budget amount unconfirmed; no precise amount is supported.
+A volunteer may prepare signs; owner and deadline unconfirmed. Return for clarification.
+
+## Recipient and attachment review
+In this fictional exercise, Amina, Diego and Mei receive only this reviewed meeting record. Registered volunteers are not approved recipients of this full record; a separate approved logistics update may be appropriate later. Public community list: do not share; purpose not established.
+Attach only the reviewed summary. Do not attach the raw recording, transcript or earlier draft. Reviewed summary.pdf is the actual rendered worked answer included in this kit. No message is sent.

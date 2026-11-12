@@ -1,0 +1,87 @@
+{
+  "version": 1,
+  "projectId": "cmv75v94u00ip5c3csgmg51ae",
+  "scriptSha256": "47ab98bbb8c664b7fb0b09f4b1c16d5dda559151d37d34f6b92f3cbc91947c7e",
+  "files": [
+    {
+      "name": "Reviewed summary.pdf",
+      "sha256": "71379dbe3dfb2fbd6f27216f68bb2614163d0e9d554075e8671001d1ded4497f",
+      "bytes": 14050
+    },
+    {
+      "name": "answer-key.md",
+      "sha256": "6404dc23e17e396402ad9a518e732d3717f1dfafd33fb46ae4bd00fae0be0d6d",
+      "bytes": 1480
+    },
+    {
+      "name": "approval-checklist.md",
+      "sha256": "249ae9d0e3d1fb546537aa996c3a1fe1de59d5f027da5e87554161c840cedc85",
+      "bytes": 789
+    },
+    {
+      "name": "clearnote-review.html",
+      "sha256": "7627abda0451c69e5cb0608a8a525a42956d97707fa4cec047e2754d8f1f4894",
+      "bytes": 19047
+    },
+    {
+      "name": "corrected-transcript.md",
+      "sha256": "76b519bfbb8d1ea46d0ac55af61e41aed264be22ef29c75731d5c4bbb78876a1",
+      "bytes": 2073
+    },
+    {
+      "name": "generated-draft.md",
+      "sha256": "9d151f621b1182e6074f6fcc20aa97a44d6b2610111d299f9e9359cd94136941",
+      "bytes": 446
+    },
+    {
+      "name": "permission-and-recipients.csv",
+      "sha256": "b884810c677a749b85a69ffea042783f63bedeccdfc58a7532618c57669b23bd",
+      "bytes": 354
+    },
+    {
+      "name": "practice-recording.wav",
+      "sha256": "476b100aad6b50ddd40d00e58e1d9fac5e48d520310a5c4e4bd3cdcb12e1e057",
+      "bytes": 15742124
+    },
+    {
+      "name": "recording-provenance.json",
+      "sha256": "039e29b52b9ddcde111af2671c0e46054942f88aa414155c28ed6ee3778fd1c5",
+      "bytes": 6241
+    },
+    {
+      "name": "recording-script.json",
+      "sha256": "9c3989c85295bec400bb2ed18958562c571255a1c5e059c401edc9fa78fa6117",
+      "bytes": 5430
+    },
+    {
+      "name": "review-worksheet.csv",
+      "sha256": "1e226dad415255c54492af833c54839de7aa481efb6bfde55b6b72d6a124754d",
+      "bytes": 393
+    },
+    {
+      "name": "reviewed-summary-print.html",
+      "sha256": "a3a4e522614fffaef2d7bfcc7725ffd8d7423cf2fe8eceb5d3a63de5a565e310",
+      "bytes": 1488
+    },
+    {
+      "name": "reviewed-summary.md",
+      "sha256": "f92fb48b98a421423d890c334119c36b746cbb172316dea5df731fc4811d0022",
+      "bytes": 1269
+    },
+    {
+      "name": "source-inspection-notes.json",
+      "sha256": "f392af4fd3125f14771671bc4d0d909ea2a09753370ab4a4c0d5f0d06cf8bd48",
+      "bytes": 23128
+    },
+    {
+      "name": "waveform-native.json",
+      "sha256": "20699beb75594557e92b521bd825eed473d9c107edd3cb8afe160470d4249045",
+      "bytes": 214053
+    },
+    {
+      "name": "worksheet.md",
+      "sha256": "f0c8799a08f39825166c830c70b1a9467e0421495c0e626fe8e01533a7d7fce9",
+      "bytes": 3635
+    }
+  ]
+}
