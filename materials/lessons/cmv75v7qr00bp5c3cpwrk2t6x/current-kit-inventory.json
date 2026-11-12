@@ -1,0 +1,117 @@
+{
+  "version": 1,
+  "projectId": "cmv75v7qr00bp5c3cpwrk2t6x",
+  "scriptSha256": "0a323f139c9fef7171bd283c1903108c871453085737863a77ee6dc9d73564e9",
+  "files": [
+    {
+      "name": "01_Event_Brief.fodt",
+      "sha256": "396f55ece94ef890361d9c8d4d50b82d7239188fa214bca971e9005069b06627",
+      "bytes": 1003
+    },
+    {
+      "name": "01_Event_Brief.md",
+      "sha256": "44b059442ebe880994723c9f04ceb06c72c3c4bde548496dc269f32ebe2a540d",
+      "bytes": 386
+    },
+    {
+      "name": "02_Schedule.fodt",
+      "sha256": "7d125de828ba4e209a54e51c9c9ddb55613d32027dcc0b5d697aa8a140229c1c",
+      "bytes": 751
+    },
+    {
+      "name": "02_Schedule.md",
+      "sha256": "79cc2bd464cdfac0e42fcbfa1c7f416946bb6550700dfeb46af6347835770163",
+      "bytes": 182
+    },
+    {
+      "name": "03_Venue_Note.fodt",
+      "sha256": "5e4a3e6c0d11cc5806b8246529719db76391d9c30a215334b30a66558cec3279",
+      "bytes": 831
+    },
+    {
+      "name": "03_Venue_Note.md",
+      "sha256": "6a03af39f1ec6d8ea63c26cd83beed08ac4ef93bda2cda120c19978f735a6b98",
+      "bytes": 262
+    },
+    {
+      "name": "04_Budget.csv",
+      "sha256": "f70e78cab8666b5ac2fb6fead59373d8d67f3866589263463962e5189a34be3e",
+      "bytes": 75
+    },
+    {
+      "name": "04_Budget.fods",
+      "sha256": "b61f3d160d14c88f8df5d6fe20f4566d5f4936be1dc3cb09ca7cf927509ea8bf",
+      "bytes": 1804
+    },
+    {
+      "name": "05_Generated_Answer.fodt",
+      "sha256": "f6f22cab0ce6c60ae53a9009338da74c80faf4bb8c778731e6786effd7c18d5d",
+      "bytes": 911
+    },
+    {
+      "name": "05_Generated_Answer.md",
+      "sha256": "2241d02750b883488ace147956da2e925622b6fdaa34d99b3f18b1d94248d6ee",
+      "bytes": 454
+    },
+    {
+      "name": "Access_Detail_Answers.csv",
+      "sha256": "2cc16c70abde73e8fb8ce19b5e3aeab176b31fbe2e7af1fac147adf6b1aebf2e",
+      "bytes": 606
+    },
+    {
+      "name": "Claim_Check_Answers.csv",
+      "sha256": "cfdce731747e5edeb122d9aef7f40cf234f44ff176a973184c2c932b821673cc",
+      "bytes": 1978
+    },
+    {
+      "name": "Claim_Check_Blank.csv",
+      "sha256": "3bbb027ca61ae7d307fca08bdc3c4ff45b8ce787a61382c48f3250e188e4ddbf",
+      "bytes": 553
+    },
+    {
+      "name": "Claim_Check_Storyboard_Summary.csv",
+      "sha256": "359cf8c89312628f4005f982377c5dd37393059bc5ef239f75329bf38477667d",
+      "bytes": 1996
+    },
+    {
+      "name": "Corrected_Draft_REVIEW_REQUIRED.fodt",
+      "sha256": "683870d2fc078043b9e34356b7f8f38432c41cfbf3476486e334bacf05a409aa",
+      "bytes": 1915
+    },
+    {
+      "name": "Corrected_Draft_REVIEW_REQUIRED.md",
+      "sha256": "c660568c506e45f3307678c979619f70921b76ed124208b30d6d83ea2da9716f",
+      "bytes": 1154
+    },
+    {
+      "name": "LICENSE.txt",
+      "sha256": "5d37ccbb2788d59ceac5effda1229805b1e4dfa12fd5d6c3482b2f347b9cf5fc",
+      "bytes": 254
+    },
+    {
+      "name": "Original_Request.md",
+      "sha256": "cdb6c5f15c369d5f2e684c2cca639b5cd14fb7c3a076764c26ebe0eec895c6a7",
+      "bytes": 368
+    },
+    {
+      "name": "Review_Summary.fodt",
+      "sha256": "8023b7dedd398ca5aa000b744a9da031f5391cc6d4c5600d19e5934cc7de4c33",
+      "bytes": 1221
+    },
+    {
+      "name": "Review_Summary.md",
+      "sha256": "17342ab14fc7df0763792c386ba4842451219b0dfd47aa764a7d02c8b3a2e2dc",
+      "bytes": 732
+    },
+    {
+      "name": "answer-key.md",
+      "sha256": "75b7507fa82dc4f04cccba323a59a4bfb429672b652593879e091f950b9adbbe",
+      "bytes": 2421
+    },
+    {
+      "name": "worksheet.md",
+      "sha256": "fb5e713d61c35e3e2133807cd8235514d1c3f0109c8aa3a11660d2cc84c49acf",
+      "bytes": 3209
+    }
+  ]
+}

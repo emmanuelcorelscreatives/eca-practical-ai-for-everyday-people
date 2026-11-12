@@ -1,0 +1,5 @@
+Claim,Type,Importance,Source location,Evidence found,Result,Correction or question
+Level main entrance,factual,High,03_Venue_Note.md / Capacity and Access,Main entrance: level access,SUPPORTED,Retain precise location
+Accessible toilet,factual,High,03_Venue_Note.md / Capacity and Access,Available,SUPPORTED,Retain
+Quiet room qualification,factual,High,03_Venue_Note.md / Capacity and Access,Not available,OMITTED QUALIFICATION,Restore no-quiet-room statement
+Free parking,factual,High,03_Venue_Note.md / Parking,Information not supplied,UNRESOLVED,Ask parking availability and cost; do not infer free

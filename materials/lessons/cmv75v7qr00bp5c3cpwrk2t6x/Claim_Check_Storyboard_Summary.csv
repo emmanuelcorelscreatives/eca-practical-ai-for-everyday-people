@@ -1,0 +1,14 @@
+Claim,Type,Importance,Source location,Evidence found,Result,Correction or question
+Riverside Reading Day,factual,High,01_Event_Brief.md / Overview,Riverside Reading Day,SUPPORTED,Retain event name
+"Saturday, 17 October 2026",factual,High,01_Event_Brief.md / Overview,"Saturday, 17 October 2026",SUPPORTED,Retain date
+10:00–14:00,factual,High,02_Schedule.md / Public Programme,10:00–14:00 public programme,SUPPORTED,Do not substitute setup or doors time
+Cedar Hall,factual,High,01_Event_Brief.md / Overview,Cedar Hall,SUPPORTED,Retain venue
+Free admission,factual,High,01_Event_Brief.md / Overview,No charge,SUPPORTED,Retain admission
+Family event,interpretive,High,01_Event_Brief.md / Audience,Readers aged 8+; children with responsible adult,PARTLY SUPPORTED,Restore both age and adult requirements
+150 attendees,factual,High,03_Venue_Note.md / Capacity and Access,Maximum public attendance 120,CONTRADICTED,Replace 150 with 120
+Level main entrance and accessible toilet,factual,High,03_Venue_Note.md / Capacity and Access,Level main entrance and accessible toilet; no quiet room,SUPPORTED,Limited-scope access only: do not imply whole-venue step-free access; no quiet room
+Free parking,factual,High,03_Venue_Note.md / Parking,Information not supplied,UNRESOLVED,Ask parking availability and cost; do not infer free
+525-credit planned cost,numerical,High,04_Budget.csv / rows 2–5,240+68+192+75=575; difference 50,CONTRADICTED,Use current planned total 575 fictional credits
+Register by 16 October,factual,High,01_Event_Brief.md / Volunteer registration,Contact and deadline to be confirmed,UNRESOLVED,Remove invented date; ask contact and deadline
+Everything confirmed,action,High,Venue parking and Brief volunteer sections,Two information categories unresolved,CONTRADICTED,Remove claim of completeness
+Ready to publish,action,High,All reviewed sources and unresolved questions,Public logistics incomplete,STOP,Revise draft; stop publication until human review and evidence
