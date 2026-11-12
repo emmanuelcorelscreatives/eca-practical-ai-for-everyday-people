@@ -1,0 +1,16 @@
+{
+  "state": "COMPLETE",
+  "at": "2026-11-12T10:44:58.075027+00:00",
+  "tool": "image_gen.imagegen",
+  "actualModelLabel": "not returned by tool; no model identity inferred",
+  "sha256": "cebbc35b02d8a2859fd71bb7fdc17c3ecb21e127586c1d7c2ee5167c6fe7bb54",
+  "dimensions": [
+    1536,
+    1024
+  ],
+  "synthetic": true,
+  "fictionalCoursePractice": true,
+  "realEventEvidence": false,
+  "realPersonsIdentified": false,
+  "namedSoftwareOutputClaimed": false
+}

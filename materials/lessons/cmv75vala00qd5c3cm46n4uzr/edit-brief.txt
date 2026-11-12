@@ -1,0 +1,5 @@
+Requested change: Remove the red disposable cup at the lower right. Reconstruct the wooden tabletop behind it. Change nothing else.
+Protected details: All faces, hands, clothing, other objects, blue ceramic mug, green watering can, seed packets, exact banner text RIVERSIDE GARDEN DAY, date 18 OCTOBER, lighting, composition, framing and original image dimensions.
+Selection: Cup plus a narrow surrounding margin only. Keep nearby fingers, mug and table edge outside the selection.
+Editor prompt: Remove the red disposable cup and continue the natural wooden tabletop. Preserve everything outside the selection.
+Accept only after comparing the selected area, its boundary and every protected detail with the untouched original. Do not claim this practice image is unaltered real-world evidence.

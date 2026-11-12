@@ -1,0 +1,57 @@
+{
+  "version": 1,
+  "projectId": "cmv75vala00qd5c3cm46n4uzr",
+  "scriptSha256": "e814f23a649c52683f5559368f304503ac288116471dc39452843c5fe1dc339d",
+  "files": [
+    {
+      "name": "comparison-checklist.md",
+      "sha256": "500f9a54702d2b31a061695326b51bc9a4c164218ab774d5277ea5a80d3d2d1f",
+      "bytes": 1490
+    },
+    {
+      "name": "destination-check.md",
+      "sha256": "fa201d5da2f1c9b37cd23e9534c8824efd507fbf20b1e2f658b963b2ed29ec5d",
+      "bytes": 863
+    },
+    {
+      "name": "edit-brief.txt",
+      "sha256": "1266f528cde3e6373680c88d49d089ff5be38669224b9c697884abf3c04945a0",
+      "bytes": 795
+    },
+    {
+      "name": "edit-record-template.md",
+      "sha256": "a5ac485703bf194f26474f61447de2d05ba8fa851edbfd29abc54417e1a3a734",
+      "bytes": 872
+    },
+    {
+      "name": "expected-checks.md",
+      "sha256": "79782dd4a62f52d3fb6ee199e5351cbb9cbeae9ca0faeca156eb402b6e5066eb",
+      "bytes": 1204
+    },
+    {
+      "name": "garden-day-original.png",
+      "sha256": "cebbc35b02d8a2859fd71bb7fdc17c3ecb21e127586c1d7c2ee5167c6fe7bb54",
+      "bytes": 3186066
+    },
+    {
+      "name": "manual-fallback.md",
+      "sha256": "481db983633709a4bdbeca5deef6d2230f97a2d4ec4c79c94cf3e8d51f1ca43b",
+      "bytes": 1024
+    },
+    {
+      "name": "provenance-and-permissions.md",
+      "sha256": "42ddca33b6050474871e2b79433668900d079a96ad8fe4728fecc06edc5a9ca9",
+      "bytes": 979
+    },
+    {
+      "name": "source-provenance.json",
+      "sha256": "f352eb83d7c5229b176c36d58d013843ce05aaec6021b62e6ca083392fc06625",
+      "bytes": 457
+    },
+    {
+      "name": "worksheet.md",
+      "sha256": "52e9aaf049884e0896be364e254e274b12d9d3fbee1d03ec043112f2c23063d8",
+      "bytes": 2535
+    }
+  ]
+}
