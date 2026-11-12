@@ -1,0 +1,52 @@
+{
+  "version": 1,
+  "projectId": "cmv75vaao00ov5c3c42y2bumd",
+  "scriptSha256": "6d28dc5f8101a2e3f25a6723e468d0a8b4a09d36e67b7d5c0c7faa7b5f025c59",
+  "files": [
+    {
+      "name": "README.md",
+      "sha256": "ddccbac7047c52a7381250bb1d2dfd0d1c0edfec8af4454a9fa4d4d9c2f893e7",
+      "bytes": 1787
+    },
+    {
+      "name": "answer-key.md",
+      "sha256": "72ed0c37897de92205dcc79502e18f70b1b918a1ae3d4fd081e884a3db0b2692",
+      "bytes": 1837
+    },
+    {
+      "name": "brief-template.md",
+      "sha256": "f990553157e416153682e811b0f6183a1e995fd7404f43f047d9ab0f41adc424",
+      "bytes": 827
+    },
+    {
+      "name": "manual-fallback.md",
+      "sha256": "d91eb6148af94d60870cd8440b4ce2616778ccf4f4be872aa6684a8bad101361",
+      "bytes": 1523
+    },
+    {
+      "name": "prepared-comparison.md",
+      "sha256": "4c12618d0ada6b874244fea31a707b8c2872cc8d70f1acbaae0d90c3f6871b43",
+      "bytes": 1183
+    },
+    {
+      "name": "prompt-practice.md",
+      "sha256": "1fb2590db3cff9a9f07a1a36ee4bd23f3fec2d9cecd83f65c9e896a39ccdce22",
+      "bytes": 1740
+    },
+    {
+      "name": "review-checklist.md",
+      "sha256": "edbe2bf22717a60680035c4f71d2a551764993ff98add3098ad51e8fc2a2c7d5",
+      "bytes": 1367
+    },
+    {
+      "name": "source-notes.md",
+      "sha256": "50328e1a1895eefe2b1106493077194a7bb47a89ef60aebb80c9bf52e487d59d",
+      "bytes": 714
+    },
+    {
+      "name": "worked-brief.md",
+      "sha256": "d48d9aa8dd28bd89e06cb744f61608a3becfdf9c97a06314285b218ba7964052",
+      "bytes": 1292
+    }
+  ]
+}

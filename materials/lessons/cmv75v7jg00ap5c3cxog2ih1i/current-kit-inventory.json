@@ -1,0 +1,52 @@
+{
+  "version": 1,
+  "projectId": "cmv75v7jg00ap5c3cxog2ih1i",
+  "scriptSha256": "969cb70d3b51b9eba470f8dbdac1fb9f3664cf543f3a12054c86b4f301eb5cc6",
+  "files": [
+    {
+      "name": "README.md",
+      "sha256": "c5d22a19e3cd4ebd554e446ba64c5d7413f78e35e3c74539b0154d419e854928",
+      "bytes": 1327
+    },
+    {
+      "name": "answers.md",
+      "sha256": "a560e508a42026c3cd521f489d17894acb8bdfad154e785f5912950c7b820151",
+      "bytes": 3502
+    },
+    {
+      "name": "case-records.md",
+      "sha256": "85c30448b5cc8b401a2e445c1e7bba9a7dc2726bfcaea650559593d30d42ceee",
+      "bytes": 2366
+    },
+    {
+      "name": "handoff-template.md",
+      "sha256": "8e115186a4dad0a2aac8a462b96f32908132a6776d8ccd5ac8b6ce396e688e6f",
+      "bytes": 1174
+    },
+    {
+      "name": "prompts.md",
+      "sha256": "11b6666f3081974064d9a390011c56dc5f67bfcd1576e0550d216db0d0fd9baf",
+      "bytes": 2144
+    },
+    {
+      "name": "qualification-checklist.md",
+      "sha256": "f6454d6218ec9dbc4c7ef4aff4db33c74fccf28a76680d6b637bf4943c479902",
+      "bytes": 1548
+    },
+    {
+      "name": "source-comparison.json",
+      "sha256": "46ded3dec64a876190f23b1dda13dd774dc213262d13885970778a74ddb90463",
+      "bytes": 839
+    },
+    {
+      "name": "verify_record.py",
+      "sha256": "3cdbffd8a27889ae7999a9fd95daac3904d1b611ebc236645ec419099b43c3a9",
+      "bytes": 1043
+    },
+    {
+      "name": "worksheet.md",
+      "sha256": "babde59d1807c192d1b08d33f180b63fdf1f3924eab5c606804cd9bfc565c9b8",
+      "bytes": 2297
+    }
+  ]
+}

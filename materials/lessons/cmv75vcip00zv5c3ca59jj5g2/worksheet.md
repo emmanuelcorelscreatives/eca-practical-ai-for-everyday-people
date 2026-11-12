@@ -1,0 +1,14 @@
+# Practice: Riverside Garden Guide
+
+1. Open the original PDF or text equivalent. List its five confirmed event facts and its three missing fields. Keep it open as evidence.
+2. Read reusable-brief-v1.txt. Identify the role, required input, approved reference, source boundary, missing-information rule, output format, style and review step. The description/name is not evidence.
+3. If your available tool has a reusable-assistant builder, name a NEW private practice draft “Riverside Garden Guide”, describe it as “Drafts source-based visitor answers for the fictional Riverside Community Garden Open Day”, and use the brief. Upload only the supplied PDF. An upload label does not prove correct interpretation; check the opened original. Leave unnecessary capabilities disconnected. Do not share or publish the assistant.
+4. Enter current-question.txt. Keep the resulting text as your own observed draft; this kit does not promise a particular model response. Record the tool and date locally without personal account identifiers.
+5. Check each claim against the opened reference in claim-check-blank.csv. Mark Confirmed, Unsupported or Missing. Check all three headings, fewer than 120 words, exact source names/date and no claim of sending. A correct draft must not assert a registration policy or rain arrangement.
+6. Study this hypothetical bad sentence: “Registration is probably not required.” It is an intentionally authored error example, NOT an observed AI result. Explain why “probably” does not supply evidence. Do not insert the sentence into a screenshot as a real generated answer.
+7. Replace the initial brief with v1.1, which explicitly excludes “probably”, “usually” and “likely” as gap fillers. Run the SAME question again. Record whether the new observed draft follows the rule; never assume improvement merely because instructions changed. If it fails, correct the draft yourself against the original source.
+8. Start a new ordinary chat for the manual fallback. Paste the WHOLE v1.1 brief, add the approved reference and the current question. Compare the result with the same checks. If no AI is available, compose the reply manually and apply the same rubric.
+9. Complete version-and-permissions.csv. Reusable instructions are a maintained task brief, not complete memory. Restate critical current details. Updating event data requires a new approved reference and another check; do not quietly replace facts or fill deliberate blanks.
+10. Before any real-world reuse, confirm permission, intended users, allowed purpose and removal of private data. This classroom task stops at a human-reviewed draft and does not contact an organizer.
+
+Success: narrow role, approved source, required format, visible gaps and human verification. See expected-checks.md only after doing your own check.

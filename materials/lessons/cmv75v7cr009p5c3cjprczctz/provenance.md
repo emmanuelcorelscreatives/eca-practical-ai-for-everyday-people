@@ -1,0 +1,7 @@
+# Provenance and limitations
+
+All fixture data and instructional prose are self-authored Academy practice material. The baseline lesson narrates 48 items at 19.75 units, estimate 1,000, bounds 912 to 960, exact result 948, illustrative wrong generated answer 9,480, plausible-but-wrong 954, 12 kilometres plus 800 metres, and the three practice cases. This kit uses the fictional mean values 12,15,18,20,25 for the stated 12-to-25 range. Four extra quantity records are an Academy extension because the source specifies five rows but gives no values for rows 3–6.
+
+The 9,480 and 954 figures are authored error fixtures, not responses received from any AI provider. “Generated answer” in the lesson identifies a hypothetical teaching role. No vendor interface is reproduced. A Python execution receipt proves the supplied arithmetic program ran, not that a calculator or spreadsheet app was opened. No currency, tax, discount, pack conversion, or missing price is silently assumed. File hashes bind bytes, not truth.
+
+The extension is not a real invoice and should not be presented as source testimony. Estimate first with coarse rounding, then calculate from explicitly inspected inputs. A range is not an error tolerance and plausible is not verified. Ordinary arithmetic mean here uses equal weight and the stated included finite numerical values; weighting, exclusions, missing values and other statistics require separate examination.

@@ -1,0 +1,25 @@
+{
+  "purpose": "Fictional exact transcription comparison; no legal-effect assessment",
+  "original": {
+    "record": "L1",
+    "printed_response_date": "12 March 2030",
+    "wording": "Send a response before 12 March 2030 only if you are the named recipient, except when a replacement notice has been issued."
+  },
+  "transcriptions": [
+    {
+      "id": "faulty",
+      "printed_response_date": "13 March 2030",
+      "wording": "Send a response on 13 March 2030.",
+      "expected_changed_fields": [
+        "printed_response_date",
+        "wording"
+      ]
+    },
+    {
+      "id": "corrected",
+      "printed_response_date": "12 March 2030",
+      "wording": "Send a response before 12 March 2030 only if you are the named recipient, except when a replacement notice has been issued.",
+      "expected_changed_fields": []
+    }
+  ]
+}

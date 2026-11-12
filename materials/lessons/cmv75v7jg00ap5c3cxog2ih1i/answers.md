@@ -1,0 +1,17 @@
+# Expected checks and worked preparation
+
+These are authored teaching answers, not professional judgments or model outputs. Equivalent careful wording is acceptable.
+
+1. H: fact = new symptoms reported; fact = record at 09:00 on 4 March 2030. Unknowns include symptom details and location. Error could cause health harm or delay. Relevant role = appropriately authorized health professional; question = “What information do you need to assess this?” Neither urgency nor diagnosis can be inferred. L: facts = printed date 12 March and fictional Alder Region. Unknowns = whether replacement notice exists and which actual rules could apply. Consequence = missed response opportunity or rights. Role = relevant authorized legal practitioner or legal aid; question = “What response timing applies after reviewing the original and local rules?” M: facts = savings needed for ordinary commitments; offer claims authorization. Unknowns = access timing and loss capacity. Consequence = essential-money loss. Role = appropriately regulated financial professional within permitted work/location; question = “What facts and constraints are needed before suitability can be assessed?” S: facts = unit stopped; label says do not use. Unknowns = energy state and current controls. Consequence = physical harm. Role = trained authorized safety specialist for the setting; question = “Which existing controls and documents must govern the review?” No learner repair step is appropriate.
+
+2. A good draft cites record IDs, preserves warnings and labels the lack of information. It contains no invented treatment, right, product choice, fault diagnosis, actual register result or model run.
+
+3. The faulty summary changes the printed response date from 12 to 13 March 2030 and drops both the named-recipient and replacement-notice conditions. The word “before” is also missing from its wording. The corrected transcription preserves the exact sentence and printed date. Even the corrected transcription does not establish validity or binding legal effect.
+
+4. Example L handoff: original L1 retained; 4 March = printed issue date, 12 March = printed response date; exact conditional sentence copied. Unknowns: applicable real jurisdiction, identity, replacement notice, service and relevant rules. Timely authorized review is the practice route because response timing and legal rights may matter. No actual licensed person, official register result or completed contact is claimed. Ask which rule applies, what information is missing and what should happen next.
+
+5. (a) appropriate urgent official service; (b) timely qualified legal review, without AI deciding the real deadline; (c) ordinary source check, including date, audience, location and limits. H1's missing details cannot establish that waiting is safe.
+
+6. `python3 verify_record.py` should exit 0 and print exactly one JSON object with `passed: true`, `cases_checked: 2`, `faulty_detected: true`, and `corrected_preserved: true`. Key order and whitespace are not important. The checker compares exact strings and expected error fields. It is a limited deterministic text exercise; it proves no legal or professional conclusion. A failure means inspect unchanged files and compare manually; don't change the source to force a pass.
+
+Final challenge: adding “not professional advice,” receiving two matching assistant answers, or seeing a confident biography does not verify evidence, current authorization, scope or accountability.

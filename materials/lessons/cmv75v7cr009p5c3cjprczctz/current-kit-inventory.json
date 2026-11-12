@@ -1,0 +1,67 @@
+{
+  "version": 1,
+  "projectId": "cmv75v7cr009p5c3cjprczctz",
+  "scriptSha256": "e895ea23718325cfd64b3174c54dd5533940fd95a6ce3499abe74e7f3a83b72b",
+  "files": [
+    {
+      "name": "README.md",
+      "sha256": "eefbee358b19494777969fe84fe0cac92ecfb00f4843acd04bc65269d21f8fd5",
+      "bytes": 1826
+    },
+    {
+      "name": "answers.md",
+      "sha256": "2eee1717fb81ae1b48444a41a07df20d2924169d761bff01ed94c34c79bbf32b",
+      "bytes": 3532
+    },
+    {
+      "name": "checking-record.csv",
+      "sha256": "fe8601dd18afdcec88fc5d8229b14a8c9d5330b5232e7f4cdd6de83c565b6b68",
+      "bytes": 223
+    },
+    {
+      "name": "formula-map.md",
+      "sha256": "d3fe6d09225de7315aaa98192b3aa0917e3b69926bf6dca4d2bd43a0dd09ee82",
+      "bytes": 1630
+    },
+    {
+      "name": "mean-values.csv",
+      "sha256": "69e306a62e3679f4fc3cdfc1810dd0eae2462d756cf7f38b6cf9d26ff3ce6f14",
+      "bytes": 21
+    },
+    {
+      "name": "practice-cases.csv",
+      "sha256": "da1cd5b6b48ca2bc6fdfe1690a093b4ff4411461474d7055165e4bc2d16d2334",
+      "bytes": 291
+    },
+    {
+      "name": "provenance.md",
+      "sha256": "d96a32662d67b467ad34586d454b84ce6e043368a9e0c52f1c763b196de70196",
+      "bytes": 1445
+    },
+    {
+      "name": "quantity-check-template.csv",
+      "sha256": "ba0b4d20c4ebca50ffd52c033c34e63fe2d7a7af40e753bda6801ff66481d54d",
+      "bytes": 60
+    },
+    {
+      "name": "quantity-check.csv",
+      "sha256": "5b3540ca57e289a69a2d8fce0cef2499802f4c7bc721af263d4b088bcda45701",
+      "bytes": 74
+    },
+    {
+      "name": "source-input.csv",
+      "sha256": "f7affa7e29634c095a575c5a6f0dfb7b4caa67de3073e1d5cc7d0d15de69e2da",
+      "bytes": 166
+    },
+    {
+      "name": "verify.py",
+      "sha256": "c7d9f682438ef94fdfb73c27089ab61867df7d68bf83f59e8692a55687661749",
+      "bytes": 2298
+    },
+    {
+      "name": "worksheet.md",
+      "sha256": "7cc283b1810feed585b2154b1d77c32e7436a6931929498ffb24530026550afe",
+      "bytes": 3722
+    }
+  ]
+}

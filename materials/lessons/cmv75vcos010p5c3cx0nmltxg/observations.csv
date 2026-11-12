@@ -1,0 +1,7 @@
+case,route,run,model_settings,facts_preserved,all_sections,unsupported_additions,gap_flagged,clarification_requested,distraction_ignored,draft_only,exact_issue_evidence,correction,output_file
+A ordinary,normal prompt,1,,,,,,,,,,,
+A ordinary,reusable setup,1,,,,,,,,,,,
+B missing start time,normal prompt,1,,,,,,,,,,,
+B missing start time,reusable setup,1,,,,,,,,,,,
+C distraction,normal prompt,1,,,,,,,,,,,
+C distraction,reusable setup,1,,,,,,,,,,,

@@ -1,0 +1,47 @@
+{
+  "version": 1,
+  "projectId": "cmv75vcos010p5c3cx0nmltxg",
+  "scriptSha256": "f1e49871717ccad77395aefbc001c4661568ee391c5aaae69ed6658c02a54e37",
+  "files": [
+    {
+      "name": "README.md",
+      "sha256": "e0ceeb4e1bd2b5aa06d4fb80b7629a73a04a010975d37477bc234f2c56ba05a0",
+      "bytes": 2096
+    },
+    {
+      "name": "acceptance-checks.md",
+      "sha256": "d1a78e284a91d738171f8fd20558156169d325ecd2328781ef3c6523adb07238",
+      "bytes": 1293
+    },
+    {
+      "name": "decision-record.md",
+      "sha256": "4d87dddf136ccd042de8db8f32a36ee9a62ce943eeb2348ec33ea1c8fff0dc1b",
+      "bytes": 1303
+    },
+    {
+      "name": "human-effort.csv",
+      "sha256": "71c6e7723cbd70a9ce27abb88684d6e7d6612574ff372618138814d9dbe9ff0c",
+      "bytes": 497
+    },
+    {
+      "name": "observations.csv",
+      "sha256": "590374bf33e9f8e5b37ef7b32c3b41bdd440090d9e71add3f0616c448647aa79",
+      "bytes": 456
+    },
+    {
+      "name": "prompt-pair.md",
+      "sha256": "019ac7154fccd9e2cf8951d52e63c65c768a42bd8881d626c047a8fd777b9497",
+      "bytes": 2083
+    },
+    {
+      "name": "reference-checks.md",
+      "sha256": "af0c38c2a880d7a5ab32183afff6bf473e882c93e2693a897daeccd9832c3029",
+      "bytes": 1914
+    },
+    {
+      "name": "source-cases.md",
+      "sha256": "5ffe5170cf4f963468d870f0a81ad520f74279cd38917cedc21b92529e56f394",
+      "bytes": 1445
+    }
+  ]
+}

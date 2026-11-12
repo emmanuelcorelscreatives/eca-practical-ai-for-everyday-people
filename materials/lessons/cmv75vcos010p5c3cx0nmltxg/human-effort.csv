@@ -1,0 +1,7 @@
+case,route,run,one_time_setup_minutes,prompting_minutes,blocking_wait_minutes,checking_minutes,correction_minutes,transfer_minutes,recovery_minutes,maintenance_minutes,actual_total_minutes,measurement_method,interruptions_or_overlap
+A ordinary,normal prompt,1,,,,,,,,,,,
+A ordinary,reusable setup,1,,,,,,,,,,,
+B missing start time,normal prompt,1,,,,,,,,,,,
+B missing start time,reusable setup,1,,,,,,,,,,,
+C distraction,normal prompt,1,,,,,,,,,,,
+C distraction,reusable setup,1,,,,,,,,,,,

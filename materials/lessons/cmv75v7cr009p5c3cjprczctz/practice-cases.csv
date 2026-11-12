@@ -1,0 +1,4 @@
+case,input_description,proposed_answer,answer_unit,precision
+A,203 tickets at about 5 units each,10150,unspecified price units,approximate unit price
+B,9 boxes at about 30 items each,271,items,approximate items per box
+C,included values range from 40 to 70,82,same unit as values,range only

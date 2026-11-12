@@ -1,0 +1,12 @@
+# First-draft stopping point
+- [ ] Exactly five slides present in the required order.
+- [ ] Required topics covered at an appropriately concise level of detail.
+- [ ] Event name, date, time and address match the opened source.
+- [ ] One-item limit, charger/power-cable condition and exclusions preserved.
+- [ ] No-guarantee statement retained; no invented safety explanations or promises.
+- [ ] Unsupported additions removed or visibly labelled as assumptions.
+- [ ] Removable-parts suggestion deleted from the final manual fallback.
+- [ ] Registration and public contact remain clearly NOT PROVIDED.
+- [ ] Facts compared with the source, not merely with an assistant answer.
+- [ ] File stays editable and labelled Draft; no sharing/publication/submission occurred.
+- [ ] Stop here: next lesson chooses explanatory visuals; do not decorate this task beyond simple readable layouts.

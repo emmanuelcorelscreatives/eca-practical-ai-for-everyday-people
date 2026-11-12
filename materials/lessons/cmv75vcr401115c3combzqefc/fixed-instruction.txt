@@ -1,0 +1,2 @@
+EVENT REQUEST TO ACTION LIST
+Use only the supplied notes. Produce a table with Action, Owner, and Due date. Write Needs clarification when required information is missing or ambiguous. List conflicting statements separately. Do not resolve a conflict by guessing. Do not claim any external action was completed.

@@ -1,0 +1,62 @@
+{
+  "version": 1,
+  "projectId": "cmv75vcip00zv5c3ca59jj5g2",
+  "scriptSha256": "7045744428731809bb3fcc6ac7072a274e25d7611c4aa224ccc6961116238b61",
+  "files": [
+    {
+      "name": "README.md",
+      "sha256": "433ed9a365442ed80a18b0e80ad9dd5b19e6f951f16b1cc724a6ef3bfb11737f",
+      "bytes": 1900
+    },
+    {
+      "name": "Riverside_Open_Day_Reference.pdf",
+      "sha256": "6c96cb389b3cb517a387e70aa71d6cc38a338984b5e1939559e46e6ae3e7e346",
+      "bytes": 1328
+    },
+    {
+      "name": "Riverside_Open_Day_Reference.txt",
+      "sha256": "a61c1fa869657fe255da11fbd813a406007e7a67af17b4bbc89bbf8312c96340",
+      "bytes": 728
+    },
+    {
+      "name": "claim-check-answer-key.csv",
+      "sha256": "b4cfb63973e65fa1f7a724702564843e82c1cedc4fce629246247b4cc162f8be",
+      "bytes": 806
+    },
+    {
+      "name": "claim-check-blank.csv",
+      "sha256": "32ca45fd6db969100657553022416fe5ffa63b565345b4ecd93224fabc86f6a2",
+      "bytes": 145
+    },
+    {
+      "name": "current-question.txt",
+      "sha256": "4b12c3d91903de0f2ba78654b6f4004fca02c0fffe823a127da22607b21b4030",
+      "bytes": 104
+    },
+    {
+      "name": "expected-checks.md",
+      "sha256": "842100ed39fea497d7eb03216f77f2328df9e08733c3b69267fd6cda3bde70f6",
+      "bytes": 2006
+    },
+    {
+      "name": "reusable-brief-v1.1.txt",
+      "sha256": "f85df956a2e9516c82daaf9f32a860a41b74f5d82ca78266ab16e5c560da2212",
+      "bytes": 1577
+    },
+    {
+      "name": "reusable-brief-v1.txt",
+      "sha256": "9bff1b25a1587bfc94e16de7a22cfd6fe2cf01d81e10e1e71f9b9aae7d121de1",
+      "bytes": 1426
+    },
+    {
+      "name": "version-and-permissions.csv",
+      "sha256": "9d1d78c5909e2f95ae61d85e45f6bf737e09f0b8c543cb5474b9726a9be776e7",
+      "bytes": 548
+    },
+    {
+      "name": "worksheet.md",
+      "sha256": "85cd414a6c59a44a0e973d07a1e368d220255a9bb44637d2135eae71cbdb4272",
+      "bytes": 2836
+    }
+  ]
+}

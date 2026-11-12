@@ -1,0 +1,8 @@
+Detail,Source value,Flawed presence,Flawed accuracy,Corrected presence,Corrected accuracy
+Event,Digital Skills Workshop,Present,Matches,Present,Matches
+Date,18 November 2026,Present,Wrong date,Present,Matches
+Time,14:00–15:30,Present,Matches,Present,Matches
+Place,Riverside Community Room,Present,Matches,Present,Matches
+Cost,Free,Present,Matches,Present,Matches
+Registration,Required,Present,Matches,Present,Matches
+Accessibility requests due,11 November 2026,Missing,Not applicable,Present,Matches

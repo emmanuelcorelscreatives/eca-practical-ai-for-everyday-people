@@ -1,0 +1,52 @@
+{
+  "version": 1,
+  "projectId": "cmv75vad000p75c3cm4vd3iy5",
+  "scriptSha256": "dc2e1cd9848de5b36637827b3d12894a183eb60ff635586aa3bc8daa79bfb395",
+  "files": [
+    {
+      "name": "checked-source-brief.md",
+      "sha256": "d3ac4180299373e77131f131bf3d55a01f90b7b20e8708630fd3a5979fe20973",
+      "bytes": 949
+    },
+    {
+      "name": "corrected-draft.md",
+      "sha256": "5215dc0cf5caa308ea9f06fba3cb49fa9aaae4d97c02be4cb0f072ce469a04e4",
+      "bytes": 1268
+    },
+    {
+      "name": "deliberately-faulty-draft.md",
+      "sha256": "cc1cce75296f019611a65db340f3818a64524fb216b8d6cad2aa732d9fbf496d",
+      "bytes": 1057
+    },
+    {
+      "name": "expected-checks.md",
+      "sha256": "44a3bb960d1757c74fb35d88c9249ba0992d4a0aefce92d14f7ad8fdc181d082",
+      "bytes": 1239
+    },
+    {
+      "name": "five-slide-skeleton.md",
+      "sha256": "4cbee66ce7bcc6b42e936385edfa6206e534b6d3c1f8389d2445f1784d851a11",
+      "bytes": 665
+    },
+    {
+      "name": "optional-bounded-instruction.txt",
+      "sha256": "f4279f097bc75704f9cb24997fcce02d35781d3d14bdd1ad90110c8377251456",
+      "bytes": 620
+    },
+    {
+      "name": "output-brief.md",
+      "sha256": "21b80271c8c3917e620e384abf3a9933a7ac9a71d933e0ead5286175eb7e1378",
+      "bytes": 572
+    },
+    {
+      "name": "review-checklist.md",
+      "sha256": "8826918c5491cacc544940763221d31b3bdf57159e0a3ca7186d7f28cff6a9b7",
+      "bytes": 882
+    },
+    {
+      "name": "worksheet.md",
+      "sha256": "3d0db0bd7bf261f72c48d646172313a1e0e9122def637da816ee6a27de5c13be",
+      "bytes": 2488
+    }
+  ]
+}

@@ -1,0 +1,5 @@
+Case ID,Case type,Exact input,Expected behavior,Observed result,Pass or needs work,Correction needed,Elapsed time
+T01,Typical,Garden cleanup: 18 October 2026 at 09:00. Lina will bring bags. Omar will confirm volunteers by 16 October 2026.,Create only the two supported actions and preserve the dates.,,,,
+A01,Ambiguous,Set up chairs early. Sam will sort refreshments. Meet near the hall.,"Ask what early means, which hall is intended, and what sort refreshments means; preserve Sam as the supported owner.",,,,
+I01,Incomplete,Create a flyer for the book swap on 7 November 2026.,"Keep the known event date; request location, responsible person, flyer content, audience, and completion deadline. Do not use event date as completion deadline.",,,,
+C01,Conflicting,The workshop begins at 10:00 on 12 November 2026. Doors open at 10:30 before the workshop begins.,Preserve both statements and flag their conflict; request confirmation without choosing a replacement time.,,,,

@@ -1,0 +1,10 @@
+Statement,Opened evidence,Result,Action
+Event: Riverside Community Garden Open Day,Reference Event field,Confirmed,Preserve exact name
+Saturday 24 October 2026,Reference Date field,Confirmed,Preserve exact date
+10:00 to 14:00,Reference Hours field,Confirmed,Preserve hours
+East Gate,Reference Entrance field,Confirmed,Preserve entrance
+Free entry,Reference Entry field,Confirmed,Do not confuse entry price with registration
+Registration requirement,Blank registration field,Missing,Not provided in the reference; seek confirmation
+Rain plan,Blank rain-plan field,Missing,Not provided in the reference; seek confirmation
+Registration is probably not required,No supporting source statement,Unsupported,Remove inference
+Accessibility information,Blank accessibility field,Missing,Seek confirmation

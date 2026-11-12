@@ -1,0 +1,52 @@
+{
+  "version": 1,
+  "projectId": "cmv75vcr401115c3combzqefc",
+  "scriptSha256": "482e48b248e6cf4c91507a6a15223febd153c055473c1aabf3948ae364b45f5a",
+  "files": [
+    {
+      "name": "A01-source.txt",
+      "sha256": "63dd1a724499a95eb79a4c35204530531c2d9078cb75def890d1613c8cfa329a",
+      "bytes": 69
+    },
+    {
+      "name": "C01-source.txt",
+      "sha256": "6cb43eed55cfce2dbadaab9e395adf351067c66bdfc63cfc9a4cc8aabd360942",
+      "bytes": 98
+    },
+    {
+      "name": "I01-source.txt",
+      "sha256": "a29eb00de88f1aaf579c95978079093f87675711a8100f49b1aadcf34d9a364e",
+      "bytes": 53
+    },
+    {
+      "name": "T01-source.txt",
+      "sha256": "686c628800eb49419a6a2f6cc60e8e3c553eee0024000ffef727488607f4dfbf",
+      "bytes": 113
+    },
+    {
+      "name": "coverage-and-new-cases.md",
+      "sha256": "b653cb1d0a0dfb5e3a94c73b17d48e8144c5fa5f7c3737035d72640ee4e5b3d2",
+      "bytes": 1003
+    },
+    {
+      "name": "expected-checks.md",
+      "sha256": "251431112a93f20b1a763b0aa4af33ea7d6378e8dadbed0613b82954eaab3f3e",
+      "bytes": 1364
+    },
+    {
+      "name": "fixed-instruction.txt",
+      "sha256": "f8d2163ba6f922feabe80f79dc6810f8374be7689d07c4c0129d28b3f9a4ced1",
+      "bytes": 312
+    },
+    {
+      "name": "test-case-sheet.csv",
+      "sha256": "d744500e7a5746921f11c7c4c343903fc0feb600e956b7323ef30509e268d10d",
+      "bytes": 977
+    },
+    {
+      "name": "worksheet.md",
+      "sha256": "4f423b80cde499f21a3bb2d9192d83d2abf6445ce2af6f62dd217fc86b9c51e7",
+      "bytes": 3158
+    }
+  ]
+}
