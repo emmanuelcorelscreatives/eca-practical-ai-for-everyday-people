@@ -1,0 +1,26 @@
+<!doctype html><html lang="en"><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1"><title>Academy Duplicate Safeguard Lab</title>
+<style>body{font:18px system-ui;color:#193047;background:#f5f8fb;max-width:1160px;margin:40px auto;padding:0 24px}h1{font-size:32px}section{background:white;border:1px solid #b9cad9;padding:22px;margin:20px 0;border-radius:10px}label{display:block;margin:12px 0}input{font:inherit;padding:8px;width:min(90%,650px)}button{font:inherit;padding:12px 20px;margin:8px 8px 8px 0;cursor:pointer}table{border-collapse:collapse;width:100%;font-size:16px}th,td{text-align:left;padding:12px;border:1px solid #cad6df}#result{white-space:pre-wrap;font-size:20px}.badge{background:#e1eef9;padding:10px}small{display:block;line-height:1.6}</style>
+<h1>Duplicate safeguard — Academy practice lab</h1><p class="badge">FICTIONAL TEST INPUT · External actions disabled · Local tab only</p>
+<section><h2>New registration response</h2><label>Submission ID <input id="source" value="SUB-1042"></label><label>Name <input id="person" value="Lina Okafor"></label><label>Workshop <input id="workshop" value="Introduction to Community Gardening"></label><label>Notes <input id="notes" value="Needs step-free access"></label><p>Map Submission ID → Source ID · Match method: Exact match</p><button id="run">Run input</button><button id="reset">Reset practice</button><button id="download">Download evidence</button></section>
+<section><h2>Workflow</h2><p>New response → Search Source ID → Condition</p><p>NO MATCH → CREATE RECORD</p><p>MATCH FOUND → STOP AND LOG DUPLICATE</p><p>CHANGED INPUT OR MULTIPLE MATCHES → MANUAL REVIEW</p><div id="result" aria-live="polite">No run yet. Registration Log is empty.</div></section>
+<section><h2>Registration Log</h2><table><thead><tr><th>Source ID</th><th>Name</th><th>Workshop</th><th>Decision</th><th>Run Reference</th></tr></thead><tbody id="registrations"></tbody></table><p id="count">Destination count: 0</p></section>
+<section><h2>Decision log and run history</h2><table><thead><tr><th>Run</th><th>Source ID</th><th>Matches</th><th>Decision</th><th>Created</th><th>Checked By</th></tr></thead><tbody id="history"></tbody></table></section>
+<small>This is real functioning Academy teaching software using fictional data. It does not impersonate Google Sheets or a commercial no-code product. State is memory-only; refresh resets it. Exact matching uses the ID as entered, with no normalization. A single tab's synchronous operation is not a distributed uniqueness guarantee. Use a destination uniqueness constraint or supported atomic/serialized protection before unattended real use.</small>
+<script>
+'use strict';
+let rows=[],history=[];
+const $=id=>document.getElementById(id);
+function addRow(body,values){const tr=document.createElement('tr');for(const value of values){const td=document.createElement('td');td.textContent=value;tr.append(td)}body.append(tr)}
+function render(){ $('registrations').replaceChildren();$('history').replaceChildren();for(const r of rows)addRow($('registrations'),[r.id,r.name,r.workshop,'Created',r.run]);for(const h of history)addRow($('history'),[h.run,h.id,h.matches,h.decision,h.created,'']);$('count').textContent='Destination count: '+rows.length;}
+function execute(input){
+ if(!input.id||!input.name||!input.workshop)throw Error('Submission ID, name and workshop are required.');
+ const run='RUN-'+String(history.length+1).padStart(2,'0'),matching=rows.filter(r=>r.id===input.id);
+ const changed=matching.length===1&&['name','workshop','notes'].some(k=>matching[0][k]!==input[k]);
+ let decision=matching.length===0?'Created':matching.length>1||changed?'Manual review':'Duplicate blocked';
+ const created=decision==='Created'?1:0;if(created)rows.push({...input,run});
+ const result={run,id:input.id,matches:matching.length,decision,created,createStep:created?'Succeeded':'Not run',destinationCount:rows.length,checkedBy:''};history.push(result);return result;
+}
+$('run').onclick=()=>{try{const r=execute({id:$('source').value,name:$('person').value,workshop:$('workshop').value,notes:$('notes').value});$('result').textContent=`${r.run}\nMatch found: ${r.matches?'Yes':'No'} · Matching rows: ${r.matches}\nDecision: ${r.decision}\nCreate: ${r.createStep} · Created records: ${r.created}\nDestination count: ${r.destinationCount}`;render()}catch(e){$('result').textContent=e.message}};
+$('reset').onclick=()=>{rows=[];history=[];$('source').value='SUB-1042';$('person').value='Lina Okafor';$('workshop').value='Introduction to Community Gardening';$('notes').value='Needs step-free access';$('result').textContent='No run yet. Registration Log is empty.';render()};
+$('download').onclick=()=>{const blob=new Blob([JSON.stringify({provenance:'Actual run of offline Academy fixture lab; not vendor evidence',externalActions:false,registrations:rows,history},null,2)],{type:'application/json'});const url=URL.createObjectURL(blob),a=document.createElement('a');a.href=url;a.download='duplicate-safeguard-evidence.json';a.click();setTimeout(()=>URL.revokeObjectURL(url),1000)};
+</script></html>

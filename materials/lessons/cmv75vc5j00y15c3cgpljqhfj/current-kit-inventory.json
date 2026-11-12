@@ -1,0 +1,37 @@
+{
+  "version": 1,
+  "projectId": "cmv75vc5j00y15c3cgpljqhfj",
+  "scriptSha256": "320fefb3f55536e7491f3e093935cfbeeb3b3812ee8e254d8002e16c5522e683",
+  "files": [
+    {
+      "name": "data/manual-review.csv",
+      "sha256": "c22e13eed6085472043cca340f317e6c0cd8dcf71cec93e2f042752fa3a5b882",
+      "bytes": 96
+    },
+    {
+      "name": "data/registration-after-first.csv",
+      "sha256": "379d6ac6d01238ccf509af8740a4f24538cd608131d1ac8273549fc6a5a4b7eb",
+      "bytes": 119
+    },
+    {
+      "name": "data/registration-empty.csv",
+      "sha256": "939528d9bc8aed5d76b4a478ccae3a51bfec8a86c330bd7070c49adb7363c962",
+      "bytes": 47
+    },
+    {
+      "name": "duplicate-lab.html",
+      "sha256": "ae8ac846ec6fd65326acfd1467d28701bfb880d16f53f6b4cfe9b53eaac5e018",
+      "bytes": 5135
+    },
+    {
+      "name": "expected-results.json",
+      "sha256": "e60e258b14ce3d52cc1d37a1ebfa728b538369447523353b9effa0f693937330",
+      "bytes": 669
+    },
+    {
+      "name": "worksheet.md",
+      "sha256": "66c4a5452722e38113cdee5e288bb7765c04120ced24b3dd01781c27778c38c6",
+      "bytes": 4399
+    }
+  ]
+}

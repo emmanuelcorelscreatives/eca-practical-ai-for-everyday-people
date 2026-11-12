@@ -1,0 +1,11 @@
+{
+  "provenance": "Expected fictional fixture outcomes; not observations of a vendor application",
+  "sequence": [
+    {"id":"SUB-1042","run":"RUN-01","matches":0,"decision":"Created","created":1,"destinationCount":1},
+    {"id":"SUB-1042","run":"RUN-02","matches":1,"decision":"Duplicate blocked","created":0,"destinationCount":1},
+    {"id":"SUB-1098","run":"RUN-03","matches":0,"decision":"Created","created":1,"destinationCount":2}
+  ],
+  "changedDuplicate": "Manual review; do not create or overwrite",
+  "multipleMatches": "Manual review; existing data-quality problem",
+  "overlapWarning": "Search-then-create alone is not a distributed concurrency guarantee"
+}
