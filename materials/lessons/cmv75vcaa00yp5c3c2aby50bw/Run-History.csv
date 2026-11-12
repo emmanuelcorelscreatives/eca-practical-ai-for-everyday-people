@@ -1,0 +1,13 @@
+Input ID,Step,State,Time UTC,Destination
+EVT-1047,Input received,completed,2026-10-15 12:40:00,
+EVT-1047,Approved information opened,completed,2026-10-15 12:40:02,Approved-Event-Information.md
+EVT-1047,Draft created,completed,2026-10-15 12:40:06,Drafts/EVT-1047
+EVT-1047,Connection,lost after draft creation,2026-10-15 12:40:07,
+EVT-1047,Human review,not started,,
+EVT-1047,Send,disabled,,
+EVT-1048,Input received,completed,,
+EVT-1048,Approved information opened,completed,,
+EVT-1048,AI model call,unavailable,,
+EVT-1048,Draft created,not started,,
+EVT-1048,Human review,not started,,
+EVT-1048,Send,disabled,,

@@ -1,0 +1,92 @@
+{
+  "version": 1,
+  "projectId": "cmv75vcaa00yp5c3c2aby50bw",
+  "scriptSha256": "22a3923bcde89445e87ffd311d3fc186d7311743808b11c150d6cc1a260a8096",
+  "files": [
+    {
+      "name": "Approved-Event-Information.docx",
+      "sha256": "1a758debad46d584b5d616d686ad247e4fd33991655aeb0defcbb1d965b25218",
+      "bytes": 1160
+    },
+    {
+      "name": "Approved-Event-Information.md",
+      "sha256": "a030003a96fdbf197845484b0c25031ef3d3b9f520c5452985608f7611542166",
+      "bytes": 372
+    },
+    {
+      "name": "Drafts/EVT-1047.md",
+      "sha256": "949b134aaa25d855e5b2ee38bf9694af864c6db7d0d98a20bd4fcc3651142e65",
+      "bytes": 716
+    },
+    {
+      "name": "EVT-1047-Draft.docx",
+      "sha256": "ddacb9b0f4ad50756efff20a802ff7b48108bb9a1bab04b52a88990390a85d21",
+      "bytes": 1325
+    },
+    {
+      "name": "Expected/EVT-1048-Manual-Draft.md",
+      "sha256": "3ac04c685c06286d7017ff18a22c2c318157b21b3b305df0deaa273ca375a813",
+      "bytes": 567
+    },
+    {
+      "name": "Expected/Recovery-Log-Approved.csv",
+      "sha256": "ae206a72c7d3bdb40f085e84ad12d4f134f30cb7e364391bea6b2140841a3001",
+      "bytes": 256
+    },
+    {
+      "name": "Expected/Recovery-Log-Awaiting-Reviewer.csv",
+      "sha256": "9b98aa93d54cf4d990ff6770801d6de721e9b4b241c2b7cd71c351a191868c92",
+      "bytes": 231
+    },
+    {
+      "name": "Manual-Recovery-Route.docx",
+      "sha256": "98ebd12e694e90c336cd1aa644985979e4227b68a006088a695ce47a8c50d30c",
+      "bytes": 1922
+    },
+    {
+      "name": "Manual-Recovery-Route.md",
+      "sha256": "22fc275d032798dad818f1508dce94cb616b4e1632ebb2ab281175da76402270",
+      "bytes": 1975
+    },
+    {
+      "name": "Manual-Recovery-Template.docx",
+      "sha256": "9746e3f31ff33f92b522e76feaf7f51fb46932d998ec33f74ce8ab66cffa1d82",
+      "bytes": 1439
+    },
+    {
+      "name": "Manual-Recovery-Template.md",
+      "sha256": "fcd32c56af0bd47102fb2a4116750c36b9446025ebcc9c927e1ac01b3fdec15d",
+      "bytes": 955
+    },
+    {
+      "name": "Original-Inputs.csv",
+      "sha256": "3daceb40508cd7bfb7c5110b48e86d882ac4fe36ff88b0f62cc3a80e31342bb0",
+      "bytes": 377
+    },
+    {
+      "name": "Recovery-Log.csv",
+      "sha256": "7c480f5713b82e48f9576bc6404603c5125698f266cbcc23c8146e366fa51156",
+      "bytes": 103
+    },
+    {
+      "name": "Recovery-Log.xlsx",
+      "sha256": "a9b4b68a1a53bd2e06330bd40e74e9da7a39fe48f441af606af0b7caaa2f83ab",
+      "bytes": 4025
+    },
+    {
+      "name": "Run-History.csv",
+      "sha256": "1809609d67ae02da81f5a1faa4c13ab3ec1f2cca7956f5b48973a4791b0f7260",
+      "bytes": 623
+    },
+    {
+      "name": "Saved-Instruction.md",
+      "sha256": "91a0754d6a5a85512d117eb50e3e7ad2629d50791dcd654c5a3db8c906aabf09",
+      "bytes": 321
+    },
+    {
+      "name": "worksheet.md",
+      "sha256": "e726e0a36dfb4905f166cbe5182b8cd6667fe97a02b2b79d56663afeb01d54e4",
+      "bytes": 4084
+    }
+  ]
+}
