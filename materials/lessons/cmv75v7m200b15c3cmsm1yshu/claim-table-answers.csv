@@ -1,0 +1,9 @@
+Claim,Importance or consequence,Source opened,Evidence found,Verification result,Correction or next action
+"Saturday, 24 October 2026, 14:00 to 17:00",Planning and attendance,Event brief.odt,"Saturday, 24 October 2026; 14:00 to 17:00",Supported,None
+Riverside Room,Visitors go to wrong room,Event brief.odt,Harbour Room,Corrected,Replace Riverside Room with Harbour Room
+Capacity 48,Occupancy planning,Event brief.odt,Capacity 48,Supported,None
+36 registrations,Attendance planning,Registration list.ods,36 numbered fictional records; counted 36,Supported,None
+70% full,Misleading progress figure,Event brief.odt; Registration list.ods; independent calculation,36 / 48 = 0.75 = 75%,Corrected,Replace 70% with 75%
+Step-free entrance confirmed,Potential exclusion; ask venue before publishing,Facilities note.odt,Step-free entrance: confirmation pending,Unresolved,Remove confirmed wording; ask venue before publishing
+Refreshments confirmed,Visitor expectations,Facilities note.odt,Volunteers asked; no final confirmation recorded,Unsupported,Remove refreshments claim unless confirmation is obtained
+Registration closes 22 October 2026,Missed registration,Event brief.odt,Registration closes 21 October 2026,Corrected,Replace 22 October with 21 October 2026
