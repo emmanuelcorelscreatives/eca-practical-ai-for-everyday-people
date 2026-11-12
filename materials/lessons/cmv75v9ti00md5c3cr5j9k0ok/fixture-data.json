@@ -1,0 +1,73 @@
+{
+  "notice": "FICTIONAL PRACTICE DETAILS \u2014 self-authored examples, not current travel or venue information",
+  "selectedDate": "2026-10-15",
+  "origin": "North Station",
+  "destination": "Harbor Museum",
+  "mode": "Public transport",
+  "returnDeadline": "18:00",
+  "needs": [
+    "Limited walking",
+    "Step-free entrance",
+    "Working lift",
+    "Accessible toilet",
+    "Seating",
+    "No known stair-only transfer"
+  ],
+  "venue": {
+    "regularHours": "10:00\u201318:00",
+    "specialHours": "11:00\u201316:00",
+    "lastAdmission": "15:00",
+    "timedEntry": "Check requirement for selected date",
+    "entrance": "Step-free side entrance in fictional listing",
+    "toilet": "Accessible toilet listed; suitability still requires individual review",
+    "lift": "Coverage listed; operating status not stated",
+    "seating": "Entrance and gallery rest points listed; suitability not confirmed",
+    "parking": "Not part of this public-transport brief",
+    "assistance": "Contact venue through its real published channel; no fictional contact provided"
+  },
+  "generatedClaims": {
+    "openingHours": "10:00\u201318:00",
+    "routeAEstimate": "60 minutes"
+  },
+  "routes": [
+    {
+      "option": "Route A",
+      "estimateMinutes": 75,
+      "transfers": 1,
+      "walkingMinutes": 8,
+      "access": "Some access features listed; one transfer DATA UNAVAILABLE",
+      "preferredDraft": true
+    },
+    {
+      "option": "Route B",
+      "estimateMinutes": 60,
+      "transfers": 2,
+      "walkingMinutes": 20,
+      "access": "Not fully checked",
+      "preferredDraft": false
+    }
+  ],
+  "unresolved": [
+    "Will the venue lift be operating?",
+    "Is the final approach suitable?",
+    "Could transport disruption affect the selected date?"
+  ],
+  "externalActionsCompleted": [],
+  "additionalUnresolved": [
+    "Timed entry/advance booking requirement",
+    "Transfer accessibility: DATA UNAVAILABLE",
+    "Vehicle suitability",
+    "Stop access"
+  ],
+  "conditionalTimelineAssumptions": {
+    "entry": "13:00",
+    "outwardTransportMinutes": 75,
+    "outwardPreparationMinutes": 15,
+    "outwardBufferMinutes": 20,
+    "visitMinutes": 90,
+    "exitAndRestMinutes": 15,
+    "returnTravelMinutes": 80,
+    "returnBufferMinutes": 25,
+    "notice": "Self-authored arithmetic assumptions only, not checked return-route evidence. Essential access conditions remain unresolved."
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "packageId": "EVT-014",
+  "version": 2,
+  "action": "Schedule announcement",
+  "destination": "Community Event Mailing List",
+  "scheduledDate": "19 October 2026",
+  "subject": "Community Garden Open Day",
+  "message": "Join our fictional Community Garden Open Day. Check the supporting brief before confirming event arrangements. Bring your own gloves.",
+  "attachment": {
+    "name": "event-map-v1.pdf",
+    "contentRevision": "map-v1"
+  },
+  "linkedRecord": {
+    "id": "BRIEF-014",
+    "revision": 1
+  }
+}

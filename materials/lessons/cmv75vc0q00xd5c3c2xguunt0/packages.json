@@ -1,0 +1,655 @@
+[
+  {
+    "id": "unchanged",
+    "approved": {
+      "packageId": "EVT-014",
+      "version": 1,
+      "action": "Schedule announcement",
+      "destination": "Community Event Mailing List",
+      "scheduledDate": "18 October 2026",
+      "subject": "Community Garden Open Day",
+      "message": "Join our fictional Community Garden Open Day. Check the supporting brief before confirming event arrangements. Bring your own gloves.",
+      "attachment": {
+        "name": "event-map-v1.pdf",
+        "contentRevision": "map-v1"
+      },
+      "linkedRecord": {
+        "id": "BRIEF-014",
+        "revision": 1
+      }
+    },
+    "current": {
+      "packageId": "EVT-014",
+      "version": 1,
+      "action": "Schedule announcement",
+      "destination": "Community Event Mailing List",
+      "scheduledDate": "18 October 2026",
+      "subject": "Community Garden Open Day",
+      "message": "Join our fictional Community Garden Open Day. Check the supporting brief before confirming event arrangements. Bring your own gloves.",
+      "attachment": {
+        "name": "event-map-v1.pdf",
+        "contentRevision": "map-v1"
+      },
+      "linkedRecord": {
+        "id": "BRIEF-014",
+        "revision": 1
+      }
+    },
+    "decision": "approve",
+    "expected": "match"
+  },
+  {
+    "id": "date-changed",
+    "approved": {
+      "packageId": "EVT-014",
+      "version": 1,
+      "action": "Schedule announcement",
+      "destination": "Community Event Mailing List",
+      "scheduledDate": "18 October 2026",
+      "subject": "Community Garden Open Day",
+      "message": "Join our fictional Community Garden Open Day. Check the supporting brief before confirming event arrangements. Bring your own gloves.",
+      "attachment": {
+        "name": "event-map-v1.pdf",
+        "contentRevision": "map-v1"
+      },
+      "linkedRecord": {
+        "id": "BRIEF-014",
+        "revision": 1
+      }
+    },
+    "current": {
+      "packageId": "EVT-014",
+      "version": 1,
+      "action": "Schedule announcement",
+      "destination": "Community Event Mailing List",
+      "scheduledDate": "19 October 2026",
+      "subject": "Community Garden Open Day",
+      "message": "Join our fictional Community Garden Open Day. Check the supporting brief before confirming event arrangements. Bring your own gloves.",
+      "attachment": {
+        "name": "event-map-v1.pdf",
+        "contentRevision": "map-v1"
+      },
+      "linkedRecord": {
+        "id": "BRIEF-014",
+        "revision": 1
+      }
+    },
+    "decision": "approve",
+    "expected": "changed"
+  },
+  {
+    "id": "destination-changed",
+    "approved": {
+      "packageId": "EVT-014",
+      "version": 1,
+      "action": "Schedule announcement",
+      "destination": "Community Event Mailing List",
+      "scheduledDate": "18 October 2026",
+      "subject": "Community Garden Open Day",
+      "message": "Join our fictional Community Garden Open Day. Check the supporting brief before confirming event arrangements. Bring your own gloves.",
+      "attachment": {
+        "name": "event-map-v1.pdf",
+        "contentRevision": "map-v1"
+      },
+      "linkedRecord": {
+        "id": "BRIEF-014",
+        "revision": 1
+      }
+    },
+    "current": {
+      "packageId": "EVT-014",
+      "version": 1,
+      "action": "Schedule announcement",
+      "destination": "Public social channel",
+      "scheduledDate": "18 October 2026",
+      "subject": "Community Garden Open Day",
+      "message": "Join our fictional Community Garden Open Day. Check the supporting brief before confirming event arrangements. Bring your own gloves.",
+      "attachment": {
+        "name": "event-map-v1.pdf",
+        "contentRevision": "map-v1"
+      },
+      "linkedRecord": {
+        "id": "BRIEF-014",
+        "revision": 1
+      }
+    },
+    "decision": "approve",
+    "expected": "changed"
+  },
+  {
+    "id": "unsupported-promise",
+    "approved": {
+      "packageId": "EVT-014",
+      "version": 1,
+      "action": "Schedule announcement",
+      "destination": "Community Event Mailing List",
+      "scheduledDate": "18 October 2026",
+      "subject": "Community Garden Open Day",
+      "message": "Join our fictional Community Garden Open Day. Check the supporting brief before confirming event arrangements. Bring your own gloves.",
+      "attachment": {
+        "name": "event-map-v1.pdf",
+        "contentRevision": "map-v1"
+      },
+      "linkedRecord": {
+        "id": "BRIEF-014",
+        "revision": 1
+      }
+    },
+    "current": {
+      "packageId": "EVT-014",
+      "version": 1,
+      "action": "Schedule announcement",
+      "destination": "Community Event Mailing List",
+      "scheduledDate": "18 October 2026",
+      "subject": "Community Garden Open Day",
+      "message": "Join our fictional Community Garden Open Day. Check the supporting brief before confirming event arrangements. Bring your own gloves. Tools are guaranteed for everyone.",
+      "attachment": {
+        "name": "event-map-v1.pdf",
+        "contentRevision": "map-v1"
+      },
+      "linkedRecord": {
+        "id": "BRIEF-014",
+        "revision": 1
+      }
+    },
+    "decision": "approve",
+    "expected": "changed"
+  },
+  {
+    "id": "attachment-changed",
+    "approved": {
+      "packageId": "EVT-014",
+      "version": 1,
+      "action": "Schedule announcement",
+      "destination": "Community Event Mailing List",
+      "scheduledDate": "18 October 2026",
+      "subject": "Community Garden Open Day",
+      "message": "Join our fictional Community Garden Open Day. Check the supporting brief before confirming event arrangements. Bring your own gloves.",
+      "attachment": {
+        "name": "event-map-v1.pdf",
+        "contentRevision": "map-v1"
+      },
+      "linkedRecord": {
+        "id": "BRIEF-014",
+        "revision": 1
+      }
+    },
+    "current": {
+      "packageId": "EVT-014",
+      "version": 1,
+      "action": "Schedule announcement",
+      "destination": "Community Event Mailing List",
+      "scheduledDate": "18 October 2026",
+      "subject": "Community Garden Open Day",
+      "message": "Join our fictional Community Garden Open Day. Check the supporting brief before confirming event arrangements. Bring your own gloves.",
+      "attachment": {
+        "name": "event-map-v1.pdf",
+        "contentRevision": "map-v2"
+      },
+      "linkedRecord": {
+        "id": "BRIEF-014",
+        "revision": 1
+      }
+    },
+    "decision": "approve",
+    "expected": "changed"
+  },
+  {
+    "id": "linked-record-changed",
+    "approved": {
+      "packageId": "EVT-014",
+      "version": 1,
+      "action": "Schedule announcement",
+      "destination": "Community Event Mailing List",
+      "scheduledDate": "18 October 2026",
+      "subject": "Community Garden Open Day",
+      "message": "Join our fictional Community Garden Open Day. Check the supporting brief before confirming event arrangements. Bring your own gloves.",
+      "attachment": {
+        "name": "event-map-v1.pdf",
+        "contentRevision": "map-v1"
+      },
+      "linkedRecord": {
+        "id": "BRIEF-014",
+        "revision": 1
+      }
+    },
+    "current": {
+      "packageId": "EVT-014",
+      "version": 1,
+      "action": "Schedule announcement",
+      "destination": "Community Event Mailing List",
+      "scheduledDate": "18 October 2026",
+      "subject": "Community Garden Open Day",
+      "message": "Join our fictional Community Garden Open Day. Check the supporting brief before confirming event arrangements. Bring your own gloves.",
+      "attachment": {
+        "name": "event-map-v1.pdf",
+        "contentRevision": "map-v1"
+      },
+      "linkedRecord": {
+        "id": "BRIEF-014",
+        "revision": 2
+      }
+    },
+    "decision": "approve",
+    "expected": "changed"
+  },
+  {
+    "id": "missing-attachment",
+    "approved": {
+      "packageId": "EVT-014",
+      "version": 1,
+      "action": "Schedule announcement",
+      "destination": "Community Event Mailing List",
+      "scheduledDate": "18 October 2026",
+      "subject": "Community Garden Open Day",
+      "message": "Join our fictional Community Garden Open Day. Check the supporting brief before confirming event arrangements. Bring your own gloves.",
+      "attachment": {
+        "name": "event-map-v1.pdf",
+        "contentRevision": "map-v1"
+      },
+      "linkedRecord": {
+        "id": "BRIEF-014",
+        "revision": 1
+      }
+    },
+    "current": {
+      "packageId": "EVT-014",
+      "version": 1,
+      "action": "Schedule announcement",
+      "destination": "Community Event Mailing List",
+      "scheduledDate": "18 October 2026",
+      "subject": "Community Garden Open Day",
+      "message": "Join our fictional Community Garden Open Day. Check the supporting brief before confirming event arrangements. Bring your own gloves.",
+      "attachment": null,
+      "linkedRecord": {
+        "id": "BRIEF-014",
+        "revision": 1
+      }
+    },
+    "decision": "approve",
+    "expected": "unknown"
+  },
+  {
+    "id": "blank-date",
+    "approved": {
+      "packageId": "EVT-014",
+      "version": 1,
+      "action": "Schedule announcement",
+      "destination": "Community Event Mailing List",
+      "scheduledDate": "18 October 2026",
+      "subject": "Community Garden Open Day",
+      "message": "Join our fictional Community Garden Open Day. Check the supporting brief before confirming event arrangements. Bring your own gloves.",
+      "attachment": {
+        "name": "event-map-v1.pdf",
+        "contentRevision": "map-v1"
+      },
+      "linkedRecord": {
+        "id": "BRIEF-014",
+        "revision": 1
+      }
+    },
+    "current": {
+      "packageId": "EVT-014",
+      "version": 1,
+      "action": "Schedule announcement",
+      "destination": "Community Event Mailing List",
+      "scheduledDate": "",
+      "subject": "Community Garden Open Day",
+      "message": "Join our fictional Community Garden Open Day. Check the supporting brief before confirming event arrangements. Bring your own gloves.",
+      "attachment": {
+        "name": "event-map-v1.pdf",
+        "contentRevision": "map-v1"
+      },
+      "linkedRecord": {
+        "id": "BRIEF-014",
+        "revision": 1
+      }
+    },
+    "decision": "approve",
+    "expected": "unknown"
+  },
+  {
+    "id": "rejected",
+    "approved": {
+      "packageId": "EVT-014",
+      "version": 1,
+      "action": "Schedule announcement",
+      "destination": "Community Event Mailing List",
+      "scheduledDate": "18 October 2026",
+      "subject": "Community Garden Open Day",
+      "message": "Join our fictional Community Garden Open Day. Check the supporting brief before confirming event arrangements. Bring your own gloves.",
+      "attachment": {
+        "name": "event-map-v1.pdf",
+        "contentRevision": "map-v1"
+      },
+      "linkedRecord": {
+        "id": "BRIEF-014",
+        "revision": 1
+      }
+    },
+    "current": {
+      "packageId": "EVT-014",
+      "version": 1,
+      "action": "Schedule announcement",
+      "destination": "Community Event Mailing List",
+      "scheduledDate": "18 October 2026",
+      "subject": "Community Garden Open Day",
+      "message": "Join our fictional Community Garden Open Day. Check the supporting brief before confirming event arrangements. Bring your own gloves.",
+      "attachment": {
+        "name": "event-map-v1.pdf",
+        "contentRevision": "map-v1"
+      },
+      "linkedRecord": {
+        "id": "BRIEF-014",
+        "revision": 1
+      }
+    },
+    "decision": "reject",
+    "expected": "rejected"
+  },
+  {
+    "id": "edit-resubmit",
+    "approved": {
+      "packageId": "EVT-014",
+      "version": 1,
+      "action": "Schedule announcement",
+      "destination": "Community Event Mailing List",
+      "scheduledDate": "18 October 2026",
+      "subject": "Community Garden Open Day",
+      "message": "Join our fictional Community Garden Open Day. Check the supporting brief before confirming event arrangements. Bring your own gloves.",
+      "attachment": {
+        "name": "event-map-v1.pdf",
+        "contentRevision": "map-v1"
+      },
+      "linkedRecord": {
+        "id": "BRIEF-014",
+        "revision": 1
+      }
+    },
+    "current": {
+      "packageId": "EVT-014",
+      "version": 1,
+      "action": "Schedule announcement",
+      "destination": "Community Event Mailing List",
+      "scheduledDate": "18 October 2026",
+      "subject": "Community Garden Open Day",
+      "message": "Join our fictional Community Garden Open Day. Check the supporting brief before confirming event arrangements. Bring your own gloves.",
+      "attachment": {
+        "name": "event-map-v1.pdf",
+        "contentRevision": "map-v1"
+      },
+      "linkedRecord": {
+        "id": "BRIEF-014",
+        "revision": 1
+      }
+    },
+    "decision": "edit",
+    "expected": "fresh-review"
+  },
+  {
+    "id": "version-only-change",
+    "approved": {
+      "packageId": "EVT-014",
+      "version": 1,
+      "action": "Schedule announcement",
+      "destination": "Community Event Mailing List",
+      "scheduledDate": "18 October 2026",
+      "subject": "Community Garden Open Day",
+      "message": "Join our fictional Community Garden Open Day. Check the supporting brief before confirming event arrangements. Bring your own gloves.",
+      "attachment": {
+        "name": "event-map-v1.pdf",
+        "contentRevision": "map-v1"
+      },
+      "linkedRecord": {
+        "id": "BRIEF-014",
+        "revision": 1
+      }
+    },
+    "current": {
+      "packageId": "EVT-014",
+      "version": 2,
+      "action": "Schedule announcement",
+      "destination": "Community Event Mailing List",
+      "scheduledDate": "18 October 2026",
+      "subject": "Community Garden Open Day",
+      "message": "Join our fictional Community Garden Open Day. Check the supporting brief before confirming event arrangements. Bring your own gloves.",
+      "attachment": {
+        "name": "event-map-v1.pdf",
+        "contentRevision": "map-v1"
+      },
+      "linkedRecord": {
+        "id": "BRIEF-014",
+        "revision": 1
+      }
+    },
+    "decision": "approve",
+    "expected": "changed"
+  },
+  {
+    "id": "v2-approved",
+    "approved": {
+      "packageId": "EVT-014",
+      "version": 2,
+      "action": "Schedule announcement",
+      "destination": "Community Event Mailing List",
+      "scheduledDate": "19 October 2026",
+      "subject": "Community Garden Open Day",
+      "message": "Join our fictional Community Garden Open Day. Check the supporting brief before confirming event arrangements. Bring your own gloves.",
+      "attachment": {
+        "name": "event-map-v1.pdf",
+        "contentRevision": "map-v1"
+      },
+      "linkedRecord": {
+        "id": "BRIEF-014",
+        "revision": 1
+      }
+    },
+    "current": {
+      "packageId": "EVT-014",
+      "version": 2,
+      "action": "Schedule announcement",
+      "destination": "Community Event Mailing List",
+      "scheduledDate": "19 October 2026",
+      "subject": "Community Garden Open Day",
+      "message": "Join our fictional Community Garden Open Day. Check the supporting brief before confirming event arrangements. Bring your own gloves.",
+      "attachment": {
+        "name": "event-map-v1.pdf",
+        "contentRevision": "map-v1"
+      },
+      "linkedRecord": {
+        "id": "BRIEF-014",
+        "revision": 1
+      }
+    },
+    "decision": "approve",
+    "expected": "match"
+  },
+  {
+    "id": "empty-attachment",
+    "approved": {
+      "packageId": "EVT-014",
+      "version": 1,
+      "action": "Schedule announcement",
+      "destination": "Community Event Mailing List",
+      "scheduledDate": "18 October 2026",
+      "subject": "Community Garden Open Day",
+      "message": "Join our fictional Community Garden Open Day. Check the supporting brief before confirming event arrangements. Bring your own gloves.",
+      "attachment": {
+        "name": "event-map-v1.pdf",
+        "contentRevision": "map-v1"
+      },
+      "linkedRecord": {
+        "id": "BRIEF-014",
+        "revision": 1
+      }
+    },
+    "current": {
+      "packageId": "EVT-014",
+      "version": 1,
+      "action": "Schedule announcement",
+      "destination": "Community Event Mailing List",
+      "scheduledDate": "18 October 2026",
+      "subject": "Community Garden Open Day",
+      "message": "Join our fictional Community Garden Open Day. Check the supporting brief before confirming event arrangements. Bring your own gloves.",
+      "attachment": {},
+      "linkedRecord": {
+        "id": "BRIEF-014",
+        "revision": 1
+      }
+    },
+    "decision": "approve",
+    "expected": "unknown"
+  },
+  {
+    "id": "empty-linked-record",
+    "approved": {
+      "packageId": "EVT-014",
+      "version": 1,
+      "action": "Schedule announcement",
+      "destination": "Community Event Mailing List",
+      "scheduledDate": "18 October 2026",
+      "subject": "Community Garden Open Day",
+      "message": "Join our fictional Community Garden Open Day. Check the supporting brief before confirming event arrangements. Bring your own gloves.",
+      "attachment": {
+        "name": "event-map-v1.pdf",
+        "contentRevision": "map-v1"
+      },
+      "linkedRecord": {
+        "id": "BRIEF-014",
+        "revision": 1
+      }
+    },
+    "current": {
+      "packageId": "EVT-014",
+      "version": 1,
+      "action": "Schedule announcement",
+      "destination": "Community Event Mailing List",
+      "scheduledDate": "18 October 2026",
+      "subject": "Community Garden Open Day",
+      "message": "Join our fictional Community Garden Open Day. Check the supporting brief before confirming event arrangements. Bring your own gloves.",
+      "attachment": {
+        "name": "event-map-v1.pdf",
+        "contentRevision": "map-v1"
+      },
+      "linkedRecord": {}
+    },
+    "decision": "approve",
+    "expected": "unknown"
+  },
+  {
+    "id": "whitespace-date",
+    "approved": {
+      "packageId": "EVT-014",
+      "version": 1,
+      "action": "Schedule announcement",
+      "destination": "Community Event Mailing List",
+      "scheduledDate": "18 October 2026",
+      "subject": "Community Garden Open Day",
+      "message": "Join our fictional Community Garden Open Day. Check the supporting brief before confirming event arrangements. Bring your own gloves.",
+      "attachment": {
+        "name": "event-map-v1.pdf",
+        "contentRevision": "map-v1"
+      },
+      "linkedRecord": {
+        "id": "BRIEF-014",
+        "revision": 1
+      }
+    },
+    "current": {
+      "packageId": "EVT-014",
+      "version": 1,
+      "action": "Schedule announcement",
+      "destination": "Community Event Mailing List",
+      "scheduledDate": "   ",
+      "subject": "Community Garden Open Day",
+      "message": "Join our fictional Community Garden Open Day. Check the supporting brief before confirming event arrangements. Bring your own gloves.",
+      "attachment": {
+        "name": "event-map-v1.pdf",
+        "contentRevision": "map-v1"
+      },
+      "linkedRecord": {
+        "id": "BRIEF-014",
+        "revision": 1
+      }
+    },
+    "decision": "approve",
+    "expected": "unknown"
+  },
+  {
+    "id": "wrong-version-type",
+    "approved": {
+      "packageId": "EVT-014",
+      "version": 1,
+      "action": "Schedule announcement",
+      "destination": "Community Event Mailing List",
+      "scheduledDate": "18 October 2026",
+      "subject": "Community Garden Open Day",
+      "message": "Join our fictional Community Garden Open Day. Check the supporting brief before confirming event arrangements. Bring your own gloves.",
+      "attachment": {
+        "name": "event-map-v1.pdf",
+        "contentRevision": "map-v1"
+      },
+      "linkedRecord": {
+        "id": "BRIEF-014",
+        "revision": 1
+      }
+    },
+    "current": {
+      "packageId": "EVT-014",
+      "version": "1",
+      "action": "Schedule announcement",
+      "destination": "Community Event Mailing List",
+      "scheduledDate": "18 October 2026",
+      "subject": "Community Garden Open Day",
+      "message": "Join our fictional Community Garden Open Day. Check the supporting brief before confirming event arrangements. Bring your own gloves.",
+      "attachment": {
+        "name": "event-map-v1.pdf",
+        "contentRevision": "map-v1"
+      },
+      "linkedRecord": {
+        "id": "BRIEF-014",
+        "revision": 1
+      }
+    },
+    "decision": "approve",
+    "expected": "unknown"
+  },
+  {
+    "id": "missing-attachment-revision",
+    "approved": {
+      "packageId": "EVT-014",
+      "version": 1,
+      "action": "Schedule announcement",
+      "destination": "Community Event Mailing List",
+      "scheduledDate": "18 October 2026",
+      "subject": "Community Garden Open Day",
+      "message": "Join our fictional Community Garden Open Day. Check the supporting brief before confirming event arrangements. Bring your own gloves.",
+      "attachment": {
+        "name": "event-map-v1.pdf",
+        "contentRevision": "map-v1"
+      },
+      "linkedRecord": {
+        "id": "BRIEF-014",
+        "revision": 1
+      }
+    },
+    "current": {
+      "packageId": "EVT-014",
+      "version": 1,
+      "action": "Schedule announcement",
+      "destination": "Community Event Mailing List",
+      "scheduledDate": "18 October 2026",
+      "subject": "Community Garden Open Day",
+      "message": "Join our fictional Community Garden Open Day. Check the supporting brief before confirming event arrangements. Bring your own gloves.",
+      "attachment": {
+        "name": "event-map-v1.pdf"
+      },
+      "linkedRecord": {
+        "id": "BRIEF-014",
+        "revision": 1
+      }
+    },
+    "decision": "approve",
+    "expected": "unknown"
+  }
+]

@@ -1,0 +1,8 @@
+EVT-014-v2
+Status: Needs Recheck
+Changed field: Scheduled date
+Original proposed date: 18 October 2026
+Current proposed date: 19 October 2026
+Old approval: Stale
+External action: Disabled
+Fresh review required.

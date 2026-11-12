@@ -1,0 +1,14 @@
+Stage,Time or duration,Basis,Status
+Entry,13:00,Chosen fictional target,ASSUMPTION
+Outward transport,75 min,Fixed fictional planner estimate,ESTIMATE
+Outward preparation,15 min,Arithmetic assumption only,ASSUMPTION
+Outward buffer,20 min,Arithmetic assumption only; not universal advice,ASSUMPTION
+Start preparation,11:10,13:00 minus 75 minus 15 minus 20 minutes,CONDITIONAL
+Visit,90 min,Arithmetic assumption only,ASSUMPTION
+Exit and rest,15 min,Arithmetic assumption only,ASSUMPTION
+Begin return,14:45,13:00 plus 90 plus 15 minutes,CONDITIONAL
+Return journey,80 min,Unverified arithmetic assumption; no return evidence,ASSUMPTION
+Return buffer,25 min,Arithmetic assumption only,ASSUMPTION
+Conditional home arrival,16:30,14:45 plus 80 plus 25 minutes,CONDITIONAL
+Home deadline,18:00,Saved practice brief,REQUIRED
+Recommendation,BLOCKED,Essential access and booking requirements unresolved,UNRESOLVED
