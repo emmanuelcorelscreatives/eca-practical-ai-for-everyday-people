@@ -1,0 +1,21 @@
+{
+  "lesson": 86,
+  "kind": "self-authored-course-practice",
+  "worked": {
+    "percent": 25,
+    "whole": 80,
+    "expected": 20
+  },
+  "boundaryExamples": [
+    {
+      "percent": 12.5,
+      "whole": 8,
+      "expected": 1
+    },
+    {
+      "percent": 150,
+      "whole": 100,
+      "expected": 150
+    }
+  ]
+}

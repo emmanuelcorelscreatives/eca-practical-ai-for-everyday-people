@@ -1,0 +1,6 @@
+Target concept: percentage. Learner level: beginner. Explain it using a familiar analogy.
+Give one analogy. Map each important part of the analogy to the real concept.
+State at least two places where the analogy stops matching the real concept.
+Show one fully worked example, including the reasoning and intermediate steps. Use: Find 25% of 80.
+Finish with a fresh practice question: Find 30% of 50. Keep its answer hidden until I have attempted it.
+Label your explanation as generated. Do not claim a source has been checked unless I actually provide it and inspect it.
