@@ -1,0 +1,9 @@
+# Check after your own comparison
+1. Capacity is a Specification: official-listing.html states 500 mL. Cooling is a Marketing claim: seller.html supplies no duration/test conditions. Leakage is a User report: R1–R3 describe sideways leakage, with no prevalence or universal finding.
+2. R9 concerns TrailSip 500 Sport. Its personal fit report cannot prove another model fits your bag. Market/dimensions remain unknown; do not fill from a similar item.
+3. The fictional manual supplies a lid, hand washing with mild soap, rinsing and drying. Dishwasher compatibility stays blank/Unknown. For a real product inspect its genuine exact-model/market instructions.
+4. Filtering excludes R8 (old) and R9 (wrong model). R1–R3 vary in wording but independent authorship, cause and frequency are unproven. R4 reports success upright on a short commute: neither never leaks nor always leaks follows.
+5. R6/R7 may be derivative; copying warns but does not prove coordination. R5 discloses Product provided free for evaluation. Retain its experience and relationship together; transaction labels also do not guarantee accuracy.
+6. comparison-completed.csv is one supported record. Missing values remain blank, Unknown belongs in confidence and gaps belong in questions. No product ranking is established.
+7. “The listing claims all-day cooling, but I found no test conditions. User reports about leakage are mixed.” Ask what duration/lid conditions support cooling, or how common leakage is under specified use.
+8. Open official listing/manual, seller offer and recent positive/critical reviews separately. Record support and limits. Date/refresh real prices, stock, ratings/review totals and listing details near a decision. Bag fit requires exact-model dimensions compared with your pocket or a permitted display-item check. No current real shopping data is supplied.

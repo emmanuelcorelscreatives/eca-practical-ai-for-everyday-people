@@ -1,0 +1,72 @@
+{
+  "version": 1,
+  "projectId": "cmv75vcte011d5c3c21t9xedw",
+  "scriptSha256": "eb284b2c18644907660e05e1329c0fd0573b4061c1f492a6f9c1361c7337cb8d",
+  "files": [
+    {
+      "name": "01-source-notes.txt",
+      "sha256": "0c2cd4ef48e27d318a38f8e089058b4928d92f8ecc0e31b302ab7c51f92ab986",
+      "bytes": 214
+    },
+    {
+      "name": "02-prompt.txt",
+      "sha256": "c1a5d63cc4504b2b4e7fa21cc48ac9b8b849bd19bfe51061c924e5c4eae41832",
+      "bytes": 187
+    },
+    {
+      "name": "03-draft-study-fixture.txt",
+      "sha256": "befe727c219cbf0d64aac77205d7a38faf2bad285314eeb57e48869dcbb20b4a",
+      "bytes": 236
+    },
+    {
+      "name": "04-corrections-log.md",
+      "sha256": "783281f5fbebf5b8c47561a2b767abe0c3d6e53456b49df5da878bd9ad0d4ed8",
+      "bytes": 693
+    },
+    {
+      "name": "05-final-action-list.txt",
+      "sha256": "cece8db8c635172fe57a1434a6c1cc904e1cb90be760b56fbf22cf1a7f990543",
+      "bytes": 226
+    },
+    {
+      "name": "06-illustrative-timing-record.csv",
+      "sha256": "859156f1447aec3d9171141808451c485ee0009f2d97d1c2b51b057ba11045f9",
+      "bytes": 428
+    },
+    {
+      "name": "07-failure-study-fixture.txt",
+      "sha256": "667b9262ccbab00be4839ff6dc3d80e64627184544bc50c617ecbf4c3b90fe26",
+      "bytes": 500
+    },
+    {
+      "name": "acceptance-checklist.csv",
+      "sha256": "a2816231aac2d316453f3c072e3d20aa8c38d9bc8e4fc8f8ed11cb7fd6954f22",
+      "bytes": 178
+    },
+    {
+      "name": "blank-artifact-and-corrections-log.csv",
+      "sha256": "99cbd9f59d904f9eea0fe4e3e6e047657cb9e0074785dad63e3aa2571c02f35b",
+      "bytes": 188
+    },
+    {
+      "name": "blank-stage-timings.csv",
+      "sha256": "74b16d2c52cdb992e570a5cc55db971d96c0ffbfb10b17e853d2d647acad9cd4",
+      "bytes": 290
+    },
+    {
+      "name": "expected-checks.md",
+      "sha256": "e1af62e8a7c483f85616cc6bfc81e7af23001cae55e57e50b51df4be5d7d77b0",
+      "bytes": 1611
+    },
+    {
+      "name": "provenance.md",
+      "sha256": "60e96f61641d4fa6e5c52090b2b429225d30d442734b2eee17d3ada6a77da082",
+      "bytes": 673
+    },
+    {
+      "name": "worksheet.md",
+      "sha256": "dc25b75dc7d988bde07fe9b4fe94553c1ef772ab3189931736adee3bdc9d81fa",
+      "bytes": 4049
+    }
+  ]
+}

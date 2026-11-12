@@ -1,0 +1,1 @@
+Turn the supplied practice notes into a concise action list. Preserve names, dates, quantities, and the rain backup. Do not invent missing owners or deadlines. Label missing information.

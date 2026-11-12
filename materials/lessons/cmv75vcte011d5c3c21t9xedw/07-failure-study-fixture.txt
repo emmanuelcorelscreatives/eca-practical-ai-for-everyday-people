@@ -1,0 +1,5 @@
+AUTHORED FAILURE CASE — DO NOT USE
+This is deliberately incomplete example text, not an actual model response.
+Collect seedlings on Friday, 15 May, and Sam will confirm the van by Tuesday; order 20 plant labels and use the covered hall if it rains.
+
+Study defects: the required action-list format is absent; the owner is still not explicitly marked unknown; label ordering and rain fallback are merged. Reopen the original notes and recover manually instead of repeatedly requesting another draft.

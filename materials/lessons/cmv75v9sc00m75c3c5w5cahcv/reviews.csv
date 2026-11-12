@@ -1,0 +1,10 @@
+Review ID,Exact model,Date,Synthetic stars out of 5,Review text,Context,Disclosure,Transaction label
+R1,TrailSip 500,2026-10-12,2,The lid leaked when the bottle lay sideways in my backpack.,Direct personal use reported,None stated,Verified purchase
+R2,TrailSip 500,2026-10-10,3,After my journey I found water around the lid where it rested on its side.,Direct personal use reported,None stated,
+R3,TrailSip 500,2026-10-08,2,I carried it horizontally and the pocket became damp near the cap.,Direct personal use reported,None stated,
+R4,TrailSip 500,2026-10-11,4,Worked during a short commute when I kept it upright.,Direct personal use reported,None stated,
+R5,TrailSip 500,2026-10-09,4,The lid was easy for me to clean after a short commute.,Direct personal use reported,Product provided free for evaluation,
+R6,TrailSip 500,2026-10-07,5,Premium performance and all-day cooling.,Advertising repeated; no conditions supplied,Relationship unclear,
+R7,TrailSip 500,2026-10-06,5,Premium performance and all-day cooling.,Identical wording to R6; independence not established,Relationship unclear,
+R8,TrailSip 500,2024-05-03,3,Earlier purchase; lid was difficult for me to clean.,Older personal report; design relevance unknown,None stated,
+R9,TrailSip 500 Sport,2026-10-13,4,Fits the pocket in my bag.,Different model; cannot establish fit for TrailSip 500,None stated,

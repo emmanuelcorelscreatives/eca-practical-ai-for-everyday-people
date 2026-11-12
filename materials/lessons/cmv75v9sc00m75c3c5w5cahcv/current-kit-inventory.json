@@ -1,0 +1,82 @@
+{
+  "version": 1,
+  "projectId": "cmv75v9sc00m75c3c5w5cahcv",
+  "scriptSha256": "742e90eabf38a75d70efd17302dfd9159c0428f47a249a251a7937612fcc9683",
+  "files": [
+    {
+      "name": "README.md",
+      "sha256": "f98d1715dd29b798985b490fd5954424854de52e3447d758ef989624f0af8701",
+      "bytes": 1911
+    },
+    {
+      "name": "answer-key.md",
+      "sha256": "4978fc77fa24c7c28a6f6c6ef1e4ed00f9c0eafca0868258e1a0d29a89fd3954",
+      "bytes": 1864
+    },
+    {
+      "name": "check_pack.py",
+      "sha256": "28db1d53b02c3e9e3d1c5f9511a59f6fdc5bd155c127715dc44f8f3949e84679",
+      "bytes": 1300
+    },
+    {
+      "name": "claim-rewrite.md",
+      "sha256": "610f5e7d98fb4f23670751eb7ae3eb5cc21d2ac03222e12eda15071e92dea796",
+      "bytes": 1292
+    },
+    {
+      "name": "comparison-blank.csv",
+      "sha256": "a87132927b0e2d21246fd0bfdbdf51e3d225a25a34daacd265e0844e8d5b0208",
+      "bytes": 145
+    },
+    {
+      "name": "comparison-completed.csv",
+      "sha256": "35c99466f8ebe3149184de8a5760d6f8794a54c3200e975bdbfab4e15edf0c8e",
+      "bytes": 991
+    },
+    {
+      "name": "exercise.md",
+      "sha256": "586cc0aacd424a84a1ea38683ab4b9efccaa07cc191dbd55b47ac5a4af5bec63",
+      "bytes": 1191
+    },
+    {
+      "name": "purchase-brief.md",
+      "sha256": "5e80c6d1f5a8868894f6d92dddf8e865dfadaae3332d9413408dffab21e321a4",
+      "bytes": 630
+    },
+    {
+      "name": "research-prompt.txt",
+      "sha256": "577d1ecb18e64d21eb7d5e6de389b9be0b723dca580c3343f2659d8ebba5d169",
+      "bytes": 630
+    },
+    {
+      "name": "reviews.csv",
+      "sha256": "0d90c7b4df0f08d2adb337526357e3b1d2f42ea1507a0d94c7d880f581830300",
+      "bytes": 1376
+    },
+    {
+      "name": "source-role-map.csv",
+      "sha256": "f4546935dd4112ff33a8c8144f26af8ba32332cb7280282b83d9e8c70e96bdf3",
+      "bytes": 658
+    },
+    {
+      "name": "sources/manual.html",
+      "sha256": "a9eb918ba0337bb31f25bfb86659f0b8e900b5e5daa2f1905fa2bf2a713c0097",
+      "bytes": 1401
+    },
+    {
+      "name": "sources/official-listing.html",
+      "sha256": "da00e3531674eda6c7b1ac94ae2b3dcf425b80d8aeadd8fe86381addac8f614a",
+      "bytes": 1808
+    },
+    {
+      "name": "sources/reviews.html",
+      "sha256": "f1dc44e1822e259ed5b6e8e405b22c4894bf5e1fccd9ee714982c2ccc1c1b01e",
+      "bytes": 4771
+    },
+    {
+      "name": "sources/seller.html",
+      "sha256": "bc7f7510a566c34b0f2040ec93a17d1d427c2171232ac3355b0d573e652af4aa",
+      "bytes": 1471
+    }
+  ]
+}

@@ -1,0 +1,3 @@
+# Provenance and scope
+
+Self-authored permission-cleared practice materials matching Lesson 226, Measure the Whole Task. Community-garden names, task notes, example draft and failure paragraph are fictional teaching fixtures. Exact lesson timing values are retained as illustrative worked examples. No model was queried, no real benchmark was performed, and no external action was completed in preparing these plain-text/CSV resources. Blank observation templates intentionally contain no learner measurements. No software screenshots or fabricated vendor interfaces are part of this kit. Lecture content, project identity, instructor identity and schedules are unchanged.
