@@ -1,0 +1,67 @@
+{
+  "version": 1,
+  "projectId": "cmv75va7a00od5c3cfcjcvfj8",
+  "scriptSha256": "f914612ba25895ed4c328c9189c07899a22dc70bf9300e32e44a513b1b62884e",
+  "files": [
+    {
+      "name": "Academy_Event_Summary.ods",
+      "sha256": "fdc877b2704697d35441564153d4c05fb449b14dd0db2757f4e6d88648487531",
+      "bytes": 24807
+    },
+    {
+      "name": "README.md",
+      "sha256": "52c16f881340a048706de708840bf993bb8a91d26d5e5a597debfcbf2478b605",
+      "bytes": 3401
+    },
+    {
+      "name": "analysis-copy.csv",
+      "sha256": "c7277fa961ad9a4ee3ef0181bb2f5545a760d0342322560cc91c154f005d3c9a",
+      "bytes": 407
+    },
+    {
+      "name": "assistant-prompt.txt",
+      "sha256": "2a39d7c9f20766a10d386429c0609b3a90b2e43443fa5fe4fa4e84c593854c07",
+      "bytes": 319
+    },
+    {
+      "name": "assistant-response.json",
+      "sha256": "a6f3fd061e2a736a6854481ea20df7a7a562bf22225e56b6183ea10de491cec1",
+      "bytes": 3713
+    },
+    {
+      "name": "data-owner-decision.md",
+      "sha256": "f7d94f703e5cd1f3e48d1800aa186b9c3a8f013777063428a65f454857aea366",
+      "bytes": 1095
+    },
+    {
+      "name": "events-original.csv",
+      "sha256": "edf1820a7e90499c281770bb024b397ee997d1e8e838825e5b35fde53eb4f325",
+      "bytes": 473
+    },
+    {
+      "name": "exercises.md",
+      "sha256": "a9b0ef806d89d395d6688590578b3579def8b55ab432b27175455d875ce6f28f",
+      "bytes": 1638
+    },
+    {
+      "name": "formula-reference.md",
+      "sha256": "4498f96a85085705d6597055912e3149868aa8d2cd2513d41caa9dfd9837cc7b",
+      "bytes": 2250
+    },
+    {
+      "name": "native-observations.json",
+      "sha256": "b4654a3802fe2e9f0e42ea78d977d7e43b28d68b2022bb58e0f0a342249541d2",
+      "bytes": 6808
+    },
+    {
+      "name": "reconciliation-expected.csv",
+      "sha256": "7ba1832fa0227f72c9a10aaefe2702b554a306d1253f19f9213f6b195ad5f9fc",
+      "bytes": 551
+    },
+    {
+      "name": "verify_fixture.py",
+      "sha256": "1b396cf5762895002d5a5a4008ba8488c2cb26dbe4c490f1df00ac42b774b007",
+      "bytes": 2570
+    }
+  ]
+}

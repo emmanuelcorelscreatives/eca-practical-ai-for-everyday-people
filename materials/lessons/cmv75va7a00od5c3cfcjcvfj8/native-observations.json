@@ -1,0 +1,326 @@
+{
+  "application": "LibreOffice Calc",
+  "version": "LibreOffice 24.2.7.2 420(Build:2)",
+  "actualPlatform": "Ubuntu Linux",
+  "workbook": "Academy_Event_Summary.ods",
+  "workbookSha256": "fdc877b2704697d35441564153d4c05fb449b14dd0db2757f4e6d88648487531",
+  "inputCSV": "events-original.csv",
+  "inputSha256": "edf1820a7e90499c281770bb024b397ee997d1e8e838825e5b35fde53eb4f325",
+  "observedAt": "2026-11-12T11:06:52.701346+00:00",
+  "scope": "Actual native execution of this fictional fixture and five exact formulas from recorded assistant response. Blank Amounts truly EMPTY, dates genuine. No proof for other datasets.",
+  "checks": [
+    {
+      "sheet": "Original",
+      "cell": "E11",
+      "formula": "=SUM(E2:E9)",
+      "actualValue": 118.0,
+      "expected": 118,
+      "error": 0
+    },
+    {
+      "sheet": "Original",
+      "cell": "H2",
+      "formula": "=SUMIF($C$2:$C$9;G2;$E$2:$E$9)",
+      "actualValue": 42.0,
+      "expected": 42,
+      "error": 0
+    },
+    {
+      "sheet": "Original",
+      "cell": "I2",
+      "formula": "=COUNTIF($C$2:$C$9;G2)",
+      "actualValue": 2.0,
+      "expected": 2,
+      "error": 0
+    },
+    {
+      "sheet": "Original",
+      "cell": "H3",
+      "formula": "=SUMIF($C$2:$C$9;G3;$E$2:$E$9)",
+      "actualValue": 43.0,
+      "expected": 43,
+      "error": 0
+    },
+    {
+      "sheet": "Original",
+      "cell": "I3",
+      "formula": "=COUNTIF($C$2:$C$9;G3)",
+      "actualValue": 3.0,
+      "expected": 3,
+      "error": 0
+    },
+    {
+      "sheet": "Original",
+      "cell": "H4",
+      "formula": "=SUMIF($C$2:$C$9;G4;$E$2:$E$9)",
+      "actualValue": 18.0,
+      "expected": 18,
+      "error": 0
+    },
+    {
+      "sheet": "Original",
+      "cell": "I4",
+      "formula": "=COUNTIF($C$2:$C$9;G4)",
+      "actualValue": 1.0,
+      "expected": 1,
+      "error": 0
+    },
+    {
+      "sheet": "Original",
+      "cell": "H5",
+      "formula": "=SUMIF($C$2:$C$9;\"\";$E$2:$E$9)",
+      "actualValue": 15.0,
+      "expected": 15,
+      "error": 0
+    },
+    {
+      "sheet": "Original",
+      "cell": "I5",
+      "formula": "=COUNTIF($C$2:$C$9;\"\")",
+      "actualValue": 2.0,
+      "expected": 2,
+      "error": 0
+    },
+    {
+      "sheet": "Original",
+      "cell": "H6",
+      "formula": "=SUM(H2:H5)",
+      "actualValue": 118.0,
+      "expected": 118,
+      "error": 0
+    },
+    {
+      "sheet": "Original",
+      "cell": "I6",
+      "formula": "=SUM(I2:I5)",
+      "actualValue": 8.0,
+      "expected": 8,
+      "error": 0
+    },
+    {
+      "sheet": "Analysis Copy",
+      "cell": "E11",
+      "formula": "=SUM(E2:E8)",
+      "actualValue": 100.0,
+      "expected": 100,
+      "error": 0
+    },
+    {
+      "sheet": "Monthly Summary",
+      "cell": "I2",
+      "formula": "=SUMIFS($E$2:$E$9;$C$2:$C$9;G2;$B$2:$B$9;\">=\"&H2;$B$2:$B$9;\"<\"&COM.SUN.STAR.SHEET.ADDIN.ANALYSIS.GETEDATE(H2;1))",
+      "actualValue": 42.0,
+      "expected": 42,
+      "error": 0
+    },
+    {
+      "sheet": "Monthly Summary",
+      "cell": "I7",
+      "formula": "=SUMIFS($E$2:$E$9;$C$2:$C$9;G2;$B$2:$B$9;H2)",
+      "actualValue": 30.0,
+      "expected": 30,
+      "error": 0
+    },
+    {
+      "sheet": "Checks",
+      "cell": "C2",
+      "formula": "=IF(SUM(Original.E2;Original.E3;Original.E4;Original.E5;Original.E8)=100;\"\u2713\";\"Mismatch\")",
+      "actualValue": "\u2713",
+      "expected": "\u2713",
+      "error": 0
+    },
+    {
+      "sheet": "Checks",
+      "cell": "C3",
+      "formula": "=IF(SUM(Original.E2;Original.E3)=42;\"\u2713\";\"Mismatch\")",
+      "actualValue": "\u2713",
+      "expected": "\u2713",
+      "error": 0
+    },
+    {
+      "sheet": "Checks",
+      "cell": "C4",
+      "formula": "=IF(SUM(Original.E4;Original.E5)=43;\"\u2713\";\"Mismatch\")",
+      "actualValue": "\u2713",
+      "expected": "\u2713",
+      "error": 0
+    },
+    {
+      "sheet": "Checks",
+      "cell": "C5",
+      "formula": "=IF(SUM(Original.E8)=15;\"\u2713\";\"Mismatch\")",
+      "actualValue": "\u2713",
+      "expected": "\u2713",
+      "error": 0
+    },
+    {
+      "sheet": "Pivot Summary",
+      "actualDataPilotOutput": [
+        [
+          "Original data \u2014 duplicate retained",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          "Filter",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          "Group",
+          "Sum - Amount",
+          "",
+          "",
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          "Group A",
+          42.0,
+          "",
+          "",
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          "Group B",
+          43.0,
+          "",
+          "",
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          "Group C",
+          18.0,
+          "",
+          "",
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          "(empty)",
+          15.0,
+          "",
+          "",
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          "Total Result",
+          118.0,
+          "",
+          "",
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          ""
+        ]
+      ],
+      "source": "Original.A1:E9",
+      "actualDataPilotTables": [
+        "EnteredAmountByGroup"
+      ]
+    },
+    {
+      "sheet": "Original",
+      "cell": "K2",
+      "formula": "=SUM($E$2:$E$9)",
+      "actualValue": 118.0,
+      "expected": 118,
+      "error": 0
+    },
+    {
+      "sheet": "Original",
+      "cell": "K3",
+      "formula": "=SUMIF($C$2:$C$9;\"Group A\";$E$2:$E$9)",
+      "actualValue": 42.0,
+      "expected": 42,
+      "error": 0
+    },
+    {
+      "sheet": "Original",
+      "cell": "K4",
+      "formula": "=SUMIF($C$2:$C$9;\"Group B\";$E$2:$E$9)",
+      "actualValue": 43.0,
+      "expected": 43,
+      "error": 0
+    },
+    {
+      "sheet": "Original",
+      "cell": "K5",
+      "formula": "=SUMIF($C$2:$C$9;\"Group C\";$E$2:$E$9)",
+      "actualValue": 18.0,
+      "expected": 18,
+      "error": 0
+    },
+    {
+      "sheet": "Original",
+      "cell": "K6",
+      "formula": "=SUMIF($C$2:$C$9;\"\";$E$2:$E$9)",
+      "actualValue": 15.0,
+      "expected": 15,
+      "error": 0
+    }
+  ]
+}

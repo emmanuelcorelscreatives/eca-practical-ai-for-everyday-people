@@ -1,0 +1,53 @@
+{
+  "provenance": "Actual recorded model response, not a fabricated vendor screenshot or prewritten answer. Formula drafts still require independent checking.",
+  "route": "combo/planning",
+  "requestMessages": [
+    {
+      "role": "system",
+      "content": "You are an assistant proposing inspectable formula drafts for LibreOffice Calc. Return JSON containing formulas and assumptions. No execution or data-owner decisions. Do not infer missing values or remove duplicate IDs."
+    },
+    {
+      "role": "user",
+      "content": "Suggest formulas for total Amount and totals by Group. Do not decide what blanks or repeated IDs mean. State assumptions.\nColumns A:E are ID, Date, Group, Item, Amount. Header row1; original data rows2:9. Group/Amount can be missing. Treat formula suggestions as drafts to inspect, not calculations or owner decisions.\n\nFictional Academy input only:\nID,Date,Group,Item,Amount\r\nEVT-101,2026-10-01,Group A,Community session,30\r\nEVT-102,2026-10-03,Group A,Neighbourhood workshop,12\r\nEVT-104,2026-10-05,Group B,Event supplies allocation,25\r\nEVT-105,2026-10-06,Group B,Venue preparation,18\r\nEVT-106,2026-10-07,Group B,Amount pending clarification,\r\nEVT-104,2026-10-08,Group C,Accidental re-entry pending review,18\r\nEVT-107,2026-10-09,,Group pending clarification,15\r\nEVT-108,2026-10-10,,Group and amount pending clarification,\r\n"
+    }
+  ],
+  "response": {
+    "status": "Draft formulas for inspection only; not evaluated or approved as final totals.",
+    "source_range": "A1:E9",
+    "placement": "Place formulas outside A1:E9 on the source sheet to avoid overwriting input or creating circular references.",
+    "formulas": {
+      "total_amount": {
+        "formula": "=SUM($E$2:$E$9)",
+        "description": "Sums recorded numeric Amount values across all original rows, including rows with blank Group cells and repeated IDs."
+      },
+      "totals_by_group": [
+        {
+          "group": "Group A",
+          "formula": "=SUMIF($C$2:$C$9;\"Group A\";$E$2:$E$9)"
+        },
+        {
+          "group": "Group B",
+          "formula": "=SUMIF($C$2:$C$9;\"Group B\";$E$2:$E$9)"
+        },
+        {
+          "group": "Group C",
+          "formula": "=SUMIF($C$2:$C$9;\"Group C\";$E$2:$E$9)"
+        }
+      ],
+      "optional_review_formula": {
+        "label": "Recorded numeric Amount where Group is blank",
+        "formula": "=SUMIF($C$2:$C$9;\"\";$E$2:$E$9)",
+        "description": "Diagnostic subtotal only. It does not assign a Group or decide what missing Group values mean."
+      }
+    },
+    "assumptions": [
+      "Headers remain in row 1, and the original data remains in rows 2 through 9. These fixed ranges do not automatically include later rows.",
+      "The formulas use English LibreOffice Calc function names and semicolon argument separators, with whole-cell matching for Group criteria.",
+      "Nonblank Amount entries are stored as numeric cells rather than text; inspect imported cell types before relying on the formulas.",
+      "SUM and SUMIF omit blank Amount cells. This is formula behavior, not an assumption that missing Amount values are zero. The drafts therefore summarize recorded numeric amounts rather than establish complete totals.",
+      "Group A, Group B, and Group C are the supplied nonblank labels. No missing Group value is inferred or assigned.",
+      "No ID uniqueness assumption is made. All source rows remain in the referenced ranges, including both EVT-104 rows. This mechanical inclusion is not a decision about whether either repeated-ID row belongs in an approved total.",
+      "No source data is changed, no repeated-ID rows are removed, and no calculated results are supplied."
+    ]
+  }
+}

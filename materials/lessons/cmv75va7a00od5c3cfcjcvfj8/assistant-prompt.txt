@@ -1,0 +1,2 @@
+Suggest formulas for total Amount and totals by Group. Do not decide what blanks or repeated IDs mean. State assumptions.
+Columns A:E are ID, Date, Group, Item, Amount. Header row1; original data rows2:9. Group/Amount can be missing. Treat formula suggestions as drafts to inspect, not calculations or owner decisions.
