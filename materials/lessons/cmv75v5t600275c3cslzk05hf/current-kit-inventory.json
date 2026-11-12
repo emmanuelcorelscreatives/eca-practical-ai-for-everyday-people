@@ -1,0 +1,52 @@
+{
+  "version": 1,
+  "projectId": "cmv75v5t600275c3cslzk05hf",
+  "scriptSha256": "bddaa9426e2525d1840fc4b54e505670d89a09910916e061d26b9736bd0a1919",
+  "files": [
+    {
+      "name": "LICENSE.txt",
+      "sha256": "915aee27e09e6a05c1b711193ef52d2c248c25cd1f77630496f7a7c7b3c23663",
+      "bytes": 361
+    },
+    {
+      "name": "README.md",
+      "sha256": "7557698710e8c19176fe36115a5c32411832b1b6bdcbf4fedf3773541d59c8a9",
+      "bytes": 980
+    },
+    {
+      "name": "expected-checks.md",
+      "sha256": "b2546ee818f3cecef30442269047ab56fb4dde02c67f44303f22c121e83a66eb",
+      "bytes": 1730
+    },
+    {
+      "name": "fictional-prompt.txt",
+      "sha256": "fe7b99d10f102e05b1ff2f17b677b49511810423822df195a066e7cdd34f97cd",
+      "bytes": 296
+    },
+    {
+      "name": "learner-guide.md",
+      "sha256": "f1c7ff0034a288746da417d48d9309769e5b504460c540cbd0d9f5642769513e",
+      "bytes": 3658
+    },
+    {
+      "name": "link-test-log.csv",
+      "sha256": "92cf72f9c6a15eab7c2f974956b477a31642b981ad653bc61cf71f8e5a874b14",
+      "bytes": 195
+    },
+    {
+      "name": "offline-fallback.txt",
+      "sha256": "53cc16abadbfc015ee0a530ec484777730d1379a3571ed869f0207fd10aa0681",
+      "bytes": 433
+    },
+    {
+      "name": "privacy-audit.csv",
+      "sha256": "897c61bbbdbb4bc304b84356a3abefb9692a76a9e8ea9d2d19ab679b25b90b14",
+      "bytes": 271
+    },
+    {
+      "name": "sources.md",
+      "sha256": "2784f369b4741b0629a8971be29051eeb5b61d7b5e9a591ad23d42915839379f",
+      "bytes": 971
+    }
+  ]
+}
