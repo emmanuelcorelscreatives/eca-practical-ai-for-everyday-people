@@ -1,0 +1,19 @@
+{
+  "scope": "ACTUAL_LOCAL_MANUAL_TEMPLATE_MAPPING_ONLY_NOT_CLOUD_ACTION",
+  "argv": [
+    "/usr/bin/python3",
+    "/var/lib/trejj-studio/maintenance/practical-ai-pocket-production-20261112/lesson-cmv75vbvp00wp5c3cwly7b0eb/kit/make_draft.py",
+    "/var/lib/trejj-studio/maintenance/practical-ai-pocket-production-20261112/lesson-cmv75vbvp00wp5c3cwly7b0eb/kit/input-response.json",
+    "/var/lib/trejj-studio/maintenance/practical-ai-pocket-production-20261112/lesson-cmv75vbvp00wp5c3cwly7b0eb/executed-local-reference-v1/Workshop Drafts \u2014 Review/REVIEW \u2014 Workshop enquiry \u2014 Maya Chen.md"
+  ],
+  "exitCode": 0,
+  "stdout": "Local manual simulation saved; no message sent: /var/lib/trejj-studio/maintenance/practical-ai-pocket-production-20261112/lesson-cmv75vbvp00wp5c3cwly7b0eb/executed-local-reference-v1/Workshop Drafts \u2014 Review/REVIEW \u2014 Workshop enquiry \u2014 Maya Chen.md\n",
+  "stderr": "",
+  "outputSha256": "5c9a77b61f219e8bb0ac0373bbf712b6908ab2ec94684cef478b651e06b2bd92",
+  "workedManualDraftMatchesExactly": true,
+  "secondIdenticalInvocation": {
+    "exitCode": 1,
+    "refusedExistingOutput": true
+  },
+  "noNetworkOrMessageSendingCode": true
+}
