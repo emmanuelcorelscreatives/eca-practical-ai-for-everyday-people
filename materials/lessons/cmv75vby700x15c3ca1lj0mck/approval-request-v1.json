@@ -11,7 +11,7 @@
   "contentLabel": "Generated draft",
   "headline": "Community Garden Open Day",
   "body": "Community Garden Open Day — Saturday, 24 October 2026, 10:00–13:00. Seed exchange, garden tour, and compost demonstration. Entry is free. Location: Riverside Community Garden.",
-  "attachment": "garden-open-day-banner-v1.svg",
+  "attachment": "garden-open-day-banner-v1.png",
   "supportingRecords": [
     "event-brief.json",
     "venue-confirmation.md",
@@ -30,5 +30,6 @@
   "decision": null,
   "decisionTime": null,
   "externalAction": "Disabled",
-  "destinationConfigurationRecord": "test-destination-action-config.json"
+  "destinationConfigurationRecord": "test-destination-action-config.json",
+  "createdAt": "2026-11-12T09:55:08.673563+00:00"
 }

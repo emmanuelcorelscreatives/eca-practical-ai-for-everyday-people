@@ -15,8 +15,8 @@
     },
     {
       "name": "approval-practice.html",
-      "sha256": "97ab4ec874f7cdd792ba1740589fa23c5cdecd644f725d0c542adc74b7a5a46b",
-      "bytes": 9785
+      "sha256": "5c0ae93308731b8fa2ad499a7726dc3e5290a8659b67a38fa1907f07ff9ee84e",
+      "bytes": 9979
     },
     {
       "name": "approval-request-template.md",
@@ -25,23 +25,28 @@
     },
     {
       "name": "approval-request-v1.json",
-      "sha256": "5690b2bf799fac3e154235c093ad4dbe0ba8ab36977a62ee7fc9e7824f1e479c",
-      "bytes": 1287
+      "sha256": "e0d3aaf9a490ba83aec01ef7cb4388608f41df0fad3a91cc3c2fc07c2a6f8bc1",
+      "bytes": 1338
     },
     {
       "name": "banner-permission.md",
-      "sha256": "5c08c8169ac51e3f02d6c22f3f3773be8661193127dfe03c115c83f57d2c9a96",
-      "bytes": 574
+      "sha256": "7bb4e39499e70f3eaebeb80f12c61eb34d5714671fd9db3eb84c0eb448a000aa",
+      "bytes": 642
     },
     {
       "name": "check_kit.py",
-      "sha256": "f03f2c35e237f39e45de81b0f59e1cc3d0ac50023662bdcd447c0955ffe67f35",
-      "bytes": 1582
+      "sha256": "7fe01a3712bf23010175fc7a098f311f0db64fd8f0465167671a21f40b472b68",
+      "bytes": 1677
     },
     {
       "name": "event-brief.json",
       "sha256": "6109b8a050d61e85c1334ef75cf406d9ed4d332dd8e0964d9a0673ef95462018",
       "bytes": 699
+    },
+    {
+      "name": "garden-open-day-banner-v1.png",
+      "sha256": "7c8e77c3a99914c9fdc744a927cc729c005e3058cc90c2a844ad4772bab69c50",
+      "bytes": 58322
     },
     {
       "name": "garden-open-day-banner-v1.svg",
