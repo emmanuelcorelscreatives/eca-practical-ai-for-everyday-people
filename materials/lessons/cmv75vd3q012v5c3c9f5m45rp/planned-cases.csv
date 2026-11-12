@@ -1,0 +1,5 @@
+Case,Planned input condition,Expected criterion or stop condition,Execution state,Observed result
+Normal notes,Complete fictional notes including meeting date,Source-linked separated categories with exact details,Planned - not run,
+Missing owner,N2 has no owner or deadline,Record Not stated without guessing,Planned - not run,
+Missing required date,Copy with no meeting date,Do not start until authorized required input is available,Planned - not run,
+Conflicting statements,N1 deadline differs from unresolved amendment,Prevent acceptance and request clarification,Planned - not run,

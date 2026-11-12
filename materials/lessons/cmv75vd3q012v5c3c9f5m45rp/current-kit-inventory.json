@@ -1,0 +1,47 @@
+{
+  "version": 1,
+  "projectId": "cmv75vd3q012v5c3c9f5m45rp",
+  "scriptSha256": "df1063865e27f821227b09f836306b1130ae53aebbd9f07751b2cd5595c504e5",
+  "files": [
+    {
+      "name": "acceptance-checklist.csv",
+      "bytes": 753,
+      "sha256": "eec907c349509efd551c8ac6d65c043344225be9ceec3f76e117a76b83dac906"
+    },
+    {
+      "name": "action-list-template.csv",
+      "bytes": 81,
+      "sha256": "ba1304573637bc9edca6badaf8ab59fb74059b21fa9678e1e02a8b948d07db04"
+    },
+    {
+      "name": "blank-brief.md",
+      "bytes": 1277,
+      "sha256": "4685df36ebc080a7cb53a3047b278e9d8f08556d6c4a5e1c2e220aa595dfe2df"
+    },
+    {
+      "name": "fictional-notes.md",
+      "bytes": 1608,
+      "sha256": "498bd01164430d8d181968f8db9096da851692b2ce126f9d0020b9037dd995dc"
+    },
+    {
+      "name": "guide.md",
+      "bytes": 3236,
+      "sha256": "00b51d200bb0868ae7151f1b1f6cebe2f0c670904116a1ae320d5e16959b3717"
+    },
+    {
+      "name": "planned-cases.csv",
+      "bytes": 586,
+      "sha256": "525d931e37051d418309fa3d086211e0dd305b6d3284611c7179c6dae3ba1c70"
+    },
+    {
+      "name": "self-check.md",
+      "bytes": 2128,
+      "sha256": "174e92599ea17ec4604b78f570af584cac65c9a1a84bbebe476966eaf4b1011d"
+    },
+    {
+      "name": "worked-brief.md",
+      "bytes": 2749,
+      "sha256": "fcf74499ed743c42cbb0b51bd85b570daca67edd4522a746672a312edad643a7"
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+# Lesson 235 — Choose the Everyday Problem and Success Criteria
+
+Use this kit to define a bounded capstone, before building a prompt or running any tests. No account, payment, AI tool or installation is needed: open the Markdown documents in a text editor or copy their contents into an ordinary document editor. CSV files can be read as text or opened in a spreadsheet. These are self-authored fictional practice materials, freely reusable for study; no real committee, private records or completed external actions are represented.
+
+1. Read worked-brief.md and the fictional-notes.md source. Identify the beneficiary, problem and useful artifact. The worked brief is a planning example, not evidence that the workflow has run or passed.
+2. Open blank-brief.md and save your own copy. Choose one real everyday difficulty for which you have permission to use suitable inputs, or keep the fictional garden example. Replace each bracketed field. Do not put private information into an AI tool without appropriate permission.
+3. Specify the trigger and required inputs. A missing required note file or meeting date means do not start; an unstated owner or deadline should remain visible as Not stated. Keep these different kinds of missing information separate.
+4. Write observable criteria using acceptance-checklist.csv. Every listed action needs source support; preserve exact details and categories; require usability and named review. Do not pre-check the checklist: its checks are planned.
+5. Choose your own numeric time budget, total cost limit and currency, authorized uses, and complexity ceiling. Include preparation, review, correction, transfer and maintenance. There is no universal affordable budget. The blank fields intentionally await your decision.
+6. Name the reviewer and manual fallback. Practice copying one confirmed action into action-list-template.csv without AI, recording its source. This optional hand-copy exercise is not a capstone workflow test and creates no approval. Keep the review decision blank until a real check.
+7. Read planned-cases.csv. Today describe how each case challenges your criteria; do not enter fabricated results or claim that cases passed. Missing required inputs block starting; conflicting notes block acceptance and require clarification. Test execution belongs to later capstone work.
+8. Compare your completed brief with self-check.md. Narrow a broad proposal such as manage all committee work to one reviewed artifact. Save the agreed brief for Lesson 236, Build the Prompt and Input Pack. This kit deliberately contains no reusable AI prompt or integrations.
+
+Manual route: use the note file, blank action-list template and checklist in an ordinary editor. Copy only source-supported confirmed actions, mark missing details, keep proposals/questions separate, then review line by line. Stop for conflicts. Do not send, publish, delete or edit shared records.
+
+Accessibility: inspect clear headings, descriptive category labels, contrast and readable text on the coordinator's intended laptop and phone. Use a plain-text alternative when columns are awkward. A good-looking draft is not evidence of accessibility. Ask the intended beneficiary to check readability before use.
