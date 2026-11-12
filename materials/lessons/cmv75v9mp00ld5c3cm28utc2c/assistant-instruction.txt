@@ -1,0 +1,2 @@
+Suggest an issue date, one approved category, and a short description. Use only visible evidence. Mark unclear or missing values as CHECK. Do not rename, move, delete, or modify files. Return a table.
+Approved categories: Notice, Receipt, Booking, Other. Use the issue date.

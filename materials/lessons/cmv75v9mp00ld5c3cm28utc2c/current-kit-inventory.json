@@ -1,0 +1,67 @@
+{
+  "version": 1,
+  "projectId": "cmv75v9mp00ld5c3cm28utc2c",
+  "scriptSha256": "8d12eec0e71b55982f0c0c6236842df2981cff5fc40cc9e56ac37990394a9b42",
+  "files": [
+    {
+      "name": "approved-small-batch.csv",
+      "sha256": "f7997b6d1d5005bedb485b7a2ba7c23bc481cb4ebd8e3a2ee0120713eacde437",
+      "bytes": 787
+    },
+    {
+      "name": "assistant-instruction.txt",
+      "sha256": "be6064a78fe945e907fdda8685fc5a188e64d4f3077494f5da293fcd5cdeceb4",
+      "bytes": 275
+    },
+    {
+      "name": "collision-example.csv",
+      "sha256": "1c87035e84525cd0d262dc3e3634ad2a651827450a4e16b9c0824ab626fd6963",
+      "bytes": 194
+    },
+    {
+      "name": "completed-small-batch.csv",
+      "sha256": "38b0822a26736d58778e98707e884e8d5a291444617f21fce7a2bc7d75ec7896",
+      "bytes": 819
+    },
+    {
+      "name": "ocr-deliberate-error.txt",
+      "sha256": "f142fd5ca2668dd8f30a3a15a4776e4c4b35a92730b18be6ab6845dde0ec1d7b",
+      "bytes": 199
+    },
+    {
+      "name": "Originals/document(7).pdf",
+      "sha256": "d5609c967899dafacfc6f0d9444a515903ce61c20cbda5796f5a51e673018c7f",
+      "bytes": 803
+    },
+    {
+      "name": "Originals/IMG_0042.jpg",
+      "sha256": "065aa899458fa736d9ec4b098320023619e36fb9ff1a02d08b633c8228ced449",
+      "bytes": 51593
+    },
+    {
+      "name": "Originals/receipt-final.pdf",
+      "sha256": "fa6421743c2a8f94167a3e335a8e0ce1b92d11a77018abf22303c3a8bf21a011",
+      "bytes": 804
+    },
+    {
+      "name": "Originals/scan_001.pdf",
+      "sha256": "7f38be847c5275dc9face70c375031d66ea42b95389aca33ad3801634ffc388a",
+      "bytes": 820
+    },
+    {
+      "name": "receipt-source.svg",
+      "sha256": "5313d5e0ef0dd5ebe5fdecd81e1c5c549d7ff36debdd921d042abda8010ec8bc",
+      "bytes": 514
+    },
+    {
+      "name": "review-sheet.csv",
+      "sha256": "0cd28fa702b978b079f9ac650886023e73b345cfc06f8fef5d8f9720641a2d36",
+      "bytes": 771
+    },
+    {
+      "name": "worksheet.md",
+      "sha256": "96813ffab730a997ff9e2cfd89ae2377245ccd59eb8192e790eb82554df5587c",
+      "bytes": 4127
+    }
+  ]
+}
