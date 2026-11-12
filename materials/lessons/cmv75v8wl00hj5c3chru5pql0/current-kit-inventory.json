@@ -1,0 +1,162 @@
+{
+  "version": 1,
+  "projectId": "cmv75v8wl00hj5c3chru5pql0",
+  "scriptSha256": "e0f6400b095f05d6d76d9c90cf46a35221d7ac3aa1696f1534409becef0bfca7",
+  "files": [
+    {
+      "name": "README.md",
+      "sha256": "1cbb24960d1660ec649becde1a9ac1a5242541dc1610c05db054fac899ac4141",
+      "bytes": 453
+    },
+    {
+      "name": "actual-ocr/checker-execution-v2.json",
+      "sha256": "a5665aea1aae02c9f7f94b7aa84414a710fc12d2ca1a7ab716b94d0b919eaa70",
+      "bytes": 823
+    },
+    {
+      "name": "actual-ocr/execution-proof.json",
+      "sha256": "bd6c47ed23a4300372c3aa9670e01ce63a1806e4984d6743f569c406340536a1",
+      "bytes": 2224
+    },
+    {
+      "name": "actual-ocr/page-1.txt",
+      "sha256": "0ce89ff78d58241756f2636ffa1a4c7dcfd591395587ec23cfc2f0848179fc69",
+      "bytes": 198
+    },
+    {
+      "name": "actual-ocr/page-2.txt",
+      "sha256": "cbe4d3049d987b8582c57daf65ca49af3bedac6fbb6cae475f2bf5c7a40a5ca1",
+      "bytes": 316
+    },
+    {
+      "name": "actual-ocr/page-3.txt",
+      "sha256": "c919174d855feed97c30c70fa2ce2d38128f186ba2611a211778ef45a075e70d",
+      "bytes": 171
+    },
+    {
+      "name": "actual-ocr/quality-execution-proof.json",
+      "sha256": "72402c1e242507cc4f1633e7431bc8b7caf93dc704148d69214f6f0060e66974",
+      "bytes": 1437
+    },
+    {
+      "name": "actual-ocr/quality-page-2.txt",
+      "sha256": "6914829b4b3234c973b2e28e0bf4aff7b4348e93a9abd4199ad030ce2cb7defb",
+      "bytes": 314
+    },
+    {
+      "name": "answers/correction-log.csv",
+      "sha256": "83d55b061364d286a8f0a81e9e2a1e5232d33d0f3ff8dc2199b3cc706ced1fc8",
+      "bytes": 1475
+    },
+    {
+      "name": "original-scan.pdf",
+      "sha256": "8698e2f9ca43f579191f771d0c076b1bca937ac6c8ea2bcb6afd983d09ffe13d",
+      "bytes": 221245
+    },
+    {
+      "name": "pacing-plan.md",
+      "sha256": "96b0bca7b16eefdf60f9981868768fb3ccfa866acf3595fc867fe2e56719aafc",
+      "bytes": 987
+    },
+    {
+      "name": "practice/correction-log-template.csv",
+      "sha256": "e594092c391bc1318c128b5ff5f0f3dc3297c15ea345f109fd11ccc74589be26",
+      "bytes": 83
+    },
+    {
+      "name": "practice/deliberately-flawed-extraction.txt",
+      "sha256": "81d6a640d274435ea94ec7b0aa100e8fcf2a2b19204db84b91193cf9bec21b2d",
+      "bytes": 368
+    },
+    {
+      "name": "scan-quality-exercise.md",
+      "sha256": "e99f0b0c52d1aadb25a88d6457c7ff3d26349ead8bee23f15aac6aaaad2f00b4",
+      "bytes": 1715
+    },
+    {
+      "name": "scan-quality-exercise.pdf",
+      "sha256": "a9c0c0557961e6b95dd132feab6f4af6d8b65aa92b00109d8a76f1554242d635",
+      "bytes": 221617
+    },
+    {
+      "name": "source-quality/page-2.jpg",
+      "sha256": "03edcaa8872facf15117116b284f4e5c08d4910f3249eaec5e6094d99a2f4703",
+      "bytes": 88358
+    },
+    {
+      "name": "source-quality/page-2.png",
+      "sha256": "42ff03806c14b1722cc0ac5e0611d291488121794ddd62f9ebdd7ad8b02452db",
+      "bytes": 111468
+    },
+    {
+      "name": "source-quality/page-2.svg",
+      "sha256": "bb6610f5bbc1090b9d949de5d60343795b8afab5aeeef9c8ad13e5d8ee0a1169",
+      "bytes": 1157
+    },
+    {
+      "name": "source/page-1.jpg",
+      "sha256": "8b8d9c4e4f31f20ec4002959e1e06731401465ca972bfe36e4280fafbd3afe8e",
+      "bytes": 68663
+    },
+    {
+      "name": "source/page-1.png",
+      "sha256": "3fbec9acdf691c14cd0c3ee21c3de71f2997bd58bfcc07a63a547dec69d5ff59",
+      "bytes": 103591
+    },
+    {
+      "name": "source/page-1.svg",
+      "sha256": "ec0bd7566c435e6c09f78921c22836a667467271f8b959760dea7ec9ed6d4d71",
+      "bytes": 614
+    },
+    {
+      "name": "source/page-2.jpg",
+      "sha256": "155a959c54e8283fafb9f8463c5f19e9c0ef321afbf297bbff1119913067f7fb",
+      "bytes": 87986
+    },
+    {
+      "name": "source/page-2.png",
+      "sha256": "24a12b4bf7ba6a10cec0b9b245779e4eb77e0dca2c60a211f9aaabd2f0a91b7c",
+      "bytes": 110516
+    },
+    {
+      "name": "source/page-2.svg",
+      "sha256": "95abd93010abc18e3ee4a5abf33a40dd5715bad3aee3a81b46aea0632be0ff4b",
+      "bytes": 942
+    },
+    {
+      "name": "source/page-3.jpg",
+      "sha256": "5ff25037ffc361df8fa735ce8a63b718451506d739625f43c1227c0abf7b70fa",
+      "bytes": 63008
+    },
+    {
+      "name": "source/page-3.png",
+      "sha256": "da74ef8dcb5bc935543eac7d14cb848e3ffe2d84474ec2e2a2eadda3b4b77096",
+      "bytes": 87879
+    },
+    {
+      "name": "source/page-3.svg",
+      "sha256": "876698f27f4dfd787a905ef365805d5134ea1c28cf5b6fe3d8eeb4ba0f1f6172",
+      "bytes": 912
+    },
+    {
+      "name": "tools/build-pdf.py",
+      "sha256": "38e26506dc35b4f79b1b5a770e4306d4e52364de6f2cedf6f626f66350cebf8a",
+      "bytes": 1775
+    },
+    {
+      "name": "tools/build-quality-pdf.py",
+      "sha256": "a438fb4d645f5ad1011367d5c84bec2424018fa24297735587738d96c793426c",
+      "bytes": 1834
+    },
+    {
+      "name": "tools/check-practice.py",
+      "sha256": "bc7bd646090878bbe51c9f5d2cccb5f21b78aa60748d47bb871223a6d475fb55",
+      "bytes": 1767
+    },
+    {
+      "name": "worksheet.md",
+      "sha256": "6e8f2f9d4c94792a19f3f6f722cdbf5936a90d57bddfb97eeed40960b5b86a72",
+      "bytes": 3079
+    }
+  ]
+}

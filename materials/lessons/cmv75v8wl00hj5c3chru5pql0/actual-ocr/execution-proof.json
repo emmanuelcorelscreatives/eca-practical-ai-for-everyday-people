@@ -1,0 +1,51 @@
+{
+  "at": "2026-11-12T10:56:29.071Z",
+  "engineVersion": "tesseract 5.3.4",
+  "actualExecutions": [
+    {
+      "argv": [
+        "tesseract",
+        "/var/lib/trejj-studio/maintenance/practical-ai-pocket-production-20261112/lesson-cmv75v8wl00hj5c3chru5pql0/kit/source/page-1.png",
+        "/var/lib/trejj-studio/maintenance/practical-ai-pocket-production-20261112/lesson-cmv75v8wl00hj5c3chru5pql0/kit/actual-ocr/page-1",
+        "--psm",
+        "6"
+      ],
+      "returncode": 0,
+      "stderr": "",
+      "inputSha256": "3fbec9acdf691c14cd0c3ee21c3de71f2997bd58bfcc07a63a547dec69d5ff59",
+      "outputSha256": "0ce89ff78d58241756f2636ffa1a4c7dcfd591395587ec23cfc2f0848179fc69"
+    },
+    {
+      "argv": [
+        "tesseract",
+        "/var/lib/trejj-studio/maintenance/practical-ai-pocket-production-20261112/lesson-cmv75v8wl00hj5c3chru5pql0/kit/source/page-2.png",
+        "/var/lib/trejj-studio/maintenance/practical-ai-pocket-production-20261112/lesson-cmv75v8wl00hj5c3chru5pql0/kit/actual-ocr/page-2",
+        "--psm",
+        "6"
+      ],
+      "returncode": 0,
+      "stdout": "",
+      "stderr": "",
+      "inputSha256": "24a12b4bf7ba6a10cec0b9b245779e4eb77e0dca2c60a211f9aaabd2f0a91b7c",
+      "outputSha256": "cbe4d3049d987b8582c57daf65ca49af3bedac6fbb6cae475f2bf5c7a40a5ca1",
+      "sourceChangedSincePriorReview": true
+    },
+    {
+      "argv": [
+        "tesseract",
+        "/var/lib/trejj-studio/maintenance/practical-ai-pocket-production-20261112/lesson-cmv75v8wl00hj5c3chru5pql0/kit/source/page-3.png",
+        "/var/lib/trejj-studio/maintenance/practical-ai-pocket-production-20261112/lesson-cmv75v8wl00hj5c3chru5pql0/kit/actual-ocr/page-3",
+        "--psm",
+        "6"
+      ],
+      "returncode": 0,
+      "stdout": "",
+      "stderr": "",
+      "inputSha256": "da74ef8dcb5bc935543eac7d14cb848e3ffe2d84474ec2e2a2eadda3b4b77096",
+      "outputSha256": "c919174d855feed97c30c70fa2ce2d38128f186ba2611a211778ef45a075e70d",
+      "sourceChangedSincePriorReview": true
+    }
+  ],
+  "seededExerciseIsSeparate": true,
+  "priorProofRetained": "/var/lib/trejj-studio/maintenance/practical-ai-pocket-production-20261112/lesson-cmv75v8wl00hj5c3chru5pql0/kit-before-repair-v2/actual-ocr/execution-proof.json"
+}

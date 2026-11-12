@@ -1,0 +1,15 @@
+DELIBERATELY SEEDED PRACTICE ERRORS — NOT ACTUAL OCR OUTPUT
+Page 2
+Reference 817; review date 12 May 2026
+Approved adjustment: 3.50 units
+[Check-the-row sentence omitted]
+Optional field: 477
+Two-column note B: Verify the extraction.
+Two-column note A: Preserve the source.
+
+Page 3
+Item,Units,Rate
+Paper,12,3.80
+Folders,8,4.00
+Optional code: 477
+Printed total: 74.00

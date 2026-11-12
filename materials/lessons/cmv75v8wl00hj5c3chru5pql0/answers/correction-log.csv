@@ -1,0 +1,11 @@
+page,region_or_field,extracted_value,source_value,status,reason,evidence_reference
+2,Reference,817,B17,corrected,Confused B and 8,original-scan.pdf page 2 line 3
+2,Approved adjustment,3.50,-3.50,corrected,Minus sign lost,original-scan.pdf page 2 line 4
+2,Check instruction,[omitted],Check the row before copying a value.,corrected,Omitted sentence,original-scan.pdf page 2 line 5
+2,Optional field,477,4?7,uncertain,Source retains unclear character; do not guess,original-scan.pdf page 2 line 6
+3,Paper rate,3.80,3.50,corrected,Verified character against source; cause not proven,original-scan.pdf page 3 Paper row Rate column
+3,Folders units,8,8,confirmed,Exact row and column comparison,original-scan.pdf page 3 Folders row Units column
+3,Optional code,477,4?7,uncertain,Source explicitly marks uncertainty,original-scan.pdf page 3 optional code
+2,Two-column notes A and B,B then A,"A left, then B right",corrected,Reading-order reversal; source explicitly directs left to right,original-scan.pdf page 2 lower two-column note block
+2,Reference line punctuation,Reference 817; review date 12 May 2026,Reference B17; review date 12 May 2026.,corrected,Final full stop lost; B/8 correction separately logged,original-scan.pdf page 2 Reference line
+2,Adjustment line punctuation,Approved adjustment: 3.50 units,Approved adjustment: -3.50 units.,corrected,Final full stop lost; minus sign correction separately logged,original-scan.pdf page 2 Approved adjustment line

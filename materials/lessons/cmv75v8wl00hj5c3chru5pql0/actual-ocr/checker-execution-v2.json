@@ -1,0 +1,22 @@
+{
+  "at": "2026-11-12T10:56:29.299Z",
+  "builder": {
+    "argv": [
+      "python3",
+      "tools/build-pdf.py"
+    ],
+    "returncode": 0,
+    "stdout": "",
+    "stderr": ""
+  },
+  "checker": {
+    "argv": [
+      "python3",
+      "tools/check-practice.py"
+    ],
+    "returncode": 0,
+    "stdout": "{\"state\": \"PASS\", \"pages\": 3, \"imageOnly\": true, \"originalSha256\": \"8698e2f9ca43f579191f771d0c076b1bca937ac6c8ea2bcb6afd983d09ffe13d\", \"checkedReferenceRows\": 10, \"positionedTableColumns\": true, \"trueTwoColumnNotes\": true, \"separateCalculatedTotal\": \"74.00\", \"doesNotCertifyLearnerLogOrFullVisualFidelity\": true}\n",
+    "stderr": ""
+  },
+  "sourceScope": "Exact repaired positioned table and actual two-columnnotes; arithmetic/source-reference assertions only, not learnerlog/fullvisualfidelity."
+}

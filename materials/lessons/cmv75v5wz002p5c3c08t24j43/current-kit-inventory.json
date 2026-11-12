@@ -1,0 +1,47 @@
+{
+  "version": 1,
+  "projectId": "cmv75v5wz002p5c3c08t24j43",
+  "scriptSha256": "574ab1e1cb5384f9ddc8ae9de90fb5056a84286c107b55be0f35397035e5a371",
+  "files": [
+    {
+      "name": "README.md",
+      "sha256": "0eda1160f7b6c994d62821d252a64520f37dc52a3e4d5b4357eb64587b287a33",
+      "bytes": 3922
+    },
+    {
+      "name": "answer-key.md",
+      "sha256": "8e6980747ad73438c05f2b53936ea2606e8d99c6e2b2998b05ef2e61c5baa840",
+      "bytes": 1692
+    },
+    {
+      "name": "harborview-notice.txt",
+      "sha256": "cc8cbf9ce26a1508e987881ade6d0deaf5f11596c47b39ba63ba2ee1aacf1390",
+      "bytes": 317
+    },
+    {
+      "name": "recorded-model-response.json",
+      "sha256": "ba6b8559f9d97ff29e78daf956d3b65865850987c7c3b15ea56af8bf5e322f4a",
+      "bytes": 836
+    },
+    {
+      "name": "room-change-email.txt",
+      "sha256": "e5335f52150f28022827e7f163bf1a5f32bcfce414d334dd00b7d04c97a61e21",
+      "bytes": 231
+    },
+    {
+      "name": "sample-assistant.html",
+      "sha256": "4160b7152e7be0454b9751d0de9d051334677e1a40470f4524321bda090867f5",
+      "bytes": 13203
+    },
+    {
+      "name": "verify-kit.py",
+      "sha256": "6a7b7d20a19a03de8d6b95679698182f3bdf2fd4a6e10c6c0a75a50ae7acb65b",
+      "bytes": 1269
+    },
+    {
+      "name": "worksheet.md",
+      "sha256": "ce071b98dcdaf45496777de97b86390dfe2b6a52ae10d58318e27222d24ec17c",
+      "bytes": 816
+    }
+  ]
+}

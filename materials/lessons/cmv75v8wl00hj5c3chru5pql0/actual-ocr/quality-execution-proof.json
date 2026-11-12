@@ -1,0 +1,36 @@
+{
+  "at": "2026-11-12T11:09:22.973Z",
+  "inputSha256": "42ff03806c14b1722cc0ac5e0611d291488121794ddd62f9ebdd7ad8b02452db",
+  "outputSha256": "6914829b4b3234c973b2e28e0bf4aff7b4348e93a9abd4199ad030ce2cb7defb",
+  "argv": [
+    "tesseract",
+    "/var/lib/trejj-studio/maintenance/practical-ai-pocket-production-20261112/lesson-cmv75v8wl00hj5c3chru5pql0/kit/source-quality/page-2.png",
+    "/var/lib/trejj-studio/maintenance/practical-ai-pocket-production-20261112/lesson-cmv75v8wl00hj5c3chru5pql0/kit/actual-ocr/quality-page-2",
+    "--psm",
+    "6"
+  ],
+  "returncode": 0,
+  "stdout": "",
+  "stderr": "",
+  "builder": {
+    "argv": [
+      "python3",
+      "tools/build-quality-pdf.py"
+    ],
+    "returncode": 0,
+    "stdout": "",
+    "stderr": ""
+  },
+  "qualityPDFSha256": "a9c0c0557961e6b95dd132feab6f4af6d8b65aa92b00109d8a76f1554242d635",
+  "actualSelectableTextCheck": {
+    "argv": [
+      "pdftotext",
+      "/var/lib/trejj-studio/maintenance/practical-ai-pocket-production-20261112/lesson-cmv75v8wl00hj5c3chru5pql0/kit/scan-quality-exercise.pdf",
+      "-"
+    ],
+    "returncode": 0,
+    "textCharacters": 0
+  },
+  "originalPDFUnchangedSha256": "8698e2f9ca43f579191f771d0c076b1bca937ac6c8ea2bcb6afd983d09ffe13d",
+  "provenance": "Actual authored qualityfixture underlyingimage, not screenshot-onlyblur. Ambiguousmark is deliberatelyunresolvedshape, no hiddenknowndigit. RealOCRoutputcapturedunchanged; maynotmatchseedederrors."
+}
