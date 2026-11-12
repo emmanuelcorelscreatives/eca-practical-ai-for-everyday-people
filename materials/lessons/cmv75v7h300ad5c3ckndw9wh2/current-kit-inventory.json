@@ -1,0 +1,47 @@
+{
+  "version": 1,
+  "projectId": "cmv75v7h300ad5c3ckndw9wh2",
+  "scriptSha256": "7c725ee303f1d58b7b148b7c52f58f7ef41eb74d56254035f689d0a9a179bd2b",
+  "files": [
+    {
+      "name": "answer-fixtures.csv",
+      "sha256": "ef80a99fc0a7cafa9b67242d5f46744912afe7a550e15495314ecc1695f3991b",
+      "bytes": 647
+    },
+    {
+      "name": "answers.md",
+      "sha256": "ff97610b5947a8a5045783ec0c756f410cca9e4ca05b438ccaf16b0bc33ea8c1",
+      "bytes": 3765
+    },
+    {
+      "name": "check_fixtures.py",
+      "sha256": "1ae732ace4a6c69097433cabec127c83f27bb21f2476c32405174b82b0089a07",
+      "bytes": 1522
+    },
+    {
+      "name": "practice-claims.csv",
+      "sha256": "031e6cc89d7f5f835a59d31f88bda1000d700b4d19746c39f283411d35504bcc",
+      "bytes": 802
+    },
+    {
+      "name": "prompts.txt",
+      "sha256": "bb452bd98972d4acfbd298e47a61b9353d5dd0ad593e105b72b913292329812a",
+      "bytes": 881
+    },
+    {
+      "name": "review-template.csv",
+      "sha256": "b9208247c020428e4058bb25e7faca0ea1b0439d11f545bf3b2cc7993b0f7234",
+      "bytes": 97
+    },
+    {
+      "name": "source-notes.txt",
+      "sha256": "52a59495e501121e6b9ce357f257ec68f6105e492d83d728b69c7e1d560ab988",
+      "bytes": 694
+    },
+    {
+      "name": "worksheet.md",
+      "sha256": "85efdb47d23750d24b6ca6fa576535c58d6a01816e51e068eb8a2742e388d2d0",
+      "bytes": 4179
+    }
+  ]
+}

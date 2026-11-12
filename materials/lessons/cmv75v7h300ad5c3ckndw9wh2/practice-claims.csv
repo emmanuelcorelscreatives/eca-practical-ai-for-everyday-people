@@ -1,0 +1,19 @@
+claim_id,source,claim
+W01,WORKSHOP,Twenty people registered.
+W02,WORKSHOP,Interest was disappointing.
+W03,WORKSHOP,The venue changed from Room A to Room B.
+W04,WORKSHOP,Room B was better.
+W05,WORKSHOP,Organizers moved the event.
+W06,WORKSHOP,Three registrants asked about wheelchair access.
+W07,WORKSHOP,Attendees complained about inaccessibility.
+W08,WORKSHOP,The registrants were worried.
+W09,WORKSHOP,Registration target.
+W10,WORKSHOP,Actual access features.
+W11,WORKSHOP,Reason for room change.
+B01,BUS,The bus arrived at 8:25.
+B02,BUS,The driver was careless.
+B03,BUS,Cause of the delay.
+L01,LIBRARY,The shelf held twelve books on Monday and eight books on Tuesday.
+L02,LIBRARY,Readers preferred these books.
+L03,LIBRARY,Four books were borrowed.
+L04,LIBRARY,Borrowing records.

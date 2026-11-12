@@ -1,0 +1,13 @@
+WEAK INSTRUCTION — authored example
+Summarize this update in one sentence.
+
+BETTER INSTRUCTION
+Use only the source below. Separate your response under: Directly stated, Interpretation, and Missing information. Put an exact supporting quotation beside every item under Directly stated. Do not present a cause, motive, emotion, judgment, or prediction as a source fact.
+
+SOURCE
+Twenty people registered. The venue changed from Room A to Room B. Three registrants asked about wheelchair access.
+
+CHECKING FOLLOW-UP
+For each claim, identify the exact supporting words. Identify any added cause, motive, emotion, judgment, quality, or prediction. Name the missing evidence needed to test it. Do not fill gaps with plausible details.
+
+An assistant's quotation and label must still be checked manually. These prompts are instructions to try, not a guarantee or a stored model response.

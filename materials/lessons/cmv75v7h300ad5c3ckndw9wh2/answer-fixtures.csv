@@ -1,0 +1,19 @@
+claim_id,label,exact_source_support
+W01,Directly stated,Twenty people registered.
+W02,Interpretation,
+W03,Directly stated,The venue changed from Room A to Room B.
+W04,Interpretation,
+W05,Interpretation,
+W06,Directly stated,Three registrants asked about wheelchair access.
+W07,Interpretation,
+W08,Interpretation,
+W09,Missing information,
+W10,Missing information,
+W11,Missing information,
+B01,Directly stated,The bus arrived at 8:25.
+B02,Interpretation,
+B03,Missing information,
+L01,Directly stated,The shelf held twelve books on Monday and eight books on Tuesday.
+L02,Interpretation,
+L03,Interpretation,
+L04,Missing information,
