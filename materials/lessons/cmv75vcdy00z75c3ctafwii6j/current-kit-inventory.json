@@ -1,0 +1,37 @@
+{
+  "version": 1,
+  "projectId": "cmv75vcdy00z75c3ctafwii6j",
+  "scriptSha256": "90e705821b4eb93e3ca1f96d9e3794a54e5344826ab13449a29134e44d5e2269",
+  "files": [
+    {
+      "name": "answer-key.md",
+      "sha256": "650c955d82815731814f2a5a097b1f6ab4c0e24c8ce292828b0a1047a08ba83c",
+      "bytes": 1347
+    },
+    {
+      "name": "mapping-and-proposal.md",
+      "sha256": "69ceb645a246dbaf81905fd2ba7559623ad3dda3a24e2457c52d9b4275c1216a",
+      "bytes": 1850
+    },
+    {
+      "name": "requests.csv",
+      "sha256": "950adfe77c4139c7710f5a76b8e6df6c809a06ad25449ac3cf1c206bc26c5d90",
+      "bytes": 364
+    },
+    {
+      "name": "review-queue.csv",
+      "sha256": "beed254036b51b9de1bd349b72123cedaa0c0e63d015cf9e4391c52be8936c5c",
+      "bytes": 996
+    },
+    {
+      "name": "validate_workshop.py",
+      "sha256": "fa1315dad1531a6c4899523d831f0f090f6cbe42655bee2863c22bf033b11fa2",
+      "bytes": 6209
+    },
+    {
+      "name": "worksheet.md",
+      "sha256": "f7de1e5ef2b4e0495378d62e6483e7a474a6c3cb1746cb23621c85ace4e97c5b",
+      "bytes": 5675
+    }
+  ]
+}

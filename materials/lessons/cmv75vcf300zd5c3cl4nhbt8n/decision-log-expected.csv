@@ -1,0 +1,3 @@
+Source ID,Checked at,Run reference,Decision,Reason,Output reference
+REQ-1047,2026-10-15 13:10 UTC,RUN-001,New — sent for review,No existing Source ID found,TASK-031
+REQ-1047,2026-10-15 13:14 UTC,RUN-002,Duplicate — no new output,Existing Source ID found,TASK-031

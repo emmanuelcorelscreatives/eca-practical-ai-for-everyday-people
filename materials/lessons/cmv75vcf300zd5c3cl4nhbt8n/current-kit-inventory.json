@@ -1,0 +1,47 @@
+{
+  "version": 1,
+  "projectId": "cmv75vcf300zd5c3cl4nhbt8n",
+  "scriptSha256": "43ce00bc2d00e1be0067bebc0578ed38c644d387507f65d29d23eac3d76d0f7a",
+  "files": [
+    {
+      "name": "check_practice.py",
+      "sha256": "3eb7b75103869560f5aeb230ccbdb2a22a7032d6c620fd1f6624595d3c5c5e24",
+      "bytes": 2065
+    },
+    {
+      "name": "decision-log-empty.csv",
+      "sha256": "711aee16f7f380c8e939910b8aa30472a0e46e6d4a40b514d73cc4501f076886",
+      "bytes": 68
+    },
+    {
+      "name": "decision-log-expected.csv",
+      "sha256": "9e5f6e206ce8e53354f68a22572304736d6c242c7b8d60100936af060c855cf8",
+      "bytes": 267
+    },
+    {
+      "name": "duplicate_practice.py",
+      "sha256": "eb36c2f4434a74c408cb0b584f25107b8487864505eaedbcadb5f948b8b4f012",
+      "bytes": 3015
+    },
+    {
+      "name": "practice-cases.csv",
+      "sha256": "8dd2b733dd0f6442fbfc99605326dfc7ad35b7800279ef0af185bf01f54a3131",
+      "bytes": 691
+    },
+    {
+      "name": "source-request.csv",
+      "sha256": "ccc617e815cf809f8f8bc1e817f1c6cea59896d61501858fe9e6e637913bbadb",
+      "bytes": 74
+    },
+    {
+      "name": "workflow-practice.html",
+      "sha256": "7adea26cce5b4160c31b387a25e6aad7fcec1ed5d335b87ef5f073cc52804474",
+      "bytes": 6957
+    },
+    {
+      "name": "worksheet.md",
+      "sha256": "ec5cbd883fcad39db37bb1bc5d5271f8af0e6b1b36ac8cf2e329e9cca14abae1",
+      "bytes": 4923
+    }
+  ]
+}

@@ -1,0 +1,7 @@
+Case,Source ID,Request type,Details,Expected action
+New source,REQ-1047,Room setup,Arrange twelve chairs.,Create one task and log new decision
+Exact repeat,REQ-1047,Room setup,Arrange twelve chairs.,No second task; log duplicate
+Same text different identity,REQ-1088,Room setup,Arrange twelve chairs.,Separate source record; eligible for its own review task
+Same ID changed text,REQ-1047,Room setup,Arrange sixteen chairs.,Stop automatic replacement; send meaningful change for human review
+Lookup unavailable,REQ-1100,Room setup,Arrange ten chairs.,Stop before creation and inspect manually
+Missing identity,,Room setup,Arrange twelve chairs.,Stop before creation; obtain stable identifier
