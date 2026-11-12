@@ -1,0 +1,38 @@
+[
+  {
+    "id": "S01",
+    "filename": "S01_Purpose_and_Audience.odt",
+    "sha256": "44badc5a1332123bea9186ec1d858c45383ab885ed38da384b1a0cad8fc352a9",
+    "text": "S01 Purpose and Audience \u2014 source pages 1\u20132\nThe event is intended for local residents and first-time gardeners. Create a one-page public information sheet for first-time visitors. This fictional pack is a training exercise, not a real event announcement. The public opening date is 17 May 2030. Preserve confirmed dates, access details, safety conditions and unresolved questions without guessing."
+  },
+  {
+    "id": "S02",
+    "filename": "S02_Venue_and_Access.odt",
+    "sha256": "b5fcf6b554fe7532abd6c18c72b8c21f43c3430c266767825631441d1461b389",
+    "text": "S02 Venue and Access \u2014 source pages 3\u20134\nThe fictional venue is Riverside Community Garden. A step-free route to the main garden area is confirmed. This statement does not confirm step-free access to every activity. Accessible-toilet availability is not yet confirmed. Parking is limited; do not promise a space. Keep the access qualification attached to the route statement."
+  },
+  {
+    "id": "S03",
+    "filename": "S03_Programme.odt",
+    "sha256": "0a09c3e4197eea611b59a22b24ae4d97ec460140be1ded807d649fea43737e9c",
+    "text": "S03 Programme \u2014 source pages 5\u20136\nThe programme includes an advanced seed-saving workshop. Its advanced level may not match the first-time-visitor audience; retain that qualification and flag the possible mismatch. Do not relabel the workshop as beginner training or remove it. Access to this workshop is not confirmed by the route statement in S02."
+  },
+  {
+    "id": "S04",
+    "filename": "S04_Volunteers.odt",
+    "sha256": "5726fcdd8b593dd843e1a7f1f430f125fe2ac92d80d0f69611392df998be8de3",
+    "text": "S04 Volunteers \u2014 source pages 7\u20138\nPublic opening time is 10:00. Volunteer arrival time is not specified. Do not use the public opening time as the volunteer reporting time. Volunteer arrival requires confirmation from the fictional organizer."
+  },
+  {
+    "id": "S05",
+    "filename": "S05_Communications.odt",
+    "sha256": "2e14a1b9ab1dd295267f102bb578f09c3f54d1efff94ab25bb9f77c45625e252",
+    "text": "S05 Communications \u2014 source pages 9\u201310\nUse plain public-facing wording. Do not include private contact information. State confirmed access narrowly and keep unresolved matters in a visible pending-confirmation area. Treat the information sheet as a draft until the whole pack and handoff note have been checked together."
+  },
+  {
+    "id": "S06",
+    "filename": "S06_Open_Questions.odt",
+    "sha256": "d0462e849d4027dbe99cafe28c7d04860a7587b2383469a160dedf0220b2e7e4",
+    "text": "S06 Open Questions \u2014 source pages 11\u201312\nAccessible-toilet availability remains unconfirmed. Volunteer arrival time remains unspecified. The possible mismatch between first-time visitors and the advanced seed-saving workshop remains unresolved. Confirm activity-specific access before claiming the whole event is accessible. These questions must not become settled facts during synthesis."
+  }
+]

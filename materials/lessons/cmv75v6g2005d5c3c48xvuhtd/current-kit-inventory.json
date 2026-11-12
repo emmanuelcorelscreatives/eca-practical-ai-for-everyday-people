@@ -55,13 +55,68 @@
     },
     {
       "name": "handoff-note-checked.md",
-      "sha256": "a1a079f060c8ae2c09bafc0ae5096b4caed51088d0f89d269b1cfc1ac2a3f1e7",
-      "bytes": 950
+      "sha256": "53401db92a007cc7badada81ff13eadaa54f1a633b96414fee18829205c3b851",
+      "bytes": 1023
     },
     {
       "name": "handoff-note-template.md",
       "sha256": "b3551e93637e133b7b9a8050d585ab1babc4b7263e6e0d613a9d3223f9d808b9",
       "bytes": 207
+    },
+    {
+      "name": "section-desk-demo/S01_Purpose_and_Audience.odt",
+      "sha256": "44badc5a1332123bea9186ec1d858c45383ab885ed38da384b1a0cad8fc352a9",
+      "bytes": 1458
+    },
+    {
+      "name": "section-desk-demo/S02_Venue_and_Access.odt",
+      "sha256": "b5fcf6b554fe7532abd6c18c72b8c21f43c3430c266767825631441d1461b389",
+      "bytes": 1435
+    },
+    {
+      "name": "section-desk-demo/S03_Programme.odt",
+      "sha256": "0a09c3e4197eea611b59a22b24ae4d97ec460140be1ded807d649fea43737e9c",
+      "bytes": 1409
+    },
+    {
+      "name": "section-desk-demo/S04_Volunteers.odt",
+      "sha256": "5726fcdd8b593dd843e1a7f1f430f125fe2ac92d80d0f69611392df998be8de3",
+      "bytes": 1303
+    },
+    {
+      "name": "section-desk-demo/S05_Communications.odt",
+      "sha256": "2e14a1b9ab1dd295267f102bb578f09c3f54d1efff94ab25bb9f77c45625e252",
+      "bytes": 1381
+    },
+    {
+      "name": "section-desk-demo/S06_Open_Questions.odt",
+      "sha256": "d0462e849d4027dbe99cafe28c7d04860a7587b2383469a160dedf0220b2e7e4",
+      "bytes": 1448
+    },
+    {
+      "name": "section-desk-demo/app.html",
+      "sha256": "e6436fd663ae2ec1646449b3497dbc7fd4a9c5d318c645a11b1469e9728a4275",
+      "bytes": 2637
+    },
+    {
+      "name": "section-desk-demo/app.js",
+      "sha256": "31f97294c5d4c9b2ad10f46597a8ca8389466ccfb98c7e34f8ccc6269d55a385",
+      "bytes": 8710
+    },
+    {
+      "name": "section-desk-demo/sections.json",
+      "sha256": "b7832a9c2feefa6a1e9c453dd053565fab63e317691fd2237547a745695f427b",
+      "bytes": 3125
+    },
+    {
+      "name": "section-desk-demo/shared-instruction.txt",
+      "sha256": "c4bb6affba50cbe52d3b14398134c985c610f0e7935106cf3c632989c40fdccd",
+      "bytes": 453
+    },
+    {
+      "name": "section-desk-demo-guide.md",
+      "sha256": "6f6861936dcf476741272800a2ad58e088c083c65d69ae3c9497d350c51fb8f7",
+      "bytes": 4255
     },
     {
       "name": "section-desk.html",
