@@ -1,0 +1,80 @@
+{
+  "scope": "Actual accepted private twelve-node experiment only; not new learner run, human approval, beginner usability or general environment guarantee.",
+  "actualOperator": {
+    "kind": "Test fixture operator",
+    "name": "/root/practical_group_2/restore_lesson204"
+  },
+  "nativeVersion": "2.47.5",
+  "cases": [
+    {
+      "caseId": "CONTROL-204-A",
+      "executionId": "1",
+      "actualReview": {
+        "case_id": "CONTROL-204-A",
+        "proposed_action": "Add a test record",
+        "destination": "Approval Boundary Test Log",
+        "final_content": "Boundary control passed",
+        "supporting_information": "Fictional training case",
+        "test_mode": true,
+        "proposal_version": 1,
+        "validation": "Complete",
+        "decision": "Approve",
+        "operator_kind": "Test fixture operator",
+        "operator_name": "/root/practical_group_2/restore_lesson204",
+        "decision_timestamp": "2026-11-12T22:27:51.160Z",
+        "reviewed_version_unchanged": true
+      },
+      "actualNativeWriterExecuted": true,
+      "submissionMethod": "Genuine native headless browser DOM",
+      "actualCount": 1
+    },
+    {
+      "caseId": "REJECT-204-B",
+      "executionId": "2",
+      "actualReview": {
+        "case_id": "REJECT-204-B",
+        "proposed_action": "Add a test record",
+        "destination": "Approval Boundary Test Log",
+        "final_content": "Rejected boundary test",
+        "supporting_information": "Fictional training case",
+        "test_mode": true,
+        "proposal_version": 1,
+        "validation": "Complete",
+        "decision": "Reject",
+        "operator_kind": "Test fixture operator",
+        "operator_name": "/root/practical_group_2/restore_lesson204",
+        "decision_timestamp": "2026-11-12T22:28:15.073Z",
+        "reviewed_version_unchanged": true
+      },
+      "actualNativeWriterExecuted": false,
+      "submissionMethod": "Genuine native headless browser DOM",
+      "actualCount": 0
+    },
+    {
+      "caseId": "INCOMPLETE-204-C",
+      "executionId": "3",
+      "actualReview": {
+        "case_id": "INCOMPLETE-204-C",
+        "proposed_action": "Add a test record",
+        "destination": "",
+        "final_content": "Incomplete boundary test",
+        "supporting_information": "Fictional training case",
+        "test_mode": true,
+        "proposal_version": 1,
+        "validation": "Incomplete",
+        "decision": "Approve",
+        "operator_kind": "Test fixture operator",
+        "operator_name": "/root/practical_group_2/restore_lesson204",
+        "decision_timestamp": "2026-11-12T22:28:37.663Z",
+        "reviewed_version_unchanged": true
+      },
+      "actualNativeWriterExecuted": false,
+      "submissionMethod": "Genuine native headless browser DOM",
+      "actualCount": 0
+    }
+  ],
+  "workbookSHA256": "eb263912ce6fec4f62b20fe716c5e24528c083917981289ad0dd95f6e5947251",
+  "actualControlTimestamp": "2026-11-12T22:27:51.323Z",
+  "sourceWrites": false,
+  "humanSignoff": "PENDING"
+}

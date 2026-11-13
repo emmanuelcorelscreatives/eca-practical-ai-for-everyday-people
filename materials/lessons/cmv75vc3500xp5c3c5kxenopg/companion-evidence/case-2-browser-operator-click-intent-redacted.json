@@ -1,0 +1,14 @@
+{
+  "at": "2026-11-12T22:28:12.649Z",
+  "case": "REJECT-204-B",
+  "reviewedVersion": 1,
+  "choice": "Reject",
+  "actualValidation": "Complete",
+  "actualDestination": "Approval Boundary Test Log",
+  "operator": {
+    "kind": "Test fixture operator",
+    "name": "/root/practical_group_2/restore_lesson204"
+  },
+  "boundary": "Fictional fixture operator test only; never human signoff",
+  "noRetry": true
+}

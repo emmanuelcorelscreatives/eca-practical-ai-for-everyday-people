@@ -1,0 +1,907 @@
+{
+  "state": "PRIVATE_PUBLICSAFE_COMPANION_CANDIDATE_NOT_PUBLISHED_OR_REVIEWED",
+  "soleActualRun": "portable12/all3actualDOM/AI Test fixture operator/1-0-0/control22:27:51.323Z/workbookeb263912",
+  "independentAcceptanceSHA256": "6bd1da993ecdf01a3c143f256075c53f2f87e88574dbd9fc9fb0e39ae9624736",
+  "records": [
+    {
+      "name": "historical-zero-baseline-readback.json",
+      "originalSHA256": "626c88e69df9ea0087ef51b23b0f0c8b70e0d8e1656da48915327866c7d2cce1",
+      "originalBytes": 676,
+      "candidate": {
+        "path": "companion-evidence/historical-zero-baseline-readback.json",
+        "sha256": "003ee273897a96882f7729b0903f5cdf4a9c75744775e20c71a891096ba98bb7",
+        "bytes": 527
+      },
+      "grade": "Full authentic pre-control readback JSON; observed cc0ef8800rows, physical zero XLSX overwritten/not retained. No reconstructed workbook or GUI.",
+      "originalRuntimeRelativePath": "ORIGINAL_RUNTIME/baseline.json"
+    },
+    {
+      "name": "native-execution-1-redacted.json",
+      "originalSHA256": "a5084002ce4264da10377a9400f6370d6c13f4f10f10122a20b917e4f6d8e6b6",
+      "originalBytes": 23152,
+      "candidate": {
+        "path": "companion-evidence/native-execution-1-redacted.json",
+        "sha256": "5e4349064b578dc1cbee24f05951769a096ab4f80d4229caff42d5bf0b5afe80",
+        "bytes": 21278
+      },
+      "grade": "Full retained observed record, only ledger-listed secret/host-path values redacted; no semantic summarization.",
+      "originalRuntimeRelativePath": "ORIGINAL_RUNTIME/case-1-native-execution.json"
+    },
+    {
+      "name": "workbook-after-case-1.json",
+      "originalSHA256": "466b82440857ab22a7f9db228c60b1acb5767c583adc9f83659e56674153dd2c",
+      "originalBytes": 3260,
+      "candidate": {
+        "path": "companion-evidence/workbook-after-case-1.json",
+        "sha256": "ba0cc6680c968b46e94491cf7f63fb86243024f7b469b3dfa434909cd3cf7f93",
+        "bytes": 2813
+      },
+      "grade": "Full retained observed record, only ledger-listed secret/host-path values redacted; no semantic summarization.",
+      "originalRuntimeRelativePath": "ORIGINAL_RUNTIME/case-1-independent-readback.json"
+    },
+    {
+      "name": "case-1-submitted-redacted.json",
+      "originalSHA256": "2e0fef2e5e014153820fe58b4ee1126c32505357157935bf4bf3b142e39de593",
+      "originalBytes": 683,
+      "candidate": {
+        "path": "companion-evidence/case-1-submitted-redacted.json",
+        "sha256": "a6b270a65a52cbc471d25fc4a6284d47f335679286bf7a2af33aee319d863841",
+        "bytes": 607
+      },
+      "grade": "Full retained observed record, only ledger-listed secret/host-path values redacted; no semantic summarization.",
+      "originalRuntimeRelativePath": "ORIGINAL_RUNTIME/case-1-submitted.json"
+    },
+    {
+      "name": "case-1-browser-process-redacted.json",
+      "originalSHA256": "52bccfe3eba3a6dc7b3d16fb45feab169cd8ca4229a15f47cf36868d78c8d2bc",
+      "originalBytes": 241,
+      "candidate": {
+        "path": "companion-evidence/case-1-browser-process-redacted.json",
+        "sha256": "42a4217243b8a14f707b2b2a7c8266cf06361831b328216a59a2ac81b0ef7e94",
+        "bytes": 92
+      },
+      "grade": "Full retained observed record, only ledger-listed secret/host-path values redacted; no semantic summarization.",
+      "originalRuntimeRelativePath": "ORIGINAL_RUNTIME/case-1-browser-process.json"
+    },
+    {
+      "name": "case-1-browser-terminal.json",
+      "originalSHA256": "0087a67c40006c82a67931c707440478c2e55ae1552c95bb32253fbf15901c5b",
+      "originalBytes": 61,
+      "candidate": {
+        "path": "companion-evidence/case-1-browser-terminal.json",
+        "sha256": "0087a67c40006c82a67931c707440478c2e55ae1552c95bb32253fbf15901c5b",
+        "bytes": 61
+      },
+      "grade": "Full retained observed record, only ledger-listed secret/host-path values redacted; no semantic summarization.",
+      "originalRuntimeRelativePath": "ORIGINAL_RUNTIME/case-1-browser-terminal.json"
+    },
+    {
+      "name": "case-1-browser-operator-click-intent-redacted.json",
+      "originalSHA256": "c355bf204ed75975ad2423d66982ecf1184e3a453c8eb04ccb7b34b6924e4dfa",
+      "originalBytes": 408,
+      "candidate": {
+        "path": "companion-evidence/case-1-browser-operator-click-intent-redacted.json",
+        "sha256": "c355bf204ed75975ad2423d66982ecf1184e3a453c8eb04ccb7b34b6924e4dfa",
+        "bytes": 408
+      },
+      "grade": "Full actual native browser action/submission/result record; same accepted all-three-DOM run.",
+      "originalRuntimeRelativePath": "ORIGINAL_RUNTIME/case-1-browser/browser-operator-click-intent.json"
+    },
+    {
+      "name": "case-1-browser-native-form-post-intent-redacted.json",
+      "originalSHA256": "05f4b92f8746ce1847d38add244f68f77090137f3e0dcc406aba43d2ba06c93e",
+      "originalBytes": 801,
+      "candidate": {
+        "path": "companion-evidence/case-1-browser-native-form-post-intent-redacted.json",
+        "sha256": "98f549f392a1a29ed89ffd03a0b3689fd290281ccea1dc41fac752d30001d6d5",
+        "bytes": 326
+      },
+      "grade": "Full actual native browser action/submission/result record; same accepted all-three-DOM run.",
+      "originalRuntimeRelativePath": "ORIGINAL_RUNTIME/case-1-browser/browser-native-form-post-intent.json"
+    },
+    {
+      "name": "case-1-browser-native-post-response-redacted.json",
+      "originalSHA256": "8f2cd9a87f5a805be4e54bc53164b7b68998dc9597130254d3a5f3ce12826375",
+      "originalBytes": 811,
+      "candidate": {
+        "path": "companion-evidence/case-1-browser-native-post-response-redacted.json",
+        "sha256": "274fe65c228da2ef0ec38ac692e5f5f3ca8cbf364179d7a3f4642116d2361bd8",
+        "bytes": 175
+      },
+      "grade": "Full actual native browser action/submission/result record; same accepted all-three-DOM run.",
+      "originalRuntimeRelativePath": "ORIGINAL_RUNTIME/case-1-browser/browser-native-post-response.json"
+    },
+    {
+      "name": "case-1-browser-operator-result-redacted.json",
+      "originalSHA256": "32f83c8bac2eb469c4e3ff064fb73dffc268ccd0acf3b3bb58b1b67761699305",
+      "originalBytes": 1056,
+      "candidate": {
+        "path": "companion-evidence/case-1-browser-operator-result-redacted.json",
+        "sha256": "da1fdbe9a94e80d0ef50e84e57bfeb6c14eca8478f79d72cb88d7d6836e1651c",
+        "bytes": 904
+      },
+      "grade": "Full actual native browser action/submission/result record; same accepted all-three-DOM run.",
+      "originalRuntimeRelativePath": "ORIGINAL_RUNTIME/case-1-browser/browser-operator-result.json"
+    },
+    {
+      "name": "case-1-actual-native-form-post-body.bin",
+      "originalSHA256": "58b6cce888b718744513ea6e9b6f322604972f09282f2b255a4f1c2dd94478b6",
+      "originalBytes": 684,
+      "candidate": {
+        "path": "companion-evidence/case-1-actual-native-form-post-body.bin",
+        "sha256": "58b6cce888b718744513ea6e9b6f322604972f09282f2b255a4f1c2dd94478b6",
+        "bytes": 684
+      },
+      "grade": "Byte-identical actual fictional native form POST body or post-click headless screenshot; no request headers, human/desktop or newtest claim.",
+      "originalRuntimeRelativePath": "ORIGINAL_RUNTIME/case-1-browser/browser-native-form-post-body.bin"
+    },
+    {
+      "name": "case-1-after-actual-operator-click-headless.png",
+      "originalSHA256": "c49225388ea1b21de9fc408d36fbfb1ef54b0f5472723220753a683400d99ec6",
+      "originalBytes": 25020,
+      "candidate": {
+        "path": "companion-evidence/case-1-after-actual-operator-click-headless.png",
+        "sha256": "c49225388ea1b21de9fc408d36fbfb1ef54b0f5472723220753a683400d99ec6",
+        "bytes": 25020
+      },
+      "grade": "Byte-identical actual fictional native form POST body or post-click headless screenshot; no request headers, human/desktop or newtest claim.",
+      "originalRuntimeRelativePath": "ORIGINAL_RUNTIME/case-1-browser/after-operator-click-actual-headless.png"
+    },
+    {
+      "name": "native-execution-2-redacted.json",
+      "originalSHA256": "f72c91bdccc2e927663f5696863bc539cb13aaa7588d923cc48fabac9662dec0",
+      "originalBytes": 16395,
+      "candidate": {
+        "path": "companion-evidence/native-execution-2-redacted.json",
+        "sha256": "e612dd78f1b127404e03cb068505d5c5e95529e962788d22f563572e182b4706",
+        "bytes": 14819
+      },
+      "grade": "Full retained observed record, only ledger-listed secret/host-path values redacted; no semantic summarization.",
+      "originalRuntimeRelativePath": "ORIGINAL_RUNTIME/case-2-native-execution.json"
+    },
+    {
+      "name": "workbook-after-case-2.json",
+      "originalSHA256": "95f3beb72bfc948df90b56da7a0df33f63567ea805bbd796e2f3f44c1beb2782",
+      "originalBytes": 3518,
+      "candidate": {
+        "path": "companion-evidence/workbook-after-case-2.json",
+        "sha256": "0c9f4eb1ebd007a9243a654394554f0abbf88fd9c54b1db3859621b4c6358180",
+        "bytes": 3071
+      },
+      "grade": "Full retained observed record, only ledger-listed secret/host-path values redacted; no semantic summarization.",
+      "originalRuntimeRelativePath": "ORIGINAL_RUNTIME/case-2-independent-readback.json"
+    },
+    {
+      "name": "case-2-submitted-redacted.json",
+      "originalSHA256": "356fb6f0705016f8cc77250702deb2f608fc6f8d41302718489fbc35dcd81043",
+      "originalBytes": 679,
+      "candidate": {
+        "path": "companion-evidence/case-2-submitted-redacted.json",
+        "sha256": "019500ada1d516db8d8a6e82541b609e65110b2df6f142ae7613410fe8e04107",
+        "bytes": 603
+      },
+      "grade": "Full retained observed record, only ledger-listed secret/host-path values redacted; no semantic summarization.",
+      "originalRuntimeRelativePath": "ORIGINAL_RUNTIME/case-2-submitted.json"
+    },
+    {
+      "name": "case-2-browser-process-redacted.json",
+      "originalSHA256": "783cab223930fb8a800c51ae4b4bf255365177a801e236f8eeb580983b8b0e57",
+      "originalBytes": 241,
+      "candidate": {
+        "path": "companion-evidence/case-2-browser-process-redacted.json",
+        "sha256": "75afec439f7ca1f7f7e03ef0b9f99a68be72b51cd777a6daad5bf6e0f01ab599",
+        "bytes": 92
+      },
+      "grade": "Full retained observed record, only ledger-listed secret/host-path values redacted; no semantic summarization.",
+      "originalRuntimeRelativePath": "ORIGINAL_RUNTIME/case-2-browser-process.json"
+    },
+    {
+      "name": "case-2-browser-terminal.json",
+      "originalSHA256": "c05ec3102434d5e3d483d8be748dd3032332847c285548ea8dbeeac55f42fbf6",
+      "originalBytes": 61,
+      "candidate": {
+        "path": "companion-evidence/case-2-browser-terminal.json",
+        "sha256": "c05ec3102434d5e3d483d8be748dd3032332847c285548ea8dbeeac55f42fbf6",
+        "bytes": 61
+      },
+      "grade": "Full retained observed record, only ledger-listed secret/host-path values redacted; no semantic summarization.",
+      "originalRuntimeRelativePath": "ORIGINAL_RUNTIME/case-2-browser-terminal.json"
+    },
+    {
+      "name": "case-2-browser-operator-click-intent-redacted.json",
+      "originalSHA256": "fb9ac2118a723c56b1fcb896b9a51d4448268d054c6c4f9ae3975c547fd3bc5c",
+      "originalBytes": 406,
+      "candidate": {
+        "path": "companion-evidence/case-2-browser-operator-click-intent-redacted.json",
+        "sha256": "fb9ac2118a723c56b1fcb896b9a51d4448268d054c6c4f9ae3975c547fd3bc5c",
+        "bytes": 406
+      },
+      "grade": "Full actual native browser action/submission/result record; same accepted all-three-DOM run.",
+      "originalRuntimeRelativePath": "ORIGINAL_RUNTIME/case-2-browser/browser-operator-click-intent.json"
+    },
+    {
+      "name": "case-2-browser-native-form-post-intent-redacted.json",
+      "originalSHA256": "d440526cca9c551d8d22e2c758da90eaeb16938c43ccc202895b0e678788cd96",
+      "originalBytes": 801,
+      "candidate": {
+        "path": "companion-evidence/case-2-browser-native-form-post-intent-redacted.json",
+        "sha256": "48fdbcd8a3613a9ca94d0305c87d08e675a671bc91c2fc1cfebaff45909a8229",
+        "bytes": 326
+      },
+      "grade": "Full actual native browser action/submission/result record; same accepted all-three-DOM run.",
+      "originalRuntimeRelativePath": "ORIGINAL_RUNTIME/case-2-browser/browser-native-form-post-intent.json"
+    },
+    {
+      "name": "case-2-browser-native-post-response-redacted.json",
+      "originalSHA256": "67ccef38abb131eb3fa5be9f33e5810da59d19f912cb5010c2adb924b7c75805",
+      "originalBytes": 811,
+      "candidate": {
+        "path": "companion-evidence/case-2-browser-native-post-response-redacted.json",
+        "sha256": "274fe65c228da2ef0ec38ac692e5f5f3ca8cbf364179d7a3f4642116d2361bd8",
+        "bytes": 175
+      },
+      "grade": "Full actual native browser action/submission/result record; same accepted all-three-DOM run.",
+      "originalRuntimeRelativePath": "ORIGINAL_RUNTIME/case-2-browser/browser-native-post-response.json"
+    },
+    {
+      "name": "case-2-browser-operator-result-redacted.json",
+      "originalSHA256": "ba795de52c7ce634d2c5ac919e6000f50ea4ea01f94ef373ac7211aa4e29cfcb",
+      "originalBytes": 1056,
+      "candidate": {
+        "path": "companion-evidence/case-2-browser-operator-result-redacted.json",
+        "sha256": "d5aae285457390e4664a60e5e224d0e58d4e27811358f82486e98c9a26642047",
+        "bytes": 904
+      },
+      "grade": "Full actual native browser action/submission/result record; same accepted all-three-DOM run.",
+      "originalRuntimeRelativePath": "ORIGINAL_RUNTIME/case-2-browser/browser-operator-result.json"
+    },
+    {
+      "name": "case-2-actual-native-form-post-body.bin",
+      "originalSHA256": "1319051da7ef71b1ce4e1a492f86bd2b0a56b4b8eda8a4e9fe80b1b2280de83e",
+      "originalBytes": 682,
+      "candidate": {
+        "path": "companion-evidence/case-2-actual-native-form-post-body.bin",
+        "sha256": "1319051da7ef71b1ce4e1a492f86bd2b0a56b4b8eda8a4e9fe80b1b2280de83e",
+        "bytes": 682
+      },
+      "grade": "Byte-identical actual fictional native form POST body or post-click headless screenshot; no request headers, human/desktop or newtest claim.",
+      "originalRuntimeRelativePath": "ORIGINAL_RUNTIME/case-2-browser/browser-native-form-post-body.bin"
+    },
+    {
+      "name": "case-2-after-actual-operator-click-headless.png",
+      "originalSHA256": "c49225388ea1b21de9fc408d36fbfb1ef54b0f5472723220753a683400d99ec6",
+      "originalBytes": 25020,
+      "candidate": {
+        "path": "companion-evidence/case-2-after-actual-operator-click-headless.png",
+        "sha256": "c49225388ea1b21de9fc408d36fbfb1ef54b0f5472723220753a683400d99ec6",
+        "bytes": 25020
+      },
+      "grade": "Byte-identical actual fictional native form POST body or post-click headless screenshot; no request headers, human/desktop or newtest claim.",
+      "originalRuntimeRelativePath": "ORIGINAL_RUNTIME/case-2-browser/after-operator-click-actual-headless.png"
+    },
+    {
+      "name": "native-execution-3-redacted.json",
+      "originalSHA256": "d29799b7db0ff494bcb899758d8a81e6cd81628db4ec57b4dadf44db201434e5",
+      "originalBytes": 16454,
+      "candidate": {
+        "path": "companion-evidence/native-execution-3-redacted.json",
+        "sha256": "214594432061dfb82c7091557335f01778878fe56cc8773a70a6b92df3959d9d",
+        "bytes": 14878
+      },
+      "grade": "Full retained observed record, only ledger-listed secret/host-path values redacted; no semantic summarization.",
+      "originalRuntimeRelativePath": "ORIGINAL_RUNTIME/case-3-native-execution.json"
+    },
+    {
+      "name": "workbook-after-case-3.json",
+      "originalSHA256": "45e8f35c159e4b4961023707d53a85bc295622d4c8476ff92e1e44ac1afa9a0d",
+      "originalBytes": 3510,
+      "candidate": {
+        "path": "companion-evidence/workbook-after-case-3.json",
+        "sha256": "180102e05b4988cf7028bf474c9d3867d0c011da9d6eadabfd7b29b98a80ee68",
+        "bytes": 3063
+      },
+      "grade": "Full retained observed record, only ledger-listed secret/host-path values redacted; no semantic summarization.",
+      "originalRuntimeRelativePath": "ORIGINAL_RUNTIME/case-3-independent-readback.json"
+    },
+    {
+      "name": "case-3-submitted-redacted.json",
+      "originalSHA256": "c2ad9de4864a4dd82da97dba5086b80117cd6ac39afec0dfb559bb501a49b2e2",
+      "originalBytes": 664,
+      "candidate": {
+        "path": "companion-evidence/case-3-submitted-redacted.json",
+        "sha256": "42c7f01bde40e7c2d976776d193a259a81578fa848a5f03dd6acb4e9ab14f14d",
+        "bytes": 588
+      },
+      "grade": "Full retained observed record, only ledger-listed secret/host-path values redacted; no semantic summarization.",
+      "originalRuntimeRelativePath": "ORIGINAL_RUNTIME/case-3-submitted.json"
+    },
+    {
+      "name": "case-3-browser-process-redacted.json",
+      "originalSHA256": "d22492412e962f7bb79140a8ce976a854a0379fdade4eb32bf64ef0499b9ed10",
+      "originalBytes": 241,
+      "candidate": {
+        "path": "companion-evidence/case-3-browser-process-redacted.json",
+        "sha256": "0e7ea5f5f6ea9baac6d11a6f00ff9e1b2f2abe6c06985eea42c6b70a9ca30c70",
+        "bytes": 92
+      },
+      "grade": "Full retained observed record, only ledger-listed secret/host-path values redacted; no semantic summarization.",
+      "originalRuntimeRelativePath": "ORIGINAL_RUNTIME/case-3-browser-process.json"
+    },
+    {
+      "name": "case-3-browser-terminal.json",
+      "originalSHA256": "21936f167385f03b95d7bb1a659023770704f588498f597ed26954cfee20f541",
+      "originalBytes": 61,
+      "candidate": {
+        "path": "companion-evidence/case-3-browser-terminal.json",
+        "sha256": "21936f167385f03b95d7bb1a659023770704f588498f597ed26954cfee20f541",
+        "bytes": 61
+      },
+      "grade": "Full retained observed record, only ledger-listed secret/host-path values redacted; no semantic summarization.",
+      "originalRuntimeRelativePath": "ORIGINAL_RUNTIME/case-3-browser-terminal.json"
+    },
+    {
+      "name": "case-3-browser-operator-click-intent-redacted.json",
+      "originalSHA256": "6f3547be1cdbe4beecbd2799177211d0e1f25e252be8f927f38b26d1bb72e087",
+      "originalBytes": 387,
+      "candidate": {
+        "path": "companion-evidence/case-3-browser-operator-click-intent-redacted.json",
+        "sha256": "6f3547be1cdbe4beecbd2799177211d0e1f25e252be8f927f38b26d1bb72e087",
+        "bytes": 387
+      },
+      "grade": "Full actual native browser action/submission/result record; same accepted all-three-DOM run.",
+      "originalRuntimeRelativePath": "ORIGINAL_RUNTIME/case-3-browser/browser-operator-click-intent.json"
+    },
+    {
+      "name": "case-3-browser-native-form-post-intent-redacted.json",
+      "originalSHA256": "4f3f92bae33d84ae26b575d7241cc7a8ea05ce259af1442d6b607d81604bb308",
+      "originalBytes": 801,
+      "candidate": {
+        "path": "companion-evidence/case-3-browser-native-form-post-intent-redacted.json",
+        "sha256": "2debc613374f388ed2b25436828e58327c0792df141d954e88f75d3f4676dca4",
+        "bytes": 326
+      },
+      "grade": "Full actual native browser action/submission/result record; same accepted all-three-DOM run.",
+      "originalRuntimeRelativePath": "ORIGINAL_RUNTIME/case-3-browser/browser-native-form-post-intent.json"
+    },
+    {
+      "name": "case-3-browser-native-post-response-redacted.json",
+      "originalSHA256": "7d2ec42f20b29651f975043552504398b1da1d8750049be9efc7ac0387a33a05",
+      "originalBytes": 811,
+      "candidate": {
+        "path": "companion-evidence/case-3-browser-native-post-response-redacted.json",
+        "sha256": "274fe65c228da2ef0ec38ac692e5f5f3ca8cbf364179d7a3f4642116d2361bd8",
+        "bytes": 175
+      },
+      "grade": "Full actual native browser action/submission/result record; same accepted all-three-DOM run.",
+      "originalRuntimeRelativePath": "ORIGINAL_RUNTIME/case-3-browser/browser-native-post-response.json"
+    },
+    {
+      "name": "case-3-browser-operator-result-redacted.json",
+      "originalSHA256": "705784dd2299ccb91e7b3bf63270be7a269cfa178d5283108c21a3b51a6537b0",
+      "originalBytes": 1056,
+      "candidate": {
+        "path": "companion-evidence/case-3-browser-operator-result-redacted.json",
+        "sha256": "d0b9a7fd6551aa51d2611d73572a20e9ff0a1b21a0ac98baafa5e098c5a40cb4",
+        "bytes": 904
+      },
+      "grade": "Full actual native browser action/submission/result record; same accepted all-three-DOM run.",
+      "originalRuntimeRelativePath": "ORIGINAL_RUNTIME/case-3-browser/browser-operator-result.json"
+    },
+    {
+      "name": "case-3-actual-native-form-post-body.bin",
+      "originalSHA256": "255632dd2f85c0991e9d290d38f3973ce3da4b27ed139aef3b52e28d7f10e69f",
+      "originalBytes": 687,
+      "candidate": {
+        "path": "companion-evidence/case-3-actual-native-form-post-body.bin",
+        "sha256": "255632dd2f85c0991e9d290d38f3973ce3da4b27ed139aef3b52e28d7f10e69f",
+        "bytes": 687
+      },
+      "grade": "Byte-identical actual fictional native form POST body or post-click headless screenshot; no request headers, human/desktop or newtest claim.",
+      "originalRuntimeRelativePath": "ORIGINAL_RUNTIME/case-3-browser/browser-native-form-post-body.bin"
+    },
+    {
+      "name": "case-3-after-actual-operator-click-headless.png",
+      "originalSHA256": "c49225388ea1b21de9fc408d36fbfb1ef54b0f5472723220753a683400d99ec6",
+      "originalBytes": 25020,
+      "candidate": {
+        "path": "companion-evidence/case-3-after-actual-operator-click-headless.png",
+        "sha256": "c49225388ea1b21de9fc408d36fbfb1ef54b0f5472723220753a683400d99ec6",
+        "bytes": 25020
+      },
+      "grade": "Byte-identical actual fictional native form POST body or post-click headless screenshot; no request headers, human/desktop or newtest claim.",
+      "originalRuntimeRelativePath": "ORIGINAL_RUNTIME/case-3-browser/after-operator-click-actual-headless.png"
+    }
+  ],
+  "redactions": [
+    {
+      "file": "historical-zero-baseline-readback.json",
+      "jsonPointer": "/path",
+      "originalJSONValueSha256": "3cca40333a1419151d9cf335b17dc78499953416a41ce461b8918b996fb34f05",
+      "replacement": "[OWNED_TEST_RUNTIME]/workbooks/Approval Boundary Test Log.xlsx",
+      "rule": "private header/token/session value, host-private owned-runtime prefix or completed endpoint address; never fixture values or resultcounts"
+    },
+    {
+      "file": "native-execution-1-redacted.json",
+      "jsonPointer": "/decodedNativeData/resultData/runData/Fictional case input/0/data/main/0/0/json/headers",
+      "originalJSONValueSha256": "3074e9cb4c9ada928ba237a685730ca992a21f2abb437fb731d3e5f566b6815e",
+      "replacement": "[REDACTED_PRIVATE_AUTHORIZATION_METADATA]",
+      "rule": "Whole private header/token/session field removed."
+    },
+    {
+      "file": "native-execution-1-redacted.json",
+      "jsonPointer": "/decodedNativeData/resultData/runData/Fictional case input/0/data/main/0/0/json/webhookUrl",
+      "originalJSONValueSha256": "4bad692bf25b07b4a4899b544976d22d6a1e2de9c084758aad61956bcca403d4",
+      "replacement": "[REDACTED_COMPLETED_NATIVE_ENDPOINT]",
+      "rule": "private header/token/session value, host-private owned-runtime prefix or completed endpoint address; never fixture values or resultcounts"
+    },
+    {
+      "file": "native-execution-1-redacted.json",
+      "jsonPointer": "/decodedNativeData/resultData/runData/Learner configuration/0/data/main/0/0/json/headers",
+      "originalJSONValueSha256": "3074e9cb4c9ada928ba237a685730ca992a21f2abb437fb731d3e5f566b6815e",
+      "replacement": "[REDACTED_PRIVATE_AUTHORIZATION_METADATA]",
+      "rule": "Whole private header/token/session field removed."
+    },
+    {
+      "file": "native-execution-1-redacted.json",
+      "jsonPointer": "/decodedNativeData/resultData/runData/Learner configuration/0/data/main/0/0/json/webhookUrl",
+      "originalJSONValueSha256": "4bad692bf25b07b4a4899b544976d22d6a1e2de9c084758aad61956bcca403d4",
+      "replacement": "[REDACTED_COMPLETED_NATIVE_ENDPOINT]",
+      "rule": "private header/token/session value, host-private owned-runtime prefix or completed endpoint address; never fixture values or resultcounts"
+    },
+    {
+      "file": "native-execution-1-redacted.json",
+      "jsonPointer": "/decodedNativeData/resultData/runData/Learner configuration/0/data/main/0/0/json/workbook_path",
+      "originalJSONValueSha256": "3cca40333a1419151d9cf335b17dc78499953416a41ce461b8918b996fb34f05",
+      "replacement": "[OWNED_TEST_RUNTIME]/workbooks/Approval Boundary Test Log.xlsx",
+      "rule": "private header/token/session value, host-private owned-runtime prefix or completed endpoint address; never fixture values or resultcounts"
+    },
+    {
+      "file": "native-execution-1-redacted.json",
+      "jsonPointer": "/decodedNativeData/resultData/runData/Freeze input proposal/0/data/main/0/0/json/learner_configuration/workbook_path",
+      "originalJSONValueSha256": "3cca40333a1419151d9cf335b17dc78499953416a41ce461b8918b996fb34f05",
+      "replacement": "[OWNED_TEST_RUNTIME]/workbooks/Approval Boundary Test Log.xlsx",
+      "rule": "private header/token/session value, host-private owned-runtime prefix or completed endpoint address; never fixture values or resultcounts"
+    },
+    {
+      "file": "native-execution-1-redacted.json",
+      "jsonPointer": "/decodedNativeData/resultData/runData/Return native review link/0/data/main/0/0/json/learner_configuration/workbook_path",
+      "originalJSONValueSha256": "3cca40333a1419151d9cf335b17dc78499953416a41ce461b8918b996fb34f05",
+      "replacement": "[OWNED_TEST_RUNTIME]/workbooks/Approval Boundary Test Log.xlsx",
+      "rule": "private header/token/session value, host-private owned-runtime prefix or completed endpoint address; never fixture values or resultcounts"
+    },
+    {
+      "file": "native-execution-1-redacted.json",
+      "jsonPointer": "/decodedNativeData/resultData/runData/Actual operator review/0/metadata/resumeFormUrl",
+      "originalJSONValueSha256": "7759d39c61aeee8a3b2233af1d6501944f66ae819d2b1b79807cb4b4ff001f83",
+      "replacement": "[REDACTED_COMPLETED_NATIVE_ENDPOINT]",
+      "rule": "private header/token/session value, host-private owned-runtime prefix or completed endpoint address; never fixture values or resultcounts"
+    },
+    {
+      "file": "native-execution-1-redacted.json",
+      "jsonPointer": "/decodedNativeData/resultData/runData/Bind actual review/0/data/main/0/0/json/learner_configuration/workbook_path",
+      "originalJSONValueSha256": "3cca40333a1419151d9cf335b17dc78499953416a41ce461b8918b996fb34f05",
+      "replacement": "[OWNED_TEST_RUNTIME]/workbooks/Approval Boundary Test Log.xlsx",
+      "rule": "private header/token/session value, host-private owned-runtime prefix or completed endpoint address; never fixture values or resultcounts"
+    },
+    {
+      "file": "native-execution-1-redacted.json",
+      "jsonPointer": "/decodedNativeData/resultData/runData/Complete AND Approve/0/data/main/0/0/json/learner_configuration/workbook_path",
+      "originalJSONValueSha256": "3cca40333a1419151d9cf335b17dc78499953416a41ce461b8918b996fb34f05",
+      "replacement": "[OWNED_TEST_RUNTIME]/workbooks/Approval Boundary Test Log.xlsx",
+      "rule": "private header/token/session value, host-private owned-runtime prefix or completed endpoint address; never fixture values or resultcounts"
+    },
+    {
+      "file": "native-execution-1-redacted.json",
+      "jsonPointer": "/decodedNativeData/resultData/runData/Read existing workbook/0/data/main/0/0/binary/data/directory",
+      "originalJSONValueSha256": "a2c6fac9d0749b962a34d357360d72829712bb4f3a20454dc1be80706197565a",
+      "replacement": "[OWNED_TEST_RUNTIME]/workbooks",
+      "rule": "private header/token/session value, host-private owned-runtime prefix or completed endpoint address; never fixture values or resultcounts"
+    },
+    {
+      "file": "native-execution-1-redacted.json",
+      "jsonPointer": "/decodedNativeData/resultData/runData/Persist owned workbook/0/data/main/0/0/json/fileName",
+      "originalJSONValueSha256": "3cca40333a1419151d9cf335b17dc78499953416a41ce461b8918b996fb34f05",
+      "replacement": "[OWNED_TEST_RUNTIME]/workbooks/Approval Boundary Test Log.xlsx",
+      "rule": "private header/token/session value, host-private owned-runtime prefix or completed endpoint address; never fixture values or resultcounts"
+    },
+    {
+      "file": "native-execution-1-redacted.json",
+      "jsonPointer": "/decodedNativeData/resumeToken",
+      "originalJSONValueSha256": "72c00bd60fba07af32d44f9bfedf02db0cbbc46b1e633abea5b0d4f4653114ce",
+      "replacement": "[REDACTED_PRIVATE_AUTHORIZATION_METADATA]",
+      "rule": "Whole private header/token/session field removed."
+    },
+    {
+      "file": "workbook-after-case-1.json",
+      "jsonPointer": "/actualReview/learner_configuration/workbook_path",
+      "originalJSONValueSha256": "3cca40333a1419151d9cf335b17dc78499953416a41ce461b8918b996fb34f05",
+      "replacement": "[OWNED_TEST_RUNTIME]/workbooks/Approval Boundary Test Log.xlsx",
+      "rule": "private header/token/session value, host-private owned-runtime prefix or completed endpoint address; never fixture values or resultcounts"
+    },
+    {
+      "file": "workbook-after-case-1.json",
+      "jsonPointer": "/beforeWorkbook/path",
+      "originalJSONValueSha256": "3cca40333a1419151d9cf335b17dc78499953416a41ce461b8918b996fb34f05",
+      "replacement": "[OWNED_TEST_RUNTIME]/workbooks/Approval Boundary Test Log.xlsx",
+      "rule": "private header/token/session value, host-private owned-runtime prefix or completed endpoint address; never fixture values or resultcounts"
+    },
+    {
+      "file": "workbook-after-case-1.json",
+      "jsonPointer": "/independentAfterWorkbookRead/path",
+      "originalJSONValueSha256": "3cca40333a1419151d9cf335b17dc78499953416a41ce461b8918b996fb34f05",
+      "replacement": "[OWNED_TEST_RUNTIME]/workbooks/Approval Boundary Test Log.xlsx",
+      "rule": "private header/token/session value, host-private owned-runtime prefix or completed endpoint address; never fixture values or resultcounts"
+    },
+    {
+      "file": "case-1-submitted-redacted.json",
+      "jsonPointer": "/actualReply/review_url",
+      "originalJSONValueSha256": "7759d39c61aeee8a3b2233af1d6501944f66ae819d2b1b79807cb4b4ff001f83",
+      "replacement": "[REDACTED_COMPLETED_NATIVE_ENDPOINT]",
+      "rule": "private header/token/session value, host-private owned-runtime prefix or completed endpoint address; never fixture values or resultcounts"
+    },
+    {
+      "file": "case-1-browser-process-redacted.json",
+      "jsonPointer": "/root",
+      "originalJSONValueSha256": "b08e1dd250584c31b148d9e28e5b0c63c72614402d16e304689e721943821b32",
+      "replacement": "[OWNED_TEST_RUNTIME]/case-1-browser",
+      "rule": "private header/token/session value, host-private owned-runtime prefix or completed endpoint address; never fixture values or resultcounts"
+    },
+    {
+      "file": "case-1-browser-native-form-post-intent-redacted.json",
+      "jsonPointer": "/url",
+      "originalJSONValueSha256": "7759d39c61aeee8a3b2233af1d6501944f66ae819d2b1b79807cb4b4ff001f83",
+      "replacement": "[REDACTED_COMPLETED_NATIVE_ENDPOINT]",
+      "rule": "private header/token/session value, host-private owned-runtime prefix or completed endpoint address; never fixture values or resultcounts"
+    },
+    {
+      "file": "case-1-browser-native-form-post-intent-redacted.json",
+      "jsonPointer": "/headers",
+      "originalJSONValueSha256": "cafa1d784f61fba072bbc1aef0b7fd2df06a6243aa0165b55978c2d12e4731a9",
+      "replacement": "[REDACTED_PRIVATE_AUTHORIZATION_METADATA]",
+      "rule": "Whole private header/token/session field removed."
+    },
+    {
+      "file": "case-1-browser-native-post-response-redacted.json",
+      "jsonPointer": "/url",
+      "originalJSONValueSha256": "7759d39c61aeee8a3b2233af1d6501944f66ae819d2b1b79807cb4b4ff001f83",
+      "replacement": "[REDACTED_COMPLETED_NATIVE_ENDPOINT]",
+      "rule": "private header/token/session value, host-private owned-runtime prefix or completed endpoint address; never fixture values or resultcounts"
+    },
+    {
+      "file": "case-1-browser-native-post-response-redacted.json",
+      "jsonPointer": "/headers",
+      "originalJSONValueSha256": "1689ba286a42f80cfecf4d2d7f205213795e4b2a4f24ef74cc8d7b6469452670",
+      "replacement": "[REDACTED_PRIVATE_AUTHORIZATION_METADATA]",
+      "rule": "Whole private header/token/session field removed."
+    },
+    {
+      "file": "case-1-browser-operator-result-redacted.json",
+      "jsonPointer": "/requests/0/url",
+      "originalJSONValueSha256": "7759d39c61aeee8a3b2233af1d6501944f66ae819d2b1b79807cb4b4ff001f83",
+      "replacement": "[REDACTED_COMPLETED_NATIVE_ENDPOINT]",
+      "rule": "private header/token/session value, host-private owned-runtime prefix or completed endpoint address; never fixture values or resultcounts"
+    },
+    {
+      "file": "case-1-browser-operator-result-redacted.json",
+      "jsonPointer": "/requests/2/url",
+      "originalJSONValueSha256": "7759d39c61aeee8a3b2233af1d6501944f66ae819d2b1b79807cb4b4ff001f83",
+      "replacement": "[REDACTED_COMPLETED_NATIVE_ENDPOINT]",
+      "rule": "private header/token/session value, host-private owned-runtime prefix or completed endpoint address; never fixture values or resultcounts"
+    },
+    {
+      "file": "native-execution-2-redacted.json",
+      "jsonPointer": "/decodedNativeData/resultData/runData/Fictional case input/0/data/main/0/0/json/headers",
+      "originalJSONValueSha256": "736b2fa4dccda455515074edb966d200f0930c57b9474c1e31ac7dd46c28d6a9",
+      "replacement": "[REDACTED_PRIVATE_AUTHORIZATION_METADATA]",
+      "rule": "Whole private header/token/session field removed."
+    },
+    {
+      "file": "native-execution-2-redacted.json",
+      "jsonPointer": "/decodedNativeData/resultData/runData/Fictional case input/0/data/main/0/0/json/webhookUrl",
+      "originalJSONValueSha256": "4bad692bf25b07b4a4899b544976d22d6a1e2de9c084758aad61956bcca403d4",
+      "replacement": "[REDACTED_COMPLETED_NATIVE_ENDPOINT]",
+      "rule": "private header/token/session value, host-private owned-runtime prefix or completed endpoint address; never fixture values or resultcounts"
+    },
+    {
+      "file": "native-execution-2-redacted.json",
+      "jsonPointer": "/decodedNativeData/resultData/runData/Learner configuration/0/data/main/0/0/json/headers",
+      "originalJSONValueSha256": "736b2fa4dccda455515074edb966d200f0930c57b9474c1e31ac7dd46c28d6a9",
+      "replacement": "[REDACTED_PRIVATE_AUTHORIZATION_METADATA]",
+      "rule": "Whole private header/token/session field removed."
+    },
+    {
+      "file": "native-execution-2-redacted.json",
+      "jsonPointer": "/decodedNativeData/resultData/runData/Learner configuration/0/data/main/0/0/json/webhookUrl",
+      "originalJSONValueSha256": "4bad692bf25b07b4a4899b544976d22d6a1e2de9c084758aad61956bcca403d4",
+      "replacement": "[REDACTED_COMPLETED_NATIVE_ENDPOINT]",
+      "rule": "private header/token/session value, host-private owned-runtime prefix or completed endpoint address; never fixture values or resultcounts"
+    },
+    {
+      "file": "native-execution-2-redacted.json",
+      "jsonPointer": "/decodedNativeData/resultData/runData/Learner configuration/0/data/main/0/0/json/workbook_path",
+      "originalJSONValueSha256": "3cca40333a1419151d9cf335b17dc78499953416a41ce461b8918b996fb34f05",
+      "replacement": "[OWNED_TEST_RUNTIME]/workbooks/Approval Boundary Test Log.xlsx",
+      "rule": "private header/token/session value, host-private owned-runtime prefix or completed endpoint address; never fixture values or resultcounts"
+    },
+    {
+      "file": "native-execution-2-redacted.json",
+      "jsonPointer": "/decodedNativeData/resultData/runData/Freeze input proposal/0/data/main/0/0/json/learner_configuration/workbook_path",
+      "originalJSONValueSha256": "3cca40333a1419151d9cf335b17dc78499953416a41ce461b8918b996fb34f05",
+      "replacement": "[OWNED_TEST_RUNTIME]/workbooks/Approval Boundary Test Log.xlsx",
+      "rule": "private header/token/session value, host-private owned-runtime prefix or completed endpoint address; never fixture values or resultcounts"
+    },
+    {
+      "file": "native-execution-2-redacted.json",
+      "jsonPointer": "/decodedNativeData/resultData/runData/Return native review link/0/data/main/0/0/json/learner_configuration/workbook_path",
+      "originalJSONValueSha256": "3cca40333a1419151d9cf335b17dc78499953416a41ce461b8918b996fb34f05",
+      "replacement": "[OWNED_TEST_RUNTIME]/workbooks/Approval Boundary Test Log.xlsx",
+      "rule": "private header/token/session value, host-private owned-runtime prefix or completed endpoint address; never fixture values or resultcounts"
+    },
+    {
+      "file": "native-execution-2-redacted.json",
+      "jsonPointer": "/decodedNativeData/resultData/runData/Actual operator review/0/metadata/resumeFormUrl",
+      "originalJSONValueSha256": "b03ac114f235c894978ca2a5b91216781ccc221b99ea4b71c33f5629da255acb",
+      "replacement": "[REDACTED_COMPLETED_NATIVE_ENDPOINT]",
+      "rule": "private header/token/session value, host-private owned-runtime prefix or completed endpoint address; never fixture values or resultcounts"
+    },
+    {
+      "file": "native-execution-2-redacted.json",
+      "jsonPointer": "/decodedNativeData/resultData/runData/Bind actual review/0/data/main/0/0/json/learner_configuration/workbook_path",
+      "originalJSONValueSha256": "3cca40333a1419151d9cf335b17dc78499953416a41ce461b8918b996fb34f05",
+      "replacement": "[OWNED_TEST_RUNTIME]/workbooks/Approval Boundary Test Log.xlsx",
+      "rule": "private header/token/session value, host-private owned-runtime prefix or completed endpoint address; never fixture values or resultcounts"
+    },
+    {
+      "file": "native-execution-2-redacted.json",
+      "jsonPointer": "/decodedNativeData/resultData/runData/Complete AND Approve/0/data/main/1/0/json/learner_configuration/workbook_path",
+      "originalJSONValueSha256": "3cca40333a1419151d9cf335b17dc78499953416a41ce461b8918b996fb34f05",
+      "replacement": "[OWNED_TEST_RUNTIME]/workbooks/Approval Boundary Test Log.xlsx",
+      "rule": "private header/token/session value, host-private owned-runtime prefix or completed endpoint address; never fixture values or resultcounts"
+    },
+    {
+      "file": "native-execution-2-redacted.json",
+      "jsonPointer": "/decodedNativeData/resumeToken",
+      "originalJSONValueSha256": "275f2e4c6983513e146b243c6a3465b3ebc4eae28d999de66a8e9086ae18a013",
+      "replacement": "[REDACTED_PRIVATE_AUTHORIZATION_METADATA]",
+      "rule": "Whole private header/token/session field removed."
+    },
+    {
+      "file": "workbook-after-case-2.json",
+      "jsonPointer": "/actualReview/learner_configuration/workbook_path",
+      "originalJSONValueSha256": "3cca40333a1419151d9cf335b17dc78499953416a41ce461b8918b996fb34f05",
+      "replacement": "[OWNED_TEST_RUNTIME]/workbooks/Approval Boundary Test Log.xlsx",
+      "rule": "private header/token/session value, host-private owned-runtime prefix or completed endpoint address; never fixture values or resultcounts"
+    },
+    {
+      "file": "workbook-after-case-2.json",
+      "jsonPointer": "/beforeWorkbook/path",
+      "originalJSONValueSha256": "3cca40333a1419151d9cf335b17dc78499953416a41ce461b8918b996fb34f05",
+      "replacement": "[OWNED_TEST_RUNTIME]/workbooks/Approval Boundary Test Log.xlsx",
+      "rule": "private header/token/session value, host-private owned-runtime prefix or completed endpoint address; never fixture values or resultcounts"
+    },
+    {
+      "file": "workbook-after-case-2.json",
+      "jsonPointer": "/independentAfterWorkbookRead/path",
+      "originalJSONValueSha256": "3cca40333a1419151d9cf335b17dc78499953416a41ce461b8918b996fb34f05",
+      "replacement": "[OWNED_TEST_RUNTIME]/workbooks/Approval Boundary Test Log.xlsx",
+      "rule": "private header/token/session value, host-private owned-runtime prefix or completed endpoint address; never fixture values or resultcounts"
+    },
+    {
+      "file": "case-2-submitted-redacted.json",
+      "jsonPointer": "/actualReply/review_url",
+      "originalJSONValueSha256": "b03ac114f235c894978ca2a5b91216781ccc221b99ea4b71c33f5629da255acb",
+      "replacement": "[REDACTED_COMPLETED_NATIVE_ENDPOINT]",
+      "rule": "private header/token/session value, host-private owned-runtime prefix or completed endpoint address; never fixture values or resultcounts"
+    },
+    {
+      "file": "case-2-browser-process-redacted.json",
+      "jsonPointer": "/root",
+      "originalJSONValueSha256": "db3f935c15c33beedbf7851b84bfa9fd6677eedc15f81e179942a490164490b4",
+      "replacement": "[OWNED_TEST_RUNTIME]/case-2-browser",
+      "rule": "private header/token/session value, host-private owned-runtime prefix or completed endpoint address; never fixture values or resultcounts"
+    },
+    {
+      "file": "case-2-browser-native-form-post-intent-redacted.json",
+      "jsonPointer": "/url",
+      "originalJSONValueSha256": "b03ac114f235c894978ca2a5b91216781ccc221b99ea4b71c33f5629da255acb",
+      "replacement": "[REDACTED_COMPLETED_NATIVE_ENDPOINT]",
+      "rule": "private header/token/session value, host-private owned-runtime prefix or completed endpoint address; never fixture values or resultcounts"
+    },
+    {
+      "file": "case-2-browser-native-form-post-intent-redacted.json",
+      "jsonPointer": "/headers",
+      "originalJSONValueSha256": "7b92cac9ffce345f94391dbec42a044f220a9dbdba0712a20902750b7ad2c1ba",
+      "replacement": "[REDACTED_PRIVATE_AUTHORIZATION_METADATA]",
+      "rule": "Whole private header/token/session field removed."
+    },
+    {
+      "file": "case-2-browser-native-post-response-redacted.json",
+      "jsonPointer": "/url",
+      "originalJSONValueSha256": "b03ac114f235c894978ca2a5b91216781ccc221b99ea4b71c33f5629da255acb",
+      "replacement": "[REDACTED_COMPLETED_NATIVE_ENDPOINT]",
+      "rule": "private header/token/session value, host-private owned-runtime prefix or completed endpoint address; never fixture values or resultcounts"
+    },
+    {
+      "file": "case-2-browser-native-post-response-redacted.json",
+      "jsonPointer": "/headers",
+      "originalJSONValueSha256": "1594b36b8b976557815dc57760d45f0ae951cdb930587723d2302fa49f351b9a",
+      "replacement": "[REDACTED_PRIVATE_AUTHORIZATION_METADATA]",
+      "rule": "Whole private header/token/session field removed."
+    },
+    {
+      "file": "case-2-browser-operator-result-redacted.json",
+      "jsonPointer": "/requests/0/url",
+      "originalJSONValueSha256": "b03ac114f235c894978ca2a5b91216781ccc221b99ea4b71c33f5629da255acb",
+      "replacement": "[REDACTED_COMPLETED_NATIVE_ENDPOINT]",
+      "rule": "private header/token/session value, host-private owned-runtime prefix or completed endpoint address; never fixture values or resultcounts"
+    },
+    {
+      "file": "case-2-browser-operator-result-redacted.json",
+      "jsonPointer": "/requests/2/url",
+      "originalJSONValueSha256": "b03ac114f235c894978ca2a5b91216781ccc221b99ea4b71c33f5629da255acb",
+      "replacement": "[REDACTED_COMPLETED_NATIVE_ENDPOINT]",
+      "rule": "private header/token/session value, host-private owned-runtime prefix or completed endpoint address; never fixture values or resultcounts"
+    },
+    {
+      "file": "native-execution-3-redacted.json",
+      "jsonPointer": "/decodedNativeData/resultData/runData/Fictional case input/0/data/main/0/0/json/headers",
+      "originalJSONValueSha256": "aca693ba23bf544d4e4303cc071d531df8b2b2371fd1b495c04a4545849f8abf",
+      "replacement": "[REDACTED_PRIVATE_AUTHORIZATION_METADATA]",
+      "rule": "Whole private header/token/session field removed."
+    },
+    {
+      "file": "native-execution-3-redacted.json",
+      "jsonPointer": "/decodedNativeData/resultData/runData/Fictional case input/0/data/main/0/0/json/webhookUrl",
+      "originalJSONValueSha256": "4bad692bf25b07b4a4899b544976d22d6a1e2de9c084758aad61956bcca403d4",
+      "replacement": "[REDACTED_COMPLETED_NATIVE_ENDPOINT]",
+      "rule": "private header/token/session value, host-private owned-runtime prefix or completed endpoint address; never fixture values or resultcounts"
+    },
+    {
+      "file": "native-execution-3-redacted.json",
+      "jsonPointer": "/decodedNativeData/resultData/runData/Learner configuration/0/data/main/0/0/json/headers",
+      "originalJSONValueSha256": "aca693ba23bf544d4e4303cc071d531df8b2b2371fd1b495c04a4545849f8abf",
+      "replacement": "[REDACTED_PRIVATE_AUTHORIZATION_METADATA]",
+      "rule": "Whole private header/token/session field removed."
+    },
+    {
+      "file": "native-execution-3-redacted.json",
+      "jsonPointer": "/decodedNativeData/resultData/runData/Learner configuration/0/data/main/0/0/json/webhookUrl",
+      "originalJSONValueSha256": "4bad692bf25b07b4a4899b544976d22d6a1e2de9c084758aad61956bcca403d4",
+      "replacement": "[REDACTED_COMPLETED_NATIVE_ENDPOINT]",
+      "rule": "private header/token/session value, host-private owned-runtime prefix or completed endpoint address; never fixture values or resultcounts"
+    },
+    {
+      "file": "native-execution-3-redacted.json",
+      "jsonPointer": "/decodedNativeData/resultData/runData/Learner configuration/0/data/main/0/0/json/workbook_path",
+      "originalJSONValueSha256": "3cca40333a1419151d9cf335b17dc78499953416a41ce461b8918b996fb34f05",
+      "replacement": "[OWNED_TEST_RUNTIME]/workbooks/Approval Boundary Test Log.xlsx",
+      "rule": "private header/token/session value, host-private owned-runtime prefix or completed endpoint address; never fixture values or resultcounts"
+    },
+    {
+      "file": "native-execution-3-redacted.json",
+      "jsonPointer": "/decodedNativeData/resultData/runData/Freeze input proposal/0/data/main/0/0/json/learner_configuration/workbook_path",
+      "originalJSONValueSha256": "3cca40333a1419151d9cf335b17dc78499953416a41ce461b8918b996fb34f05",
+      "replacement": "[OWNED_TEST_RUNTIME]/workbooks/Approval Boundary Test Log.xlsx",
+      "rule": "private header/token/session value, host-private owned-runtime prefix or completed endpoint address; never fixture values or resultcounts"
+    },
+    {
+      "file": "native-execution-3-redacted.json",
+      "jsonPointer": "/decodedNativeData/resultData/runData/Return native review link/0/data/main/0/0/json/learner_configuration/workbook_path",
+      "originalJSONValueSha256": "3cca40333a1419151d9cf335b17dc78499953416a41ce461b8918b996fb34f05",
+      "replacement": "[OWNED_TEST_RUNTIME]/workbooks/Approval Boundary Test Log.xlsx",
+      "rule": "private header/token/session value, host-private owned-runtime prefix or completed endpoint address; never fixture values or resultcounts"
+    },
+    {
+      "file": "native-execution-3-redacted.json",
+      "jsonPointer": "/decodedNativeData/resultData/runData/Actual operator review/0/metadata/resumeFormUrl",
+      "originalJSONValueSha256": "e103c805fc76ed0a5071beb1a343917d49a3c01e882c5f7d2499cbf554d9e8ce",
+      "replacement": "[REDACTED_COMPLETED_NATIVE_ENDPOINT]",
+      "rule": "private header/token/session value, host-private owned-runtime prefix or completed endpoint address; never fixture values or resultcounts"
+    },
+    {
+      "file": "native-execution-3-redacted.json",
+      "jsonPointer": "/decodedNativeData/resultData/runData/Bind actual review/0/data/main/0/0/json/learner_configuration/workbook_path",
+      "originalJSONValueSha256": "3cca40333a1419151d9cf335b17dc78499953416a41ce461b8918b996fb34f05",
+      "replacement": "[OWNED_TEST_RUNTIME]/workbooks/Approval Boundary Test Log.xlsx",
+      "rule": "private header/token/session value, host-private owned-runtime prefix or completed endpoint address; never fixture values or resultcounts"
+    },
+    {
+      "file": "native-execution-3-redacted.json",
+      "jsonPointer": "/decodedNativeData/resultData/runData/Complete AND Approve/0/data/main/1/0/json/learner_configuration/workbook_path",
+      "originalJSONValueSha256": "3cca40333a1419151d9cf335b17dc78499953416a41ce461b8918b996fb34f05",
+      "replacement": "[OWNED_TEST_RUNTIME]/workbooks/Approval Boundary Test Log.xlsx",
+      "rule": "private header/token/session value, host-private owned-runtime prefix or completed endpoint address; never fixture values or resultcounts"
+    },
+    {
+      "file": "native-execution-3-redacted.json",
+      "jsonPointer": "/decodedNativeData/resumeToken",
+      "originalJSONValueSha256": "ef27329de035cd758cf86e5474c43f6a6cb5aafa4813350c25a95f4085c78684",
+      "replacement": "[REDACTED_PRIVATE_AUTHORIZATION_METADATA]",
+      "rule": "Whole private header/token/session field removed."
+    },
+    {
+      "file": "workbook-after-case-3.json",
+      "jsonPointer": "/actualReview/learner_configuration/workbook_path",
+      "originalJSONValueSha256": "3cca40333a1419151d9cf335b17dc78499953416a41ce461b8918b996fb34f05",
+      "replacement": "[OWNED_TEST_RUNTIME]/workbooks/Approval Boundary Test Log.xlsx",
+      "rule": "private header/token/session value, host-private owned-runtime prefix or completed endpoint address; never fixture values or resultcounts"
+    },
+    {
+      "file": "workbook-after-case-3.json",
+      "jsonPointer": "/beforeWorkbook/path",
+      "originalJSONValueSha256": "3cca40333a1419151d9cf335b17dc78499953416a41ce461b8918b996fb34f05",
+      "replacement": "[OWNED_TEST_RUNTIME]/workbooks/Approval Boundary Test Log.xlsx",
+      "rule": "private header/token/session value, host-private owned-runtime prefix or completed endpoint address; never fixture values or resultcounts"
+    },
+    {
+      "file": "workbook-after-case-3.json",
+      "jsonPointer": "/independentAfterWorkbookRead/path",
+      "originalJSONValueSha256": "3cca40333a1419151d9cf335b17dc78499953416a41ce461b8918b996fb34f05",
+      "replacement": "[OWNED_TEST_RUNTIME]/workbooks/Approval Boundary Test Log.xlsx",
+      "rule": "private header/token/session value, host-private owned-runtime prefix or completed endpoint address; never fixture values or resultcounts"
+    },
+    {
+      "file": "case-3-submitted-redacted.json",
+      "jsonPointer": "/actualReply/review_url",
+      "originalJSONValueSha256": "e103c805fc76ed0a5071beb1a343917d49a3c01e882c5f7d2499cbf554d9e8ce",
+      "replacement": "[REDACTED_COMPLETED_NATIVE_ENDPOINT]",
+      "rule": "private header/token/session value, host-private owned-runtime prefix or completed endpoint address; never fixture values or resultcounts"
+    },
+    {
+      "file": "case-3-browser-process-redacted.json",
+      "jsonPointer": "/root",
+      "originalJSONValueSha256": "4ef9cf6d00ab2dca1cdc982206ff994d7ac82471240d9d2a4f49381d002f98ab",
+      "replacement": "[OWNED_TEST_RUNTIME]/case-3-browser",
+      "rule": "private header/token/session value, host-private owned-runtime prefix or completed endpoint address; never fixture values or resultcounts"
+    },
+    {
+      "file": "case-3-browser-native-form-post-intent-redacted.json",
+      "jsonPointer": "/url",
+      "originalJSONValueSha256": "e103c805fc76ed0a5071beb1a343917d49a3c01e882c5f7d2499cbf554d9e8ce",
+      "replacement": "[REDACTED_COMPLETED_NATIVE_ENDPOINT]",
+      "rule": "private header/token/session value, host-private owned-runtime prefix or completed endpoint address; never fixture values or resultcounts"
+    },
+    {
+      "file": "case-3-browser-native-form-post-intent-redacted.json",
+      "jsonPointer": "/headers",
+      "originalJSONValueSha256": "3d8abec9f9c3352bc3c5df9106af5b7dce7b0a3720253bc3600d7e07d6a42ad4",
+      "replacement": "[REDACTED_PRIVATE_AUTHORIZATION_METADATA]",
+      "rule": "Whole private header/token/session field removed."
+    },
+    {
+      "file": "case-3-browser-native-post-response-redacted.json",
+      "jsonPointer": "/url",
+      "originalJSONValueSha256": "e103c805fc76ed0a5071beb1a343917d49a3c01e882c5f7d2499cbf554d9e8ce",
+      "replacement": "[REDACTED_COMPLETED_NATIVE_ENDPOINT]",
+      "rule": "private header/token/session value, host-private owned-runtime prefix or completed endpoint address; never fixture values or resultcounts"
+    },
+    {
+      "file": "case-3-browser-native-post-response-redacted.json",
+      "jsonPointer": "/headers",
+      "originalJSONValueSha256": "cfdf887e0186525e8162c7f3b481ac7600ce075d44dde870cf338d54c1bbd636",
+      "replacement": "[REDACTED_PRIVATE_AUTHORIZATION_METADATA]",
+      "rule": "Whole private header/token/session field removed."
+    },
+    {
+      "file": "case-3-browser-operator-result-redacted.json",
+      "jsonPointer": "/requests/0/url",
+      "originalJSONValueSha256": "e103c805fc76ed0a5071beb1a343917d49a3c01e882c5f7d2499cbf554d9e8ce",
+      "replacement": "[REDACTED_COMPLETED_NATIVE_ENDPOINT]",
+      "rule": "private header/token/session value, host-private owned-runtime prefix or completed endpoint address; never fixture values or resultcounts"
+    },
+    {
+      "file": "case-3-browser-operator-result-redacted.json",
+      "jsonPointer": "/requests/2/url",
+      "originalJSONValueSha256": "e103c805fc76ed0a5071beb1a343917d49a3c01e882c5f7d2499cbf554d9e8ce",
+      "replacement": "[REDACTED_COMPLETED_NATIVE_ENDPOINT]",
+      "rule": "private header/token/session value, host-private owned-runtime prefix or completed endpoint address; never fixture values or resultcounts"
+    }
+  ],
+  "privateOriginalsUnchanged": true,
+  "knownLimits": [
+    "Physical prewrite XLSX cc0ef880 absent; this full baselineJSON receipt is authentic available evidence.",
+    "All original before-submit images remain in unchanged current25; added actual post-click images are not a fresh run or human review.",
+    "Public-safe native histories are transparently redacted observations, not importable workflow replacements.",
+    "No private DB/config/cookie/browserprofile/authorization included; no new nativeGUI/Calc/video evidence inferred."
+  ]
+}

@@ -1,0 +1,388 @@
+{
+  "execution": {
+    "id": 3,
+    "workflowId": "AcademyL204OwnedFeasibility",
+    "finished": 1,
+    "mode": "webhook",
+    "retryOf": null,
+    "retrySuccessId": null,
+    "startedAt": "2026-11-12 22:28:26.605",
+    "stoppedAt": "2026-11-12 22:28:37.706",
+    "waitTill": null,
+    "status": "success",
+    "deletedAt": null,
+    "createdAt": "2026-11-12 22:28:26.600",
+    "storedAt": "db",
+    "tracingContext": null,
+    "deduplicationKey": null,
+    "jsonSizeBytes": 19558,
+    "workflowVersionId": "49e677f2-3884-4032-ad4c-c6bb95f1e48c",
+    "binaryDataSizeBytes": 0,
+    "usedPrivateCredentials": 0,
+    "resumeAttempts": 0
+  },
+  "decodedNativeData": {
+    "version": 1,
+    "startData": {},
+    "resultData": {
+      "runData": {
+        "Fictional case input": [
+          {
+            "startTime": 1794522506621,
+            "executionIndex": 0,
+            "source": [],
+            "hints": [],
+            "executionTime": 1,
+            "executionStatus": "success",
+            "data": {
+              "main": [
+                [
+                  {
+                    "json": {
+                      "headers": "[REDACTED_PRIVATE_AUTHORIZATION_METADATA]",
+                      "params": {},
+                      "query": {},
+                      "body": {
+                        "fixture": {
+                          "case_id": "INCOMPLETE-204-C",
+                          "proposed_action": "Add a test record",
+                          "destination": "",
+                          "final_content": "Incomplete boundary test",
+                          "supporting_information": "Fictional training case",
+                          "test_mode": true,
+                          "proposal_version": 1
+                        }
+                      },
+                      "webhookUrl": "[REDACTED_COMPLETED_NATIVE_ENDPOINT]",
+                      "executionMode": "production"
+                    },
+                    "pairedItem": {
+                      "item": 0
+                    }
+                  }
+                ]
+              ]
+            }
+          }
+        ],
+        "Learner configuration": [
+          {
+            "startTime": 1794522506630,
+            "executionIndex": 1,
+            "source": [
+              {
+                "previousNode": "Fictional case input",
+                "previousNodeOutput": 0,
+                "previousNodeRun": 0
+              }
+            ],
+            "hints": [],
+            "executionTime": 2,
+            "executionStatus": "success",
+            "data": {
+              "main": [
+                [
+                  {
+                    "json": {
+                      "headers": "[REDACTED_PRIVATE_AUTHORIZATION_METADATA]",
+                      "params": {},
+                      "query": {},
+                      "body": {
+                        "fixture": {
+                          "case_id": "INCOMPLETE-204-C",
+                          "proposed_action": "Add a test record",
+                          "destination": "",
+                          "final_content": "Incomplete boundary test",
+                          "supporting_information": "Fictional training case",
+                          "test_mode": true,
+                          "proposal_version": 1
+                        }
+                      },
+                      "webhookUrl": "[REDACTED_COMPLETED_NATIVE_ENDPOINT]",
+                      "executionMode": "production",
+                      "workbook_path": "[OWNED_TEST_RUNTIME]/workbooks/Approval Boundary Test Log.xlsx",
+                      "operator_name": "/root/practical_group_2/restore_lesson204",
+                      "operator_kind": "Test fixture operator",
+                      "session_expires_at": "2026-11-12T22:55:31.348455+00:00"
+                    },
+                    "pairedItem": {
+                      "item": 0
+                    }
+                  }
+                ]
+              ]
+            }
+          }
+        ],
+        "Freeze input proposal": [
+          {
+            "startTime": 1794522506640,
+            "executionIndex": 2,
+            "source": [
+              {
+                "previousNode": "Learner configuration",
+                "previousNodeOutput": 0,
+                "previousNodeRun": 0
+              }
+            ],
+            "hints": [],
+            "executionTime": 14,
+            "executionStatus": "success",
+            "data": {
+              "main": [
+                [
+                  {
+                    "json": {
+                      "case_id": "INCOMPLETE-204-C",
+                      "proposed_action": "Add a test record",
+                      "destination": "",
+                      "final_content": "Incomplete boundary test",
+                      "supporting_information": "Fictional training case",
+                      "test_mode": true,
+                      "proposal_version": 1,
+                      "validation": "Incomplete",
+                      "missing_fields": [
+                        "destination"
+                      ],
+                      "proposal_snapshot": "{\"case_id\":\"INCOMPLETE-204-C\",\"proposed_action\":\"Add a test record\",\"destination\":\"\",\"final_content\":\"Incomplete boundary test\",\"supporting_information\":\"Fictional training case\",\"test_mode\":true,\"proposal_version\":1}",
+                      "execution_id": "3",
+                      "learner_configuration": {
+                        "workbook_path": "[OWNED_TEST_RUNTIME]/workbooks/Approval Boundary Test Log.xlsx",
+                        "operator_name": "/root/practical_group_2/restore_lesson204",
+                        "operator_kind": "Test fixture operator",
+                        "session_expires_at": "2026-11-12T22:55:31.348455+00:00"
+                      }
+                    },
+                    "pairedItem": {
+                      "item": 0
+                    }
+                  }
+                ]
+              ]
+            }
+          }
+        ],
+        "Return native review link": [
+          {
+            "startTime": 1794522506666,
+            "executionIndex": 3,
+            "source": [
+              {
+                "previousNode": "Freeze input proposal",
+                "previousNodeOutput": 0,
+                "previousNodeRun": 0
+              }
+            ],
+            "hints": [],
+            "executionTime": 14,
+            "executionStatus": "success",
+            "data": {
+              "main": [
+                [
+                  {
+                    "json": {
+                      "case_id": "INCOMPLETE-204-C",
+                      "proposed_action": "Add a test record",
+                      "destination": "",
+                      "final_content": "Incomplete boundary test",
+                      "supporting_information": "Fictional training case",
+                      "test_mode": true,
+                      "proposal_version": 1,
+                      "validation": "Incomplete",
+                      "missing_fields": [
+                        "destination"
+                      ],
+                      "proposal_snapshot": "{\"case_id\":\"INCOMPLETE-204-C\",\"proposed_action\":\"Add a test record\",\"destination\":\"\",\"final_content\":\"Incomplete boundary test\",\"supporting_information\":\"Fictional training case\",\"test_mode\":true,\"proposal_version\":1}",
+                      "execution_id": "3",
+                      "learner_configuration": {
+                        "workbook_path": "[OWNED_TEST_RUNTIME]/workbooks/Approval Boundary Test Log.xlsx",
+                        "operator_name": "/root/practical_group_2/restore_lesson204",
+                        "operator_kind": "Test fixture operator",
+                        "session_expires_at": "2026-11-12T22:55:31.348455+00:00"
+                      }
+                    },
+                    "pairedItem": {
+                      "item": 0
+                    }
+                  }
+                ]
+              ]
+            }
+          }
+        ],
+        "Actual operator review": [
+          {
+            "startTime": 1794522517634,
+            "executionIndex": 0,
+            "source": [
+              {
+                "previousNode": "Return native review link",
+                "previousNodeOutput": 0,
+                "previousNodeRun": 0
+              }
+            ],
+            "hints": [],
+            "executionTime": 2,
+            "metadata": {
+              "resumeFormUrl": "[REDACTED_COMPLETED_NATIVE_ENDPOINT]",
+              "forwardAllOutputs": true
+            },
+            "executionStatus": "success",
+            "data": {
+              "main": [
+                [
+                  {
+                    "json": {
+                      "Reviewed Case ID": "INCOMPLETE-204-C",
+                      "Reviewed version": "1",
+                      "Decision": "Approve",
+                      "Operator kind": "Test fixture operator",
+                      "Operator name": "/root/practical_group_2/restore_lesson204",
+                      "submittedAt": "2026-11-12T22:28:37.467Z",
+                      "formMode": "production"
+                    },
+                    "pairedItem": {
+                      "item": 0
+                    }
+                  }
+                ]
+              ]
+            }
+          }
+        ],
+        "Bind actual review": [
+          {
+            "startTime": 1794522517650,
+            "executionIndex": 1,
+            "source": [
+              {
+                "previousNode": "Actual operator review",
+                "previousNodeOutput": 0,
+                "previousNodeRun": 0
+              }
+            ],
+            "hints": [],
+            "executionTime": 15,
+            "executionStatus": "success",
+            "data": {
+              "main": [
+                [
+                  {
+                    "json": {
+                      "case_id": "INCOMPLETE-204-C",
+                      "proposed_action": "Add a test record",
+                      "destination": "",
+                      "final_content": "Incomplete boundary test",
+                      "supporting_information": "Fictional training case",
+                      "test_mode": true,
+                      "proposal_version": 1,
+                      "validation": "Incomplete",
+                      "missing_fields": [
+                        "destination"
+                      ],
+                      "proposal_snapshot": "{\"case_id\":\"INCOMPLETE-204-C\",\"proposed_action\":\"Add a test record\",\"destination\":\"\",\"final_content\":\"Incomplete boundary test\",\"supporting_information\":\"Fictional training case\",\"test_mode\":true,\"proposal_version\":1}",
+                      "execution_id": "3",
+                      "learner_configuration": {
+                        "workbook_path": "[OWNED_TEST_RUNTIME]/workbooks/Approval Boundary Test Log.xlsx",
+                        "operator_name": "/root/practical_group_2/restore_lesson204",
+                        "operator_kind": "Test fixture operator",
+                        "session_expires_at": "2026-11-12T22:55:31.348455+00:00"
+                      },
+                      "decision": "Approve",
+                      "operator_kind": "Test fixture operator",
+                      "operator_name": "/root/practical_group_2/restore_lesson204",
+                      "reviewed_version_unchanged": true,
+                      "decision_timestamp": "2026-11-12T22:28:37.663Z",
+                      "human_signoff_claim": "NOT HUMAN SIGNOFF"
+                    },
+                    "pairedItem": {
+                      "item": 0
+                    }
+                  }
+                ]
+              ]
+            }
+          }
+        ],
+        "Complete AND Approve": [
+          {
+            "startTime": 1794522517679,
+            "executionIndex": 2,
+            "source": [
+              {
+                "previousNode": "Bind actual review",
+                "previousNodeOutput": 0,
+                "previousNodeRun": 0
+              }
+            ],
+            "hints": [],
+            "executionTime": 14,
+            "executionStatus": "success",
+            "data": {
+              "main": [
+                [],
+                [
+                  {
+                    "json": {
+                      "case_id": "INCOMPLETE-204-C",
+                      "proposed_action": "Add a test record",
+                      "destination": "",
+                      "final_content": "Incomplete boundary test",
+                      "supporting_information": "Fictional training case",
+                      "test_mode": true,
+                      "proposal_version": 1,
+                      "validation": "Incomplete",
+                      "missing_fields": [
+                        "destination"
+                      ],
+                      "proposal_snapshot": "{\"case_id\":\"INCOMPLETE-204-C\",\"proposed_action\":\"Add a test record\",\"destination\":\"\",\"final_content\":\"Incomplete boundary test\",\"supporting_information\":\"Fictional training case\",\"test_mode\":true,\"proposal_version\":1}",
+                      "execution_id": "3",
+                      "learner_configuration": {
+                        "workbook_path": "[OWNED_TEST_RUNTIME]/workbooks/Approval Boundary Test Log.xlsx",
+                        "operator_name": "/root/practical_group_2/restore_lesson204",
+                        "operator_kind": "Test fixture operator",
+                        "session_expires_at": "2026-11-12T22:55:31.348455+00:00"
+                      },
+                      "decision": "Approve",
+                      "operator_kind": "Test fixture operator",
+                      "operator_name": "/root/practical_group_2/restore_lesson204",
+                      "reviewed_version_unchanged": true,
+                      "decision_timestamp": "2026-11-12T22:28:37.663Z",
+                      "human_signoff_claim": "NOT HUMAN SIGNOFF"
+                    },
+                    "pairedItem": {
+                      "item": 0
+                    }
+                  }
+                ]
+              ]
+            }
+          }
+        ]
+      },
+      "lastNodeExecuted": "Complete AND Approve"
+    },
+    "executionData": {
+      "contextData": {},
+      "nodeExecutionStack": [],
+      "metadata": {},
+      "waitingExecution": {},
+      "waitingExecutionSource": {},
+      "runtimeData": {
+        "version": 1,
+        "establishedAt": 1794522506596,
+        "source": "webhook",
+        "triggerNode": {
+          "name": "Fictional case input",
+          "type": "n8n-nodes-base.webhook"
+        },
+        "redaction": {
+          "version": 2,
+          "production": false,
+          "manual": false
+        }
+      }
+    },
+    "resumeToken": "[REDACTED_PRIVATE_AUTHORIZATION_METADATA]"
+  }
+}

@@ -1,0 +1,83 @@
+{
+  "caseId": "CONTROL-204-A",
+  "executionId": "1",
+  "actualReview": {
+    "case_id": "CONTROL-204-A",
+    "proposed_action": "Add a test record",
+    "destination": "Approval Boundary Test Log",
+    "final_content": "Boundary control passed",
+    "supporting_information": "Fictional training case",
+    "test_mode": true,
+    "proposal_version": 1,
+    "validation": "Complete",
+    "missing_fields": [],
+    "proposal_snapshot": "{\"case_id\":\"CONTROL-204-A\",\"proposed_action\":\"Add a test record\",\"destination\":\"Approval Boundary Test Log\",\"final_content\":\"Boundary control passed\",\"supporting_information\":\"Fictional training case\",\"test_mode\":true,\"proposal_version\":1}",
+    "execution_id": "1",
+    "learner_configuration": {
+      "workbook_path": "[OWNED_TEST_RUNTIME]/workbooks/Approval Boundary Test Log.xlsx",
+      "operator_name": "/root/practical_group_2/restore_lesson204",
+      "operator_kind": "Test fixture operator",
+      "session_expires_at": "2026-11-12T22:55:31.348455+00:00"
+    },
+    "decision": "Approve",
+    "operator_kind": "Test fixture operator",
+    "operator_name": "/root/practical_group_2/restore_lesson204",
+    "reviewed_version_unchanged": true,
+    "decision_timestamp": "2026-11-12T22:27:51.160Z",
+    "human_signoff_claim": "NOT HUMAN SIGNOFF"
+  },
+  "actualNativeActionExecuted": true,
+  "beforeWorkbook": {
+    "scope": "Actual independent XLSX ZIP/XML read, not n8n output/status",
+    "path": "[OWNED_TEST_RUNTIME]/workbooks/Approval Boundary Test Log.xlsx",
+    "sha256": "cc0ef880002f7e9587cdb76b40b3e85a2f41b9b1cc4aee6966d45cb25cbcb039",
+    "zipCRC": "PASS",
+    "sheet": "Test Log",
+    "headers": [
+      "Timestamp",
+      "Case ID",
+      "Validation",
+      "Decision",
+      "Proposed action",
+      "Result"
+    ],
+    "records": [],
+    "recordCount": 0,
+    "counts": {
+      "CONTROL-204-A": 0,
+      "REJECT-204-B": 0,
+      "INCOMPLETE-204-C": 0
+    }
+  },
+  "independentAfterWorkbookRead": {
+    "scope": "Actual independent XLSX ZIP/XML read, not n8n output/status",
+    "path": "[OWNED_TEST_RUNTIME]/workbooks/Approval Boundary Test Log.xlsx",
+    "sha256": "eb263912ce6fec4f62b20fe716c5e24528c083917981289ad0dd95f6e5947251",
+    "zipCRC": "PASS",
+    "sheet": "Test Log",
+    "headers": [
+      "Timestamp",
+      "Case ID",
+      "Validation",
+      "Decision",
+      "Proposed action",
+      "Result"
+    ],
+    "records": [
+      {
+        "Timestamp": "2026-11-12T22:27:51.323Z",
+        "Case ID": "CONTROL-204-A",
+        "Validation": "Complete",
+        "Decision": "Approve",
+        "Proposed action": "Add a test record",
+        "Result": "Boundary control passed"
+      }
+    ],
+    "recordCount": 1,
+    "counts": {
+      "CONTROL-204-A": 1,
+      "REJECT-204-B": 0,
+      "INCOMPLETE-204-C": 0
+    }
+  }
+}

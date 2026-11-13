@@ -1,0 +1,32 @@
+{
+  "state": "ACTUAL_PORTABLE_FIXTURE_NATIVE_DOM_SUBMISSION_ONLY",
+  "at": "2026-11-12T22:28:17.660Z",
+  "operator": {
+    "kind": "Test fixture operator",
+    "name": "/root/practical_group_2/restore_lesson204"
+  },
+  "posts": 1,
+  "requests": [
+    {
+      "method": "GET",
+      "url": "[REDACTED_COMPLETED_NATIVE_ENDPOINT]",
+      "allowed": true
+    },
+    {
+      "method": "GET",
+      "url": "https://fonts.googleapis.com/css2?family=Open+Sans:ital,wght@0,300..800;1,300..800&display=swap",
+      "blockedBeforeNetwork": true
+    },
+    {
+      "method": "POST",
+      "url": "[REDACTED_COMPLETED_NATIVE_ENDPOINT]",
+      "allowed": true
+    }
+  ],
+  "headless": true,
+  "noGUIClaim": true,
+  "humanApproval": "PENDING",
+  "resultClaim": "Form submission only; actual native history and independent workbook must be checked separately",
+  "providerCalls": 0,
+  "noDirectHttpOperatorPost": true
+}

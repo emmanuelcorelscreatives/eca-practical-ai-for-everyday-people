@@ -6,7 +6,7 @@ Prove that a complete rejection and an incomplete approval both stop a harmless 
 
 ## What this kit proves
 
-The supplied Python model actually executes the gate against the supplied cases and writes a local CSV. It is an optional, reproducible **offline model**, not Zapier execution evidence or an online Google Sheets integration. The manual exercise below needs no code. For the named-platform demonstration specified in the saved visual prompts, obtain real screenshots and actual run histories from the connected test workflow and new test spreadsheet. Do not label offline model results as vendor results.
+The supplied Python model is a reproducible offline model, separate from the native example. The sole shown native example is the accepted twelve-node learner n8n workflow, four explicit settings and three genuine native headless browser decisions by an AI acting as Test fixture operator. The control wrote one real XLSX row; rejection and incomplete approval wrote none. No human signoff or beginner usability is established. See beginner-native-guide.md and the exact candidate/configuration evidence files.
 
 ## 1. Set up a harmless destination
 
@@ -58,3 +58,9 @@ Explain why three empty results are weaker evidence than one successful control 
 ## Included observed local run
 
 `observed-local-run-v2/` retains an actual execution of this offline Python model with real UTC timestamps, all three history records, the one-row local CSV, exact-ID counts and a source/result-hash execution-check receipt. These are reproducible local-model observations, not vendor or online-spreadsheet evidence. Your own run should produce equivalent case counts with new timestamps.
+
+## Retained native mechanism evidence
+
+`observed-native-case-results.json` is a privacy-safe summary of actual recorded native observations, not a new run. `observed-native-test-log.xlsx` preserves exactly the native-produced workbook bytes: SHA256 eb263912ce6fec4f62b20fe716c5e24528c083917981289ad0dd95f6e5947251. Its automatically written timestamp is 2026-11-12T22:27:51.323Z. Do not type this timestamp into your own run or pretend a copied file was newly written by your workflow. Preserve your own real times and results.
+
+The original cases and their values are unchanged. Operator decisions are separately observed; the expected decisions in cases.json do not substitute for an actual review. Read the evidence notes for failed preparation, actual method changes, blocked background network attempts and the distinction between a mechanism result and human approval.

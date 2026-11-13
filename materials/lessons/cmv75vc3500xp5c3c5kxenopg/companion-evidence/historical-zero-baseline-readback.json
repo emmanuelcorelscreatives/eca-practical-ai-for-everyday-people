@@ -1,0 +1,22 @@
+{
+  "scope": "Actual independent XLSX ZIP/XML read, not n8n output/status",
+  "path": "[OWNED_TEST_RUNTIME]/workbooks/Approval Boundary Test Log.xlsx",
+  "sha256": "cc0ef880002f7e9587cdb76b40b3e85a2f41b9b1cc4aee6966d45cb25cbcb039",
+  "zipCRC": "PASS",
+  "sheet": "Test Log",
+  "headers": [
+    "Timestamp",
+    "Case ID",
+    "Validation",
+    "Decision",
+    "Proposed action",
+    "Result"
+  ],
+  "records": [],
+  "recordCount": 0,
+  "counts": {
+    "CONTROL-204-A": 0,
+    "REJECT-204-B": 0,
+    "INCOMPLETE-204-C": 0
+  }
+}

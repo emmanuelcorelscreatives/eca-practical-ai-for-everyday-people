@@ -1,0 +1,21 @@
+{
+  "input": {
+    "case_id": "REJECT-204-B",
+    "proposed_action": "Add a test record",
+    "destination": "Approval Boundary Test Log",
+    "final_content": "Rejected boundary test",
+    "supporting_information": "Fictional training case",
+    "test_mode": true,
+    "proposal_version": 1
+  },
+  "actualReply": {
+    "execution_id": "2",
+    "case_id": "REJECT-204-B",
+    "review_url": "[REDACTED_COMPLETED_NATIVE_ENDPOINT]"
+  },
+  "operatorRequired": {
+    "kind": "Test fixture operator",
+    "name": "/root/practical_group_2/restore_lesson204"
+  },
+  "expectedChoiceForFictionalTest": "Reject"
+}

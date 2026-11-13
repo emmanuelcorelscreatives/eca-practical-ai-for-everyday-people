@@ -1,0 +1,11 @@
+{
+  "url": "[REDACTED_COMPLETED_NATIVE_ENDPOINT]",
+  "method": "POST",
+  "headers": "[REDACTED_PRIVATE_AUTHORIZATION_METADATA]",
+  "bytes": 684,
+  "actualOperator": {
+    "kind": "Test fixture operator",
+    "name": "/root/practical_group_2/restore_lesson204"
+  },
+  "state": "ACTUAL_DOM_NATIVE_POST_INTENT_BEFORE_DISPATCH"
+}

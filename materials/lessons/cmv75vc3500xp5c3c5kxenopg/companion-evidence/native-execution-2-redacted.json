@@ -1,0 +1,380 @@
+{
+  "execution": {
+    "id": 2,
+    "workflowId": "AcademyL204OwnedFeasibility",
+    "finished": 1,
+    "mode": "webhook",
+    "retryOf": null,
+    "retrySuccessId": null,
+    "startedAt": "2026-11-12 22:28:03.700",
+    "stoppedAt": "2026-11-12 22:28:15.105",
+    "waitTill": null,
+    "status": "success",
+    "deletedAt": null,
+    "createdAt": "2026-11-12 22:28:03.695",
+    "storedAt": "db",
+    "tracingContext": null,
+    "deduplicationKey": null,
+    "jsonSizeBytes": 19574,
+    "workflowVersionId": "49e677f2-3884-4032-ad4c-c6bb95f1e48c",
+    "binaryDataSizeBytes": 0,
+    "usedPrivateCredentials": 0,
+    "resumeAttempts": 0
+  },
+  "decodedNativeData": {
+    "version": 1,
+    "startData": {},
+    "resultData": {
+      "runData": {
+        "Fictional case input": [
+          {
+            "startTime": 1794522483721,
+            "executionIndex": 0,
+            "source": [],
+            "hints": [],
+            "executionTime": 1,
+            "executionStatus": "success",
+            "data": {
+              "main": [
+                [
+                  {
+                    "json": {
+                      "headers": "[REDACTED_PRIVATE_AUTHORIZATION_METADATA]",
+                      "params": {},
+                      "query": {},
+                      "body": {
+                        "fixture": {
+                          "case_id": "REJECT-204-B",
+                          "proposed_action": "Add a test record",
+                          "destination": "Approval Boundary Test Log",
+                          "final_content": "Rejected boundary test",
+                          "supporting_information": "Fictional training case",
+                          "test_mode": true,
+                          "proposal_version": 1
+                        }
+                      },
+                      "webhookUrl": "[REDACTED_COMPLETED_NATIVE_ENDPOINT]",
+                      "executionMode": "production"
+                    },
+                    "pairedItem": {
+                      "item": 0
+                    }
+                  }
+                ]
+              ]
+            }
+          }
+        ],
+        "Learner configuration": [
+          {
+            "startTime": 1794522483734,
+            "executionIndex": 1,
+            "source": [
+              {
+                "previousNode": "Fictional case input",
+                "previousNodeOutput": 0,
+                "previousNodeRun": 0
+              }
+            ],
+            "hints": [],
+            "executionTime": 1,
+            "executionStatus": "success",
+            "data": {
+              "main": [
+                [
+                  {
+                    "json": {
+                      "headers": "[REDACTED_PRIVATE_AUTHORIZATION_METADATA]",
+                      "params": {},
+                      "query": {},
+                      "body": {
+                        "fixture": {
+                          "case_id": "REJECT-204-B",
+                          "proposed_action": "Add a test record",
+                          "destination": "Approval Boundary Test Log",
+                          "final_content": "Rejected boundary test",
+                          "supporting_information": "Fictional training case",
+                          "test_mode": true,
+                          "proposal_version": 1
+                        }
+                      },
+                      "webhookUrl": "[REDACTED_COMPLETED_NATIVE_ENDPOINT]",
+                      "executionMode": "production",
+                      "workbook_path": "[OWNED_TEST_RUNTIME]/workbooks/Approval Boundary Test Log.xlsx",
+                      "operator_name": "/root/practical_group_2/restore_lesson204",
+                      "operator_kind": "Test fixture operator",
+                      "session_expires_at": "2026-11-12T22:55:31.348455+00:00"
+                    },
+                    "pairedItem": {
+                      "item": 0
+                    }
+                  }
+                ]
+              ]
+            }
+          }
+        ],
+        "Freeze input proposal": [
+          {
+            "startTime": 1794522483749,
+            "executionIndex": 2,
+            "source": [
+              {
+                "previousNode": "Learner configuration",
+                "previousNodeOutput": 0,
+                "previousNodeRun": 0
+              }
+            ],
+            "hints": [],
+            "executionTime": 15,
+            "executionStatus": "success",
+            "data": {
+              "main": [
+                [
+                  {
+                    "json": {
+                      "case_id": "REJECT-204-B",
+                      "proposed_action": "Add a test record",
+                      "destination": "Approval Boundary Test Log",
+                      "final_content": "Rejected boundary test",
+                      "supporting_information": "Fictional training case",
+                      "test_mode": true,
+                      "proposal_version": 1,
+                      "validation": "Complete",
+                      "missing_fields": [],
+                      "proposal_snapshot": "{\"case_id\":\"REJECT-204-B\",\"proposed_action\":\"Add a test record\",\"destination\":\"Approval Boundary Test Log\",\"final_content\":\"Rejected boundary test\",\"supporting_information\":\"Fictional training case\",\"test_mode\":true,\"proposal_version\":1}",
+                      "execution_id": "2",
+                      "learner_configuration": {
+                        "workbook_path": "[OWNED_TEST_RUNTIME]/workbooks/Approval Boundary Test Log.xlsx",
+                        "operator_name": "/root/practical_group_2/restore_lesson204",
+                        "operator_kind": "Test fixture operator",
+                        "session_expires_at": "2026-11-12T22:55:31.348455+00:00"
+                      }
+                    },
+                    "pairedItem": {
+                      "item": 0
+                    }
+                  }
+                ]
+              ]
+            }
+          }
+        ],
+        "Return native review link": [
+          {
+            "startTime": 1794522483774,
+            "executionIndex": 3,
+            "source": [
+              {
+                "previousNode": "Freeze input proposal",
+                "previousNodeOutput": 0,
+                "previousNodeRun": 0
+              }
+            ],
+            "hints": [],
+            "executionTime": 12,
+            "executionStatus": "success",
+            "data": {
+              "main": [
+                [
+                  {
+                    "json": {
+                      "case_id": "REJECT-204-B",
+                      "proposed_action": "Add a test record",
+                      "destination": "Approval Boundary Test Log",
+                      "final_content": "Rejected boundary test",
+                      "supporting_information": "Fictional training case",
+                      "test_mode": true,
+                      "proposal_version": 1,
+                      "validation": "Complete",
+                      "missing_fields": [],
+                      "proposal_snapshot": "{\"case_id\":\"REJECT-204-B\",\"proposed_action\":\"Add a test record\",\"destination\":\"Approval Boundary Test Log\",\"final_content\":\"Rejected boundary test\",\"supporting_information\":\"Fictional training case\",\"test_mode\":true,\"proposal_version\":1}",
+                      "execution_id": "2",
+                      "learner_configuration": {
+                        "workbook_path": "[OWNED_TEST_RUNTIME]/workbooks/Approval Boundary Test Log.xlsx",
+                        "operator_name": "/root/practical_group_2/restore_lesson204",
+                        "operator_kind": "Test fixture operator",
+                        "session_expires_at": "2026-11-12T22:55:31.348455+00:00"
+                      }
+                    },
+                    "pairedItem": {
+                      "item": 0
+                    }
+                  }
+                ]
+              ]
+            }
+          }
+        ],
+        "Actual operator review": [
+          {
+            "startTime": 1794522495049,
+            "executionIndex": 0,
+            "source": [
+              {
+                "previousNode": "Return native review link",
+                "previousNodeOutput": 0,
+                "previousNodeRun": 0
+              }
+            ],
+            "hints": [],
+            "executionTime": 0,
+            "metadata": {
+              "resumeFormUrl": "[REDACTED_COMPLETED_NATIVE_ENDPOINT]",
+              "forwardAllOutputs": true
+            },
+            "executionStatus": "success",
+            "data": {
+              "main": [
+                [
+                  {
+                    "json": {
+                      "Reviewed Case ID": "REJECT-204-B",
+                      "Reviewed version": "1",
+                      "Decision": "Reject",
+                      "Operator kind": "Test fixture operator",
+                      "Operator name": "/root/practical_group_2/restore_lesson204",
+                      "submittedAt": "2026-11-12T22:28:14.925Z",
+                      "formMode": "production"
+                    },
+                    "pairedItem": {
+                      "item": 0
+                    }
+                  }
+                ]
+              ]
+            }
+          }
+        ],
+        "Bind actual review": [
+          {
+            "startTime": 1794522495058,
+            "executionIndex": 1,
+            "source": [
+              {
+                "previousNode": "Actual operator review",
+                "previousNodeOutput": 0,
+                "previousNodeRun": 0
+              }
+            ],
+            "hints": [],
+            "executionTime": 18,
+            "executionStatus": "success",
+            "data": {
+              "main": [
+                [
+                  {
+                    "json": {
+                      "case_id": "REJECT-204-B",
+                      "proposed_action": "Add a test record",
+                      "destination": "Approval Boundary Test Log",
+                      "final_content": "Rejected boundary test",
+                      "supporting_information": "Fictional training case",
+                      "test_mode": true,
+                      "proposal_version": 1,
+                      "validation": "Complete",
+                      "missing_fields": [],
+                      "proposal_snapshot": "{\"case_id\":\"REJECT-204-B\",\"proposed_action\":\"Add a test record\",\"destination\":\"Approval Boundary Test Log\",\"final_content\":\"Rejected boundary test\",\"supporting_information\":\"Fictional training case\",\"test_mode\":true,\"proposal_version\":1}",
+                      "execution_id": "2",
+                      "learner_configuration": {
+                        "workbook_path": "[OWNED_TEST_RUNTIME]/workbooks/Approval Boundary Test Log.xlsx",
+                        "operator_name": "/root/practical_group_2/restore_lesson204",
+                        "operator_kind": "Test fixture operator",
+                        "session_expires_at": "2026-11-12T22:55:31.348455+00:00"
+                      },
+                      "decision": "Reject",
+                      "operator_kind": "Test fixture operator",
+                      "operator_name": "/root/practical_group_2/restore_lesson204",
+                      "reviewed_version_unchanged": true,
+                      "decision_timestamp": "2026-11-12T22:28:15.073Z",
+                      "human_signoff_claim": "NOT HUMAN SIGNOFF"
+                    },
+                    "pairedItem": {
+                      "item": 0
+                    }
+                  }
+                ]
+              ]
+            }
+          }
+        ],
+        "Complete AND Approve": [
+          {
+            "startTime": 1794522495086,
+            "executionIndex": 2,
+            "source": [
+              {
+                "previousNode": "Bind actual review",
+                "previousNodeOutput": 0,
+                "previousNodeRun": 0
+              }
+            ],
+            "hints": [],
+            "executionTime": 10,
+            "executionStatus": "success",
+            "data": {
+              "main": [
+                [],
+                [
+                  {
+                    "json": {
+                      "case_id": "REJECT-204-B",
+                      "proposed_action": "Add a test record",
+                      "destination": "Approval Boundary Test Log",
+                      "final_content": "Rejected boundary test",
+                      "supporting_information": "Fictional training case",
+                      "test_mode": true,
+                      "proposal_version": 1,
+                      "validation": "Complete",
+                      "missing_fields": [],
+                      "proposal_snapshot": "{\"case_id\":\"REJECT-204-B\",\"proposed_action\":\"Add a test record\",\"destination\":\"Approval Boundary Test Log\",\"final_content\":\"Rejected boundary test\",\"supporting_information\":\"Fictional training case\",\"test_mode\":true,\"proposal_version\":1}",
+                      "execution_id": "2",
+                      "learner_configuration": {
+                        "workbook_path": "[OWNED_TEST_RUNTIME]/workbooks/Approval Boundary Test Log.xlsx",
+                        "operator_name": "/root/practical_group_2/restore_lesson204",
+                        "operator_kind": "Test fixture operator",
+                        "session_expires_at": "2026-11-12T22:55:31.348455+00:00"
+                      },
+                      "decision": "Reject",
+                      "operator_kind": "Test fixture operator",
+                      "operator_name": "/root/practical_group_2/restore_lesson204",
+                      "reviewed_version_unchanged": true,
+                      "decision_timestamp": "2026-11-12T22:28:15.073Z",
+                      "human_signoff_claim": "NOT HUMAN SIGNOFF"
+                    },
+                    "pairedItem": {
+                      "item": 0
+                    }
+                  }
+                ]
+              ]
+            }
+          }
+        ]
+      },
+      "lastNodeExecuted": "Complete AND Approve"
+    },
+    "executionData": {
+      "contextData": {},
+      "nodeExecutionStack": [],
+      "metadata": {},
+      "waitingExecution": {},
+      "waitingExecutionSource": {},
+      "runtimeData": {
+        "version": 1,
+        "establishedAt": 1794522483692,
+        "source": "webhook",
+        "triggerNode": {
+          "name": "Fictional case input",
+          "type": "n8n-nodes-base.webhook"
+        },
+        "redaction": {
+          "version": 2,
+          "production": false,
+          "manual": false
+        }
+      }
+    },
+    "resumeToken": "[REDACTED_PRIVATE_AUTHORIZATION_METADATA]"
+  }
+}

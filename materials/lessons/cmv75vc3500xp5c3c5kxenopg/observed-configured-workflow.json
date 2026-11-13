@@ -1,0 +1,456 @@
+{
+  "name": "Academy L204 fictional approval boundary \u2014 learner configuration",
+  "active": false,
+  "nodes": [
+    {
+      "id": "9d196fe7-67a0-536e-96e0-347cf7526bad",
+      "name": "Fictional case input",
+      "type": "n8n-nodes-base.webhook",
+      "typeVersion": 2.1,
+      "position": [
+        240,
+        300
+      ],
+      "parameters": {
+        "httpMethod": "POST",
+        "path": "academy-l204-owned-feasibility",
+        "responseMode": "responseNode",
+        "options": {}
+      },
+      "webhookId": "academy-l204-owned-feasibility"
+    },
+    {
+      "id": "l204-learner-configuration",
+      "name": "Learner configuration",
+      "type": "n8n-nodes-base.set",
+      "typeVersion": 3.4,
+      "position": [
+        360,
+        100
+      ],
+      "parameters": {
+        "mode": "manual",
+        "assignments": {
+          "assignments": [
+            {
+              "id": "workbook_path",
+              "name": "workbook_path",
+              "value": "/var/lib/trejj-studio/maintenance/practical-ai-pocket-production-20261112/lesson-cmv75vc3500xp5c3c5kxenopg/learner-portability-runnable-preparation-v3/runtime-owned-once/workbooks/Approval Boundary Test Log.xlsx",
+              "type": "string"
+            },
+            {
+              "id": "operator_name",
+              "name": "operator_name",
+              "value": "/root/practical_group_2/restore_lesson204",
+              "type": "string"
+            },
+            {
+              "id": "operator_kind",
+              "name": "operator_kind",
+              "value": "Test fixture operator",
+              "type": "string"
+            },
+            {
+              "id": "session_expires_at",
+              "name": "session_expires_at",
+              "value": "2026-11-12T22:55:31.348455+00:00",
+              "type": "string"
+            }
+          ]
+        },
+        "includeOtherFields": true,
+        "options": {}
+      }
+    },
+    {
+      "id": "41b4d8c9-f28b-5be9-a2e3-b901b90028d0",
+      "name": "Freeze input proposal",
+      "type": "n8n-nodes-base.code",
+      "typeVersion": 2,
+      "position": [
+        480,
+        300
+      ],
+      "parameters": {
+        "mode": "runOnceForAllItems",
+        "jsCode": "const catalog = [{\"case_id\": \"CONTROL-204-A\", \"proposed_action\": \"Add a test record\", \"destination\": \"Approval Boundary Test Log\", \"final_content\": \"Boundary control passed\", \"supporting_information\": \"Fictional training case\", \"test_mode\": true, \"proposal_version\": 1}, {\"case_id\": \"REJECT-204-B\", \"proposed_action\": \"Add a test record\", \"destination\": \"Approval Boundary Test Log\", \"final_content\": \"Rejected boundary test\", \"supporting_information\": \"Fictional training case\", \"test_mode\": true, \"proposal_version\": 1}, {\"case_id\": \"INCOMPLETE-204-C\", \"proposed_action\": \"Add a test record\", \"destination\": \"\", \"final_content\": \"Incomplete boundary test\", \"supporting_information\": \"Fictional training case\", \"test_mode\": true, \"proposal_version\": 1}];\nconst envelope = $input.first().json.body ?? $input.first().json;\nconst submitted = envelope.fixture;\nconst config = $('Learner configuration').first().json;\nconst learnerConfig = {workbook_path:config.workbook_path,operator_name:config.operator_name,operator_kind:config.operator_kind,session_expires_at:config.session_expires_at};\nif (typeof learnerConfig.workbook_path !== 'string' || !learnerConfig.workbook_path.startsWith('/') || learnerConfig.workbook_path.includes('..') || !learnerConfig.workbook_path.endsWith('.xlsx')) throw Error('Configure an absolute owned .xlsx path');\nif (!learnerConfig.operator_name || learnerConfig.operator_name.startsWith('CONFIGURE_') || !['Human operator','AI test operator','Test fixture operator'].includes(learnerConfig.operator_kind)) throw Error('Configure truthful operator identity');\nif (!Number.isFinite(Date.parse(learnerConfig.session_expires_at)) || Date.now() >= Date.parse(learnerConfig.session_expires_at)) throw Error('Configure a fresh explicit session end time');\nconst exact = catalog.find(c => c.case_id === submitted.case_id);\nif (!exact || Object.keys(submitted).some(k => !Object.hasOwn(exact,k)) || Object.keys(exact).some(k => submitted[k] !== exact[k])) throw Error('Fictional fixture differs or contains unreviewed fields');\nconst record = Object.fromEntries(Object.keys(exact).map(k => [k,submitted[k]]));\nconst missing = ['case_id','proposed_action','destination','final_content'].filter(k => typeof record[k] !== 'string' || !record[k].trim());\nconst validation = missing.length === 0 && record.test_mode === true ? 'Complete' : 'Incomplete';\nreturn [{json:{...record,validation,missing_fields:missing,proposal_snapshot:JSON.stringify(record),execution_id:String($execution.id),learner_configuration:learnerConfig}}];\n"
+      }
+    },
+    {
+      "id": "42bf171a-ef28-5a13-82ea-df0750da0005",
+      "name": "Return native review link",
+      "type": "n8n-nodes-base.respondToWebhook",
+      "typeVersion": 1.4,
+      "position": [
+        720,
+        300
+      ],
+      "parameters": {
+        "respondWith": "json",
+        "responseBody": "={{ { execution_id: $execution.id, case_id: $json.case_id, review_url: $execution.resumeFormUrl } }}",
+        "options": {}
+      }
+    },
+    {
+      "id": "8e839b05-4da1-59a5-ba26-6c415ba27fce",
+      "name": "Actual operator review",
+      "type": "n8n-nodes-base.wait",
+      "typeVersion": 1.1,
+      "position": [
+        960,
+        300
+      ],
+      "parameters": {
+        "resume": "form",
+        "formTitle": "Academy L204 fictional-case review",
+        "formDescription": "={{ 'Case ID: '+$json.case_id+'<br>Proposed action: '+$json.proposed_action+'<br>Destination: '+($json.destination || 'Missing')+'<br>Final content: '+$json.final_content+'<br>Supporting information: '+$json.supporting_information+'<br>Test mode: On<br>Validation: '+$json.validation+'<br>Proposal version: '+$json.proposal_version+'<br>Input preparation is not action evidence. Your decision covers this unchanged version only.<br>Fictional-case exercise; no external sending. Report your true operator type; an AI or test-fixture choice is not human signoff.' }}",
+        "formFields": {
+          "values": [
+            {
+              "fieldLabel": "Reviewed Case ID",
+              "fieldType": "text",
+              "requiredField": true
+            },
+            {
+              "fieldLabel": "Reviewed version",
+              "fieldType": "text",
+              "requiredField": true
+            },
+            {
+              "fieldLabel": "Decision",
+              "fieldType": "dropdown",
+              "fieldOptions": {
+                "values": [
+                  {
+                    "option": "Approve"
+                  },
+                  {
+                    "option": "Reject"
+                  }
+                ]
+              },
+              "requiredField": true
+            },
+            {
+              "fieldLabel": "Operator kind",
+              "fieldType": "dropdown",
+              "fieldOptions": {
+                "values": [
+                  {
+                    "option": "Human operator"
+                  },
+                  {
+                    "option": "AI test operator"
+                  },
+                  {
+                    "option": "Test fixture operator"
+                  }
+                ]
+              },
+              "requiredField": true
+            },
+            {
+              "fieldLabel": "Operator name",
+              "fieldType": "text",
+              "requiredField": true
+            }
+          ]
+        },
+        "responseMode": "onReceived",
+        "limitWaitTime": false,
+        "options": {
+          "respondWithOptions": {
+            "values": {
+              "respondWith": "text",
+              "formSubmittedText": "Fictional-case decision recorded. Check actual execution and workbook; no public human signoff or completed action is implied."
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": "455818ea-487f-5aa2-b7e6-6e6866f87c2b",
+      "name": "Bind actual review",
+      "type": "n8n-nodes-base.code",
+      "typeVersion": 2,
+      "position": [
+        1200,
+        300
+      ],
+      "parameters": {
+        "mode": "runOnceForAllItems",
+        "jsCode": "const fixed = $('Freeze input proposal').first().json;\nif (!fixed.learner_configuration || !Number.isFinite(Date.parse(fixed.learner_configuration.session_expires_at)) || Date.now() >= Date.parse(fixed.learner_configuration.session_expires_at)) throw Error('Learner session expired; no later action');\nconst response = $input.first().json;\nconst decision = response['Decision'];\nif (!['Approve','Reject'].includes(decision)) throw Error('An explicit real submitted decision is required');\nconst operatorKind = response['Operator kind'];\nif (!['Human operator','AI test operator','Test fixture operator'].includes(operatorKind)) throw Error('Truthful operator kind required');\nconst operatorName = String(response['Operator name'] ?? '').trim();\nif (!operatorName || operatorName !== fixed.learner_configuration.operator_name || operatorKind !== fixed.learner_configuration.operator_kind) throw Error('Configured true operator identity/kind required; a test operator is not human signoff');\nconst sameReview = response['Reviewed Case ID'] === fixed.case_id && String(response['Reviewed version']) === String(fixed.proposal_version);\nconst rawRecord = Object.fromEntries(['case_id','proposed_action','destination','final_content','supporting_information','test_mode','proposal_version'].map(k=>[k,fixed[k]]));\nconst unchanged = JSON.stringify(rawRecord) === fixed.proposal_snapshot && sameReview;\nreturn [{json:{...fixed,decision,operator_kind:operatorKind,operator_name:operatorName,reviewed_version_unchanged:unchanged,validation:unchanged ? fixed.validation : 'Incomplete',decision_timestamp:new Date().toISOString(),human_signoff_claim:operatorKind === 'Human operator' ? 'Requires independent identity/authority verification' : 'NOT HUMAN SIGNOFF'}}];\n"
+      }
+    },
+    {
+      "id": "413b2864-1029-5eba-bae2-39b93e679325",
+      "name": "Complete AND Approve",
+      "type": "n8n-nodes-base.filter",
+      "typeVersion": 2.4,
+      "position": [
+        1440,
+        300
+      ],
+      "parameters": {
+        "conditions": {
+          "options": {
+            "caseSensitive": true,
+            "leftValue": "",
+            "typeValidation": "strict",
+            "version": 4
+          },
+          "combinator": "and",
+          "conditions": [
+            {
+              "id": "validation",
+              "leftValue": "={{ $json.validation }}",
+              "rightValue": "Complete",
+              "operator": {
+                "type": "string",
+                "operation": "equals"
+              }
+            },
+            {
+              "id": "decision",
+              "leftValue": "={{ $json.decision }}",
+              "rightValue": "Approve",
+              "operator": {
+                "type": "string",
+                "operation": "equals"
+              }
+            }
+          ]
+        },
+        "options": {
+          "ignoreCase": false
+        },
+        "looseTypeValidation": false
+      }
+    },
+    {
+      "id": "af2384c6-7acd-5442-b392-c7b904e6d38d",
+      "name": "Read existing workbook",
+      "type": "n8n-nodes-base.readWriteFile",
+      "typeVersion": 1.1,
+      "position": [
+        1680,
+        300
+      ],
+      "parameters": {
+        "operation": "read",
+        "fileSelector": "={{ $('Freeze input proposal').first().json.learner_configuration.workbook_path }}",
+        "options": {
+          "dataPropertyName": "data"
+        }
+      }
+    },
+    {
+      "id": "afa01e71-ccce-5731-aa85-61af0190b1eb",
+      "name": "Extract existing rows",
+      "type": "n8n-nodes-base.extractFromFile",
+      "typeVersion": 1.2,
+      "position": [
+        1920,
+        300
+      ],
+      "parameters": {
+        "operation": "xlsx",
+        "binaryPropertyName": "data",
+        "options": {
+          "headerRow": true,
+          "includeEmptyCells": true,
+          "sheetName": "Test Log"
+        }
+      },
+      "alwaysOutputData": true
+    },
+    {
+      "id": "e4db1b80-41a6-5b42-8574-92f81e79df6c",
+      "name": "Append eligible logical row",
+      "type": "n8n-nodes-base.code",
+      "typeVersion": 2,
+      "position": [
+        2160,
+        300
+      ],
+      "parameters": {
+        "mode": "runOnceForAllItems",
+        "jsCode": "const reviewed = $('Bind actual review').first().json;\nif (reviewed.validation !== 'Complete' || reviewed.decision !== 'Approve' || !reviewed.reviewed_version_unchanged || reviewed.test_mode !== true || reviewed.destination !== 'Approval Boundary Test Log' || reviewed.proposed_action !== 'Add a test record') throw Error('Approved action safety precondition failed');\nconst fixed = reviewed;\nif (!fixed.learner_configuration || !Number.isFinite(Date.parse(fixed.learner_configuration.session_expires_at)) || Date.now() >= Date.parse(fixed.learner_configuration.session_expires_at)) throw Error('Learner session expired; no later action');\nconst headers = ['Timestamp','Case ID','Validation','Decision','Proposed action','Result'];\nconst existing = $input.all().map(i=>i.json).filter(row=>Object.keys(row).length > 0);\nfor (const row of existing) if (Object.keys(row).some(k=>!headers.includes(k)) || !row['Case ID']) throw Error('Unexpected workbook rows/schema');\nif (existing.some(row=>row['Case ID'] === reviewed.case_id)) throw Error('Duplicate record refused; do not replay');\nconst added = {'Timestamp':new Date().toISOString(),'Case ID':reviewed.case_id,'Validation':reviewed.validation,'Decision':reviewed.decision,'Proposed action':reviewed.proposed_action,'Result':reviewed.final_content};\nreturn [...existing,added].map(row=>({json:Object.fromEntries(headers.map(k=>[k,row[k] ?? '']))}));\n"
+      }
+    },
+    {
+      "id": "25d6867c-cdb3-5c97-a1c8-af9cbc2cc45d",
+      "name": "Encode valid XLSX",
+      "type": "n8n-nodes-base.convertToFile",
+      "typeVersion": 1.2,
+      "position": [
+        2400,
+        300
+      ],
+      "parameters": {
+        "operation": "xlsx",
+        "binaryPropertyName": "data",
+        "options": {
+          "fileName": "Approval Boundary Test Log.xlsx",
+          "headerRow": true,
+          "sheetName": "Test Log",
+          "compression": true
+        }
+      }
+    },
+    {
+      "id": "ebce9445-eae1-579b-9238-5294fccddf32",
+      "name": "Persist owned workbook",
+      "type": "n8n-nodes-base.readWriteFile",
+      "typeVersion": 1.1,
+      "position": [
+        2640,
+        300
+      ],
+      "parameters": {
+        "operation": "write",
+        "fileName": "={{ Date.now() < Date.parse($('Freeze input proposal').first().json.learner_configuration.session_expires_at) ? $('Freeze input proposal').first().json.learner_configuration.workbook_path : (() => { throw new Error('Expired learner session: no workbook write'); })() }}",
+        "dataPropertyName": "data",
+        "options": {
+          "append": false
+        }
+      }
+    }
+  ],
+  "connections": {
+    "Fictional case input": {
+      "main": [
+        [
+          {
+            "node": "Learner configuration",
+            "type": "main",
+            "index": 0
+          }
+        ]
+      ]
+    },
+    "Freeze input proposal": {
+      "main": [
+        [
+          {
+            "node": "Return native review link",
+            "type": "main",
+            "index": 0
+          }
+        ]
+      ]
+    },
+    "Return native review link": {
+      "main": [
+        [
+          {
+            "node": "Actual operator review",
+            "type": "main",
+            "index": 0
+          }
+        ]
+      ]
+    },
+    "Actual operator review": {
+      "main": [
+        [
+          {
+            "node": "Bind actual review",
+            "type": "main",
+            "index": 0
+          }
+        ]
+      ]
+    },
+    "Bind actual review": {
+      "main": [
+        [
+          {
+            "node": "Complete AND Approve",
+            "type": "main",
+            "index": 0
+          }
+        ]
+      ]
+    },
+    "Complete AND Approve": {
+      "main": [
+        [
+          {
+            "node": "Read existing workbook",
+            "type": "main",
+            "index": 0
+          }
+        ]
+      ]
+    },
+    "Read existing workbook": {
+      "main": [
+        [
+          {
+            "node": "Extract existing rows",
+            "type": "main",
+            "index": 0
+          }
+        ]
+      ]
+    },
+    "Extract existing rows": {
+      "main": [
+        [
+          {
+            "node": "Append eligible logical row",
+            "type": "main",
+            "index": 0
+          }
+        ]
+      ]
+    },
+    "Append eligible logical row": {
+      "main": [
+        [
+          {
+            "node": "Encode valid XLSX",
+            "type": "main",
+            "index": 0
+          }
+        ]
+      ]
+    },
+    "Encode valid XLSX": {
+      "main": [
+        [
+          {
+            "node": "Persist owned workbook",
+            "type": "main",
+            "index": 0
+          }
+        ]
+      ]
+    },
+    "Learner configuration": {
+      "main": [
+        [
+          {
+            "node": "Freeze input proposal",
+            "type": "main",
+            "index": 0
+          }
+        ]
+      ]
+    }
+  },
+  "settings": {
+    "executionOrder": "v1",
+    "saveExecutionProgress": true,
+    "saveDataSuccessExecution": "all",
+    "saveDataErrorExecution": "all",
+    "saveManualExecutions": true,
+    "executionTimeout": 1800
+  },
+  "pinData": {},
+  "meta": {
+    "scope": "PRIVATE PREPARATION: modified portable candidate, NOT YET IMPORTED OR EXECUTED. Fictional cases only; no external sending; three supplied custom Code nodes require no learner coding."
+  },
+  "id": "AcademyL204OwnedFeasibility"
+}

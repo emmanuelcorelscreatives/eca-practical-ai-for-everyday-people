@@ -1,0 +1,11 @@
+{
+  "fixture": {
+    "case_id": "REJECT-204-B",
+    "proposed_action": "Add a test record",
+    "destination": "Approval Boundary Test Log",
+    "final_content": "Rejected boundary test",
+    "supporting_information": "Fictional training case",
+    "test_mode": true,
+    "proposal_version": 1
+  }
+}

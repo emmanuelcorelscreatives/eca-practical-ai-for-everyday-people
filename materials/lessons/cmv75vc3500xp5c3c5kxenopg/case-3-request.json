@@ -1,0 +1,11 @@
+{
+  "fixture": {
+    "case_id": "INCOMPLETE-204-C",
+    "proposed_action": "Add a test record",
+    "destination": "",
+    "final_content": "Incomplete boundary test",
+    "supporting_information": "Fictional training case",
+    "test_mode": true,
+    "proposal_version": 1
+  }
+}

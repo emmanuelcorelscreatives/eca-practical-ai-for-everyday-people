@@ -1,0 +1,7 @@
+{
+  "status": 200,
+  "url": "[REDACTED_COMPLETED_NATIVE_ENDPOINT]",
+  "headers": "[REDACTED_PRIVATE_AUTHORIZATION_METADATA]",
+  "bytes": 14,
+  "rawSavedBeforeParsing": true
+}

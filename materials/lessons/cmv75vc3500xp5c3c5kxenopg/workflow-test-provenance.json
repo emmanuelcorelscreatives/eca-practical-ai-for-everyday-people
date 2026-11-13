@@ -1,0 +1,48 @@
+{
+  "candidateSHA256": "c96caea1cb85c195de2a976b8221528fd93ddf1e68dbb79c519cfa7dcb6192ae",
+  "actualConfiguredWorkflowSHA256": "eb0c2032888578617ee03b78b3730711472919cca349c0dcd65379943cd2496a",
+  "actualConfigurationValues": [
+    {
+      "id": "workbook_path",
+      "name": "workbook_path",
+      "value": "/var/lib/trejj-studio/maintenance/practical-ai-pocket-production-20261112/lesson-cmv75vc3500xp5c3c5kxenopg/learner-portability-runnable-preparation-v3/runtime-owned-once/workbooks/Approval Boundary Test Log.xlsx",
+      "type": "string"
+    },
+    {
+      "id": "operator_name",
+      "name": "operator_name",
+      "value": "/root/practical_group_2/restore_lesson204",
+      "type": "string"
+    },
+    {
+      "id": "operator_kind",
+      "name": "operator_kind",
+      "value": "Test fixture operator",
+      "type": "string"
+    },
+    {
+      "id": "session_expires_at",
+      "name": "session_expires_at",
+      "value": "2026-11-12T22:55:31.348455+00:00",
+      "type": "string"
+    }
+  ],
+  "exactImportDifference": "Added instance-local workflow id plus only four Learner configuration assignment values; full actual native imported nodes/connections checked. Learner file retains its original pre-test metadata/name unchanged to preserve exact tested candidate bytes; this evidence records the later actual configured test.",
+  "actualIndependentAcceptance": {
+    "documentaryPath": "/var/lib/trejj-studio/maintenance/practical-ai-pocket-production-20261112/delegated-source-adjudication-v1/physical-reader/l204-portability-independent-actual-evidence-acceptance-v1.json",
+    "historicalObservedSha256": "6bd1da993ecdf01a3c143f256075c53f2f87e88574dbd9fc9fb0e39ae9624736"
+  },
+  "operator": {
+    "kind": "Test fixture operator",
+    "name": "/root/practical_group_2/restore_lesson204"
+  },
+  "customCodeNodes": [
+    "Freeze input proposal",
+    "Bind actual review",
+    "Append eligible logical row"
+  ],
+  "blankInstanceRequired": true,
+  "observedConfigurationIsExpiredDoNotRunIt": true,
+  "newOwnConfigurationAndSeparateAuthorizedTestingRequired": true,
+  "noBeginnerOrCrossEnvironmentClaim": true
+}

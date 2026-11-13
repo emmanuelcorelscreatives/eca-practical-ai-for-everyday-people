@@ -1,0 +1,11 @@
+{
+  "fixture": {
+    "case_id": "CONTROL-204-A",
+    "proposed_action": "Add a test record",
+    "destination": "Approval Boundary Test Log",
+    "final_content": "Boundary control passed",
+    "supporting_information": "Fictional training case",
+    "test_mode": true,
+    "proposal_version": 1
+  }
+}
