@@ -1,7 +1,7 @@
 {
   "version": 1,
   "projectId": "cmv75v7ah009d5c3cqp93c083",
-  "scriptSha256": "2223b074370bd3ee722550c3ab71b07ba93270ad2570672451138a9f1dbe6a39",
+  "scriptSha256": "29844fe948f6ee2d4432dc2854ecde1e321b86a2d83031f11fc643fc0572e478",
   "files": [
     {
       "name": "answers.md",
@@ -45,8 +45,8 @@
     },
     {
       "name": "worksheet.md",
-      "sha256": "9546e3c7f63b125d8e21eab2dfe15e1103f6bb280d7e47ebf4fefa902f53eb74",
-      "bytes": 3876
+      "sha256": "2447a5a84a6d716f52be7a374c061062fe92c875865e8dd92a80afe78676f701",
+      "bytes": 3915
     }
   ]
 }

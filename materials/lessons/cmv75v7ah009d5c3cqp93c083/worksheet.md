@@ -1,5 +1,5 @@
 # Inspect Formulas and Cell Ranges — Lesson 58
-Use the fictional Community Workshop Expenses data to distinguish a short range, a blank amount and a missing record. No paid account or AI assistant is required. Use any spreadsheet you already have; Google Sheets is the authored visual example. This offline kit contains CSV data, not a simulated Google interface or screenshots.
+Use the fictional Community Workshop Expenses data to distinguish a short range, a blank amount and a missing record. No paid account or AI assistant is required. Use any spreadsheet you already have; the lesson demonstrates these generic features in a genuine spreadsheet application. This offline kit contains CSV data, not a simulated Google interface or screenshots.
 
 ## Set up the faulty sheet
 Keep the source notes separate. Import faulty-sheet.csv into a new sheet at A1 with comma separator and the first row as headers. A is Date, B is Item, C is Amount. Dates intentionally remain blank. If import inserts extra columns or shifts rows, correct that before continuing. The data occupy rows 2–8; Transport is B5 with empty C5; Volunteer meals is B8 with C8=60. Enter Total in B9 and =SUM(C2:C7) in C9. Use a formula bar or edit view to inspect references. CSV files contain data only and do not include the total formula.
