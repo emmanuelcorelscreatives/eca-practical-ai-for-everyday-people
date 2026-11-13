@@ -1,6 +1,6 @@
 {
   "projectId": "cmv75va6500o75c3clnjlejoc",
-  "narrationSha256": "440a73dfee3344edb375e0bc4337dd0bf28d8da94867693ef2c9fc140ef8b3ea",
+  "narrationSha256": "52ec390aab85aa4160c9c54aa1750f3a40e7cf2adebdf4da4f123080fc151dc8",
   "authoredTable": {
     "estimates": [
       "120",
@@ -15,7 +15,7 @@
       "35"
     ]
   },
-  "applicationEvidence": "Draft actual Excel opening/recalculation/interaction proof pending; no observed product result claimed",
+  "applicationEvidence": "Actual Google Sheets opening, formula edit/range outline, copying and recalculation proof pending; no observed product or assistant result claimed",
   "sheets": [
     "Event",
     "BlankZero",

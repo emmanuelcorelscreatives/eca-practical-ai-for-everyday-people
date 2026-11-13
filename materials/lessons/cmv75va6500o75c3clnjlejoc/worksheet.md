@@ -1,8 +1,8 @@
 # Formula inspection record
 
-Do the checks before opening the answer key. Use the exact Excel workbook source cells; do not replace missing estimates with guessed zeroes.
+Do the checks before opening the answer key. Use the exact workbook source cells in the Google Sheets working copy; do not replace missing estimates with guessed zeroes.
 
-| Scenario | Intended result | Destination | Source cells | Blank/zero rule | Formula | Predicted answer | Actual Excel result | Checked references and explanation |
+| Scenario | Intended result | Destination | Source cells | Blank/zero rule | Formula | Predicted answer | Actual spreadsheet result | Checked references and explanation |
 |---|---|---|---|---|---|---|---|---|
 | Event estimates | | | | | | | | |
 | Actual costs copied formula | | | | | | | | |

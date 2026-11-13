@@ -1,7 +1,7 @@
 {
   "version": 1,
   "projectId": "cmv75va6500o75c3clnjlejoc",
-  "scriptSha256": "440a73dfee3344edb375e0bc4337dd0bf28d8da94867693ef2c9fc140ef8b3ea",
+  "scriptSha256": "52ec390aab85aa4160c9c54aa1750f3a40e7cf2adebdf4da4f123080fc151dc8",
   "files": [
     {
       "name": "LICENSE.md",
@@ -10,8 +10,8 @@
     },
     {
       "name": "README.md",
-      "sha256": "eecdff5212566427f17ad1396d5404261923c5218506808395bb252c7d8d075f",
-      "bytes": 3618
+      "sha256": "82777246b35414a067a7efbf8b6c39e7ad9439fb025371696afda2d75fb9a805",
+      "bytes": 3848
     },
     {
       "name": "answer-key.json",
@@ -45,13 +45,18 @@
     },
     {
       "name": "source-facts.json",
-      "sha256": "e36426d114e0108e5d436d2c32bfc23a9bf1c3b53e2ee6f30a31753c64b8ced8",
-      "bytes": 614
+      "sha256": "1694200a4271900e7ae4445eab168e3cc2269cdc87a09267eda3fd3ce47b1227",
+      "bytes": 658
     },
     {
       "name": "worksheet.md",
-      "sha256": "66c91372e8b69b39eafd05802a4cf36e2dd596e2e6fd2dbb492d8da8a4d9122d",
-      "bytes": 959
+      "sha256": "5754cd64904f5ed5098119d32190c19b5cc8649b6be7aec8ef84372be4b93f9d",
+      "bytes": 993
     }
-  ]
+  ],
+  "sourceSha256": "4082ad84cc7417b4840b55686b3210171da3c069c1dbf9e2dfdb34810f06ee2f",
+  "sourceApplication": {
+    "path": "/var/lib/trejj-studio/maintenance/practical-ai-pocket-production-20261112/source-resolutions-v2/applications/cmv75va6500o75c3clnjlejoc-v1/applied.json",
+    "sha256": "715cf30bf7179430860bc140a982732464509ac8d61e5cc72cfa08898f30258d"
+  }
 }
