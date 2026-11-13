@@ -1,12 +1,22 @@
 {
   "version": 1,
   "projectId": "cmv75v8yx00hv5c3clgrevjek",
-  "scriptSha256": "44e46ad07e256f82277d05c8fcbc353f89057587ff7d00fd91425a798c09c187",
+  "scriptSha256": "5c6891afffe322ef8faaa5b6bb3c20504a2d89a1f6fb29faa319f52de2e58ab2",
   "files": [
+    {
+      "name": "Academy109-SYNTHETIC-prerecorded.wav",
+      "sha256": "a4481bb105c351a91d7b2e625759e9a0a245d5f83128bba92da5b32bccc3c568",
+      "bytes": 731078
+    },
     {
       "name": "PROVENANCE.md",
       "sha256": "a9b6d1fe50bc02a137330714121c7738fa20ce938dea8ea564be1436a93dee78",
       "bytes": 723
+    },
+    {
+      "name": "SYNTHETIC-PRERECORDED-Academy-source.txt",
+      "sha256": "543c79ac67b20544517a454619afc9ceb0bec33233c1bd0aef0819d7077620ea",
+      "bytes": 575
     },
     {
       "name": "notes-fallback.md",
