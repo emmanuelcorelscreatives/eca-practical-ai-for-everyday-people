@@ -1,7 +1,7 @@
 {
   "version": 1,
   "projectId": "cmv75v8ji00fp5c3cmpadlumh",
-  "scriptSha256": "f7b0b2fb9c2376770823d4718724809721c2e31113d6d080822462b2d03f8690",
+  "scriptSha256": "861f8adb9b83baef5cb115f38b7eeddf24a8512e71d923a90b41f3aaa7a4b1f6",
   "files": [
     {
       "name": "README.md",
@@ -45,8 +45,8 @@
     },
     {
       "name": "practice-activity.md",
-      "sha256": "e0c8935ac261aa73baeea804291f8ed7c3871f2f201552d0a9cb3f81a680e360",
-      "bytes": 837
+      "sha256": "8adf7a899fc72905053215948c0019ebd76cb17dc8e30b8615b91ef7073d0a74",
+      "bytes": 980
     },
     {
       "name": "prompt-template.md",
@@ -65,8 +65,8 @@
     },
     {
       "name": "submission-checklist.md",
-      "sha256": "6a3831bcd13260b3fd224a3818ffcab78aa2eba03478fa8d31c8fe121df77288",
-      "bytes": 1112
+      "sha256": "34e2cb4ebfbdfd33b65c6b7a5e772a7a586b919ae5447eac6b0b9ebe61742e0b",
+      "bytes": 1207
     },
     {
       "name": "verify_materials.py",

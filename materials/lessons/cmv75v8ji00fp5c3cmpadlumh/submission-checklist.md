@@ -11,4 +11,4 @@ Submit:
 - Review record with actual reviewer/date/evidence, one correction propagated across all parts, assumptions and limitations.
 - Listening route record, including actual observations of dates/times/pauses or a clear “not tested” status.
 
-Do not mark human review or speech testing complete without doing it. Consequential or public translations need suitably capable human review. Use specific pronunciation feedback as rehearsal guidance, not a proficiency score. Identify one improvement for next time.
+Do not mark human review or speech testing complete without doing it. Consequential or public translations need suitably capable human review. Compare actual recognized text with the checked sentence and use replay to investigate differences; this is rehearsal guidance, not a pronunciation, clarity or proficiency score. Identify one improvement for next time.
