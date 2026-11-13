@@ -1,0 +1,3 @@
+This is a fictional, course-authored educational practice kit. You may copy, adapt and redistribute its original teaching texts, diagrams, synthetic audio and illustrative image derivatives for learning, with attribution to Practical AI for Everyday People, Lesson 65.
+
+garden-original.png was created with an image generation tool as a fictional garden. Its depicted adults are not identified real participants. No documentary photograph, human recording, real-person identity, consent record or live AI editing/transcription/translation failure is asserted. The WAV contains eSpeak NG synthetic voices and authored sound/noise. The flawed image, transcript and translation are deliberately authored examples. See fixture-provenance.json for the actual source and method.

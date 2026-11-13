@@ -1,0 +1,60 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="800" viewBox="0 0 1200 800" role="img">
+<title>Fictional garden schematic: original</title>
+<desc>Six volunteers and four planting tables. Diagram is not a photograph.</desc>
+<rect width="1200" height="800" fill="#f6faf1"/>
+<g font-family="sans-serif" fill="#162c29">
+<text x="60" y="65" font-size="30">Fictional garden • original schematic</text>
+<text x="60" y="105" font-size="23">Practice illustration • not a photograph or model output</text>
+<g id="table-1">
+<rect x="80" y="185" width="190" height="100" rx="8" fill="#ae7e4d"/>
+<text x="105" y="245" font-size="23">Table 1</text>
+</g>
+<g id="table-2">
+<rect x="340" y="185" width="190" height="100" rx="8" fill="#ae7e4d"/>
+<text x="365" y="245" font-size="23">Table 2</text>
+</g>
+<g id="table-3">
+<rect x="600" y="185" width="190" height="100" rx="8" fill="#ae7e4d"/>
+<text x="625" y="245" font-size="23">Table 3</text>
+</g>
+<g id="table-4">
+<rect x="860" y="185" width="190" height="100" rx="8" fill="#ae7e4d"/>
+<text x="885" y="245" font-size="23">Table 4</text>
+</g>
+<g id="person-1">
+<circle cx="110" cy="380" r="24" fill="#648a97"/>
+<path d="M 110 404 v 65 m -27 -35 h 54 m -27 35 l -25 40 m 25 -40 l 25 40" stroke="#28495d" stroke-width="8" fill="none"/>
+<text x="92" y="545" font-size="23">P1</text>
+</g>
+<g id="person-2">
+<circle cx="295" cy="380" r="24" fill="#648a97"/>
+<path d="M 295 404 v 65 m -27 -35 h 54 m -27 35 l -25 40 m 25 -40 l 25 40" stroke="#28495d" stroke-width="8" fill="none"/>
+<text x="277" y="545" font-size="23">P2</text>
+</g>
+<g id="person-3">
+<circle cx="480" cy="380" r="24" fill="#648a97"/>
+<path d="M 480 404 v 65 m -27 -35 h 54 m -27 35 l -25 40 m 25 -40 l 25 40" stroke="#28495d" stroke-width="8" fill="none"/>
+<text x="462" y="545" font-size="23">P3</text>
+</g>
+<g id="person-4">
+<circle cx="665" cy="380" r="24" fill="#648a97"/>
+<path d="M 665 404 v 65 m -27 -35 h 54 m -27 35 l -25 40 m 25 -40 l 25 40" stroke="#28495d" stroke-width="8" fill="none"/>
+<text x="647" y="545" font-size="23">P4</text>
+</g>
+<g id="person-5">
+<circle cx="850" cy="380" r="24" fill="#648a97"/>
+<path d="M 850 404 v 65 m -27 -35 h 54 m -27 35 l -25 40 m 25 -40 l 25 40" stroke="#28495d" stroke-width="8" fill="none"/>
+<text x="832" y="545" font-size="23">P5</text>
+</g>
+<g id="person-6">
+<circle cx="1035" cy="380" r="24" fill="#648a97"/>
+<path d="M 1035 404 v 65 m -27 -35 h 54 m -27 35 l -25 40 m 25 -40 l 25 40" stroke="#28495d" stroke-width="8" fill="none"/>
+<text x="1017" y="545" font-size="23">P6</text>
+</g>
+<path id="path" d="M 60 680 H 1140" stroke="#b9b6a8" stroke-width="80"/>
+<rect id="sign" x="725" y="575" width="415" height="70" fill="#155b9d"/>
+<text x="745" y="620" font-size="31" fill="white">Accessible entrance</text>
+<path id="ramp" d="M 850 735 L 1100 650 L 1100 710 L 850 760 Z" fill="#c6cdd1" stroke="#314352" stroke-width="4"/>
+<g id="bin"><rect x="85" y="585" width="70" height="90" fill="#555"/><path d="M 75 585 l 25 -24 l 30 10 l 35 -13 l 5 27 Z" fill="#886047"/></g>
+</g>
+</svg>

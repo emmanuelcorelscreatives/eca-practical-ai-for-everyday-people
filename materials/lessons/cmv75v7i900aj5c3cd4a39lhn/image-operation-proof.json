@@ -1,0 +1,338 @@
+{
+  "version": 2,
+  "state": "ACTUAL_SAVED_REOPENED_CANDIDATE_PAIR_REQUIRES_INDEPENDENT_REVIEW",
+  "method": "Actual bounded ordinary GIMP native healing followed by actual GIMP load/save/reopen/resave of both candidate PNGs; changed pixels verified against literal selection plus 3px feather and hard-protected table leg. Candidate requires independent quality/material review; no observed AI editing failure.",
+  "originalFile": "garden-original.png",
+  "flawedFile": "garden-illustrative-flawed.png",
+  "correctedFile": "garden-corrected.png",
+  "files": {
+    "garden-original.png": {
+      "sha256": "ae536777c5e16a6d68f25e9a1a200ef4bf3fe69aa0d4da33ee6fe2d8709c5c70",
+      "bytes": 3666178
+    },
+    "garden-illustrative-flawed.png": {
+      "sha256": "932bc976836cb5f746354daab5a6a93fc54474984e83c86cf4318d68fcb376e1",
+      "bytes": 3664594
+    },
+    "garden-corrected.png": {
+      "sha256": "2eaa267713d6b9b180a5e9954475858bd121a73cc922a9859a34fc330ffc502b",
+      "bytes": 3688124
+    },
+    "garden-planning-recording.wav": {
+      "sha256": "cce280e4c6a30571cda088e88362d18b8e88934c189aba2be57a75082cbef33f",
+      "bytes": 2116844
+    }
+  },
+  "decodedRGBA": {
+    "garden-original.png": "de61dbb3b85b5301b1e53de4170131b896eb4af812ba4bb4607d980e79fcb8f7",
+    "garden-corrected.png": "1ceb2b9f5e0866d64f8deeb5494a1fd7b63c886c225607dd3a04ddad11e4d9b2",
+    "garden-illustrative-flawed.png": "0644fcdaa79fac558e83cc6000c271318d90ab45f8cc7f84845b5625a48535cc"
+  },
+  "editorProof": {
+    "width": 1536,
+    "height": 1024,
+    "rampMask": [
+      [
+        177,
+        692
+      ],
+      [
+        312,
+        654
+      ],
+      [
+        828,
+        895
+      ],
+      [
+        584,
+        952
+      ],
+      [
+        411,
+        898
+      ],
+      [
+        256,
+        811
+      ]
+    ],
+    "signMask": [
+      [
+        48,
+        495
+      ],
+      [
+        270,
+        495
+      ],
+      [
+        270,
+        544
+      ],
+      [
+        48,
+        544
+      ]
+    ],
+    "protectedMasks": [
+      [
+        [
+          1430,
+          565
+        ],
+        [
+          1464,
+          565
+        ],
+        [
+          1464,
+          591
+        ],
+        [
+          1430,
+          591
+        ]
+      ]
+    ],
+    "changedFromCorrectedToFlawed": 98195,
+    "operations": [
+      "Opened unchanged original in GIMP; native healed bin region using explicit selection/3px feather and hard-protected table-leg subtraction",
+      "Saved corrected candidate and actual GIMP reloaded/resaved it; decoded RGBA identical",
+      "Kept corrected bin unchanged; reused deliberate left-side ramp/sign exercise",
+      "Saved flawed candidate and actual GIMP reloaded/resaved it; decoded RGBA identical"
+    ],
+    "savedCorrectionReopenedExact": true,
+    "savedFlawedReopenedExact": true,
+    "executionEvidence": {
+      "path": "/var/lib/trejj-studio/maintenance/practical-ai-pocket-production-20261112/lesson-cmv75v7i900aj5c3cd4a39lhn/ordinary-gimp-pair-export-v1/actual-native-finalized-pair-receipt.json",
+      "sha256": "c91cdd0d99e47fced540962e06e1c2d8d1ad7576ac56ae5ee2950e06700bbbb9",
+      "bytes": 4265
+    },
+    "oldBinMask": [
+      [
+        1250,
+        605
+      ],
+      [
+        1267,
+        580
+      ],
+      [
+        1294,
+        566
+      ],
+      [
+        1315,
+        543
+      ],
+      [
+        1345,
+        550
+      ],
+      [
+        1374,
+        536
+      ],
+      [
+        1400,
+        557
+      ],
+      [
+        1395,
+        581
+      ],
+      [
+        1438,
+        585
+      ],
+      [
+        1465,
+        609
+      ],
+      [
+        1462,
+        660
+      ],
+      [
+        1455,
+        777
+      ],
+      [
+        1454,
+        859
+      ],
+      [
+        1437,
+        886
+      ],
+      [
+        1478,
+        902
+      ],
+      [
+        1460,
+        916
+      ],
+      [
+        1290,
+        914
+      ],
+      [
+        1269,
+        883
+      ],
+      [
+        1275,
+        858
+      ],
+      [
+        1266,
+        701
+      ],
+      [
+        1253,
+        644
+      ]
+    ],
+    "selectionPolygon": [
+      [
+        1240,
+        605
+      ],
+      [
+        1258,
+        572
+      ],
+      [
+        1288,
+        557
+      ],
+      [
+        1308,
+        535
+      ],
+      [
+        1342,
+        540
+      ],
+      [
+        1374,
+        524
+      ],
+      [
+        1410,
+        549
+      ],
+      [
+        1404,
+        572
+      ],
+      [
+        1448,
+        579
+      ],
+      [
+        1477,
+        607
+      ],
+      [
+        1474,
+        660
+      ],
+      [
+        1467,
+        777
+      ],
+      [
+        1466,
+        862
+      ],
+      [
+        1449,
+        889
+      ],
+      [
+        1490,
+        902
+      ],
+      [
+        1470,
+        928
+      ],
+      [
+        1280,
+        926
+      ],
+      [
+        1258,
+        890
+      ],
+      [
+        1263,
+        858
+      ],
+      [
+        1254,
+        701
+      ],
+      [
+        1241,
+        644
+      ]
+    ],
+    "selectionFeatherRadius": 3,
+    "changedOutsideSelectionAndFeather": 0,
+    "changedInsideSelectionAndFeather": 81909,
+    "changedOutsideOldMask": 14747
+  },
+  "sourceFeatureReview": {
+    "pass": true,
+    "actualReviewModel": "combo/visual-review",
+    "verdict": {
+      "verdict": "pass",
+      "volunteerCount": 6,
+      "plantingTableCount": 4,
+      "rampVisible": true,
+      "exactSignText": "Accessible entrance",
+      "overflowingBinVisible": true,
+      "facesHandsPlausible": true,
+      "issues": [],
+      "evidence": "The raster shows six separate adults: a purple-shirted volunteer at front left, a green-shirted volunteer watering at rear left, a straw-hatted volunteer at rear center-left, a burgundy-shirted volunteer at rear center-right, a blue-capped volunteer at rear right, and an older plaid-shirted volunteer at front right. Four distinct elevated wooden planting tables are visible in two rows. A wooden step-free entrance ramp with handrails meets the paved foreground beside a blue sign reading exactly 'Accessible entrance' across two lines. One bin overflowing with paper and packaging stands near the entrance at front right. Visible faces, gloved hands, clothing, tools, and spatial relationships are coherent; the required features are within frame."
+    }
+  },
+  "independentListeningApproval": false,
+  "limits": [
+    "Native save/reopen and pixel boundaries are actual structural evidence, not semantic visual/material PASS.",
+    "Old underinclusive mask is retained with HARD polygon0 pixel-centre measurement; 14747 changes outside it are disclosed. New actual selection permits Euclidean boundary distance <=3px, protected leg has zero allowance.",
+    "Deliberate flawed ramp allows 1px Canvas edge antialias; sign uses exact rectangle.",
+    "Localized lower-right paving dark/tonal wedge and small joint stubs remain advisory in both derivatives; no all-flaws-fixed claim.",
+    "Original source-feature review applies only to unchanged fictional original. No acoustic listening approval or old model review scope transfers."
+  ],
+  "reopenedCandidates": {
+    "corrected-reopened.png": {
+      "path": "/var/lib/trejj-studio/maintenance/practical-ai-pocket-production-20261112/lesson-cmv75v7i900aj5c3cd4a39lhn/ordinary-gimp-pair-export-v1/corrected-reopened.png",
+      "sha256": "a8774ccef6ffd722a2b34b89b22671a647af331a9ae3f118fa51fdebb671f504",
+      "bytes": 3688351,
+      "pixelSHA256": "1ceb2b9f5e0866d64f8deeb5494a1fd7b63c886c225607dd3a04ddad11e4d9b2"
+    },
+    "flawed-reopened.png": {
+      "path": "/var/lib/trejj-studio/maintenance/practical-ai-pocket-production-20261112/lesson-cmv75v7i900aj5c3cd4a39lhn/ordinary-gimp-pair-export-v1/flawed-reopened.png",
+      "sha256": "82b4478051bd4198297a7bbde0a344dc47e0679db9c6dc18fd2d817ac22657a3",
+      "bytes": 3664820,
+      "pixelSHA256": "0644fcdaa79fac558e83cc6000c271318d90ab45f8cc7f84845b5625a48535cc"
+    }
+  },
+  "actualBoundaryEvidence": {
+    "path": "/var/lib/trejj-studio/maintenance/practical-ai-pocket-production-20261112/lesson-cmv75v7i900aj5c3cd4a39lhn/ordinary-gimp-bin-repair-v1/actual-working-pixel-boundary-v1.json",
+    "sha256": "a41d689cff10626f28106924fc29bbb75650fab1fc5c3583797059b879fec41f",
+    "bytes": 1814
+  },
+  "independentVisualFindings": {
+    "path": "/var/lib/trejj-studio/maintenance/practical-ai-pocket-production-20261112/lesson-cmv75v78300915c3cbhjmgkam/l064-final-pair-independent-visual-findings-v1/findings.json",
+    "sha256": "8661ba4dd8ad8696f0045c429faff5cae3e4b35c0ccafa1c51eaa1936845cca8",
+    "bytes": 7996
+  },
+  "independentVisualApproval": false,
+  "remainingVisualAdvisory": "Localized lower-right paving dark/tonal wedge x1440\u20131490,y865\u2013914 and small joint stubs x1260\u20131290,y790\u2013825 remain advisory; finalization scope forbade additional painting. No qualityPASS/allflawsfixed claim."
+}

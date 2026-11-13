@@ -1,0 +1,102 @@
+{
+  "version": 4,
+  "course": "Practical AI for Everyday People, Stage11 Lesson65",
+  "fictional": true,
+  "files": {
+    "garden-original.png": {
+      "sha256": "ae536777c5e16a6d68f25e9a1a200ef4bf3fe69aa0d4da33ee6fe2d8709c5c70",
+      "bytes": 3666178
+    },
+    "garden-illustrative-flawed.png": {
+      "sha256": "932bc976836cb5f746354daab5a6a93fc54474984e83c86cf4318d68fcb376e1",
+      "bytes": 3664594
+    },
+    "garden-corrected.png": {
+      "sha256": "2eaa267713d6b9b180a5e9954475858bd121a73cc922a9859a34fc330ffc502b",
+      "bytes": 3688124
+    },
+    "garden-planning-recording.wav": {
+      "sha256": "cce280e4c6a30571cda088e88362d18b8e88934c189aba2be57a75082cbef33f",
+      "bytes": 2116844
+    }
+  },
+  "gardenOriginal": {
+    "method": "One actual image_gen.imagegen generation, then independent source-feature pixel review",
+    "cameraPhotograph": false,
+    "realParticipantIdentityClaim": false,
+    "actualSourceFeatureReview": {
+      "pass": true,
+      "actualReviewModel": "combo/visual-review",
+      "verdict": {
+        "verdict": "pass",
+        "volunteerCount": 6,
+        "plantingTableCount": 4,
+        "rampVisible": true,
+        "exactSignText": "Accessible entrance",
+        "overflowingBinVisible": true,
+        "facesHandsPlausible": true,
+        "issues": [],
+        "evidence": "The raster shows six separate adults: a purple-shirted volunteer at front left, a green-shirted volunteer watering at rear left, a straw-hatted volunteer at rear center-left, a burgundy-shirted volunteer at rear center-right, a blue-capped volunteer at rear right, and an older plaid-shirted volunteer at front right. Four distinct elevated wooden planting tables are visible in two rows. A wooden step-free entrance ramp with handrails meets the paved foreground beside a blue sign reading exactly 'Accessible entrance' across two lines. One bin overflowing with paper and packaging stands near the entrance at front right. Visible faces, gloved hands, clothing, tools, and spatial relationships are coherent; the required features are within frame."
+      }
+    }
+  },
+  "imageDerivatives": {
+    "state": "ACTUAL_SAVED_REOPENED_CANDIDATE_PAIR_REQUIRES_INDEPENDENT_REVIEW",
+    "method": "Actual bounded ordinary GIMP native healing followed by actual GIMP load/save/reopen/resave of both candidate PNGs; changed pixels verified against literal selection plus 3px feather and hard-protected table leg. Candidate requires independent quality/material review; no observed AI editing failure.",
+    "observedAIEditingFailure": false,
+    "sourceAndCorrectionComparedByDecodedPixels": true,
+    "operationProof": "image-operation-proof.json",
+    "operationProofSha256": "ce247ba34e50cef5f730b44bbcf963641a5c7f2a203dd97e2849a9c82af83f3c",
+    "independentVisualApproval": false,
+    "remainingVisualAdvisory": "Localized lower-right paving dark/tonal wedge x1440\u20131490,y865\u2013914 and small joint stubs x1260\u20131290,y790\u2013825 remain advisory; finalization scope forbade additional painting. No qualityPASS/allflawsfixed claim."
+  },
+  "audio": {
+    "file": "garden-planning-recording.wav",
+    "engine": "eSpeak NG",
+    "sampleRate": 22050,
+    "channels": 1,
+    "sampleWidthBytes": 2,
+    "durationSec": 48,
+    "fictionalRoleMapping": {
+      "00:00": "Samira, synthetic en-us+f3",
+      "00:10": "Leo, synthetic en-us+m3"
+    },
+    "timeline": [
+      {
+        "start": 0,
+        "speechDurationSec": 4.0816780045351475,
+        "intendedWords": "Samira. Bring fifteen folding chairs to the east gate."
+      },
+      {
+        "start": 10,
+        "speechDurationSec": 2.1658503401360543,
+        "intendedWords": "We should not lock the east gate."
+      },
+      {
+        "start": 18,
+        "durationSec": 1,
+        "cue": "Authored beep representing a gate alarm"
+      },
+      {
+        "start": 42,
+        "speechDurationSec": 2.937732426303855,
+        "cue": "Synthesized speech masked by strong authored noise; retain uncertainty"
+      }
+    ],
+    "realHumanRecording": false,
+    "humanSpeakerIdentityEstablished": false,
+    "ASRRunSupplied": false,
+    "independentHumanListeningApproval": false
+  },
+  "textFixtures": {
+    "transcript": "Deliberately authored flawed sample and authoring-based reference, not observed recognizer output",
+    "translation": "Authored flawed and corrected English examples compared with the supplied Spanish notice, not observed AI translation"
+  },
+  "schematics": "Optional supplemental SVGs; not substitutes for raster faces/hands/shadow checks",
+  "limits": [
+    "Fictional image generation is not documentary evidence.",
+    "Authoring text and PCM provenance do not certify acoustic intelligibility.",
+    "Source-feature review is not whole-kit, target-scene or video approval.",
+    "Pixel equality and waveform measurements do not establish in-mask naturalness or acoustic meaning."
+  ]
+}

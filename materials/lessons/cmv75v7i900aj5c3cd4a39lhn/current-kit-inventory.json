@@ -1,0 +1,123 @@
+{
+  "version": 4,
+  "projectId": "cmv75v7i900aj5c3cd4a39lhn",
+  "scriptSha256": "a0e1d4908bbe2945914d350f2808ab165fa1f502597a51a0628a1b04e43237a6",
+  "scope": "Current source109 candidate: actual native bin-healed pair with retained paving advisory; authored exercises and synthetic audio limitations. Not independently material-approved.",
+  "files": [
+    {
+      "name": "LICENSE.txt",
+      "sha256": "9f4969d19161289e9de9990e402ee9b99293c4b544c0be6b25bb2cd8c066efd5",
+      "bytes": 773
+    },
+    {
+      "name": "README.md",
+      "sha256": "7107b6066acd50053e205816524bf28f6619c7b9d5d338b852e20da6a21cd18a",
+      "bytes": 1887
+    },
+    {
+      "name": "answers.md",
+      "sha256": "fc0badd31483a10a125b505762aa86a4aea5b2ce53b384da5feddc2c55e34d1c",
+      "bytes": 4593
+    },
+    {
+      "name": "audio-script.txt",
+      "sha256": "f0473dacf199d0d8b01af45fb0c45f8313ad246b6d2059f47e34c0895c0fc7e6",
+      "bytes": 1049
+    },
+    {
+      "name": "check_fixtures.py",
+      "sha256": "285cd690a2bacccc789484e7120f39fcb5410a24e73118edce9bd34045767080",
+      "bytes": 12621
+    },
+    {
+      "name": "fixture-provenance.json",
+      "sha256": "c913ec8260dbf4234dd74e1070f678c7ddc39f3c6d0152ca17c72394f2df00a6",
+      "bytes": 4898
+    },
+    {
+      "name": "garden-corrected.png",
+      "sha256": "2eaa267713d6b9b180a5e9954475858bd121a73cc922a9859a34fc330ffc502b",
+      "bytes": 3688124
+    },
+    {
+      "name": "garden-corrected.svg",
+      "sha256": "eab736982442337cdd5b61869ad833d77d54e3fb5f7865a531c46ca870f5c403",
+      "bytes": 2904
+    },
+    {
+      "name": "garden-flawed.svg",
+      "sha256": "93a9d1b8e1ddfd6bd3c8bac50ae39016e34b271f36fe938a570aefebcb388779",
+      "bytes": 2779
+    },
+    {
+      "name": "garden-illustrative-flawed.png",
+      "sha256": "932bc976836cb5f746354daab5a6a93fc54474984e83c86cf4318d68fcb376e1",
+      "bytes": 3664594
+    },
+    {
+      "name": "garden-map.txt",
+      "sha256": "8feedf7e259eee68b17c4f113a8fd4172324e5d4c97d63c2ae7d7724decd636e",
+      "bytes": 282
+    },
+    {
+      "name": "garden-original.png",
+      "sha256": "ae536777c5e16a6d68f25e9a1a200ef4bf3fe69aa0d4da33ee6fe2d8709c5c70",
+      "bytes": 3666178
+    },
+    {
+      "name": "garden-original.svg",
+      "sha256": "a51085200e6959958268bc07ee4656965a7aba40b18d4a5602f108518f2e2612",
+      "bytes": 3046
+    },
+    {
+      "name": "garden-planning-recording.wav",
+      "sha256": "cce280e4c6a30571cda088e88362d18b8e88934c189aba2be57a75082cbef33f",
+      "bytes": 2116844
+    },
+    {
+      "name": "glossary.csv",
+      "sha256": "04f0ebf65edf7240316c9dc1acdff672d8f53cdebebadbffe2b3c9630b9d0fa0",
+      "bytes": 180
+    },
+    {
+      "name": "image-operation-proof.json",
+      "sha256": "ce247ba34e50cef5f730b44bbcf963641a5c7f2a203dd97e2849a9c82af83f3c",
+      "bytes": 8892
+    },
+    {
+      "name": "notice-es.txt",
+      "sha256": "4f0c1de34a3c3c498bfc277252637180c67f5aa8b76e53571e5e88aa9290b3c7",
+      "bytes": 141
+    },
+    {
+      "name": "review-log.csv",
+      "sha256": "796017628b72b2259748e96cb84ea4a049274718992f3e728d92c3d92ed2de0b",
+      "bytes": 223
+    },
+    {
+      "name": "transcript-flawed.txt",
+      "sha256": "4ef0ae07d04e56c74938994ee376c4553fdca3077a97021e27b754a1ffd5852b",
+      "bytes": 162
+    },
+    {
+      "name": "transcript-reference.txt",
+      "sha256": "54d17d2970b2388da92a71d47b631980ff0f9ffda7791aaf84240e3b6eedc9fb",
+      "bytes": 388
+    },
+    {
+      "name": "translation-flawed.txt",
+      "sha256": "7ad0a69a5310e106a01cb0df3b4574ae90e077c3871739ddfc0e18ffd8de3dd6",
+      "bytes": 178
+    },
+    {
+      "name": "translation-reference.txt",
+      "sha256": "76b276d9f6fe886db9be65f357e6f45d89f3429e4f21caa2820e41ae23f20fa2",
+      "bytes": 139
+    },
+    {
+      "name": "worksheet.md",
+      "sha256": "03d7923a51107b0b6234f1eaf6106c7fa3a4afbe826a9d621b42a29db8096b13",
+      "bytes": 5610
+    }
+  ]
+}

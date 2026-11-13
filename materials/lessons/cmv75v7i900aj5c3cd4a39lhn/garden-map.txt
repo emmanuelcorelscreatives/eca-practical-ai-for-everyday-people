@@ -1,0 +1,5 @@
+FICTIONAL MAP / SUPPORTING CONTEXT
+North: four planting tables.
+East: east gate, accessible entrance, ramp and blue sign.
+West: west boundary; no chair delivery is requested there by the script.
+The map supports location interpretation; listening determines the spoken destination.

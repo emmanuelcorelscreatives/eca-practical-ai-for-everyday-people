@@ -1,0 +1,6 @@
+AUTHORING-BASED REFERENCE — compare with the supplied synthetic WAV
+00:00 Samira: Bring fifteen folding chairs to the east gate.
+00:10 Leo: We should not lock the east gate.
+00:18 [gate alarm sounds]
+00:42 [unclear]
+Role labels come from the author's synthetic voice assignment, not real-person identification. Do not infer a human or independent acoustic approval from this reference.

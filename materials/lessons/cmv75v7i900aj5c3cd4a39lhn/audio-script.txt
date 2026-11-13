@@ -1,0 +1,9 @@
+ACTUAL SUPPLIED SYNTHETIC SOURCE — garden-planning-recording.wav
+Duration: 48 seconds. Mono PCM, 22050 Hz, 16-bit.
+Engine: eSpeak NG. Samira and Leo are fictional role labels assigned by the author to two synthetic voice settings, not identified real people or inferred speaker identities.
+00:00: synthetic voice says "Samira. Bring fifteen folding chairs to the east gate." Speech lasts about 4.08 seconds.
+00:10: a second synthetic voice says "We should not lock the east gate." Speech lasts about 2.17 seconds; its fictional role is Leo.
+00:18–00:19: authored beep representing a gate alarm.
+00:42–about 00:44.94: synthesized speech deliberately masked by strong authored noise. This is not silence. Keep [unclear, 00:42] rather than copying hidden intended words into a listening transcript.
+Other intervals contain silence. The recording ends at 00:48.
+This script records actual controlled authoring inputs/timing, not a human listening or automatic speech recognition verdict. Replay the supplied WAV to make your own listening checks.
