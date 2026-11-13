@@ -1,7 +1,7 @@
 {
   "version": 1,
   "projectId": "cmv75v93o00ij5c3cwnzzs2lo",
-  "scriptSha256": "a3b5f8b78fb81c9e39632855ea923d274a8a0983d048d29f73696016dd0873de",
+  "scriptSha256": "a03886afc2017b2e2ad58f3c747f2c31fe992a69fdf79a391408d56ffa7c77c2",
   "files": [
     {
       "name": "answer-guide.md",
@@ -24,14 +24,24 @@
       "bytes": 612
     },
     {
+      "name": "synthetic-example-source.md",
+      "sha256": "7bf642531a511cefc00640e6db634e8f6bb2469dd3c63dec1d207d753bd8c2b8",
+      "bytes": 741
+    },
+    {
+      "name": "synthetic-prerecorded-academy-example.wav",
+      "sha256": "525a04522f49ede0f30d954bce52f4490665a39ba2cc5c35a0ec7da4647fb362",
+      "bytes": 704188
+    },
+    {
       "name": "transcript-with-errors.txt",
       "sha256": "7a2599fa455f72e2de90eb1428f921676a45d10ecb86fdac046bd7e7bfc28f17",
       "bytes": 292
     },
     {
       "name": "worksheet.md",
-      "sha256": "9b81cd0d87a9894fdc2753a7092eb003f120c4bf04551b9f18fcffcfa13fa7c2",
-      "bytes": 2843
+      "sha256": "abb759920d4962a88764f4eed29eeabfb5db4415655ef9439ddd7d1c1a3867b9",
+      "bytes": 3051
     }
   ]
 }

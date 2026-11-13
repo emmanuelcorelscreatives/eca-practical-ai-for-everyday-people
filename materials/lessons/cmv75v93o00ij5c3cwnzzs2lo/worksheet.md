@@ -4,8 +4,8 @@ Emmanuel Corels Academy · Practical AI for Everyday People
 Practice organizing authorized voice notes without turning possibilities into promises. This kit uses a self-authored fictional community-room event. No real event, volunteer commitment, recording or software result is represented.
 
 ## Three distinct layers
-1. **Audio:** record yourself reading `recording-script.txt`, or have a consenting partner read it. Keep the original recording. The sample is short, not a claimed seven-minute recording. No audio file is supplied.
-2. **Transcript:** use your available transcription tool, or replay short sections and type a manual transcript. Google Recorder on a supported Pixel is the lesson example, not a requirement. Device, language and transcription access vary. Do not upload confidential or third-party audio without authority.
+1. **Audio:** record yourself reading `recording-script.txt`, or have a consenting partner read it. Keep the original recording. The sample is short, not a claimed seven-minute recording. A clearly labelled SYNTHETIC PRERECORDED ACADEMY EXAMPLE is supplied for practice; it is not a live microphone or human recording.
+2. **Transcript:** use your available transcription tool, or replay short sections and type a manual transcript. The lesson uses a clearly labelled prerecorded Academy audio example and an editable authored practice transcript; your own available transcription tool or manual replay may be used. Device, language and transcription access vary. Do not upload confidential or third-party audio without authority.
 3. **Organization:** use `organization-prompt.txt` with your corrected transcript, or sort the notes manually. Keep this separate from the transcript and label it generated organization until reviewed.
 
 ## Work through the exercise
