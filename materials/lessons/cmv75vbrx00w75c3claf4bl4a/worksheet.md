@@ -35,7 +35,7 @@ Delete the local draft using its button. Complete the cleanup record with an hon
 
 Only with an appropriate test account and acceptable scopes, choose the exact Event Interest Test source and map the three fields. Keep workflow OFF. If available, run one isolated platform test. Open the actual destination: verify exactly one private draft, matching values and correct folder. Stop if any older/private real record appears. Do not treat a success badge as proof.
 
-Clean up separately: remove the test output, confirm workflow OFF then delete/inactivate the test workflow, inspect shared-connection dependencies, remove only exercise connections, and refresh to verify removal. Disconnecting does not remove copied data. If removal fails, record unresolved access and use the provider's authorized-app controls or administrator support; never mark it confirmed prematurely.
+Clean up separately: remove the test output. In n8n, confirm the isolated exercise workflow is inactive, archive it, then delete it. Inspect each exercise credential's actual workflow dependencies before removing only the two saved n8n credentials. Separately revoke the corresponding grant in each Academy app; removing a saved credential does not revoke its service grant. Refresh n8n's credential list and both Academy grant inventories to confirm the credentials are gone and both grants show revoked. Old tokens must be denied; use the producer's independent verification rather than copying tokens into this worksheet or a terminal. Disconnecting does not remove copied data. If any removal or verification fails, record unresolved access and use the provider's authorized-app controls or administrator support; never mark it confirmed prematurely.
 
 ## Exercises and checks
 
