@@ -4,8 +4,6 @@ Practical AI for Everyday People · Emmanuel Corels Academy
 
 Choose your lesson below. Try the exercises before reading worked examples or answer guides. Each pack explains its own source files, fictional practice data and usage instructions.
 
-An earlier edition is linked where an updated practice pack is forthcoming. Those links provide existing study material; check back for the updated edition.
-
 ## Introduction
 
 | Lesson | Topic | Practice materials |
@@ -129,7 +127,7 @@ An earlier edition is linked where an updated practice pack is forthcoming. Thos
 | 62 | Find Missing Exceptions and Qualifications | [Practice files](lessons/cmv75v7ew00a15c3c9ydda8fy/) |
 | 63 | Recognize Stereotypes and Unfair Assumptions | [Practice files](lessons/cmv75v7fx00a75c3cg2bmxnbm/) |
 | 64 | Distinguish Observation from Interpretation | [Practice files](lessons/cmv75v7h300ad5c3ckndw9wh2/) |
-| 65 | Evaluate Images, Audio and Translations | Materials forthcoming |
+| 65 | Evaluate Images, Audio and Translations | [Practice files](lessons/cmv75v7i900aj5c3cd4a39lhn/) |
 | 66 | Know When a Qualified Person Is Needed | [Practice files](lessons/cmv75v7jg00ap5c3cxog2ih1i/) |
 
 ## Stage 12 — Create a Reliable Output-Checking Routine
