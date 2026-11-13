@@ -52,4 +52,6 @@ The complete saved Practical AI curriculum, including its standalone Introductio
 
 ## Using the practice materials
 
+Find every lesson in the [lesson-by-lesson practice material guide](materials/README.md). Open the matching pack; materials marked forthcoming will be added to the guide.
+
 Use the exercise files and instructions belonging to the matching lesson. Examples, source documents, prompts, supported claims and expected results remain lesson-specific. A scaffold or illustrative example is labelled as such; it is not a claim of a real account session.
