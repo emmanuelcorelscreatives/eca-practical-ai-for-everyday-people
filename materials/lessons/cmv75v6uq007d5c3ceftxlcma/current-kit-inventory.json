@@ -1,32 +1,32 @@
 {
   "version": 1,
   "projectId": "cmv75v6uq007d5c3ceftxlcma",
-  "scriptSha256": "450695ebd5f49e4e5803708dfdb79429b185256047493ccac3cdf69f73a3bf52",
+  "scriptSha256": "a9756fd3d7d9b0cfc19743beb689ab81ba3cd4275a073203d131c1f627938625",
   "files": [
     {
       "name": "CHANGELOG.txt",
-      "sha256": "7438042e3ead39fd3c1c9dfb299d3d711178adb6e4ded503b0b5f00dc5c8a7e4",
-      "bytes": 519
+      "sha256": "e949c546fbadc5b2ed84f5572424ed9e823fda9010b6436cfac81a919f4e5a16",
+      "bytes": 523
     },
     {
       "name": "Event Reminder v1 CURRENT 2026-10-13.txt",
-      "sha256": "cbb005869e2e27b80df6f0f4bc14e12f306bf86eaa52a1ed66bc961f9f053cd8",
-      "bytes": 1436
+      "sha256": "18590ef1dccea38ba20f17d0af1fdb9fb01191771bfe598ea092cf85a8333100",
+      "bytes": 1452
     },
     {
       "name": "Event Reminder v2 DRAFT 2026-10-13.txt",
-      "sha256": "2f7cce601a07d18ff5b3daac839e3f6f00845ad6ca61efe9bd766f79ada4afe9",
-      "bytes": 1129
+      "sha256": "0f85a17037e94e9b57ece0da8f4f988022bd9d31ca4d670c07e441143fb370e1",
+      "bytes": 1135
     },
     {
       "name": "PROVENANCE.md",
-      "sha256": "aa70d2026b6091d97e5403cef10a0b41c12c55d3702e225244f4c86dc3c4a6f3",
-      "bytes": 338
+      "sha256": "d11ac00a9b4799ae0ab36ab8f4f258d1dc492721268aad81ec94bebcba9d098d",
+      "bytes": 438
     },
     {
       "name": "answer-key.md",
-      "sha256": "e56f1adc83594a26c44ad4eb698bb5f06eeb371d0f788f4ddb8aa9f07dae8f6d",
-      "bytes": 1713
+      "sha256": "9f45c8718549f3b792ede12cc80f1fa87ab1084042d8ea78120f8028f2ac1bc8",
+      "bytes": 1608
     },
     {
       "name": "blank-revision-record.txt",
@@ -50,13 +50,13 @@
     },
     {
       "name": "supplied-output-v1.txt",
-      "sha256": "a2c8fb56002d41f568ef1919540a6d771d9d118ccfac216869d1caf5ec24c167",
-      "bytes": 230
+      "sha256": "f8e54e17cf585a4a43457740488a43e5d2c7af6b0f4e8b983f60a835de24a987",
+      "bytes": 228
     },
     {
       "name": "worksheet.md",
-      "sha256": "584f621f4448cf57640c6b523c8df2cf4edacc1646d512b679f09db74ebcd977",
-      "bytes": 2741
+      "sha256": "b9e9c3ede7ea9d5435c7d64d0873c966dde51a3e5b4e06440774f9001c881a04",
+      "bytes": 2795
     }
   ]
 }

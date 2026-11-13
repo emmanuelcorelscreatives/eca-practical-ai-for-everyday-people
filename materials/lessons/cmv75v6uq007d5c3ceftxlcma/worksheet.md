@@ -7,7 +7,7 @@ This kit preserves the lesson's fictional seed-sorting example and its v1 Curren
 ## Open the working record
 
 1. Open `Event Reminder v1 CURRENT 2026-10-13.txt` in any ordinary text editor. Read the required inputs and four quality checks.
-2. Compare `supplied-notes.txt` and `supplied-output-v1.txt`. The output is reproduced from the lesson as a supplied teaching example, not evidence of a new assistant run. Its content body is 30–60 words, includes all six input fields and no extra facts. The repeated date is a minor recorded weakness.
+2. Compare `supplied-notes.txt` and `supplied-output-v1.txt`. The output is the retained actual assistant response from the Academy fictional exercise on 2026-11-13. Its content body is 30–60 words, includes all six input fields and no extra facts. The event name repeats in the heading and paragraph: an optional stylistic preference, not a factual error.
 3. Keep the exact input and checked output together. The claim is **Successful for this input**, not universal reliability.
 4. Read `Event Reminder v2 DRAFT 2026-10-13.txt`. Its only instruction change is: “State each logistical detail once unless repetition prevents confusion.” It has no checked v2 example. Keep v1 Current.
 5. Open `CHANGELOG.txt`; check version, revision date, successful example, known weakness, change and next test. The files provide a portable fallback when built-in history is unavailable.

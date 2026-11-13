@@ -1,3 +1,3 @@
 Version | Revised | Status | Successful example | Known weakness | Change made | Next test
-v1 | 2026-10-13 | CURRENT | Saved seed-sorting input and checked supplied output; successful for this input | Date repeated in heading and paragraph | Initial record | Compare a revision using same acceptance checklist
+v1 | 2026-10-13 | CURRENT | Saved seed-sorting input and checked actual output; successful for this input | Event name repeated in heading and paragraph | Initial record | Compare a revision using same acceptance checklist
 v2 | 2026-10-13 | DRAFT | Pending | v1 repetition limitation carried forward until retested | Added only the sentence about each logistical detail once | Check this input; different inputs follow in Lesson 47

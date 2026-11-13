@@ -16,6 +16,6 @@ QUALITY CHECK
 
 CHECKED EXAMPLE
 Pending. Do not treat v1 example as a successful v2 test.
-Known weakness carried forward: Repeated date in the saved v1 result; not yet retested for v2.
+Known weakness carried forward: Repeated event name in the saved v1 result; not yet retested for v2.
 Change made: Reduced unnecessary repetition, with only one added sentence.
 Next test: Check this revision; do not replace v1 until a checked result exists.
