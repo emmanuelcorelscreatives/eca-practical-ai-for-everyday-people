@@ -1,7 +1,7 @@
 {
   "version": 1,
   "projectId": "cmv75vb8r00tp5c3ci0kyi9ie",
-  "scriptSha256": "ca404b4ee223bf855e194282f3f0e8580124a5c7856ecd7a13f05171a22bc236",
+  "scriptSha256": "a47d25073e0d43c255d9f0ae33f6de92dd5defdcef81f1c9c955213ef7c0a6aa",
   "files": [
     {
       "name": "LICENSE.txt",
@@ -10,8 +10,8 @@
     },
     {
       "name": "README.md",
-      "sha256": "e98e3b464adf70b9c7c7ec739d3cc8f6ad1f02db3c0aa881a4c5295839b6ece2",
-      "bytes": 2169
+      "sha256": "ff074fd3189b5707912543ea2d916146563d6f45acc095a3b6d87572158c7412",
+      "bytes": 2509
     },
     {
       "name": "announcement-inspection-copy.docx",
@@ -20,8 +20,8 @@
     },
     {
       "name": "answer-key.md",
-      "sha256": "9d92b35a69e16956b6d359f75c815b26196ce31a5cc9361ea3935b98ed8126cf",
-      "bytes": 2192
+      "sha256": "c619429c415a229e1ea17639ea1dde3487d2186792ab96d8e9695f322151e061",
+      "bytes": 2578
     },
     {
       "name": "approved-public-facts.csv",
@@ -40,8 +40,8 @@
     },
     {
       "name": "exercise.md",
-      "sha256": "fde481af642baea108543a760d9242aa1acc9a4f8a8fb8c777e06f414b93493b",
-      "bytes": 3026
+      "sha256": "47299d6bda83803dae61ba16f3adf305ac2e5cd84ea07f62f1bb1d057eb82406",
+      "bytes": 3386
     },
     {
       "name": "prompt.txt",
@@ -60,8 +60,8 @@
     },
     {
       "name": "release-checklist.md",
-      "sha256": "a540744323162919974bb6070206a9e833b30596eb226a3ea1bb365c6e22e214",
-      "bytes": 1320
+      "sha256": "64848655c197ccaf22fcaff3bc2db496947b15a77d2428c5b172d11366ea5592",
+      "bytes": 1540
     },
     {
       "name": "restricted-working-register-FICTIONAL.csv",
