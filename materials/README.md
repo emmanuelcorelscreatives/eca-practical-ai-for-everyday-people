@@ -383,7 +383,7 @@ An earlier edition is linked where an updated practice pack is forthcoming. Thos
 | 201 | Handle Approve, Reject and Edit Paths | [Practice files](lessons/cmv75vbzh00x75c3cizvcpqjj/) |
 | 202 | Recheck Changed Content Before Action | [Practice files](lessons/cmv75vc0q00xd5c3c2xguunt0/) |
 | 203 | Limit Scope and Provide an Off Switch | [Practice files](lessons/cmv75vc1z00xj5c3cof4ji4aq/) |
-| 204 | Test the Approval Boundary | [Earlier practice pack](lessons/cmv75vc3500xp5c3c5kxenopg/) · updated edition forthcoming |
+| 204 | Test the Approval Boundary | [Practice files](lessons/cmv75vc3500xp5c3c5kxenopg/) |
 
 ## Stage 35 — Make Automations Reliable Enough to Reuse
 
