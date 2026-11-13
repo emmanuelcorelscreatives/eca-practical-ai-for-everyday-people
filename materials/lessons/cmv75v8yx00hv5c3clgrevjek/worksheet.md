@@ -6,7 +6,7 @@ Use this kit to prepare one focused personal recording, inspect its boundaries a
 ## Safe practice
 1. Read `purpose-and-permission-checklist.md`. Use only your own voice in a private place without confidential material. Do not record a real meeting for this exercise.
 2. Copy the three headings from `planning-outline.md` into your notes app. Confirm nobody else is within microphone range.
-3. With a recorder of your choice, record `personal-note-script.txt` in your own voice. In the lesson’s iPhone demonstration, Notes holds the outline and Voice Memos provides Record and Stop. Actual app layouts vary; this kit does not claim to provide iPhone screenshots.
+3. With a recorder of your choice, record `personal-note-script.txt` in your own voice. In the lesson’s prerecorded Academy demonstration, the clearly labelled synthetic example is played on a computer; use the supplied source card to inspect its scope. Actual app layouts vary; this kit does not claim to provide iPhone screenshots.
 4. Stop immediately after the third point. Aim for a short personal note of approximately thirty seconds; do not add irrelevant words merely to meet a duration.
 5. Rename your file “Planning questions — permission-safe personal note”. Listen at the beginning, through its contents and near the end. Complete `scope-check.md` against what you actually hear.
 6. If you hear unintended background speech, do not use that file for the exercise. Discard the unsuitable personal practice recording and record again in private. Apply relevant agreements and policies to real recordings; do not assume this exercise sets legal rules.
