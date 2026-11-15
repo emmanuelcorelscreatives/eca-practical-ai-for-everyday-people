@@ -1,5 +1,5 @@
 # Optional 12:00 practice demonstration plan
-This is an illustrative teaching schedule, not evidence of a rendered video's exact length. Native narration duration remains authoritative; do not stretch, clip or time-force audio to these estimates.
+Use this optional practice plan and pause whenever you need more time.
 
 | Planned interval | Activity | Minutes |
 | --- | --- | --- |
@@ -12,4 +12,4 @@ This is an illustrative teaching schedule, not evidence of a rendered video's ex
 | 10:00–11:00 | Manual fallback and separate arithmetic | 1 |
 | 11:00–12:00 | Evidence checklist and review | 1 |
 
-Planned teaching total:12minutes. Actual runtime is established only by native recording and the final video, separately from material approval.
+Suggested practice allocation: 12 minutes. Pause and take longer when needed.

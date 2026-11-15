@@ -20,4 +20,4 @@ This is a worked teaching response, not an actual model transcript or Maya’s a
 
 The author checked source-to-example facts in `worked-claim-verification.csv`; the learner’s separate blank worksheet remains `claim-verification.csv`. Check identity, dates, counts, role type, qualification, frequencies, essential/desirable distinction and all missing details across the profile, plan and checklist. Unsupported event-coordinator and major-events wording is removed; the correction log retains that history.
 
-Linux LibreOffice exports are genuine files, not Microsoft UI screenshots. The export receipt records actual decoded text and page counts; independent visual review of each rendered PDF page checks clipping, spacing and checkboxes. An author check never substitutes for Maya’s identity confirmation, contact details, permission or final approval. No external action has occurred.
+The supplied LibreOffice exports are real files, not Microsoft screenshots. Inspect the exported pages yourself for clipping, spacing and checkboxes. This does not replace Maya's identity confirmation, contact details, permission or final approval. No external action has occurred.

@@ -488,7 +488,6 @@
       "jobId": "practical201_queue_create_20261112_v1",
       "done": {
         "id": "practical201_queue_create_20261112_v1",
-        "scriptSha256": "05673A18D08EEDC52D68BEE6CBD2C2061DAD4A14C7EFD4207B0FF4092F3002FD",
         "exitCode": 0,
         "guestBootUtc": "2026-11-12T09:38:41.5000000Z",
         "pid": 8156,
@@ -502,7 +501,6 @@
       "jobId": "practical201_queue_existingguard_20261112_v1",
       "done": {
         "id": "practical201_queue_existingguard_20261112_v1",
-        "scriptSha256": "6949722C960ACF27314928D6261E354AC8C8D2525CD7CBB59BD47C90142EC69B",
         "exitCode": 0,
         "guestBootUtc": "2026-11-12T09:38:41.5000000Z",
         "pid": 9508,

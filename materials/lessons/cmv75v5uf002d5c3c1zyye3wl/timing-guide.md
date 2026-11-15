@@ -1,5 +1,5 @@
 # Practice timing plan
-The authored lesson targets 12 minutes. This is a learner pacing plan, not a measured narration or final-video duration verdict. The production controller must independently verify final media duration.
+Use this optional 12-minute practice plan. Pause or repeat any step as needed; it is not a measurement of your work or the course video.
 
 | Activity | Minutes |
 |---|---:|
@@ -10,4 +10,4 @@ The authored lesson targets 12 minutes. This is a learner pacing plan, not a mea
 | Inspect activity, disconnect and verify remaining draft | 2 |
 | Manual handoff, save reviewed result, apply checklist | 2 |
 
-Total planned practice time: 12 minutes. Pause or repeat as needed. This guide preserves the authored narration and its existing timing.
+Total suggested practice time: 12 minutes. Pause or repeat as needed.

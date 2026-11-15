@@ -4,7 +4,7 @@ Emmanuel Corels Academy · Practical AI for Everyday People
 This self-authored, wholly fictional exercise organizes supplied records into questions. It does not determine eligibility, interpret rights, recommend financial action, diagnose, or tell anyone to change an arrangement. No real patient, client, account or appointment is represented.
 
 ## Start
-Create `Appointment Prep/01 Originals`, `02 Working Copy`, and `03 Final Questions`. Preserve originals; copy before editing. The source texts in `originals/` define the three records shown in this lesson. The supplied actual PDF, DOCX and JPEG in `Appointment Prep/01 Originals/` contain the corresponding self-authored source texts. Production checks extracted the PDF text, opened and CRC-checked the DOCX XML, and decoded the JPEG dimensions. No real scanner, OCR engine or AI execution is implied; tentative OCR and draft output are transparent authored examples.
+Create `Appointment Prep/01 Originals`, `02 Working Copy`, and `03 Final Questions`. Preserve originals; copy before editing. The source texts in `originals/` define the three records shown in this lesson. The supplied actual PDF, DOCX and JPEG in `Appointment Prep/01 Originals/` contain the corresponding self-authored source texts. No real scanner, OCR engine or AI execution is implied; tentative OCR and draft output are transparent authored examples.
 
 1. Read all three fictional records. Do not silently reconcile the review-date conflict.
 2. Copy them to Working Copy. Redact only unnecessary fictional account/address details from the copy.
@@ -15,7 +15,7 @@ Create `Appointment Prep/01 Originals`, `02 Working Copy`, and `03 Final Questio
 7. Make the one-page final sheet using the template. Group Ask first/Ask if time allows; add checkboxes. No invented required document.
 8. Run `python3 verify_kit.py`. This checks the supplied exercise/key, not your actual assistant's answer. Manually inspect that answer and final sheet with `review-checklist.md`.
 
-Paper or a phone may replace tools. Keep originals apart; write a separate fact/source/checked/question table. Physical paper is an explicit manual fallback taught in this lesson, not decoration for software demonstrations.
+Paper or a phone may replace tools. Keep originals apart; write a separate fact/source/checked/question table.
 
 ## Files
 `originals/` — permission-cleared source text; `ocr/` — deliberately faulty transcription; `exercise/` — learner blanks and prompt; `expected/` — transparent human-authored answer examples; `review-checklist.md` — final review; `verify_kit.py` — deterministic consistency checks.

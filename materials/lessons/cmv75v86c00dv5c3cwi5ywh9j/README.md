@@ -6,7 +6,7 @@ This self-authored practice kit accompanies the saved lesson without changing it
 ## Start
 1. Open `learning-brief.md`; complete the five fields before using an assistant.
 2. Compare the vague and specific requests in `prompt-practice.md`.
-3. Work the three questions in `understanding-check.md` without copying an answer.
+3. Work the seven questions in `understanding-check.md` without copying an answer.
 4. Check with `answer-key.md` or run `python3 check_percentages.py` (Python 3, standard library only).
 5. Use `sources/percentage-notes.md` and `sources/study-method.md` in a source notebook, if available. Follow `source-notebook-exercise.md` and open the actual supporting passages.
 

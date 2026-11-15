@@ -14,6 +14,6 @@ This self-authored fictional Maya study pack supports the saved lesson. It is no
 
 Files are UTF-8; CSV headers stay plain text. Blank fields mean not yet known. Licence: CC BY 4.0, Emmanuel Corels Academy; all records and questions self-authored. No private source data or vendor screenshots are included. This pack does not replace an independent attempt, a supplied course source or checking an assistant's output.
 
-Read `schedule-output-notes.md` with both schedule CSVs for assumptions and missing information. The saved lesson targets 11 minutes, but this offline kit makes no claim about actual recording duration; native recorded speech governs production timing.
+Read `schedule-output-notes.md` with both schedule CSVs for assumptions and missing information. Take as much time as you need to compare the schedules and record unresolved information.
 
 Use `next-week-allocation.csv` as a self-authored proposed response to the illustrative follow-up: percentage wording receives more time, fractions a shorter check, and mixed review remains. Check every daily total against availability. This is not an observed or automatically approved schedule.

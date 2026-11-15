@@ -4,7 +4,7 @@ Emmanuel Corels Academy. Fictional event-cost estimates and actuals; no purchase
 
 ## Files and workflow
 
-Keep the original `formula-practice.xlsx` unchanged. For this lesson’s native demonstration, use the authenticated workbook as the source for a separate Academy working copy in genuine Google Sheets in the authorized browser. Record the actual application and version observations honestly; do not label Sheets as Excel or claim a Copilot interface. A learner may also do the independent arithmetic manually. `event-costs.csv` is an accessible source-data counterpart.
+Keep `formula-practice.xlsx` unchanged and open a personal working copy in a spreadsheet you may use. You may import a copy into your own Google Sheets if available. Otherwise use `event-costs.csv` and the independent manual arithmetic route. Record the application actually used; do not treat the supplied workbook or expected results as proof of a software calculation.
 
 The `Event` sheet has A1 Item, B1 Estimated cost and C1 Actual cost. Room is 120/125, food85/90, printingblank/0 and transport40/35. The estimate total belongs in B6; the actual total belongs in C6. B4 is genuinely absent, not an empty string or a numeric zero. A7 labels the average estimate in B7.
 

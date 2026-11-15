@@ -44,5 +44,5 @@
     }
   ],
   "sourcePack": "opened-source-pack.md",
-  "nativeUILimits": "Actual Linux LibreOffice24.2.7.2 source and export proof, not Windows/Impress26.2 UI. Detailed native metadata retained by lesson worker. Final appearance requires independent pixel review."
+  "nativeUILimits": "Supplied files were created with Linux LibreOffice 24.2.7.2, not Windows/Impress 26.2. Open them in your available software and inspect actual appearance; layout may differ."
 }

@@ -1,6 +1,5 @@
 {
   "sampleRate": 24000,
-  "approvedScriptSha256": "d4f546d45dbd9188ad84d5904188ae4c5facee6a8fa5ecb2f5bb7a83d3a36c6d",
   "voiceSha256": "220255f2e20dfc913449db1076c2b5fc2be28322b39a837d7cf458feb3129c79",
   "sentenceNativeFrames": [
     {
@@ -80,5 +79,6 @@
     ]
   ],
   "middleCaptureTime": 4.76,
-  "limits": "Synthetic training speech assembled by exact known sentence source/frame bounds. No recognition/forced speech verification. Final caption intentionally remains visible after speech for reading."
+  "limits": "Synthetic training speech assembled by exact known sentence source/frame bounds. No recognition/forced speech verification. Final caption intentionally remains visible after speech for reading.",
+  "practiceScriptSha256": "d4f546d45dbd9188ad84d5904188ae4c5facee6a8fa5ecb2f5bb7a83d3a36c6d"
 }

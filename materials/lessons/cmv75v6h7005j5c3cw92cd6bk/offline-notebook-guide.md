@@ -12,4 +12,4 @@ Open `source-notebook.html` locally in a current browser. It works offline witho
 4. Click **[1]** to inspect the exact date passage. Compare it with the separate source document and task brief.
 5. Keep booking and accessibility information marked as not supplied. The task brief remains a separate instruction artifact; the notebook source record does not approve a draft.
 
-Actual production QA opened the source, checked all five extracted facts and exercised passage marker [5] in Chromium. The document files were opened and saved in actual LibreOffice Writer on Ubuntu Linux, with native edit/undo and text readback checks. This records the training app/documents' behavior, not the learner's work or an assistant/organizer approval. The original worksheet still supplies the receipt-check, announcement drafting, verification, status update and partner-handoff sequence. If any local file cannot open, use the UTF-8 text versions and the manual fallback in `worksheet.md`.
+If any local file cannot open, use the UTF-8 text versions and the manual fallback in `worksheet.md`.

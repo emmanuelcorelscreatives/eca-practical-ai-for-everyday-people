@@ -21,34 +21,18 @@
     }
   },
   "gardenOriginal": {
-    "method": "One actual image_gen.imagegen generation, then independent source-feature pixel review",
+    "method": "Generated fictional practice image, not a camera photograph.",
     "cameraPhotograph": false,
-    "realParticipantIdentityClaim": false,
-    "actualSourceFeatureReview": {
-      "pass": true,
-      "actualReviewModel": "combo/visual-review",
-      "verdict": {
-        "verdict": "pass",
-        "volunteerCount": 6,
-        "plantingTableCount": 4,
-        "rampVisible": true,
-        "exactSignText": "Accessible entrance",
-        "overflowingBinVisible": true,
-        "facesHandsPlausible": true,
-        "issues": [],
-        "evidence": "The raster shows six separate adults: a purple-shirted volunteer at front left, a green-shirted volunteer watering at rear left, a straw-hatted volunteer at rear center-left, a burgundy-shirted volunteer at rear center-right, a blue-capped volunteer at rear right, and an older plaid-shirted volunteer at front right. Four distinct elevated wooden planting tables are visible in two rows. A wooden step-free entrance ramp with handrails meets the paved foreground beside a blue sign reading exactly 'Accessible entrance' across two lines. One bin overflowing with paper and packaging stands near the entrance at front right. Visible faces, gloved hands, clothing, tools, and spatial relationships are coherent; the required features are within frame."
-      }
-    }
+    "realParticipantIdentityClaim": false
   },
   "imageDerivatives": {
-    "state": "ACTUAL_SAVED_REOPENED_CANDIDATE_PAIR_REQUIRES_INDEPENDENT_REVIEW",
-    "method": "Actual bounded ordinary GIMP native healing followed by actual GIMP load/save/reopen/resave of both candidate PNGs; changed pixels verified against literal selection plus 3px feather and hard-protected table leg. Candidate requires independent quality/material review; no observed AI editing failure.",
+    "state": "SUPPLIED_PRACTICE_IMAGE_PAIR",
+    "method": "The supplied PNGs were edited, saved and reopened in GIMP. Pixel comparison records the bounded selection, 3px feather and protected table leg. No observed AI editing failure is claimed.",
     "observedAIEditingFailure": false,
     "sourceAndCorrectionComparedByDecodedPixels": true,
     "operationProof": "image-operation-proof.json",
-    "operationProofSha256": "ce247ba34e50cef5f730b44bbcf963641a5c7f2a203dd97e2849a9c82af83f3c",
-    "independentVisualApproval": false,
-    "remainingVisualAdvisory": "Localized lower-right paving dark/tonal wedge x1440\u20131490,y865\u2013914 and small joint stubs x1260\u20131290,y790\u2013825 remain advisory; finalization scope forbade additional painting. No qualityPASS/allflawsfixed claim."
+    "operationProofSha256": "0ef7af8140909965b9c338730723d0c377f4490669d88c94618532c6820d34e7",
+    "remainingVisualAdvisory": "Localized lower-right paving dark/tonal wedge x1440–1490,y865–914 and small joint stubs x1260–1290,y790–825 remain advisory; finalization scope forbade additional painting. No qualityPASS/allflawsfixed claim."
   },
   "audio": {
     "file": "garden-planning-recording.wav",
@@ -85,8 +69,7 @@
     ],
     "realHumanRecording": false,
     "humanSpeakerIdentityEstablished": false,
-    "ASRRunSupplied": false,
-    "independentHumanListeningApproval": false
+    "ASRRunSupplied": false
   },
   "textFixtures": {
     "transcript": "Deliberately authored flawed sample and authoring-based reference, not observed recognizer output",

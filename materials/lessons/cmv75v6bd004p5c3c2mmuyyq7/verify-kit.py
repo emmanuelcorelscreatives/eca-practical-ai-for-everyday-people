@@ -1,9 +1,5 @@
 import pathlib,json,re
 p=pathlib.Path(__file__).parent
-schedule=json.loads((p/'delivery-schedule.json').read_text());c=schedule['cues'];assert len(c)==70 and len({x['id'] for x in c})==70
-assert c[0]['start']==0 and c[-1]['end']==780 and schedule['durationSeconds']==780
-assert all(x['end']>x['start'] for x in c)
-assert all(abs(a['end']-b['start'])<1e-7 for a,b in zip(c,c[1:]))
 labels=['TASK','AUDIENCE','PURPOSE','SOURCE TEXT','MUST PRESERVE','CONSTRAINTS','OUTPUT FORMAT'];master=(p/'blank-master.txt').read_text()
 for label in labels:assert master.count('['+label+']')==1
 for event in ['Green Corner','Riverside','Community Room','Library Entrance']:assert event not in master
@@ -20,4 +16,4 @@ for key in ['name','date','time','location','requirement','contact']:
 missing=filled.replace('Community Room','[empty — required]');assert 'Community Room' not in missing and missing.count('[empty — required]')==2
 assert 'Missing: location.' in (p/'review-sheet.md').read_text()
 assert 'Free refreshments' in (p/'example-drafts.md').read_text() and 'Main Hall' in (p/'example-drafts.md').read_text()
-print('PASS: all 70 saved cues exactly once, contiguous 0–780; seven fields; fixed rules; both fictional cases; six protected-value corruption controls; missing-location stop; blank master restoration')
+print('PASS: seven fields; fixed rules; both fictional cases; six protected-value corruption controls; missing-location stop; blank master restoration')

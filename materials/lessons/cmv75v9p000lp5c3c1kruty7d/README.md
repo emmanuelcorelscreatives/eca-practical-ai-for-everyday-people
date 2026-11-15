@@ -2,7 +2,7 @@
 
 Emmanuel Corels Academy · Practical AI for Everyday People · Stage 22
 
-Practice collect → extract → verify → file, keeping uncertain items visible. Every document in this kit is self-authored fictional training data. No real organization, purchase, payment, deadline, or external action is represented. Dates, totals, references and filenames match the saved authored scene prompts and the spoken values. They are fictional practice particulars, not facts about real documents.
+Practice collect → extract → verify → file, keeping uncertain items visible. Every document in this kit is self-authored fictional training data. No real organization, purchase, payment, deadline, or external action is represented. They are fictional practice particulars, not facts about real documents.
 
 ## Start locally
 

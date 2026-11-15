@@ -19,6 +19,6 @@ The native route has a webhook input, four-setting native Learner configuration,
 
 The independent workbook reader opens the actual XLSX and checks ZIP CRC/XML, exact headers, every row, exact case-ID counts and duplicates. A historical baseline read found zero records. The control produced one real row; rejection and incomplete approval produced none. All three cases ran once in the same fresh twelve-node portable experiment through genuine native headless form controls. The workbook copy preserves native-produced bytes and is not itself a new workflow action.
 
-See observed-native-evidence-notes.md for scope and limitations. The local Python exercise remains a separate reproducible offline model. None of these files grants runtime, source, human-approval, account or publication permission.
+See observed-native-evidence-notes.md for scope and limitations. The local Python exercise remains a separate reproducible offline model. These examples do not grant human approval, account access or publication permission.
 
 Learner configuration is a native Edit Fields node: workbook_path, operator_name, operator_kind, session_expires_at. Three supplied Code nodes implement Freeze/Bind/Append; learners edit configuration fields without coding. Importable candidate and actual configured-test evidence are supplied separately. Importing or opening a supplied file does not itself prove a new run.

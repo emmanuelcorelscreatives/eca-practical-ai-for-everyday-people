@@ -1,5 +1,5 @@
 {
-  "name": "Academy L204 fictional approval boundary \u2014 learner configuration",
+  "name": "Academy L204 fictional approval boundary — learner configuration",
   "active": false,
   "nodes": [
     {
@@ -450,6 +450,6 @@
   },
   "pinData": {},
   "meta": {
-    "scope": "PRIVATE PREPARATION: modified portable candidate, NOT YET IMPORTED OR EXECUTED. Fictional cases only; no external sending; three supplied custom Code nodes require no learner coding."
+    "scope": "Fictional local approval-boundary practice. Configure your own owned workbook, operator role and future session expiry before testing. The workflow is not approval for a real external action."
   }
 }

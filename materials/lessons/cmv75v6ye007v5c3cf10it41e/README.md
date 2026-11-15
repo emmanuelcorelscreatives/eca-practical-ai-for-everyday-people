@@ -8,4 +8,4 @@ This kit matches the lesson's Riverside Community Garden checking exercise. Open
 
 Three available citations lead to About the Pilot, Season Review and Volunteer Update. A separate fourth reference is deliberately unavailable. Its local page explicitly models unavailability rather than claiming an actual HTTP failure. General and North District sources are included to test scope. An old source does not establish current 2026 conditions.
 
-These are supplemental learning materials. They do not establish visual approval or render readiness. No mock ChatGPT UI is included.
+These are supplemental learning materials. No mock ChatGPT UI is included.

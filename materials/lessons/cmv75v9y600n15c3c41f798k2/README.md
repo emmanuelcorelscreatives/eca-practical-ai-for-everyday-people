@@ -5,7 +5,7 @@ This is a fictional practice pack, not a real applicant, employer, vacancy or su
 
 Start with `worksheet.md`, `role-description.md` and `evidence-sheet.csv`. The known facts are deliberately sparse. Preserve missing details as `[not supplied]`. All exact example claims trace to this pack's evidence sheet; the deliberately unsafe 30% bullet is labeled as rejected in `claim-check.csv`.
 
-The lesson teaches a document editor rather than a required vendor. The genuine LibreOffice Writer demonstration uses the same supplied facts and editable sources, then exports and opens the actual PDFs. The Markdown/CSV files can also be read in a plain text editor for practice; authored source files alone are not provenance for an application screenshot. Browser practice must be a real functioning course application; examples in this kit are authored teaching examples, not a claimed live assistant response.
+Use your available document editor to open the editable sources, make working copies, and inspect your exported PDFs. Markdown and CSV files can also be read in a plain text editor. The examples are authored teaching fixtures, not live assistant responses.
 
 Nothing here submits an application. The employer portal step must stop before Submit. The generated PDF export exercise is a learner action; no PDF appearance or successful upload is claimed without actual inspection.
 

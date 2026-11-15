@@ -17,4 +17,4 @@ Registration address: NOT SUPPLIED. Do not invent one.
 Volunteer arrival time: NOT SUPPLIED. Do not invent one.
 Internal editorial note for practice only: Confirm volunteer arrival time. This is not a confirmed time and must not be shared as an internal comment in the final artifact.
 
-The lesson narration and a source-screen prompt include 27 as the derived refreshment total; the discrepancy-screen prompt displays only the source quantities so the learner independently calculates it. This brief preserves the two source quantities rather than treating an assistant's answer as evidence.
+Calculate the refreshment total independently from the two supplied quantities; the reference total is 27. An assistant's answer is not calculation evidence.

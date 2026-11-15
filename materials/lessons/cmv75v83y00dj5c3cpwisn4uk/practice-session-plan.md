@@ -1,5 +1,5 @@
 # Optional 12-minute learner practice session
-This is a practice-session plan, not an instruction to stretch, trim, resample or change the model’s native lesson audio. Native narration duration remains authoritative for the actual video.
+This optional practice-session plan is a suggestion; pause or take longer as needed.
 
 00:00–01:00 Read fictional notes and identify confirmed/proposed/missing fields.
 01:00–03:00 Verify full recipient; compare the faulty draft with opened evidence.

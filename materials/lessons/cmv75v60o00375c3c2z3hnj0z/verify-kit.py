@@ -14,4 +14,4 @@ for body in (original,corrected):
     assert len([block for block in body.strip().split('\n\n') if not block.startswith('- ')])==2
     assert 90<=len(body.replace('- ','').split())<=110
 assert 'Self-created fictional example' in (p/'fictional-source-notes.txt').read_text()
-print(json.dumps({'status':'PASS','exact_single_edit':True,'paragraphs':2,'bullets':3,'whitespace_body_counts':[len(x.replace('- ','').split()) for x in (original,corrected)],'google_docs_observation':'not performed by this script','writer_ui_observation':'separate genuine capture proof; not executed by this verifier'}))
+print(json.dumps({'status':'PASS','exact_single_edit':True,'paragraphs':2,'bullets':3,'whitespace_body_counts':[len(x.replace('- ','').split()) for x in (original,corrected)],'google_docs_observation':'not performed by this script','writer_ui_observation':'not executed by this verifier; measure your own selected notice body'}))

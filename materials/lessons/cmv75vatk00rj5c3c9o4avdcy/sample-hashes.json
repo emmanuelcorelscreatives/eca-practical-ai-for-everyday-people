@@ -8,8 +8,8 @@
     "bytes": 331
   },
   "fixture-source-timing.json": {
-    "sha256": "f6b0d1c495a8c8bc8029b03f1069914c1d4734c53d58e4b7a8f1ae74a081d509",
-    "bytes": 2366
+    "sha256": "016f23063dbafef1b3953696fac590ee769dcddc3230100ba13aa40b40f0a82e",
+    "bytes": 2367
   },
   "practice-correct.mp4": {
     "sha256": "a9472198f453135c408f0e5f74fdb83da2170f1ba418d8a6f21f37d58119c836",
@@ -24,8 +24,8 @@
     "bytes": 671564
   },
   "practice-correct.build.json": {
-    "sha256": "27d07dbfdb951e47a570911fb7ec5099eebf63dab5aa45e6cae3c2f0d7c26087",
-    "bytes": 615
+    "sha256": "e6e1f88a2cc930af115c3c0c2c73a1b92533c62b0ad2643e64cf187b3859ece5",
+    "bytes": 616
   },
   "practice-correct.webm": {
     "sha256": "cd93e389e4a0734e9cda23fa7e4fba74549c62f6f55fee758e91f3daf741d513",
@@ -40,8 +40,8 @@
     "bytes": 329
   },
   "practice-faulty.build.json": {
-    "sha256": "088dbd6ce37a9c761c10b4ef4a39ffb9f3dcc3dcc5b81215cc79d4eb5d6c1948",
-    "bytes": 614
+    "sha256": "26804929aa09b6ccdd5efcd6876b2f35f36180adfb2231f3e07852148a392085",
+    "bytes": 615
   },
   "approved-script.txt": {
     "sha256": "d4f546d45dbd9188ad84d5904188ae4c5facee6a8fa5ecb2f5bb7a83d3a36c6d",

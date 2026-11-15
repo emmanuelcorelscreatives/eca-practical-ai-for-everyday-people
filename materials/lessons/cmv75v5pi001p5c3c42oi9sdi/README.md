@@ -13,4 +13,4 @@ These are self-authored fictional community-reading-event practice materials, no
 
 For optional media practice use `permission-cleared-synthetic-invitation.wav` with `media-source.md`, or your own permission-cleared recording. The six ODS step files are real spreadsheet inputs containing successively more rows; no screenshot or observed application execution is claimed from their package structure alone.
 
-Read `exercise-and-answer-key.md` for checks. Nothing in this kit claims a model result or completed external action. All invented names, amounts, dates and materials are fictional teaching additions; the lesson narration is unchanged.
+Read `exercise-and-answer-key.md` for checks. Nothing in this kit claims a model result or completed external action. All invented names, amounts, dates and materials are fictional teaching additions;

@@ -25,7 +25,7 @@ Five editable bullets; original source retained; start time 10:00; adult conditi
 
 ## Rights
 
-Academy-authored fictional data and teaching text: CC0-1.0. No vendor endorsement. See the course repository's common licence and contributor guidance for code and other assets.
+Academy-authored fictional data and teaching text: CC0-1.0. No vendor endorsement. This statement does not grant additional rights to code or other assets; follow any licence supplied with the relevant file.
 
 ## Ten-minute lesson map
 

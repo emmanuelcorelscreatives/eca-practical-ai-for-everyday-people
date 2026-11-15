@@ -24,4 +24,4 @@ Untouched approved source; three labelled drafts; checked versions; completed ve
 ## Offline editable documents
 `workspace-0.html` through `workspace-19.html` are self-authored Academy browser documents used to demonstrate source/draft checking without relying on a proprietary editor. Open them locally; draft panels are editable in the browser but changes are not automatically saved. Copy your edits into your own document. These are explicit fictional teaching documents, not screenshots of an external assistant or claims that AI generated or sent content. Some states repeat facts to keep source and drafts visible.
 
-Read `browser-preview-guide.md` before opening the poster browser examples: their right-hand poster is a static preview, and changing nearby text does not change the image. Read `delivery-scope.md` for the distinction between learner practice and actual rendered runtime.
+Read `browser-preview-guide.md` before opening the poster browser examples: their right-hand poster is a static preview, and changing nearby text does not change the image. Read `delivery-scope.md` for the scope of the practice materials.

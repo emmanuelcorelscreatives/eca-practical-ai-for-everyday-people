@@ -16,7 +16,7 @@ Read-only limits source changes; it does not promise that a real service never r
 
 `answer-key.md` gives expected decisions and source-backed dates. `verify.py` checks the kit and simulator's safety/content boundaries with Python 3, without external packages. No real credentials or private files are required.
 
-The draft is a deterministic, prewritten teaching fixture containing one deliberate unsupported sentence. No AI model is called, and no provider authorization is performed. The app demonstrates decisions and state transitions, not a vendor service. Actual QA captures use Linux Chromium with the same platform-independent app; Windows-specific steps are not taught.
+The draft is a deterministic, prewritten teaching fixture containing one deliberate unsupported sentence. No AI model is called, and no provider authorization is performed. The platform-independent app demonstrates decisions and state transitions, not a vendor service.
 
 Use the visible Practice navigation for Capabilities, Read-only and retention, Organization approval, Checklist, Decision rule and the next-lesson preview. Manual handoff records a separate local run. After removing the unsupported sentence, choose **Save reviewed draft** to download a local text file; this is a real local save, with no upload or publication.
 

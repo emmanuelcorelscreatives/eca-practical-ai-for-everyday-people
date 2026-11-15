@@ -120,7 +120,6 @@
       }
     ],
     "format": {
-      "filename": "/var/lib/trejj-studio/maintenance/practical-ai-pocket-production-20261112/lesson-cmv75vaus00rp5c3ch1fmc689/kit-v1/Checked_Communication_Kit/03_Exports/Riverside_Reading_Circle_Checked_v1.mp4",
       "nb_streams": 2,
       "nb_programs": 0,
       "format_name": "mov,mp4,m4a,3gp,3g2,mj2",
@@ -139,8 +138,9 @@
     }
   },
   "fullDecodeExitCode": 0,
-  "humanListening": "NOT YET PERFORMED \u2014 learner required",
-  "phoneReadability": "NOT YET PERFORMED \u2014 learner required",
-  "originalPhoto": "NOT PROVIDED \u2014 labelled original illustration alternative supplied",
-  "composition": "900x900 unchanged-proportion design inside1080square with180pixel caption area"
+  "humanListening": "NOT YET PERFORMED — learner required",
+  "phoneReadability": "NOT YET PERFORMED — learner required",
+  "originalPhoto": "NOT PROVIDED — labelled original illustration alternative supplied",
+  "composition": "900x900 unchanged-proportion design inside1080square with180pixel caption area",
+  "studentCopyNote": "Student-facing copy of recorded sample properties; private authoring locations omitted. This cleanup is not a new media execution or human listening review."
 }

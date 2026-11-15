@@ -2,7 +2,7 @@
 - Actor: community volunteers. Action: water community garden beds.
 - Restriction: only in the morning. Exception: skip watering when the soil is already wet. Both remain mandatory in the rewrite.
 - Storage location: not supplied; needs confirmation. No named organizer, address, time of day beyond “morning,” measurement, date, chemical, tool, or new safety rule should be invented.
-- The flawed draft loses both morning-only restriction and wet-soil exception. A concise correction is: “Water the beds each morning. Skip this step if the soil is already wet.”
+- The flawed draft loses both morning-only restriction and wet-soil exception. A concise correction is: “Water the beds only in the morning. Skip this step if the soil is already wet.”
 - The three worked decision steps make the existing condition explicit. They do not require a new completion log or introduce a different schedule.
 - Accept alternative wording if all meaning is retained. Do not grade by a low reading score, sentence length, friendliness, or identical wording alone.
 - Technical terms: explain if needed for the task; replace with a precise everyday phrase only if the distinction remains. In the separate substrate example, the source explicitly establishes that the growing material is soil; without this context, use “growing material that holds water.” The substrate and form examples are separate teaching examples, not additional watering-policy requirements.

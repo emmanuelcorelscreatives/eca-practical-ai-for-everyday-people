@@ -24,7 +24,7 @@ You need not run a live search to complete the fictional exercise. Its assessabl
 All examples are self-authored, fictional and permission-cleared for Academy practice. Do not enter private group member details, credentials or financial information into external tools. Interfaces vary; use the available search box and your preferred notes app. No application screenshot or real-world result is claimed by these text files.
 
 ## Optional 11-minute guided core practice
-This pacing guide totals 11:00 and is a practice aid, not a claim about actual video duration. The native narration determines the rendered video's measured length.
+This pacing guide totals 11:00 and is a practice aid, not a claim about actual video duration. 
 - 0:00–1:00: Identify the difference between a broad topic and an action-supporting question.
 - 1:00–3:00: Read the fictional brief; enter decision, audience, deadline, place and dates.
 - 3:00–5:00: Write the bounded question, inclusion and exclusion lines.
@@ -32,4 +32,4 @@ This pacing guide totals 11:00 and is a practice aid, not a claim about actual v
 - 6:30–8:30: Check all four source cards against the boundary; keep generated material and opened evidence separate.
 - 8:30–10:00: Compare with the worked example and mark unanswered questions.
 - 10:00–11:00: Complete the self-check and record any revision.
-Optional live searching and your own-topic exercise are extensions outside this timed core. Never cut the authoritative narration to meet this practice guide.
+Optional live searching and your own-topic exercise are extensions outside this timed core.

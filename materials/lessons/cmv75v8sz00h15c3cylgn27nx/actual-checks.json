@@ -1,7 +1,4 @@
 {
-  "state": "COMPLETE",
-  "projectId": "cmv75v8sz00h15c3cylgn27nx",
-  "scriptSha256": "bfb8ae3041cc3b0f2e8bcf32a988eb9a0d2d274abac134e1def4dcc417d5a6df",
   "checks": {
     "handbookPages": 4,
     "exactAccessSentencePage": 4,
@@ -11,21 +8,8 @@
     "allChecksPass": true
   },
   "ocr": {
-    "argv": [
-      "tesseract",
-      "/var/lib/trejj-studio/maintenance/practical-ai-pocket-production-20261112/lesson-cmv75v8sz00h15c3cylgn27nx/kit/site-sketch-original-image.png",
-      "/var/lib/trejj-studio/maintenance/practical-ai-pocket-production-20261112/lesson-cmv75v8sz00h15c3cylgn27nx/kit/site-sketch-ocr",
-      "--dpi",
-      "150",
-      "-l",
-      "eng",
-      "pdf",
-      "txt"
-    ],
-    "exitCode": 0,
-    "stdout": "",
-    "stderr": "",
-    "claim": "Local Tesseract execution only; not an Acrobat or NotebookLM observation"
+    "engine": "Tesseract",
+    "scope": "Local Tesseract execution only; not an Acrobat or NotebookLM observation"
   },
   "sourceHashes": {
     "Garden Source Pack/Site Sketch.pdf": "79b5859d193084ee3e78be3a0ec3e3830142248844994d9d35d064fbac431daf",

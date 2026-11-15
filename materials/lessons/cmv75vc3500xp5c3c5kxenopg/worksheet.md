@@ -57,7 +57,7 @@ Explain why three empty results are weaker evidence than one successful control 
 
 ## Included observed local run
 
-`observed-local-run-v2/` retains an actual execution of this offline Python model with real UTC timestamps, all three history records, the one-row local CSV, exact-ID counts and a source/result-hash execution-check receipt. These are reproducible local-model observations, not vendor or online-spreadsheet evidence. Your own run should produce equivalent case counts with new timestamps.
+`observed-local-run-v2/` retains an actual execution of this offline Python model with real UTC timestamps, all three history records, the one-row local CSV and exact-ID counts. These are reproducible local-model observations, not vendor or online-spreadsheet evidence. Your own run should produce equivalent case counts with new timestamps.
 
 ## Retained native mechanism evidence
 

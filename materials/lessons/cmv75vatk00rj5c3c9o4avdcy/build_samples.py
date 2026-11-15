@@ -32,19 +32,19 @@ def export(caption,out,audio):
  vf=f"drawtext=fontfile=/usr/share/fonts/truetype/dejavu/DejaVuSans.ttf:text='FICTIONAL PRACTICE CLIP':fontsize=34:fontcolor=black:x=(w-tw)/2:y=70,drawtext=fontfile=/usr/share/fonts/truetype/dejavu/DejaVuSans.ttf:text='SOURCE AND EXPORT':fontsize=55:fontcolor=black:x=(w-tw)/2:y=280,drawtext=fontfile=/usr/share/fonts/truetype/dejavu/DejaVuSans.ttf:text='Keep both versions':fontsize=40:fontcolor=black:x=(w-tw)/2:y=360,ass='{ass}'"
  run(['-f','lavfi','-i','color=c=0xf0f7fa:s=1280x720:r=24:d=20','-i',str(audio),'-vf',vf,'-af','apad','-t','20','-c:v','libx264','-preset','ultrafast','-crf','22','-threads','2','-c:a','aac','-movflags','+faststart',str(out)])
  webm=out.with_suffix('.webm');run(['-i',str(out),'-c:v','libvpx-vp9','-b:v','450k','-threads','2','-deadline','realtime','-cpu-used','6','-c:a','libopus',str(webm)])
- proof={'approvedScriptSha256':sha(script),'captionFile':caption.name,'captionSha256':sha(caption),'audioFile':audio.name,'audioSha256':sha(audio),'mp4Sha256':sha(out),'webmSha256':sha(webm),'scope':'Actual local fictional export; no human listening or destination-device approval claimed'};out.with_suffix('.build.json').write_text(json.dumps(proof,indent=2))
+ proof={'practiceScriptSha256':sha(script),'captionFile':caption.name,'captionSha256':sha(caption),'audioFile':audio.name,'audioSha256':sha(audio),'mp4Sha256':sha(out),'webmSha256':sha(webm),'scope':'Actual local fictional export; no human listening or destination-device approval claimed'};out.with_suffix('.build.json').write_text(json.dumps(proof,indent=2))
 if args.fixture_build:
  targets=[outdir/f'practice-{m}.mp4' for m in ['faulty','correct']]
  if any(f.exists() for f in targets) and not args.replace_fixtures:raise FileExistsError('Existing fixture exports retained; use a new --output for learner changes. Reproducibility only: --replace-fixtures.')
  audio=p/'practice-voice.wav'
  timing=json.loads((p/'fixture-source-timing.json').read_text())
- if timing['approvedScriptSha256']!=sha(script) or timing['voiceSha256']!=sha(audio):raise ValueError('Supplied script/audio changed; retain approved sources or explicitly prepare a new aligned fixture.')
+ if timing['practiceScriptSha256']!=sha(script) or timing['voiceSha256']!=sha(audio):raise ValueError('Supplied script/audio changed; retain approved sources or explicitly prepare a new aligned fixture.')
  for mode in ['faulty','correct']:export(p/f'caption-{mode}.srt',outdir/f'practice-{mode}.mp4',audio)
 else:
  out=safefile(args.output,outdir);caption=safefile(args.caption,p)
  if out.exists() or out.with_suffix('.webm').exists():raise FileExistsError('Choose a new output name to retain previous exports')
  audio=p/'practice-voice.wav'
  timing=json.loads((p/'fixture-source-timing.json').read_text())
- if timing['approvedScriptSha256']!=sha(script) or timing['voiceSha256']!=sha(audio):raise ValueError('Recording and approved source no longer match supplied fixture construction; restore source or explicitly prepare new source audio.')
+ if timing['practiceScriptSha256']!=sha(script) or timing['voiceSha256']!=sha(audio):raise ValueError('Recording and approved source no longer match supplied fixture construction; restore source or explicitly prepare new source audio.')
  export(caption,out,audio)
-meta={f.name:{'sha256':sha(f),'bytes':f.stat().st_size} for f in outdir.glob('*') if f.is_file() and f.suffix in ['.mp4','.webm','.srt','.wav','.txt','.ass','.json'] and f.name not in ['sample-hashes.json','current-kit-inventory.json','sample-verification.json']};(outdir/'sample-hashes.json').write_text(json.dumps(meta,indent=2))
+meta={f.name:{'sha256':sha(f),'bytes':f.stat().st_size} for f in outdir.glob('*') if f.is_file() and f.suffix in ['.mp4','.webm','.srt','.wav','.txt','.ass','.json'] and f.name not in ['sample-hashes.json','sample-verification.json']};(outdir/'sample-hashes.json').write_text(json.dumps(meta,indent=2))

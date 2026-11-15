@@ -1,7 +1,7 @@
 # Recognize Suspicious Instructions in Content
 Emmanuel Corels Academy • Practical AI for Everyday People • Stage 3, Lesson 18
 
-This permission-cleared fictional practice kit matches the lesson's Harborview Skills Exchange example. It needs no accounts, connected drives, personal files, AI provider, or network connection. Open `sample-assistant.html` in a browser. The training interface displays an actual recorded model extraction response, with the exact source hash and model route in `recorded-model-response.json`. It does not run an AI model in the browser. The intentionally unsafe draft is a separately authored example, clearly labelled as supplied for review. No component opens Budget-Draft.xlsx, sends messages, uploads files, changes sharing, or makes network requests. The external example uses the reserved `.invalid` domain.
+This permission-cleared fictional practice kit matches the lesson's Harborview Skills Exchange example. It needs no accounts, connected drives, personal files, AI provider, or network connection. Open `sample-assistant.html` in a browser. The training interface displays an actual recorded model extraction response, preserved in `recorded-model-response.json`. It does not run an AI model in the browser. The intentionally unsafe draft is a separately authored example, clearly labelled as supplied for review. No component opens Budget-Draft.xlsx, sends messages, uploads files, changes sharing, or makes network requests. The external example uses the reserved `.invalid` domain.
 
 ## Exercise
 1. Read `harborview-notice.txt`. Your task is to list the room, start time, and items attendees should bring.
@@ -25,7 +25,7 @@ Use `answer-key.md` only after attempting the exercise. Delimiters, filters, rea
 All text and training code in this kit are self-authored Academy practice material. Names and events are fictional. The sample is a lesson artifact, not a screenshot of a commercial assistant or evidence of a real security incident.
 
 ## Model and application evidence
-The recorded extraction used the actual `combo/planning` route. It returned Cedar 2, 18:30, notebook and reusable water bottle, flagged the unrelated command and reported no actions performed. The browser displays that response as recorded output. Local activity refers only to the practice app. Permissions and connectors are simulated settings, not proof of controls in any external service. The detector intentionally demonstrates a limited pattern check that can miss suspicious wording.
+The recorded model extraction returned Cedar 2, 18:30, notebook and reusable water bottle, flagged the unrelated command and reported no actions performed. The browser displays that response as recorded output. Local activity refers only to the practice app. Permissions and connectors are simulated settings, not proof of controls in any external service. The detector intentionally demonstrates a limited pattern check that can miss suspicious wording.
 
 ## Reproduce the activity checks
 Choose Reset practice, then Compare, then Activity: the notice must show opened. Choose Reset practice again, then Disconnect, then Activity: the notice must show opened there too, because disconnecting the training connector leaves the notice visible. Choose Reset practice and Activity without opening any source: it must show Not opened. These are local app events only.

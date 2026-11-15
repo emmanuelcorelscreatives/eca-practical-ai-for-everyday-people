@@ -16,7 +16,7 @@ All data and the grant application are self-created fictional practice materials
 Read one section at a time. Copy exact requests and page references onto paper or a local document; mark available, missing or questionable. The same no-guessing and no-submission boundary applies.
 
 ## Files and scope
-CSV files use UTF-8 and contain no macros or active links. `.invalid` email is intentionally non-deliverable. The HTML is a static printable three-page sample, not a vendor interface. The deliberately wrong OCR text is labeled as an exercise fault, not claimed as a live OCR result. Source lesson narration is preserved in the project; these materials explain its practice scenario without altering the lecture.
+CSV files use UTF-8 and contain no macros or active links. `.invalid` email is intentionally non-deliverable. The HTML is a static printable three-page sample, not a vendor interface. The deliberately wrong OCR text is labeled as an exercise fault, not claimed as a live OCR result.
 
 ## Licence
 Academy-authored practice files: CC0-1.0. No third-party logos or personal records included.

@@ -27,4 +27,4 @@ You can replace labelled values without rewriting recurring instructions, identi
 For the missing-location variant, remove Community Room from BOTH SOURCE TEXT and MUST PRESERVE (and every other value in that copied prompt). Keep `Location: [empty — required]` in both sections. The task must stop with `Missing: location.` Do not use the complete original case as extra input.
 
 ## Local consistency check
-Optionally run `python3 verify-kit.py` from this extracted kit. It checks supplied fixtures and the complete saved delivery schedule, including negative controls. It does not call an assistant, verify real events or measure a new video export. `delivery-schedule.json` retains every saved cue in source order.
+Optionally run `python3 verify-kit.py` from this folder. It checks the seven fields, fixed instructions, two fictional cases, protected-value corruption controls, missing-location stop and blank-master restoration. It does not call an assistant or verify a real event.

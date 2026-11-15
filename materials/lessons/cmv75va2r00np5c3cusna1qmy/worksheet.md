@@ -18,10 +18,10 @@ Open `Originals/` first and keep those files unchanged. These are fictional teac
 
 Five essentials versus one desirable; a truthful volunteer-only profile; tasks within availability; the exact fictional deadline; missing fields visible; unsupported major-events wording removed; human approval before external action. No hiring percentage or invented contact or recipient.
 
-## Limitations and next production steps
+## Limitations
 
 The original generated visual specified 60 minutes for the fifth task despite weekday availability of 45 minutes. That historical mismatch has been corrected in the current visual directions. The practice plan and current directions use 45 minutes, preserving the lecture’s availability constraint. All suggested preparation dates are labelled assumptions.
 
-The kit includes actual editable DOCX and PPTX files and PDFs exported with LibreOffice. The professional profile has one PDF page, and all PDFs have been decoded and rendered. Independent review must assess content and page readability. Genuine application screenshots remain a separate visual production requirement: the selected document and presentation editors must actually support the taught features, whether Word/Writer or PowerPoint/Impress. These exports do not claim Microsoft provenance.
+The kit includes editable DOCX/PPTX files and PDFs exported with LibreOffice. Open the files in your available editor and inspect exported pages for clipping, spacing and checkbox readability. The files do not claim Microsoft application provenance or prove that all accessibility checks passed.
 
 The labelled worked response and completed author check record are `worked-output-and-checks.md` and `worked-claim-verification.csv`. Suggested dates and task allocations are assumptions. The Saturday reserve occurs before later drafting/checking; later slippage requires reprioritizing within existing evening limits, omitting optional polish or pausing for clarification, never adding availability or moving review past the deadline.

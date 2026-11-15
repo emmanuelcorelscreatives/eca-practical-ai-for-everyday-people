@@ -7,4 +7,4 @@ Inspect ReferenceB17, the date, signed adjustment and nearby punctuation. At the
 
 The accompanying actual-ocr/quality-page-2.txt records the real engine output from the exact supplementary PNG. It may read, omit or misread the ambiguous mark. No particular OCR mistake is predeclared. Compare it character by character with the actual supplementary image. Preserve both original and quality-copy files and identify which version each log entry cites.
 
-This supplemental exercise does not change the original table facts, rate correction, actual original recognition outputs or the author's narration. It supplies actual source-quality evidence for the existing lesson's faint/ambiguous-character inspection.
+This supplemental exercise does not change the original table facts, rate correction, actual original recognition outputs. It supplies actual source-quality evidence for the existing lesson's faint/ambiguous-character inspection.

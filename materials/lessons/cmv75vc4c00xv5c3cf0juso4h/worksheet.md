@@ -29,9 +29,13 @@ The input has a blank event-details field. Step 1 captures it and completes. Ste
 
 Use `recovery-log-template.csv` for your observations. `recovery-log-observed.csv` shows the state before a recovery decision, with the final two cells deliberately blank. Use `unknown` or `not visible` if actual evidence is unavailable. Never infer that hidden history proves a step did not run. Retention and permissions vary across tools.
 
-## Actual platform and destination inspection
+## Inspect the supplied offline state
 
-Locate RUN-205-017 by identifier, time or test record in the actual tool history. Confirm TEST-205-B and Riverside Reading Circle before inspecting the run. Expand each step and compare its captured input and output. Check the trigger input includes blank event details, the spreadsheet action input matches that record and its output identifies row18, and the draft action reports the missing required details with no output. Open the actual destination spreadsheet and verify row18, then inspect the review-draft folder to confirm no matching draft exists. Do not treat a platform output claim alone as destination proof. Read waiting, skipped, canceled and not-run statuses exactly as displayed; these are different from failed. If permissions or retention hide evidence, record unknown or not visible rather than guessing. This inspection comes before any retry or manual recovery.
+Before recovery, inspect `request_log`, run history and draft state in `practice-state.json`. The fictional RUN-205-017 and TEST-205-B identifiers belong to this saved local exercise, not an existing run in your account. Confirm that one matching request row exists, details remain blank and no draft was created. The `spreadsheet_row: 18` value models a destination location, not a physical CSV row.
+
+## Optional application to your own authorized platform run
+
+Only if you separately create a real isolated test workflow, substitute its actual run identifiers, times, inputs and destination locations. Inspect each step and independently check the actual destination for completed or missing effects before retrying. Read waiting, skipped, canceled, not-run and failed statuses as displayed; record unknown or not visible if evidence is unavailable. Do not search for the fictional example identifiers as though setup created a vendor run. The supplied offline route remains complete without a platform account.
 
 ## Manual fallback
 

@@ -34,4 +34,4 @@ Open index.html in a browser. It is an actual local scripted practice app, not a
 ## Check before approval
 The fictional teaching brief gives Tuesday16:45–17:35, then after20:00. Cooking16:45–17:20 and eating/packing17:20–17:35 fit that window; departure17:40 leaves five minutes. This resolves the earlier generated cutoff discrepancy without changing the narrated example, fixed event/travel, Monday or Wednesday. Ingredient readiness, quantities, recipes, safe preparation and proposed helpers still need their separate checks; matching times alone is not approval.
 Use confirmation-register.csv to record missing details, who could confirm them and the decision. Roles for unresolved items are proposed and unassigned. Only the fixed commitments/start marker can be copied locally; a local copy is not an invitation or completion.
-The learner kit makes no claim that its exercise takes exactly12 minutes; final video duration follows native narration.
+Take as much practice time as needed.

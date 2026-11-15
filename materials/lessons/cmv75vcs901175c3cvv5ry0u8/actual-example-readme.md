@@ -8,6 +8,6 @@ actual-eight-response-ledger.csv records API request elapsed seconds, not human 
 
 actual-body-wordcounts.csv retains two distinct counting conventions. Whitespace counts differ slightly from actual LibreOffice Writer 24.2.7.2 counts of saved/reopened raw-body-only documents. All eight satisfy 90–120 words under both conventions; wrappers are excluded. Both configurations preserved the checked facts and flagged relevant uncertainties in these cases. No necessary factual/length correction or universal winner was observed. Keep any learner outcomes different from this example.
 
-Three original public Sol alias identity stops remain in private execution history; subsequent exact retained gateway-response matching supported base-model attribution without altering those original results. This bounded provenance is not a physical-engine or applied-effort guarantee.
+Recorded configuration labels do not prove distinct physical deployments or equal applied reasoning settings.
 
 All event information is fictional. Missing time and conflicting venues remain unresolved; none of these drafts is approved for external publication. The manual-notice template provides a separate human route. No file sends a notice or calls an external service.

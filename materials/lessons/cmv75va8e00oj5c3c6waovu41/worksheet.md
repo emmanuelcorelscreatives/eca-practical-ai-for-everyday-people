@@ -35,4 +35,4 @@ Use review-checklist.csv to record actual observations, not just ticks copied fr
 
 Produce one correct chart and two clearly identified practice error charts. Record the exact correct range, omitted category in the first error and why the Total bar is inappropriate in the second. Explain why the same number 84 changes meaning if labeled litres, percent or currency. Finally, export or copy your correct chart into a document and check the actual final reading size. Keep the original data unchanged for Lesson 150.
 
-The included chart-source.svg is a self-authored conceptual illustration of the expected numbers, not a Google Sheets screenshot or proof of execution. Actual course UI captures must come from genuine Google Sheets. All software results need functional QA and independent review before publication.
+The included chart-source.svg is a self-authored conceptual illustration of the expected numbers, not a Google Sheets screenshot or proof of execution. All software results need functional QA and independent review before publication.

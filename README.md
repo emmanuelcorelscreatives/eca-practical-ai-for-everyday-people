@@ -2,7 +2,7 @@
 
 Emmanuel Corels Academy · EMMANUEL CORELS
 
-The complete saved Practical AI curriculum, including its standalone Introduction and 40 authored stages.
+Practice materials for Practical AI for Everyday People, including the Introduction and 40 course stages.
 
 [Full curriculum: 240 lessons](curriculum.json)
 
@@ -52,6 +52,12 @@ The complete saved Practical AI curriculum, including its standalone Introductio
 
 ## Using the practice materials
 
-Find every lesson in the [lesson-by-lesson practice material guide](materials/README.md). Open the matching pack; materials marked forthcoming will be added to the guide.
+Find every lesson in the [lesson-by-lesson practice material guide](materials/README.md). Open the matching pack and start with its README, worksheet or exercise guide.
 
 Use the exercise files and instructions belonging to the matching lesson. Examples, source documents, prompts, supported claims and expected results remain lesson-specific. A scaffold or illustrative example is labelled as such; it is not a claim of a real account session.
+
+## Getting started
+
+Download the repository ZIP and extract it before opening a lesson pack. Keep an unchanged reference copy and work on copies of the exercise files. Markdown and TXT files open in a text editor; CSV files open in a spreadsheet; HTML files open in a browser. Follow each pack's own instructions for PDF, office, image and audio formats. Some browser exercises need a local server rather than a direct file open; use the command supplied by that pack.
+
+Python 3 checks are optional unless the lesson specifically teaches the local application. Run a pack's check from that pack's folder, using its documented arguments. These checks validate only their stated fixture or application behavior, not the truth of an AI answer or the availability of a paid account feature. No account purchase is required for the supplied manual practice routes. Never use private records or credentials in the exercises.

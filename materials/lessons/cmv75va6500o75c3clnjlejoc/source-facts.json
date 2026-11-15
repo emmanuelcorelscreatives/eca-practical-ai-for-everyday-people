@@ -1,6 +1,4 @@
 {
-  "projectId": "cmv75va6500o75c3clnjlejoc",
-  "narrationSha256": "52ec390aab85aa4160c9c54aa1750f3a40e7cf2adebdf4da4f123080fc151dc8",
   "authoredTable": {
     "estimates": [
       "120",
@@ -15,7 +13,7 @@
       "35"
     ]
   },
-  "applicationEvidence": "Actual Google Sheets opening, formula edit/range outline, copying and recalculation proof pending; no observed product or assistant result claimed",
+  "applicationEvidence": "The workbook and CSV are supplied practice sources. Recalculate and inspect results in your own spreadsheet, or use independent manual arithmetic; layout and functions may vary between products.",
   "sheets": [
     "Event",
     "BlankZero",

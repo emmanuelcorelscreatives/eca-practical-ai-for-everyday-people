@@ -19,15 +19,19 @@ All examples are self-authored fictional practice material. No real person, even
 - Cropping may hide wide text; fitting may introduce empty margins. Record the actual selected mode and observed result.
 - No universal dB target, fabricated device test, automatic transcript approval or upload/publication occurs.
 
+## Export prerequisites
+
+The optional export command needs Python 3 and FFmpeg with the flite/libflite source, subtitles/ASS rendering, libx264, libvpx and libopus support. The supplied builder assumes the Linux font `/usr/share/fonts/truetype/dejavu/DejaVuSans.ttf` exists. If those prerequisites are unavailable, inspect the supplied corrected clip instead; that is inspection-only practice, not an export you created. Make a duplicate kit before trying any fixture rebuild.
+
 ## Files and rebuilding
 `build_samples.py` consumes existing approved-script.txt and SRT sources without overwriting them. The reproducibility command `python3 build_samples.py --fixture-build --replace-fixtures` intentionally rebuilds the supplied fixture exports; learners should instead use a new --output name to retain originals. The builder also writes equivalent WebM playback copies, ASS rendering source and SHA-bound construction receipts. `inspector-final.html` is the supported functional local browser app, not a screenshot pretending to be third-party software. Its native video controls play an equivalent WebM copy for browsers without H.264 support; the original MP4s remain the inspection targets. The “editable source” tab previews a manual caption correction on the sample; re-export is supplied by the reproducible builder, not falsely claimed as a browser export feature. `verify_samples.py` checks actual media streams, duration and unchanged audio between exports.
 
 Permission: these Academy-authored practice files may be copied, adapted and shared under CC BY 4.0 with attribution to Emmanuel Corels Academy. FFmpeg, browser, operating-system and font software retain their own licences. Synthetic voice output is included solely as a fictional training recording.
 
-The app starts playback reviews at zero. Scripted screenshot spot checks seek explicitly and retain proof; they do not alter the learner defaults. Browser review-table edits persist locally across navigation and can be downloaded as CSV; do not enter private data.
+The app starts playback reviews at zero.  Browser review-table edits persist locally across navigation and can be downloaded as CSV; do not enter private data.
 
 Fixture source generation: `python3 prepare_aligned_fixture.py` explicitly rebuilds synthetic sentence recordings and source captions from approved-script.txt. Caption boundaries derive from native recording frame counts with 0.4-second reading pauses, and the final instruction remains visible through the ending. Run this only when reproducing the training fixture; ordinary caption edits use build_samples.py and preserve those approved inputs.
 
-`inspector.html` is retained byte-for-byte as the original source for earlier reviewed course screenshots. Its six ordinary navigation routes are functional; the internal, undocumented `?state=complete` capture route is unavailable in that archived edition. Use inspector-final.html, which repairs that route, for the exercise. This archival source is not a third-party application imitation.
+`inspector.html` is an older, limited practice interface. Use `inspector-final.html` for the complete exercise.
 
 For automated execution with read-only sources, use `--output-dir WRITABLE_DIRECTORY` on the fixture preparer or exporter and `--report WRITABLE_FILE` on verify_samples.py. Inputs remain in this source directory; ordinary learner exports retain existing files.

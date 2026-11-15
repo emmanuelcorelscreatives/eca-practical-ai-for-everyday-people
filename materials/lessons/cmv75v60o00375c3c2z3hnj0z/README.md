@@ -1,7 +1,7 @@
 # Specify Length, Tone and Format
 Emmanuel Corels Academy · Practical AI for Everyday People · Stage 4 · Lesson 21
 
-This self-created fictional practice kit matches the corrected Community Garden Open Morning source applied through the approved exact source-resolution transaction. It contains no personal data, live event claim or material from a private account. All example prose is an authored teaching artifact, not a claimed new assistant execution. No paid plan, code knowledge or AI account is required for the manual fallback.
+This self-created fictional practice kit uses the Community Garden Open Morning details in fictional-source-notes.txt. It contains no personal data, live event claim or material from a private account. All example prose is an authored teaching artifact, not a claimed new assistant execution. No paid plan, code knowledge or AI account is required for the manual fallback.
 
 1. Open `fictional-source-notes.txt` and copy only these supplied details into a new document you own.
 2. Read `prompt.txt`: identify the destination and measurable length, tone and format constraints.
@@ -12,7 +12,7 @@ This self-created fictional practice kit matches the corrected Community Garden 
 7. Make only the targeted tone replacement demonstrated in `corrected-notice.md`, then recount the body and recheck facts and structure.
 8. Complete `brief-template.md` for another low-risk fictional notice. If no assistant is available, write directly in your editor and use exactly the same checks.
 
-Use `answer-key.md` after your own attempt. It records actual Writer selection counts for the exact supplied native three-bullet bodies and still requires your own editor observation. `verify-kit.py` checks the required file set, notice structure, length range and the exact single bounded edit; its whitespace count is a transparent secondary exercise, not a substitute for your destination editor’s selected-text word count.
+Use `answer-key.md` after your own attempt. It explains the count selection and still requires your own editor observation. `verify-kit.py` checks the required file set, notice structure, length range and the exact single bounded edit; its whitespace count is a transparent secondary exercise, not a substitute for your destination editor’s selected-text word count.
 
 Supply the completed brief, original draft, corrected draft, observed editor counts and checklist as your exercise submission. Do not publish real personal or sensitive notes.
 

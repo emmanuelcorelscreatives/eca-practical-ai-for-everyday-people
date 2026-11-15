@@ -13,7 +13,7 @@ All records are self-authored fictional practice data; no private people or actu
 7. Recheck every number and claim; retain the final update, raw sources, calculations and review checklist together. The practice answer remains a draft requiring human permission before external sharing.
 
 ## Formula compatibility
-The saved visual prompt mentions `COUNTUNIQUE`, a Google Sheets function. Desktop Excel does not implement that function. For Excel 365 use `=ROWS(UNIQUE('Request Register'!B2:B52))`; for the supplied workbook the Checks sheet uses a compatible SUMPRODUCT/COUNTIF uniqueness calculation. This documents a demonstration compatibility issue without changing lecture narration. Do not display a fake COUNTUNIQUE result in Excel.
+`COUNTUNIQUE` is a Google Sheets function. Desktop Excel does not implement that function. For Excel 365 use `=ROWS(UNIQUE('Request Register'!B2:B52))`; for the supplied workbook the Checks sheet uses a compatible SUMPRODUCT/COUNTIF uniqueness calculation. Check the calculation in the application you actually use.
 
 ## Files
 CSV sources, data-dictionary.md, August_Volunteer_Log.csv, Repair_Event_Records.xlsx, assistant-prompt.txt, generated-draft-example.md, reviewed-update.md, review-checklist.md and verify.py. Run `python3 verify.py` in this folder; no packages or network required. The workbook contains source data and formulas with expected cached results; recalculate with your own trusted spreadsheet application. CSV files are portable independently of Excel licensing.

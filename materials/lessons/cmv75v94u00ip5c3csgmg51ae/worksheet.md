@@ -18,7 +18,7 @@ Use Python3, already included on many machines: in this extracted kit folder run
 9. Replace the prefilled worked example in the manual-note field with your own timestamped decision/action/question. The personal-note view is an editable private practice note, not an uploaded recording of a real person.
 
 ## Expected result
-Use answer-key.md and reviewed-summary.md after your attempt. Reviewed summary.pdf is a real rendered PDF of the worked answer. Its content remains a fictional record, never external approval. Source-inspection-notes.json retains limited source-ASR observations and explicit errors; source script/transcript and native timing remain authoritative for this authored fixture. Respect uncertainty rather than polishing it away.
+Use answer-key.md and reviewed-summary.md after your attempt. Reviewed summary.pdf is a real rendered PDF of the worked answer. Its content remains a fictional record, never external approval. Replay the supplied recording, compare it with the transcript and source script, and record your own observations. The limited supplied transcription observations are not a substitute for listening. Respect uncertainty rather than polishing it away.
 
 ## Personal-note comparison fixture
 The app includes a clearly fictional written source note (not a real recording):“Ask Sam about three notebooks for the project. This note is only for me.” Compare its organized result:Name Sam;Quantity three notebooks;Audience Only me. Change the organized quantity to four and run the local fixture check to observe the mismatch, then restore three. The fixture checker uses these authored values; it is not a speech recognizer or an AI service. Never treat the meeting recording as this personal note.
